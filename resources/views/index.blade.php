@@ -27,7 +27,7 @@
           <div class="cs_main_header_in">
             <div class="cs_main_header_left">
               <a class="cs_site_branding" href="{{ url('index') }}">
-                <img src="{{ asset('assets/img/logo.svg') }}" alt="Logo">
+                <img src="{{ secure_asset('assets/img/logo.svg') }}" alt="Logo">
               </a>
               <div class="cs_nav cs_primary_font fw-medium">
                 <ul class="cs_nav_list fw-medium text-uppercase">
@@ -119,8 +119,8 @@
           <div class="swiper-wrapper">
             <div class="swiper-slide">
               <div class="cs_hero cs_style_1 d-flex align-items-center justify-content-center background-filled position-relative overflow-hidden">
-                <figure class="cs_swiper_parallax_bg" data-src="{{ asset('assets/img/hero_slider_1.jpeg') }}">
-                  <img src="{{ asset('assets/img/hero_slider_1.jpeg') }}" alt="Slider" class="cs_entity_img">
+                <figure class="cs_swiper_parallax_bg" data-src="{{ secure_asset('assets/img/hero_slider_1.jpeg') }}">
+                  <img src="{{ secure_asset('assets/img/hero_slider_1.jpeg') }}" alt="Slider" class="cs_entity_img">
                   <div class="bg-primary opacity-75 position-absolute w-100 h-100 start-0 top-0"></div>
                 </figure>
                 <div class="container">
@@ -141,8 +141,8 @@
             </div>
             <div class="swiper-slide">
               <div class="cs_hero cs_style_1 d-flex align-items-center justify-content-center background-filled position-relative overflow-hidden">
-                <figure class="cs_swiper_parallax_bg" data-src="{{ asset('assets/img/hero_slider_2.jpeg') }}">
-                  <img src="{{ asset('assets/img/hero_slider_2.jpeg') }}" alt="Slider" class="cs_entity_img">
+                <figure class="cs_swiper_parallax_bg" data-src="{{ secure_asset('assets/img/hero_slider_2.jpeg') }}">
+                  <img src="{{ secure_asset('assets/img/hero_slider_2.jpeg') }}" alt="Slider" class="cs_entity_img">
                   <div class="bg-primary opacity-75 position-absolute w-100 h-100 start-0 top-0"></div>
                 </figure>
                 <div class="container">
@@ -163,8 +163,8 @@
             </div>
             <div class="swiper-slide">
               <div class="cs_hero cs_style_1 d-flex align-items-center justify-content-center background-filled position-relative overflow-hidden">
-                <figure class="cs_swiper_parallax_bg" data-src="{{ asset('assets/img/hero_slider_3.jpeg') }}">
-                  <img src="{{ asset('assets/img/hero_slider_3.jpeg') }}" alt="Slider" class="cs_entity_img">
+                <figure class="cs_swiper_parallax_bg" data-src="{{ secure_asset('assets/img/hero_slider_3.jpeg') }}">
+                  <img src="{{ secure_asset('assets/img/hero_slider_3.jpeg') }}" alt="Slider" class="cs_entity_img">
                   <div class="bg-primary opacity-75 position-absolute w-100 h-100 start-0 top-0"></div>
                 </figure>
                 <div class="container">
@@ -234,7 +234,7 @@
     <!-- End Hero -->
 
     <!-- Animated Text -->
-    <div class="cs_moving_wrap background-filled text-uppercase text-white d-flex align-items-center" data-src="{{ asset('assets/img/moving_text_shape.png') }}">
+    <div class="cs_moving_wrap background-filled text-uppercase text-white d-flex align-items-center" data-src="{{ secure_asset('assets/img/moving_text_shape.png') }}">
       <div class="cs_moving_text cs_fs_30 cs_fs_lg_26 d-flex align-items-center text-nowrap">
         <span>* Creative Business & Finance</span>
         <span>* Business Inspired Template</span>
@@ -257,7 +257,7 @@
     <!-- End Animated Text -->
 
     <!-- Start Service Section -->
-    <section class="background-filled cs_pt_133 cs_pt_lg_75 cs_pb_140 cs_pb_lg_80 cs_gray_bg" data-src="{{ asset('assets/img/services_bg.png') }}">
+    <section class="background-filled cs_pt_133 cs_pt_lg_75 cs_pb_140 cs_pb_lg_80 cs_gray_bg" data-src="{{ secure_asset('assets/img/services_bg.png') }}">
       <div class="container">
         <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_60 cs_mb_lg_40 cs_column_gap_15 cs_row_gap_15">
           <div class="cs_section_heading_in">
@@ -294,7 +294,7 @@
                     <path d="M20.8491 11.347C20.855 11.3381 20.8602 11.3289 20.8656 11.3198C20.8706 11.3114 20.8759 11.3032 20.8805 11.2946C20.8855 11.2853 20.8897 11.2757 20.8942 11.2663C20.8984 11.2573 20.9029 11.2484 20.9067 11.2392C20.9105 11.23 20.9136 11.2206 20.9169 11.2113C20.9205 11.2014 20.9243 11.1916 20.9274 11.1814C20.9302 11.1721 20.9322 11.1626 20.9346 11.1532C20.9372 11.1429 20.9401 11.1327 20.9422 11.1222C20.9444 11.1113 20.9456 11.1003 20.9472 11.0894C20.9485 11.0801 20.9503 11.0711 20.9512 11.0617C20.9532 11.0415 20.9543 11.0213 20.9543 11.001C20.9543 11.0007 20.9543 11.0004 20.9543 11.0001C20.9543 10.9998 20.9543 10.9994 20.9543 10.9991C20.9542 10.9789 20.9532 10.9586 20.9512 10.9384C20.9503 10.929 20.9485 10.92 20.9472 10.9108C20.9456 10.8998 20.9444 10.8888 20.9422 10.8779C20.9401 10.8674 20.9372 10.8572 20.9346 10.8469C20.9322 10.8375 20.9302 10.828 20.9274 10.8187C20.9243 10.8086 20.9205 10.7988 20.9169 10.7889C20.9136 10.7795 20.9105 10.7701 20.9067 10.7609C20.9029 10.7517 20.8984 10.7428 20.8941 10.7338C20.8897 10.7244 20.8855 10.7148 20.8805 10.7055C20.8759 10.6969 20.8706 10.6887 20.8656 10.6803C20.8602 10.6712 20.855 10.662 20.8491 10.6531C20.8428 10.6438 20.8359 10.635 20.8292 10.6261C20.8237 10.6187 20.8186 10.6112 20.8127 10.604C20.7996 10.588 20.7858 10.5727 20.7713 10.5581L15.026 4.81285C14.7819 4.56877 14.3862 4.56877 14.1421 4.81285C13.898 5.05692 13.898 5.45264 14.1421 5.69672L18.8204 10.375L0.88388 10.375C0.53871 10.375 0.258878 10.6548 0.258878 11C0.258878 11.3452 0.53871 11.625 0.88388 11.625L18.8204 11.625L14.1421 16.3033C13.8981 16.5474 13.8981 16.9431 14.1421 17.1872C14.3862 17.4312 14.7819 17.4313 15.026 17.1872L20.7713 11.442C20.7858 11.4274 20.7996 11.4121 20.8127 11.3962C20.8186 11.389 20.8237 11.3814 20.8292 11.374C20.8359 11.3651 20.8428 11.3563 20.8491 11.347Z" fill="currentColor"/>
                   </svg>                    
                 </a>
-                <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="{{ asset('assets/img/service_1.jpeg') }}"></div>
+                <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="{{ secure_asset('assets/img/service_1.jpeg') }}"></div>
               </div>
             </div>
           </div>
@@ -327,7 +327,7 @@
                     <path d="M20.8491 11.347C20.855 11.3381 20.8602 11.3289 20.8656 11.3198C20.8706 11.3114 20.8759 11.3032 20.8805 11.2946C20.8855 11.2853 20.8897 11.2757 20.8942 11.2663C20.8984 11.2573 20.9029 11.2484 20.9067 11.2392C20.9105 11.23 20.9136 11.2206 20.9169 11.2113C20.9205 11.2014 20.9243 11.1916 20.9274 11.1814C20.9302 11.1721 20.9322 11.1626 20.9346 11.1532C20.9372 11.1429 20.9401 11.1327 20.9422 11.1222C20.9444 11.1113 20.9456 11.1003 20.9472 11.0894C20.9485 11.0801 20.9503 11.0711 20.9512 11.0617C20.9532 11.0415 20.9543 11.0213 20.9543 11.001C20.9543 11.0007 20.9543 11.0004 20.9543 11.0001C20.9543 10.9998 20.9543 10.9994 20.9543 10.9991C20.9542 10.9789 20.9532 10.9586 20.9512 10.9384C20.9503 10.929 20.9485 10.92 20.9472 10.9108C20.9456 10.8998 20.9444 10.8888 20.9422 10.8779C20.9401 10.8674 20.9372 10.8572 20.9346 10.8469C20.9322 10.8375 20.9302 10.828 20.9274 10.8187C20.9243 10.8086 20.9205 10.7988 20.9169 10.7889C20.9136 10.7795 20.9105 10.7701 20.9067 10.7609C20.9029 10.7517 20.8984 10.7428 20.8941 10.7338C20.8897 10.7244 20.8855 10.7148 20.8805 10.7055C20.8759 10.6969 20.8706 10.6887 20.8656 10.6803C20.8602 10.6712 20.855 10.662 20.8491 10.6531C20.8428 10.6438 20.8359 10.635 20.8292 10.6261C20.8237 10.6187 20.8186 10.6112 20.8127 10.604C20.7996 10.588 20.7858 10.5727 20.7713 10.5581L15.026 4.81285C14.7819 4.56877 14.3862 4.56877 14.1421 4.81285C13.898 5.05692 13.898 5.45264 14.1421 5.69672L18.8204 10.375L0.88388 10.375C0.53871 10.375 0.258878 10.6548 0.258878 11C0.258878 11.3452 0.53871 11.625 0.88388 11.625L18.8204 11.625L14.1421 16.3033C13.8981 16.5474 13.8981 16.9431 14.1421 17.1872C14.3862 17.4312 14.7819 17.4313 15.026 17.1872L20.7713 11.442C20.7858 11.4274 20.7996 11.4121 20.8127 11.3962C20.8186 11.389 20.8237 11.3814 20.8292 11.374C20.8359 11.3651 20.8428 11.3563 20.8491 11.347Z" fill="currentColor"/>
                   </svg>                    
                 </a>
-                <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="{{ asset('assets/img/service_2.jpeg') }}"></div>
+                <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="{{ secure_asset('assets/img/service_2.jpeg') }}"></div>
               </div>
             </div>
           </div>
@@ -357,7 +357,7 @@
                     <path d="M20.8491 11.347C20.855 11.3381 20.8602 11.3289 20.8656 11.3198C20.8706 11.3114 20.8759 11.3032 20.8805 11.2946C20.8855 11.2853 20.8897 11.2757 20.8942 11.2663C20.8984 11.2573 20.9029 11.2484 20.9067 11.2392C20.9105 11.23 20.9136 11.2206 20.9169 11.2113C20.9205 11.2014 20.9243 11.1916 20.9274 11.1814C20.9302 11.1721 20.9322 11.1626 20.9346 11.1532C20.9372 11.1429 20.9401 11.1327 20.9422 11.1222C20.9444 11.1113 20.9456 11.1003 20.9472 11.0894C20.9485 11.0801 20.9503 11.0711 20.9512 11.0617C20.9532 11.0415 20.9543 11.0213 20.9543 11.001C20.9543 11.0007 20.9543 11.0004 20.9543 11.0001C20.9543 10.9998 20.9543 10.9994 20.9543 10.9991C20.9542 10.9789 20.9532 10.9586 20.9512 10.9384C20.9503 10.929 20.9485 10.92 20.9472 10.9108C20.9456 10.8998 20.9444 10.8888 20.9422 10.8779C20.9401 10.8674 20.9372 10.8572 20.9346 10.8469C20.9322 10.8375 20.9302 10.828 20.9274 10.8187C20.9243 10.8086 20.9205 10.7988 20.9169 10.7889C20.9136 10.7795 20.9105 10.7701 20.9067 10.7609C20.9029 10.7517 20.8984 10.7428 20.8941 10.7338C20.8897 10.7244 20.8855 10.7148 20.8805 10.7055C20.8759 10.6969 20.8706 10.6887 20.8656 10.6803C20.8602 10.6712 20.855 10.662 20.8491 10.6531C20.8428 10.6438 20.8359 10.635 20.8292 10.6261C20.8237 10.6187 20.8186 10.6112 20.8127 10.604C20.7996 10.588 20.7858 10.5727 20.7713 10.5581L15.026 4.81285C14.7819 4.56877 14.3862 4.56877 14.1421 4.81285C13.898 5.05692 13.898 5.45264 14.1421 5.69672L18.8204 10.375L0.88388 10.375C0.53871 10.375 0.258878 10.6548 0.258878 11C0.258878 11.3452 0.53871 11.625 0.88388 11.625L18.8204 11.625L14.1421 16.3033C13.8981 16.5474 13.8981 16.9431 14.1421 17.1872C14.3862 17.4312 14.7819 17.4313 15.026 17.1872L20.7713 11.442C20.7858 11.4274 20.7996 11.4121 20.8127 11.3962C20.8186 11.389 20.8237 11.3814 20.8292 11.374C20.8359 11.3651 20.8428 11.3563 20.8491 11.347Z" fill="currentColor"/>
                   </svg>                    
                 </a>
-                <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="{{ asset('assets/img/service_3.jpeg') }}"></div>
+                <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="{{ secure_asset('assets/img/service_3.jpeg') }}"></div>
               </div>
             </div>
           </div>
@@ -380,7 +380,7 @@
                     <path d="M20.8491 11.347C20.855 11.3381 20.8602 11.3289 20.8656 11.3198C20.8706 11.3114 20.8759 11.3032 20.8805 11.2946C20.8855 11.2853 20.8897 11.2757 20.8942 11.2663C20.8984 11.2573 20.9029 11.2484 20.9067 11.2392C20.9105 11.23 20.9136 11.2206 20.9169 11.2113C20.9205 11.2014 20.9243 11.1916 20.9274 11.1814C20.9302 11.1721 20.9322 11.1626 20.9346 11.1532C20.9372 11.1429 20.9401 11.1327 20.9422 11.1222C20.9444 11.1113 20.9456 11.1003 20.9472 11.0894C20.9485 11.0801 20.9503 11.0711 20.9512 11.0617C20.9532 11.0415 20.9543 11.0213 20.9543 11.001C20.9543 11.0007 20.9543 11.0004 20.9543 11.0001C20.9543 10.9998 20.9543 10.9994 20.9543 10.9991C20.9542 10.9789 20.9532 10.9586 20.9512 10.9384C20.9503 10.929 20.9485 10.92 20.9472 10.9108C20.9456 10.8998 20.9444 10.8888 20.9422 10.8779C20.9401 10.8674 20.9372 10.8572 20.9346 10.8469C20.9322 10.8375 20.9302 10.828 20.9274 10.8187C20.9243 10.8086 20.9205 10.7988 20.9169 10.7889C20.9136 10.7795 20.9105 10.7701 20.9067 10.7609C20.9029 10.7517 20.8984 10.7428 20.8941 10.7338C20.8897 10.7244 20.8855 10.7148 20.8805 10.7055C20.8759 10.6969 20.8706 10.6887 20.8656 10.6803C20.8602 10.6712 20.855 10.662 20.8491 10.6531C20.8428 10.6438 20.8359 10.635 20.8292 10.6261C20.8237 10.6187 20.8186 10.6112 20.8127 10.604C20.7996 10.588 20.7858 10.5727 20.7713 10.5581L15.026 4.81285C14.7819 4.56877 14.3862 4.56877 14.1421 4.81285C13.898 5.05692 13.898 5.45264 14.1421 5.69672L18.8204 10.375L0.88388 10.375C0.53871 10.375 0.258878 10.6548 0.258878 11C0.258878 11.3452 0.53871 11.625 0.88388 11.625L18.8204 11.625L14.1421 16.3033C13.8981 16.5474 13.8981 16.9431 14.1421 17.1872C14.3862 17.4312 14.7819 17.4313 15.026 17.1872L20.7713 11.442C20.7858 11.4274 20.7996 11.4121 20.8127 11.3962C20.8186 11.389 20.8237 11.3814 20.8292 11.374C20.8359 11.3651 20.8428 11.3563 20.8491 11.347Z" fill="currentColor"/>
                   </svg>                    
                 </a>
-                <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="{{ asset('assets/img/service_4.jpeg') }}"></div>
+                <div class="cs_service_thumb-in position-relative-in background-filled h-100" data-src="{{ secure_asset('assets/img/service_4.jpeg') }}"></div>
               </div>
             </div>
           </div>
@@ -400,11 +400,11 @@
           <div class="col-lg-6 cs_mb_lg_55">
             <div class="cs_experience cs_style_1 position-relative">
               <div class="cs_experience_thumb">
-                <img src="{{ asset('assets/img/experience_img.jpeg') }}" alt="Thumb" class="position-relative cs_zindex_3 cs_rounded_15">
-                <div class="cs_experience_shape"><img src="{{ asset('assets/img/experience_shape_1.png') }}" alt="Shape" class="moving_x"></div>
+                <img src="{{ secure_asset('assets/img/experience_img.jpeg') }}" alt="Thumb" class="position-relative cs_zindex_3 cs_rounded_15">
+                <div class="cs_experience_shape"><img src="{{ secure_asset('assets/img/experience_shape_1.png') }}" alt="Shape" class="moving_x"></div>
               </div>
-              <div class="cs_experience_box background-filled text-center bg-white cs_rounded_10 position-absolute bottom-0 end-0 cs_zindex_3 d-flex flex-column justify-content-center align-items-center" data-src="{{ asset('assets/img/experience_bg.jpeg') }}">
-                <img src="{{ asset('assets/img/experience_icon.svg') }}" alt="Icon" class="cs_mb_5">
+              <div class="cs_experience_box background-filled text-center bg-white cs_rounded_10 position-absolute bottom-0 end-0 cs_zindex_3 d-flex flex-column justify-content-center align-items-center" data-src="{{ secure_asset('assets/img/experience_bg.jpeg') }}">
+                <img src="{{ secure_asset('assets/img/experience_icon.svg') }}" alt="Icon" class="cs_mb_5">
                 <h3 class="text-white cs_fs_60 cs_fs_lg_46 fw-bold lh_1 mb-0 d-flex justify-content-between">
                   <span data-count-to="40" class="odometer"></span>
                   <span class="fw-light">+</span>
@@ -503,56 +503,56 @@
           <div class="cs_slide">
             <div class="cs_portfolio cs_style_1 position-relative overflow-hidden">
               <a href="{{ url('project-details') }}" class="cs_portfolio_overlay cs_transition_4 position-absolute h-100 w-100 start-0 top-0 cs_zindex_1 d-block"></a>
-              <div class="cs_portfolio_thumb d-block h-100 w-100 background-filled cs_transition_6" data-src="{{ asset('assets/img/portfolio_1.jpeg') }}"></div>
+              <div class="cs_portfolio_thumb d-block h-100 w-100 background-filled cs_transition_6" data-src="{{ secure_asset('assets/img/portfolio_1.jpeg') }}"></div>
               <h3 class="cs_portfolio_title m-0 cs_fs_26 text-white cs_pl_50 cs_pb_45 cs_mr_50 position-relative cs_zindex_4 position-absolute start-0 bottom-0 w-100 cs_transition_4"><a href="{{ url('project-details') }}">Marketing Webdesign</a></h3>
             </div>
           </div>
           <div class="cs_slide">
             <div class="cs_portfolio cs_style_1 position-relative overflow-hidden">
               <a href="{{ url('project-details') }}" class="cs_portfolio_overlay cs_transition_4 position-absolute h-100 w-100 start-0 top-0 cs_zindex_1 d-block"></a>
-              <div class="cs_portfolio_thumb d-block h-100 w-100 background-filled cs_transition_6" data-src="{{ asset('assets/img/portfolio_2.jpeg') }}"></div>
+              <div class="cs_portfolio_thumb d-block h-100 w-100 background-filled cs_transition_6" data-src="{{ secure_asset('assets/img/portfolio_2.jpeg') }}"></div>
               <h3 class="cs_portfolio_title m-0 cs_fs_26 text-white cs_pl_50 cs_pb_45 cs_mr_50 position-relative cs_zindex_4 position-absolute start-0 bottom-0 w-100 cs_transition_4"><a href="{{ url('project-details') }}">Marketing Webdesign</a></h3>
             </div>
           </div>
           <div class="cs_slide">
             <div class="cs_portfolio cs_style_1 position-relative overflow-hidden">
               <a href="{{ url('project-details') }}" class="cs_portfolio_overlay cs_transition_4 position-absolute h-100 w-100 start-0 top-0 cs_zindex_1 d-block"></a>
-              <div class="cs_portfolio_thumb d-block h-100 w-100 background-filled cs_transition_6" data-src="{{ asset('assets/img/portfolio_3.jpeg') }}"></div>
+              <div class="cs_portfolio_thumb d-block h-100 w-100 background-filled cs_transition_6" data-src="{{ secure_asset('assets/img/portfolio_3.jpeg') }}"></div>
               <h3 class="cs_portfolio_title m-0 cs_fs_26 text-white cs_pl_50 cs_pb_45 cs_mr_50 position-relative cs_zindex_4 position-absolute start-0 bottom-0 w-100 cs_transition_4"><a href="{{ url('project-details') }}">Marketing Webdesign</a></h3>
             </div>
           </div>
           <div class="cs_slide">
             <div class="cs_portfolio cs_style_1 position-relative overflow-hidden">
               <a href="{{ url('project-details') }}" class="cs_portfolio_overlay cs_transition_4 position-absolute h-100 w-100 start-0 top-0 cs_zindex_1 d-block"></a>
-              <div class="cs_portfolio_thumb d-block h-100 w-100 background-filled cs_transition_6" data-src="{{ asset('assets/img/portfolio_4.jpeg') }}"></div>
+              <div class="cs_portfolio_thumb d-block h-100 w-100 background-filled cs_transition_6" data-src="{{ secure_asset('assets/img/portfolio_4.jpeg') }}"></div>
               <h3 class="cs_portfolio_title m-0 cs_fs_26 text-white cs_pl_50 cs_pb_45 cs_mr_50 position-relative cs_zindex_4 position-absolute start-0 bottom-0 w-100 cs_transition_4"><a href="{{ url('project-details') }}">Marketing Webdesign</a></h3>
             </div>
           </div>
           <div class="cs_slide">
             <div class="cs_portfolio cs_style_1 position-relative overflow-hidden">
               <a href="{{ url('project-details') }}" class="cs_portfolio_overlay cs_transition_4 position-absolute h-100 w-100 start-0 top-0 cs_zindex_1 d-block"></a>
-              <div class="cs_portfolio_thumb d-block h-100 w-100 background-filled cs_transition_6" data-src="{{ asset('assets/img/portfolio_1.jpeg') }}"></div>
+              <div class="cs_portfolio_thumb d-block h-100 w-100 background-filled cs_transition_6" data-src="{{ secure_asset('assets/img/portfolio_1.jpeg') }}"></div>
               <h3 class="cs_portfolio_title m-0 cs_fs_26 text-white cs_pl_50 cs_pb_45 cs_mr_50 position-relative cs_zindex_4 position-absolute start-0 bottom-0 w-100 cs_transition_4"><a href="{{ url('project-details') }}">Marketing Webdesign</a></h3>
             </div>
           </div>
           <div class="cs_slide">
             <div class="cs_portfolio cs_style_1 position-relative overflow-hidden">
               <a href="{{ url('project-details') }}" class="cs_portfolio_overlay cs_transition_4 position-absolute h-100 w-100 start-0 top-0 cs_zindex_1 d-block"></a>
-              <div class="cs_portfolio_thumb d-block h-100 w-100 background-filled cs_transition_6" data-src="{{ asset('assets/img/portfolio_2.jpeg') }}"></div>
+              <div class="cs_portfolio_thumb d-block h-100 w-100 background-filled cs_transition_6" data-src="{{ secure_asset('assets/img/portfolio_2.jpeg') }}"></div>
               <h3 class="cs_portfolio_title m-0 cs_fs_26 text-white cs_pl_50 cs_pb_45 cs_mr_50 position-relative cs_zindex_4 position-absolute start-0 bottom-0 w-100 cs_transition_4"><a href="{{ url('project-details') }}">Marketing Webdesign</a></h3>
             </div>
           </div>
           <div class="cs_slide">
             <div class="cs_portfolio cs_style_1 position-relative overflow-hidden">
               <a href="{{ url('project-details') }}" class="cs_portfolio_overlay cs_transition_4 position-absolute h-100 w-100 start-0 top-0 cs_zindex_1 d-block"></a>
-              <div class="cs_portfolio_thumb d-block h-100 w-100 background-filled cs_transition_6" data-src="{{ asset('assets/img/portfolio_3.jpeg') }}"></div>
+              <div class="cs_portfolio_thumb d-block h-100 w-100 background-filled cs_transition_6" data-src="{{ secure_asset('assets/img/portfolio_3.jpeg') }}"></div>
               <h3 class="cs_portfolio_title m-0 cs_fs_26 text-white cs_pl_50 cs_pb_45 cs_mr_50 position-relative cs_zindex_4 position-absolute start-0 bottom-0 w-100 cs_transition_4"><a href="{{ url('project-details') }}">Marketing Webdesign</a></h3>
             </div>
           </div>
           <div class="cs_slide">
             <div class="cs_portfolio cs_style_1 position-relative overflow-hidden">
               <a href="{{ url('project-details') }}" class="cs_portfolio_overlay cs_transition_4 position-absolute h-100 w-100 start-0 top-0 cs_zindex_1 d-block"></a>
-              <div class="cs_portfolio_thumb d-block h-100 w-100 background-filled cs_transition_6" data-src="{{ asset('assets/img/portfolio_4.jpeg') }}"></div>
+              <div class="cs_portfolio_thumb d-block h-100 w-100 background-filled cs_transition_6" data-src="{{ secure_asset('assets/img/portfolio_4.jpeg') }}"></div>
               <h3 class="cs_portfolio_title m-0 cs_fs_26 text-white cs_pl_50 cs_pb_45 cs_mr_50 position-relative cs_zindex_4 position-absolute start-0 bottom-0 w-100 cs_transition_4"><a href="{{ url('project-details') }}">Marketing Webdesign</a></h3>
             </div>
           </div>
@@ -661,8 +661,8 @@
           <div class="col-xl-6"></div>
         </div>
       </div>
-      <div class="cs_iconbox_left-img position-absolute bottom-0 start-0 h-100 background-filled" data-src="{{ asset('assets/img/why_choose_us_left_img.jpeg') }}"></div>
-      <div class="cs_iconbox_right-img position-absolute cs_zindex_1 bottom-0 end-0 background-filled" data-src="{{ asset('assets/img/why_choose_us_right_img.jpeg') }}"></div>
+      <div class="cs_iconbox_left-img position-absolute bottom-0 start-0 h-100 background-filled" data-src="{{ secure_asset('assets/img/why_choose_us_left_img.jpeg') }}"></div>
+      <div class="cs_iconbox_right-img position-absolute cs_zindex_1 bottom-0 end-0 background-filled" data-src="{{ secure_asset('assets/img/why_choose_us_right_img.jpeg') }}"></div>
       <div class="cs_iconbox_logo position-absolute semi_rotate">
         <svg width="191" height="197" viewBox="0 0 191 197" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M100.397 107.26C113.305 117.648 127.237 124.564 139.602 126.736C139.678 126.749 139.75 126.756 139.825 126.77L155.856 32.5327C156.421 29.2004 153.306 26.3917 150.454 27.6622L68.5886 64.126C72.5569 77.7763 84.1472 94.1815 100.397 107.26Z" fill="#888888" fill-opacity="0.2"/>
@@ -674,7 +674,7 @@
     <!-- End Why Choose Us -->
 
     <!-- Start Testimonial Section -->
-    <section class="background-filled cs_pt_140 cs_pt_lg_75 cs_pb_135 cs_pb_lg_75" data-src="{{ asset('assets/img/testimonial_bg.jpeg') }}">
+    <section class="background-filled cs_pt_140 cs_pt_lg_75 cs_pb_135 cs_pb_lg_75" data-src="{{ secure_asset('assets/img/testimonial_bg.jpeg') }}">
       <div class="cs_testimonial_slider cs_gap_30">
         <div class="container">
           <div class="row">
@@ -706,7 +706,7 @@
                 <div class="cs_slide">
                   <div class="cs_testimonial cs_style_1 cs_pt_20">
                     <div class="cs_testimonial_in bg-white shadow-sm cs_pl_30 cs_pr_30 cs_pb_27 cs_pt_1 cs_rounded_10">
-                      <div class="cs_testimonial_img cs_mb_15"><img src="{{ asset('assets/img/avatar_1.png') }}" alt="Avatar" class="cs_height_75 cs_width_75 rounded-circle"></div>
+                      <div class="cs_testimonial_img cs_mb_15"><img src="{{ secure_asset('assets/img/avatar_1.png') }}" alt="Avatar" class="cs_height_75 cs_width_75 rounded-circle"></div>
                       <div class="cs_rating text-accent cs_mb_15" data-rating="4.5">
                         <div class="cs_rating_percentage"></div>
                       </div>
@@ -719,7 +719,7 @@
                 <div class="cs_slide">
                   <div class="cs_testimonial cs_style_1 cs_pt_20">
                     <div class="cs_testimonial_in bg-white shadow-sm cs_pl_30 cs_pr_30 cs_pb_27 cs_pt_1 cs_rounded_10">
-                      <div class="cs_testimonial_img cs_mb_15"><img src="{{ asset('assets/img/avatar_2.png') }}" alt="Avatar" class="cs_height_75 cs_width_75 rounded-circle"></div>
+                      <div class="cs_testimonial_img cs_mb_15"><img src="{{ secure_asset('assets/img/avatar_2.png') }}" alt="Avatar" class="cs_height_75 cs_width_75 rounded-circle"></div>
                       <div class="cs_rating text-accent cs_mb_15" data-rating="5">
                         <div class="cs_rating_percentage"></div>
                       </div>
@@ -732,7 +732,7 @@
                 <div class="cs_slide">
                   <div class="cs_testimonial cs_style_1 cs_pt_20">
                     <div class="cs_testimonial_in bg-white shadow-sm cs_pl_30 cs_pr_30 cs_pb_27 cs_pt_1 cs_rounded_10">
-                      <div class="cs_testimonial_img cs_mb_15"><img src="{{ asset('assets/img/avatar_3.png') }}" alt="Avatar" class="cs_height_75 cs_width_75 rounded-circle"></div>
+                      <div class="cs_testimonial_img cs_mb_15"><img src="{{ secure_asset('assets/img/avatar_3.png') }}" alt="Avatar" class="cs_height_75 cs_width_75 rounded-circle"></div>
                       <div class="cs_rating text-accent cs_mb_15" data-rating="4">
                         <div class="cs_rating_percentage"></div>
                       </div>
@@ -745,7 +745,7 @@
                 <div class="cs_slide">
                   <div class="cs_testimonial cs_style_1 cs_pt_20">
                     <div class="cs_testimonial_in bg-white shadow-sm cs_pl_30 cs_pr_30 cs_pb_27 cs_pt_1 cs_rounded_10">
-                      <div class="cs_testimonial_img cs_mb_15"><img src="{{ asset('assets/img/avatar_4.png') }}" alt="Avatar" class="cs_height_75 cs_width_75 rounded-circle"></div>
+                      <div class="cs_testimonial_img cs_mb_15"><img src="{{ secure_asset('assets/img/avatar_4.png') }}" alt="Avatar" class="cs_height_75 cs_width_75 rounded-circle"></div>
                       <div class="cs_rating text-accent cs_mb_15" data-rating="5">
                         <div class="cs_rating_percentage"></div>
                       </div>
@@ -758,7 +758,7 @@
                 <div class="cs_slide">
                   <div class="cs_testimonial cs_style_1 cs_pt_20">
                     <div class="cs_testimonial_in bg-white shadow-sm cs_pl_30 cs_pr_30 cs_pb_27 cs_pt_1 cs_rounded_10">
-                      <div class="cs_testimonial_img cs_mb_15"><img src="{{ asset('assets/img/avatar_1.png') }}" alt="Avatar" class="cs_height_75 cs_width_75 rounded-circle"></div>
+                      <div class="cs_testimonial_img cs_mb_15"><img src="{{ secure_asset('assets/img/avatar_1.png') }}" alt="Avatar" class="cs_height_75 cs_width_75 rounded-circle"></div>
                       <div class="cs_rating text-accent cs_mb_15" data-rating="4.5">
                         <div class="cs_rating_percentage"></div>
                       </div>
@@ -771,7 +771,7 @@
                 <div class="cs_slide">
                   <div class="cs_testimonial cs_style_1 cs_pt_20">
                     <div class="cs_testimonial_in bg-white shadow-sm cs_pl_30 cs_pr_30 cs_pb_27 cs_pt_1 cs_rounded_10">
-                      <div class="cs_testimonial_img cs_mb_15"><img src="{{ asset('assets/img/avatar_2.png') }}" alt="Avatar" class="cs_height_75 cs_width_75 rounded-circle"></div>
+                      <div class="cs_testimonial_img cs_mb_15"><img src="{{ secure_asset('assets/img/avatar_2.png') }}" alt="Avatar" class="cs_height_75 cs_width_75 rounded-circle"></div>
                       <div class="cs_rating text-accent cs_mb_15" data-rating="5">
                         <div class="cs_rating_percentage"></div>
                       </div>
@@ -784,7 +784,7 @@
                 <div class="cs_slide">
                   <div class="cs_testimonial cs_style_1 cs_pt_20">
                     <div class="cs_testimonial_in bg-white shadow-sm cs_pl_30 cs_pr_30 cs_pb_27 cs_pt_1 cs_rounded_10">
-                      <div class="cs_testimonial_img cs_mb_15"><img src="{{ asset('assets/img/avatar_3.png') }}" alt="Avatar" class="cs_height_75 cs_width_75 rounded-circle"></div>
+                      <div class="cs_testimonial_img cs_mb_15"><img src="{{ secure_asset('assets/img/avatar_3.png') }}" alt="Avatar" class="cs_height_75 cs_width_75 rounded-circle"></div>
                       <div class="cs_rating text-accent cs_mb_15" data-rating="4">
                         <div class="cs_rating_percentage"></div>
                       </div>
@@ -797,7 +797,7 @@
                 <div class="cs_slide">
                   <div class="cs_testimonial cs_style_1 cs_pt_20">
                     <div class="cs_testimonial_in bg-white shadow-sm cs_pl_30 cs_pr_30 cs_pb_27 cs_pt_1 cs_rounded_10">
-                      <div class="cs_testimonial_img cs_mb_15"><img src="{{ asset('assets/img/avatar_4.png') }}" alt="Avatar" class="cs_height_75 cs_width_75 rounded-circle"></div>
+                      <div class="cs_testimonial_img cs_mb_15"><img src="{{ secure_asset('assets/img/avatar_4.png') }}" alt="Avatar" class="cs_height_75 cs_width_75 rounded-circle"></div>
                       <div class="cs_rating text-accent cs_mb_15" data-rating="5">
                         <div class="cs_rating_percentage"></div>
                       </div>
@@ -828,7 +828,7 @@
           <div class="col-lg-4">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
-                <img class="w-100 cs_rounded_50" src="{{ asset('assets/img/team_member_1.jpeg') }}" alt="Member">
+                <img class="w-100 cs_rounded_50" src="{{ secure_asset('assets/img/team_member_1.jpeg') }}" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
                   <a href="#" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_45 border-0 text-white rounded-circle"><i class="fa-brands fa-facebook-f"></i></a>
                   <a href="#" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_45 border-0 text-white rounded-circle"><i class="fa-brands fa-twitter"></i></a>
@@ -844,7 +844,7 @@
           <div class="col-lg-4">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
-                <img class="w-100 cs_rounded_50" src="{{ asset('assets/img/team_member_2.jpeg') }}" alt="Member">
+                <img class="w-100 cs_rounded_50" src="{{ secure_asset('assets/img/team_member_2.jpeg') }}" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
                   <a href="#" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_45 border-0 text-white rounded-circle"><i class="fa-brands fa-facebook-f"></i></a>
                   <a href="#" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_45 border-0 text-white rounded-circle"><i class="fa-brands fa-twitter"></i></a>
@@ -860,7 +860,7 @@
           <div class="col-lg-4">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
-                <img class="w-100 cs_rounded_50" src="{{ asset('assets/img/team_member_3.jpeg') }}" alt="Member">
+                <img class="w-100 cs_rounded_50" src="{{ secure_asset('assets/img/team_member_3.jpeg') }}" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
                   <a href="#" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_45 border-0 text-white rounded-circle"><i class="fa-brands fa-facebook-f"></i></a>
                   <a href="#" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_45 border-0 text-white rounded-circle"><i class="fa-brands fa-twitter"></i></a>
@@ -879,7 +879,7 @@
     <!-- End Team Section -->
 
     <!-- Start Contact Section  -->
-    <section class="background-filled overflow-hidden cs_pt_133 cs_pt_lg_75 cs_pb_140 cs_pb_lg_80" data-src="{{ asset('assets/img/cta_bg.jpeg') }}">
+    <section class="background-filled overflow-hidden cs_pt_133 cs_pt_lg_75 cs_pb_140 cs_pb_lg_80" data-src="{{ secure_asset('assets/img/cta_bg.jpeg') }}">
       <div class="container">
         <div class="row align-items-center">
           <div class="col-xl-5 col-lg-6">
@@ -929,7 +929,7 @@
           </div>
           <div class="col-xl-5 col-lg-6 offset-xl-1 cs_mt_lg_55">
             <div class="cs_contact_wrap position-relative">
-              <form action="#" class="cs_contact_form bg-white cs_pt_64 cs_pl_80 cs_pr_80 cs_pb_80 cs_pl_lg_30 cs_pr_lg_30 position-relative cs_rounded_20" data-src="{{ asset('assets/img/contact_bg_pattern.svg') }}">
+              <form action="#" class="cs_contact_form bg-white cs_pt_64 cs_pl_80 cs_pr_80 cs_pb_80 cs_pl_lg_30 cs_pr_lg_30 position-relative cs_rounded_20" data-src="{{ secure_asset('assets/img/contact_bg_pattern.svg') }}">
                 <div class="cs_section_heading cs_style_1 d-flex align-items-center text-center cs_mb_30">
                   <div class="cs_section_heading_in">
                     <h2 class="cs_fs_48 cs_fs_lg_36 m-0">Contact Us</h2>
@@ -940,7 +940,7 @@
                 <textarea class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_30 bg-gray" placeholder="Message here ..." cols="30" rows="4"></textarea>
                 <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Submit Now</span></button>
               </form>
-              <div class="cs_contact_image d-none d-xl-block wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.4s"><img src="{{ asset('assets/img/contact_img_1.png') }}" alt=""></div>
+              <div class="cs_contact_image d-none d-xl-block wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.4s"><img src="{{ secure_asset('assets/img/contact_img_1.png') }}" alt=""></div>
             </div>
           </div>
         </div>
@@ -951,11 +951,11 @@
     <div class="cs_pt_140 cs_pt_lg_80">
       <div class="container">
         <div class="cs_brands d-flex justify-content-xl-between align-items-center cs_column_gap_25 cs_row_gap_25 flex-wrap justify-content-center">
-          <div class="cs_brand"><img src="{{ asset('assets/img/brand_1.svg') }}" alt="Brand"></div>
-          <div class="cs_brand"><img src="{{ asset('assets/img/brand_2.svg') }}" alt="Brand"></div>
-          <div class="cs_brand"><img src="{{ asset('assets/img/brand_3.svg') }}" alt="Brand"></div>
-          <div class="cs_brand"><img src="{{ asset('assets/img/brand_4.svg') }}" alt="Brand"></div>
-          <div class="cs_brand"><img src="{{ asset('assets/img/brand_5.svg') }}" alt="Brand"></div>
+          <div class="cs_brand"><img src="{{ secure_asset('assets/img/brand_1.svg') }}" alt="Brand"></div>
+          <div class="cs_brand"><img src="{{ secure_asset('assets/img/brand_2.svg') }}" alt="Brand"></div>
+          <div class="cs_brand"><img src="{{ secure_asset('assets/img/brand_3.svg') }}" alt="Brand"></div>
+          <div class="cs_brand"><img src="{{ secure_asset('assets/img/brand_4.svg') }}" alt="Brand"></div>
+          <div class="cs_brand"><img src="{{ secure_asset('assets/img/brand_5.svg') }}" alt="Brand"></div>
         </div>
       </div>
     </div>
@@ -973,7 +973,7 @@
           <div class="col-lg-4">
             <div class="cs_post cs_style_1 bg-white shadow-sm cs_mb_30">
               <a href="{{ url('blog-details') }}" class="cs_post_thumb d-block position-relative overflow-hidden">
-                <div class="cs_post_thumb-in cs_transition_5 background-filled h-100 w-100" data-src="{{ asset('assets/img/post_1.jpeg') }}"></div>
+                <div class="cs_post_thumb-in cs_transition_5 background-filled h-100 w-100" data-src="{{ secure_asset('assets/img/post_1.jpeg') }}"></div>
               </a>
               <div class="cs_post_in">
                 <div class="cs_post_info cs_pl_33 cs_pr_33 cs_pt_40 cs_pb_40">
@@ -1004,7 +1004,7 @@
           <div class="col-lg-4">
             <div class="cs_post cs_style_1 bg-white shadow-sm cs_mb_30">
               <a href="{{ url('blog-details') }}" class="cs_post_thumb d-block position-relative overflow-hidden">
-                <div class="cs_post_thumb-in cs_transition_5 background-filled h-100 w-100" data-src="{{ asset('assets/img/post_2.jpeg') }}"></div>
+                <div class="cs_post_thumb-in cs_transition_5 background-filled h-100 w-100" data-src="{{ secure_asset('assets/img/post_2.jpeg') }}"></div>
               </a>
               <div class="cs_post_in">
                 <div class="cs_post_info cs_pl_33 cs_pr_33 cs_pt_40 cs_pb_40">
@@ -1035,7 +1035,7 @@
           <div class="col-lg-4">
             <div class="cs_post cs_style_1 bg-white shadow-sm cs_mb_30">
               <a href="{{ url('blog-details') }}" class="cs_post_thumb d-block position-relative overflow-hidden">
-                <div class="cs_post_thumb-in cs_transition_5 background-filled h-100 w-100" data-src="{{ asset('assets/img/post_3.jpeg') }}"></div>
+                <div class="cs_post_thumb-in cs_transition_5 background-filled h-100 w-100" data-src="{{ secure_asset('assets/img/post_3.jpeg') }}"></div>
               </a>
               <div class="cs_post_in">
                 <div class="cs_post_info cs_pl_33 cs_pr_33 cs_pt_40 cs_pb_40">
