@@ -1,11 +1,11 @@
-<footer class="cs_footer background-filled text-white" data-src="{{ secure_asset('assets/img/footer_bg.jpeg') }}">
+<footer class="cs_footer background-filled text-white" data-src="{{ asset('assets/img/footer_bg.jpeg') }}">
   <div class="container">
     <div class="cs_footer_top d-flex justify-content-between align-items-start align-items-md-center cs_pt_46 cs_pb_46 cs_column_gap_15 cs_row_gap_15 flex-md-row  flex-column">
       <div class="cs_footer_contact_info">
         <h3 class="text-accent fw-normal cs_mb_4 cs_fs_16 cs_lh_lg">Have Any Question?</h3>
         <h2 class="text-white fw-medium m-0 cs_fs_22">+ 070 4531 9507 </h2>
       </div>
-      <div class="cs_footer_logo wow zoomIn" data-wow-duration="0.8s" data-wow-delay="0.2s"><img src="{{ secure_asset('assets/img/logo.svg') }}" alt="Logo"></div>
+      <div class="cs_footer_logo wow zoomIn" data-wow-duration="0.8s" data-wow-delay="0.2s"><img src="{{ asset('assets/img/logo.svg') }}" alt="Logo"></div>
       <div class="cs_footer_contact_info">
         <h3 class="text-accent fw-normal cs_mb_4 cs_fs_16 cs_lh_lg">Send Email</h3>
         <h2 class="text-white fw-medium m-0 cs_fs_22"><a href="mailto:pixcelsthemes@gmail.com">pixcelsthemes@gmail.com</a></h2>
