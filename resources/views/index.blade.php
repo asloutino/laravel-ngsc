@@ -14,7 +14,7 @@
             </div>
             <div class="cs_top_header_right">
               <ul class="cs_top_nav d-flex flex-wrap align-items-center cs_fs_12 text-white m-0 p-0">
-                <li><a href="">Help</a></li>
+                <li><a href="">Helps</a></li>
                 <li><a href="">Support</a></li>
                 <li><a href="{{ url('contact') }}">Contact</a></li>
               </ul>
