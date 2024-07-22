@@ -5,7 +5,7 @@
         <h3 class="text-accent fw-normal cs_mb_4 cs_fs_16 cs_lh_lg">Have Any Question?</h3>
         <h2 class="text-white fw-medium m-0 cs_fs_22">+ 070 4531 9507 </h2>
       </div>
-      <div class="cs_footer_logo wow zoomIn" data-wow-duration="0.8s" data-wow-delay="0.2s"><img src="{{ asset('assets/img/logo.svg') }}" alt="Logo"></div>
+      <div class="cs_footer_logo wow zoomIn" data-wow-duration="0.8s" data-wow-delay="0.2s"><img src="{{ asset('assets/img/NGCS-Conference-Logo-white.svg') }}" alt="Logo"></div>
       <div class="cs_footer_contact_info">
         <h3 class="text-accent fw-normal cs_mb_4 cs_fs_16 cs_lh_lg">Send Email</h3>
         <h2 class="text-white fw-medium m-0 cs_fs_22"><a href="mailto:pixcelsthemes@gmail.com">pixcelsthemes@gmail.com</a></h2>

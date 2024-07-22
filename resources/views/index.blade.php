@@ -3,7 +3,7 @@
 @section('content')
  <!-- Start Header Section -->
  <header class="cs_site_header cs_style_1 cs_sticky_header cs_site_header_full_width">
-      <div class="cs_top_header">
+      <!-- <div class="cs_top_header">
         <div class="container">
           <div class="cs_top_header_in">
             <div class="cs_top_header_left">
@@ -14,20 +14,20 @@
             </div>
             <div class="cs_top_header_right">
               <ul class="cs_top_nav d-flex flex-wrap align-items-center cs_fs_12 text-white m-0 p-0">
-                <li><a href="">Helps</a></li>
+                <li><a href="">Help</a></li>
                 <li><a href="">Support</a></li>
                 <li><a href="{{ url('contact') }}">Contact</a></li>
               </ul>
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
       <div class="cs_main_header">
         <div class="container">
           <div class="cs_main_header_in">
             <div class="cs_main_header_left">
               <a class="cs_site_branding" href="{{ url('index') }}">
-                <img src="{{ asset('assets/img/logo.svg') }}" alt="Logo">
+                <img src="{{ asset('assets/img/NGCS-Conference-Logo-white.svg') }}" alt="Logo">
               </a>
               <div class="cs_nav cs_primary_font fw-medium">
                 <ul class="cs_nav_list fw-medium text-uppercase">
@@ -139,7 +139,7 @@
                 </div>
               </div>
             </div>
-            <div class="swiper-slide">
+            <!-- <div class="swiper-slide">
               <div class="cs_hero cs_style_1 d-flex align-items-center justify-content-center background-filled position-relative overflow-hidden">
                 <figure class="cs_swiper_parallax_bg" data-src="{{ asset('assets/img/hero_slider_2.jpeg') }}">
                   <img src="{{ asset('assets/img/hero_slider_2.jpeg') }}" alt="Slider" class="cs_entity_img">
@@ -182,10 +182,10 @@
                   </div>
                 </div>
               </div>
-            </div>
+            </div> -->
           </div>
           <!-- If we need navigation buttons -->
-          <div class="cs_slider_navigation d-flex cs_row_gap_15 flex-column position-absolute
+          <!-- <div class="cs_slider_navigation d-flex cs_row_gap_15 flex-column position-absolute
           cs_zindex_4">
             <div class="cs_swiper_button_prev filter cs_height_45 cs_width_45 bg-white rounded-circle d-flex align-items-center justify-content-center bg-accent-hover cs_transition_4">
               <svg width="20" height="8" viewBox="0 0 20 8" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -199,14 +199,14 @@
                 <path d="M16.3445 7.60253C16.2394 7.60253 16.1342 7.56278 16.0548 7.48202C15.8945 7.32176 15.8945 7.0615 16.0548 6.90125L19.2496 3.70637C19.4099 3.54612 19.6701 3.54612 19.8304 3.70637C19.9907 3.86663 19.9907 4.12689 19.8304 4.28714L16.6355 7.48202C16.5548 7.56278 16.4496 7.60253 16.3445 7.60253Z" fill="#18191D"/>
               </svg>          
             </div>
-          </div>
-          <div class="cs_hero_shape_1 position-absolute bottom-0 d-flex align-items-end h-100 cs_zindex_1">
+          </div> -->
+          <!-- <div class="cs_hero_shape_1 position-absolute bottom-0 d-flex align-items-end h-100 cs_zindex_1">
             <svg width="434" height="759" viewBox="0 0 434 759" fill="none" xmlns="http://www.w3.org/2000/svg">
               <path d="M240 0H660L430 759H0L240 0Z" fill="url(#paint0_linear_81_287)"/>
               <defs>
               <linearGradient id="paint0_linear_81_287" x1="145" y1="256.5" x2="484" y2="738" gradientUnits="userSpaceOnUse">
                 <stop offset="0" stop-color="#D9D9D9" stop-opacity="0"/>
-                <stop offset="1" stop-color="#E9A132"/>
+                <stop offset="1" stop-color="#926F34"/>
               </linearGradient>
               </defs>
             </svg>            
@@ -221,7 +221,7 @@
               </linearGradient>
               </defs>
             </svg>            
-          </div>
+          </div> -->
         </div>
       </div>
       <div class="cs_social_btns d-flex flex-column cs_column_gap_15 cs_row_gap_15 cs_transition_5 position-absolute cs_zindex_5 ">

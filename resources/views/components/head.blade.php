@@ -8,7 +8,6 @@
     <link rel="icon" href="assets/img/favicon.png">
     <!-- Site Title -->
     <title>The New Global Sport Conference - Riyadh, Saudi Arabia</title>
-    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="{{ asset('assets/css/plugins/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/css/plugins/fontawesome.min.css') }}">
