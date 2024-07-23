@@ -217,6 +217,84 @@
     </div>
     <!-- End Animated Text -->
 
+    <!-- Start About Section -->
+    <section class="cs_pt_70 cs_pt_lg_35 cs_pb_35 cs_pb_lg_80 position-relative">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="cs_about cs_style_1">
+              <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
+                <div class="cs_section_heading_in">
+                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">ABOUT THE CONFERENCE</h3>
+                  <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">NEW GLOBAL SPORT CONFERENCE 2024</h2>
+                  <p class="m-0">EWCF’s main conference will be the gateway for today and tomorrow’s executives, global leaders, and prime decision-makers into a new global sport and will showcase how esports can create new global opportunities. The NGSC24 will unite top players from sports, esports, gaming, entertainment, technology and beyond, serving as a a content-packed platform bringing together these industries. It carries on the torch of the Next World Forum series and NGSC23, uniting both events under one exclusive banner in 2024.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 cs_mb_lg_55">
+            <div class="cs_experience cs_style_1 position-relative">
+              <img src="{{ asset('assets/img/about-the-ngsc-conference.jpg') }}" class="cs_mb_5">
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End About Section -->
+
+    <!-- Start About Section -->
+    <section class="cs_pt_0 cs_pt_lg_35 cs_pb_35 cs_pb_lg_80 position-relative">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 cs_mb_lg_55">
+            <div class="cs_experience cs_style_1 position-relative">
+              <a href="https://olympics.com/ioc/news/ioc-announces-olympic-esports-games-to-be-hosted-in-the-kingdom-of-saudi-arabia" target="_blank">
+                <img src="{{ asset('assets/img/IMG_3166-1024x572.jpg') }}" class="cs_mb_5">
+              </a>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="cs_about cs_style_1">
+              <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
+                <div class="cs_section_heading_in">
+                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">NEW ANNOUNCEMENT</h3>
+                  <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">OLYMPIC ESPORTS GAMES TO BE HOSTED IN THE KINGDOM OF SAUDI ARABIA</h2>
+                  <p class="m-0">The International Olympic Committee (IOC) announced that it has partnered with the National Olympic Committee (NOC) of Saudi Arabia to host the inaugural Olympic Esports Games 2025 in the Kingdom of Saudi Arabia. This groundbreaking step follows the IOC’s recent announcement that the IOC Executive Board (EB) has established Olympic Esports Games.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End About Section -->
+
+    <!-- Start About Section -->
+    <section class="cs_pt_0 cs_pt_lg_35 cs_pb_35 cs_pb_lg_80 position-relative">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="cs_about cs_style_1">
+              <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
+                <div class="cs_section_heading_in">
+                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">THIS YEAR'S THEME</h3>
+                  <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">THE FUTURE OF FANDOM</h2>
+                  <p class="m-0">The New Global Sport Conference (NGSC) unites leaders from esports, gaming, business, sports, and entertainment to explore “The Future of Fandom.” The event will discuss fandom’s impact on business planning, content, IP and media rights, marketing, and community-building. This year, NGSC focuses on how fandom influences society, builds brand equity, and generates revenue through media rights, sponsorships, and merchandise.</p>
+                  <p class="mt-2">Sneak peeks of upcoming releases, behind-the-scenes insights, and opportunities to meet creators and stars will elevate this immersive experience, celebrate fandom culture and explore its transformative potential like never before.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 cs_mb_lg_55">
+            <div class="cs_experience cs_style_1 position-relative">
+              <img src="{{ asset('assets/img/Banner-1000x800-1.jpg') }}" class="cs_mb_5">
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End About Section -->
+
     <!-- Start Service Section -->
     <section class="background-filled cs_pt_133 cs_pt_lg_75 cs_pb_140 cs_pb_lg_80 cs_gray_bg" data-src="{{ asset('assets/img/services_bg.png') }}">
       <div class="container">

@@ -44,12 +44,21 @@
 
 body,
 html {
-  color: #666;
+  color: #fff;
   font-family: "Riforma-Medium", sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 1.8em;
   overflow-x: hidden;
+}
+
+body {
+  background-color: #151515;
+  background-image: url(../img/Banner-Bckg-1920x1080-Black-02-2.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 h1,
@@ -59,7 +68,7 @@ h4,
 h5,
 h6 {
   clear: both;
-  color: #18191d;
+  color: #fff;
   padding: 0;
   margin: 0 0 20px 0;
   font-weight: 600;
@@ -188,7 +197,7 @@ kbd {
 
 input,
 textarea {
-  color: #18191d;
+  color: #fff;
 }
 
 /*--------------------------------------------------------------
