@@ -61,7 +61,7 @@
   </div>
   <div class="cs_copyright text-center cs_fs_124 cs_lh_lg cs_pt_36 cs_pb_36">
     <div class="container">
-      <p class="m-0">Copyright © {{ date('Y') }} <a href="{{ url('index') }}">The New Global Sport Conference</a>. All rights reserved.</p>
+      <p class="m-0">Copyright © {{ date('Y') }} <a target="_blank" href="https://esportsworldcup.com/">Esports World Cup Foundation</a>. All rights reserved.</p>
     </div>
   </div>
 </footer>

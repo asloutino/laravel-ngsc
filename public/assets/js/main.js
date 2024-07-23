@@ -156,13 +156,20 @@
         var $slickActive = $(this).find('.cs_slider_activate');
         $slickActive.slick({
           slidesToShow: 1,
-          infinite: true,
+          infinite: false,
           slidesToScroll: 1,
           autoplay: false,
           fade: true,
           autoplaySpeed: 7000,
           speed: 500,
           cssEase: 'ease-in-out',
+          draggable: false,
+          swipe: false,
+          swipeToSlide: false,
+          touchMove: false,
+          draggable: false,
+          accessibility: false,
+          arrows: false,
           prevArrow: $(this).find('.cs_slider_prev'),
           nextArrow: $(this).find('.cs_slider_next'),
         });
@@ -179,6 +186,7 @@
           autoplaySpeed: 7000,
           speed: 500,
           cssEase: 'ease-in-out',
+          swipe: false,
           prevArrow: $(this).find('.cs_slider_prev'),
           nextArrow: $(this).find('.cs_slider_next'),
         });
@@ -193,6 +201,7 @@
           slidesToScroll: 1,
           autoplay: false,
           autoplaySpeed: 2000,
+          swipe: false,
           prevArrow: $(this).find('.cs_slider_prev'),
           nextArrow: $(this).find('.cs_slider_next'),
           responsive: [
@@ -227,6 +236,7 @@
           slidesToScroll: 1,
           autoplay: false,
           autoplaySpeed: 2000,
+          swipe: false,
           prevArrow: $(this).find('.cs_slider_prev'),
           nextArrow: $(this).find('.cs_slider_next'),
           responsive: [
@@ -263,6 +273,7 @@
           variableWidth: true,
           autoplay: true,
           autoplaySpeed: 3000,
+          swipe: false,
           prevArrow: $(this).find('.cs_slider_prev'),
           nextArrow: $(this).find('.cs_slider_next'),
         });
@@ -277,6 +288,7 @@
           slidesToScroll: 1,
           autoplay: false,
           autoplaySpeed: 2000,
+          swipe: false,
           prevArrow: $(this).find('.cs_slider_prev'),
           nextArrow: $(this).find('.cs_slider_next'),
           responsive: [
@@ -314,6 +326,7 @@
           variableWidth: true,
           autoplay: false,
           autoplaySpeed: 3000,
+          swipe: false,
           prevArrow: $(this).find('.cs_slider_prev'),
           nextArrow: $(this).find('.cs_slider_next'),
         });
@@ -328,6 +341,7 @@
           slidesToScroll: 1,
           autoplay: false,
           autoplaySpeed: 2000,
+          swipe: false,
           prevArrow: $(this).find('.cs_slider_prev'),
           nextArrow: $(this).find('.cs_slider_next'),
           responsive: [
@@ -363,6 +377,7 @@
           autoplay: false,
           autoplaySpeed: 2000,
           dots: true,
+          swipe: false,
           prevArrow: $(this).find('.cs_slider_prev'),
           nextArrow: $(this).find('.cs_slider_next'),
           responsive: [
@@ -394,6 +409,7 @@
       slidesToShow: 1,
       slidesToScroll: 1,
       arrows: false,
+      swipe: false,
       asNavFor: '.cs_testimonial_nav',
     });
     if ($.exists('.cs_testimonial_nav-active')) {
@@ -404,6 +420,7 @@
           slidesToScroll: 1,
           asNavFor: '.cs_testimonial_thumb',
           focusOnSelect: true,
+          swipe: false,
           prevArrow: $(this).find('.cs_slider_prev'),
           nextArrow: $(this).find('.cs_slider_next'),
         });
@@ -421,12 +438,19 @@
         interleaveOffset = 0.5;
       // Main Slider
       let mainSliderOptions = {
-        loop: true,
+        loop: false,
         speed: 1000,
         autoplay: false,
         loopAdditionalSlides: 10,
-        grabCursor: true,
-        watchSlidesProgress: true,
+        grabCursor: false,
+        draggable: false,
+        swipe: false,
+        swipeToSlide: false,
+        touchMove: false,
+        draggable: false,
+        accessibility: false,
+        arrows: false,
+        watchSlidesProgress: false,
         // mousewheel: true,
         navigation: {
           nextEl: '.cs_swiper_button_next',
@@ -732,6 +756,7 @@
       slidesToShow: 1,
       slidesToScroll: 1,
       arrows: false,
+      swipe: false,
       asNavFor: '.cs_single_product_nav',
     });
 
@@ -740,6 +765,7 @@
       slidesToScroll: 1,
       asNavFor: '.cs_single_product_thumb',
       focusOnSelect: true,
+      swipe: false,
       arrows: false,
     });
     // Check All
