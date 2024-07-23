@@ -2103,6 +2103,36 @@ label {
   color: #926F34;
 }
 
+.clipped-boxes .cs_team.cs_style_1 {
+  margin:0;
+  position: relative;
+  height: 200px;
+  background: #926F34;
+  -webkit-clip-path: polygon(0 0, 75% 0, 100% 25%, 100% 100%, 25% 100%, 0 75%);
+  clip-path: polygon(0 0, 75% 0, 100% 25%, 100% 100%, 25% 100%, 0 75%);
+}
+
+.clipped-boxes .cs_team.cs_style_1 .cs_team_info {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  right: 2px;
+  bottom: 2px;
+  -webkit-clip-path: polygon(0 0, 75% 0, 100% 25%, 100% 100%, 25% 100%, 0 75%);
+  clip-path: polygon(0 0, 75% 0, 100% 25%, 100% 100%, 25% 100%, 0 75%);
+  display: flex;
+  margin: 0;
+}
+
+.clipped-boxes .col-lg-3:nth-child(1) .cs_team.cs_style_1 .cs_team_info,
+.clipped-boxes .col-lg-3:nth-child(3) .cs_team.cs_style_1 .cs_team_info {
+  background: #926F34;
+}
+
+.clipped-boxes .cs_team.cs_style_1 .cs_team_info p {
+  text-align: left;
+}
+
 @media screen and (min-width: 1200px) {
   .cs_main_header {
     position: relative;
