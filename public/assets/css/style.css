@@ -4786,3 +4786,30 @@ html .ui-button.ui-state-disabled:active {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.speaker-modal .modal-content {
+  background:#151515;
+  border-radius: 0 50px 0 50px;
+  border: 3px solid #926F34;
+}
+
+.speaker-modal .modal-header .col-lg-8 {
+  margin-left:20px;
+}
+
+.speaker-modal .modal-header .btn-close {
+  position: absolute;
+  top:20px;
+  right:20px;
+  color:#fff;
+  background:transparent url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath d='M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414z'/%3e%3c/svg%3e") center/1em auto no-repeat
+}
+
+.speaker-modal .modal-header {
+  border:none;
+}
+
+.speaker-modal .modal-body p {
+  font-size: 12px;
+  line-height: 1.6em;
+}

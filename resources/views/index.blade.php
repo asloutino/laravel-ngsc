@@ -242,8 +242,255 @@
     </section>
     <!-- End About Section -->
 
+    <!-- Modal Anna-Rozwandowicz -->
+    <div class="modal fade speaker-modal" id="Anna-Rozwandowicz" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Anna-Rozwandowicz.jpg" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <p class="text-white m-0">The Story Mobb</p>
+              <p class="text-white m-0">CEO</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Anna-Rozwandowicz</h2>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Anna Rozwandowicz is the Founder and CEO of The Story Mob, a leading international consultancy for gaming culture, immersive entertainment and esports. In her role, she advises global sports and entertainment brands, publishers, esports Clubs and their athletes on impactful, authentic communications with gaming fans. Prior to founding the agency in 2018, Anna served as VP of Communications at EFG. There, she led worldwide communications efforts for major tournaments and secured unprecedented mainstream media coverage for the world's fastest-growing sport. With offices in Los Angeles and London, The Story Mob has worked with over 100 global gaming, sports, and entertainment brands. Anna is also an advisor for the Cybersmile Foundation, a mentor for esports startups at leAD Sports, and a speaker on gaming culture and communications.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Bruce-Stein -->
+    <div class="modal fade speaker-modal" id="Bruce-Stein" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Bruce-Stein.jpg" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <p class="text-white m-0">aXiomatic</p>
+              <p class="text-white m-0">CEO & Co-Founder</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Bruce Stein</h2>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>During his career Bruce Stein has held ‘C’ suite positions in both startup and public consumer products, tech based, and IP commercialization companies. He currently serves as an advisor to Juno Partners and consumer-tech based clients such as Embodied AI Robotics.</p>
+            <p>Most recently Bruce was CEO/co-founder of aXiomatic, an esports/video gaming investment platform. He set the strategy for aXiomatic from it’s beginning in 2015 with the Team Liquid investment through all their investments into Epic Games, Dapper Labs, Niantic Games and others.</p>
+            <p>Stein’s earlier experience includes: COO/Worldwide President/BOD Mattel, CEO Sony Interactive Entertainment (PlayStation), President/CEO Kenner Products (Hasbro),  CEO Mandalay Media, CEO/Chairman Radical Communication and Founder/CEO of The Hatchery. Stein has been a strategic advisor to PE/VC, media and internet companies including Dreamworks SKG, Warner Bros., KPCB and Guggenheim Capital.</p>
+            <p>Stein was a Board member of ViewSonic, a YPO alum, member of the Mayor’s Esports/Gaming Council for Los Angeles, and the Steering Committee of China Americas Sports and Health Association. Stein received a B.A. from Pitzer College and an M.B.A. from the University of Chicago Booth Graduate School of Business.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Craig-Levine -->
+    <div class="modal fade speaker-modal" id="Craig-Levine" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Craig-Levine.jpg" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <p class="text-white m-0">ECL Faceit Group</p>
+              <p class="text-white m-0">Co-CEO</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Craig Levine</h2>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>ESL FACEIT Group (EFG) is the leading competitive games and esports company. Craig helped architect the merger of ESL Gaming and FACEIT in 2022 and prior served as the co-CEO of ESL Gaming where he led global business strategy and operations.</p>
+            <p>As a lifelong gamer, Craig has helped pioneer the esports industry for over 20 years first as a player, then team owner and has become a dynamic esports executive.</p>
+            <p>Levine holds a B.S. in Information Systems and Management and Organizational Behavior from the Stern Business School at New York University.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Ghada-Alhudaithi -->
+    <div class="modal fade speaker-modal" id="Ghada-Alhudaithi" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Ghada-Alhudaithi.jpg" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <p class="text-white m-0">Table Knight Games</p>
+              <p class="text-white m-0">Co-Founder</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Ghada Alhudaithi</h2>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Ghada AlHudaithi is a driven individual with a passion for the gaming industry. This passion for gaming evolved over time, shaping her interests and sparking her entrepreneurial ambitions. Ghada recognized the potential for video games to engage and entertain audiences, and she became driven to turn this lifelong hobby into a professional pursuit. Holding a Master's degree in Business Administration specialized in Finance from Prince Sultan University, she has extensive experience in entrepreneurship, business development, and strategic management. As the Co-founder of Table Knight Games, she has contributed to the company's expansion, with mobile game applications reaching top local and regional charts on the App Store and Google Play. Specializing in developing social games for mobile platforms, she has demonstrated her entrepreneurial spirit and technical proficiency. Motivated by innovation and impact, she is eager to take on new challenges and make a meaningful contribution to Saudi Arabia’s gaming ecosystem.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Heba-Atyah -->
+    <div class="modal fade speaker-modal" id="Heba-Atyah" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Heba-Atyah.jpg" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <p class="text-white m-0">GameIT</p>
+              <p class="text-white m-0">Founder & CEO</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Dr. Heba Mohammed Atyah</h2>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Dr. Heba Mohammed Atyah, CEO and Founder of GameIT, has transitioned from a distinguished medical career in speech pathology and developmental disabilities to become a pioneering entrepreneur in the world of serious games.  With more than 10 years of clinical experience in King Faislal specialist hospital and research center working with children, she has successfully, also,  led major initiatives across the USA, UAE, and KSA, fostering public-private partnerships and community empowerment project. Dr. Atyah continues to drive transformative change by using clinical science with innovative gaming and AI technology, revolutionizing how children learn and thrive in the digital age. Her work has garnered multiple awards and recognition, including the Leap Aviatrix Award for the most innovative startup pioneered by women in 2022, the Best Female Founder Award by MCIT Saudi Arabia in 2023, and lately in 2024 winning Microsoft Power Women Awards for the Middle East.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Khaled-Makhshoush -->
+    <div class="modal fade speaker-modal" id="Khaled-Makhshoush" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Khaled-Makhshoush.jpg" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <p class="text-white m-0">Digital Artist</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Khaled Makhshoush</h2>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Khaled is a digital artist who specializes in pixel art. He uses a drawing tablet, a stylus and a mouse to create atmospheric digital paintings that explore the relationship between emotions and space. He focuses on how the place feels like and draws imaginary places based on real ones, blending reality and imagination in his art and inviting the viewers to experience his vision. He is inspired by the modern and contemporary world and its diverse landscapes.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Maha-Abouelenein -->
+    <div class="modal fade speaker-modal" id="Maha-Abouelenein" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Maha-Abouelenein.jpg" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <p class="text-white m-0">Digital and Savvy</p>
+              <p class="text-white m-0">CEO</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Maha Abouelenein</h2>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Maha Abouelenein is an American Egyptian with more than 30 years of global communications experience advising global corporate giants, startups, governments, CEOS & high-net-worth individuals. She is the CEO of Digital & Savvy, a strategic communications consulting firm with offices in the USA and Dubai.</p>
+            <p>A sought-after strategist & speaker, Maha is an expert on personal branding, reputation management, modern communications and the transformational power of storytelling. She is the former Head of Global Communications & Public Policy at Google and Founding Managing Director of Weber Shandwick in MENA. She worked in Promotions & Sports Marketing at General Mills before becoming an entrepreneur.</p>
+            <p>Maha is on the Global Board of Directors of the Associated Press & hosts the “Savvy Talk” podcast. For more, visit: digitalandsavvy.com</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Mathilde-Pignol -->
+    <div class="modal fade speaker-modal" id="Mathilde-Pignol" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Mathilde-Pignol.jpg" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <p class="text-white m-0">Roboto Games</p>
+              <p class="text-white m-0">Co-Founder and CCO</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Mathilde Pignol</h2>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Mathilde is Co-Founder & Chief Creative Officer of Roboto Games, her second games company. In her role, she oversees company strategy as well as the design and art of their next title, Stormforge. Mathilde is originally from France but moved to the US as a teenager. She holds a Bachelors in Computer Science and Psychology and a Masters in UX Design from Carnegie Mellon University. After graduating, she started her first company, ZipZapPlay, where she made games played by millions of people. After the acquisition of the company by PopCap Games, she co-ran the PopCap San Francisco studio for Electronic Arts. More than anything, Mathilde loves making games, the perfect intersection of technology, art, and design.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+     <!-- Modal Meaad-Aflah -->
+     <div class="modal fade speaker-modal" id="Meaad-Aflah" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Meead-Aflah.jpg" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <p class="text-white m-0">Starvania Studio</p>
+              <p class="text-white m-0">Co-Founder & CEO</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Meaad Aflah</h2>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Meaad Aflah, the CEO & Co-founder of Starvania Studio, is a passionate and accomplished professional in the gaming industry. This Saudi Arabian indie game development company creates games for PC and consoles, drawing inspiration from Arabian mythologies. Starvania is committed to bringing fresh perspectives to the global gaming market. While still young and emerging in the industry, Meaad demonstrates a deep understanding of the market and a keen eye for innovation. This has resulted in a proven track record of success in driving growth and engagement for Starvania. Her studio is now considered a pioneer in the Saudi Arabian gaming industry, and was recently awarded the Best Game Startup Award in the MENA region for 2024.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal RJ-Cutler -->
+    <div class="modal fade speaker-modal" id="RJ-Cutler" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/RJ-Cutler.jpg" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <p class="text-white m-0">Filmmaker</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">R.J. Cutler</h2>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>R.J. Cutler is an award-winning documentary filmmaker who has directed such films as A Perfect Candidate, The September Issue, BELUSHI, Billie Eilish: The World’s A Little Blurry, and the upcoming Martha and Elton John: Never Too Late. He has produced such films as The War Room, Thin, Listen to Me Marlon and The Disappearance of Shere Hite. Cutler is the founder of This Machine Filmworks, an LA-based production company specializing in the development and production of premium documentary content. This Machine is a part of Sony Non-Fiction Television. Cutler’s work has been nominated for an Academy Award and he is the recipient of three Emmys, two Peabody Awards, two Cinema Eye Awards and two Television Academy Honor awards, among others. In 2021, R.J. received the Critic’s Choice Pennebaker Award for Lifetime Achievement in Documentary Film. R.J. lives in Los Angeles with his wife Jane Cha Cutler, their children Maddie, Max and Penny and their dog Dexter.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Tim-Morton -->
+    <div class="modal fade speaker-modal" id="Tim-Morton" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Tim-Morten.jpg" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <p class="text-white m-0">Frost Giant Studios</p>
+              <p class="text-white m-0">Co-Founder and CEO</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Tim Morton</h2>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Tim Morten is the CEO and co-founder of Frost Giant Studios. He was previously the Production Director of StarCraft II, and he's excited to now be working on a new real-time strategy game called Stormgate. Tim got his start in the game industry in 1994 at Activision, and subsequently helped lead development teams at Electronic Arts and Blizzard.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Start Speakers Section -->
-    <section class="cs_pb_115 cs_pb_lg_55">
+    <section class="cs_pb_60 cs_pb_lg_55">
       <div class="container">
         <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
           <div class="cs_section_heading_in">
@@ -257,7 +504,7 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Anna-Rozwandowicz.jpg" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                  <a href="#" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Anna-Rozwandowicz" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
@@ -272,7 +519,7 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Bruce-Stein.jpg" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Bruce-Stein" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
@@ -287,7 +534,7 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Craig-Levine.jpg" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Craig-Levine" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
@@ -302,7 +549,7 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Ghada-Alhudaithi.jpg" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Ghada-Alhudaithi" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
@@ -319,7 +566,7 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Heba-Atyah.jpg" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Heba-Atyah" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
@@ -334,7 +581,7 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Khaled-Makhshoush.jpg" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Khaled-Makhshoush" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
@@ -348,7 +595,7 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Maha-Abouelenein.jpg" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Maha-Abouelenein" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
@@ -363,7 +610,7 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Mathilde-Pignol.jpg" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Mathilde-Pignol" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
@@ -380,11 +627,11 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Meead-Aflah.jpg" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Meaad-Aflah" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
-                <h2 class="text-white m-0 cs_fs_26 cs_mb_3">Meead Aflah</h2>
+                <h2 class="text-white m-0 cs_fs_26 cs_mb_3">Meaad Aflah</h2>
                 <p class="text-white m-0">Starvania Studio</p>
                 <p class="text-white m-0">Co-Founder & CEO</p>
               </div>
@@ -395,7 +642,7 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/RJ-Cutler.jpg" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#RJ-Cutler" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
@@ -409,11 +656,11 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Tim-Morten.jpg" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Tim-Morton" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
-                <h2 class="text-white m-0 cs_fs_26 cs_mb_3">Tim Morten</h2>
+                <h2 class="text-white m-0 cs_fs_26 cs_mb_3">Tim Morton</h2>
                 <p class="text-white m-0">Frost Giant Studios</p>
                 <p class="text-white m-0">Co-Founder and CEO</p>
               </div>
