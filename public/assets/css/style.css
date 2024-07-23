@@ -2933,7 +2933,7 @@ label {
 }
 
 .cs_hero.cs_style_1 {
-  height: 100vh;
+  height: 95vh;
   max-height: 900px;
   padding: 0 160px 50px;
 }
@@ -3528,6 +3528,9 @@ label {
   transform: translateX(-50%) scale(1);
   bottom: 30px;
   opacity: 1;
+}
+.cs_team_member img {
+  filter:grayscale(100%);
 }
 
 /*--------------------------------------------------------------
