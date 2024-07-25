@@ -327,6 +327,7 @@
           autoplay: false,
           autoplaySpeed: 3000,
           swipe: false,
+          adaptiveHeight:false,
           prevArrow: $(this).find('.cs_slider_prev'),
           nextArrow: $(this).find('.cs_slider_next'),
         });
