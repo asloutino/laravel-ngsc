@@ -887,28 +887,28 @@
     <section class="cs_pb_80 cs_pb_lg_55 clipped-boxes">
       <div class="container">
         <div class="row">
-          <div class="col-lg-3">
+          <div class="col-6 col-lg-3">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden">
               <div class="cs_team_info cs_pt_25 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
                 <p class="text-white m-0">Join the two-day program with thought leaders and experts, covering key esports challenges and opportunities</p>
               </div>
             </div>
           </div>
-          <div class="col-lg-3">
+          <div class="col-6 col-lg-3">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden">
               <div class="cs_team_info cs_pt_25 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
                 <p class="text-white m-0">Maximize your networking opportunities with 800+ expected attendees</p>
               </div>
             </div>
           </div>
-          <div class="col-lg-3">
+          <div class="col-6 col-lg-3">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden">
               <div class="cs_team_info cs_pt_25 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
                 <p class="text-white m-0">Engage with key figures behind KSA's Vision 2030 and its National Gaming and Esports strategy</p>
               </div>
             </div>
           </div>
-          <div class="col-lg-3">
+          <div class="col-6 col-lg-3">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden">
               <div class="cs_team_info cs_pt_25 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
                 <p class="text-white m-0">Experience Riyadh as a global hub for esports, sports, gaming and entertainment business</p>
@@ -966,7 +966,7 @@
     <!-- End Apply to Join Section -->
 
     <!-- Start About Section -->
-    <section class="cs_pt_0 cs_pt_lg_35 cs_pb_35 cs_pb_lg_80 position-relative">
+    <section class="cs_pt_0 cs_pt_lg_35 cs_pb_35 cs_pb_lg_80 position-relative" id="the-esports-world-cup">
       <div class="container">
         <div class="row">
           <div class="col-lg-6 cs_mb_lg_55">

@@ -16,15 +16,15 @@
           <div class="cs_footer_item cs_pt_20 cs_pb_20">
             <h2 class="cs_widget_title text-white cs_fs_22 cs_mb_22">Explore</h2>
             <ul class="cs_menu_widget text-uppercase">
-              <li><a href="{{ url('about') }}">About</a></li>
-              <li><a href="{{ url('portfolio') }}">Portfolio</a></li>
-              <li><a href="{{ url('service') }}">Services</a></li>
-              <li><a href="#">Support </a></li>
-              <li><a href="{{ url('pricing') }}">Pricing Page</a></li>
-              <li><a href="{{ url('portfolio') }}">New Projects</a></li>
-              <li><a href="{{ url('blog-list-with-sidebar') }}">Blog</a></li>
-              <li><a href="">Privacy Policy</a></li>
-              <li><a href="{{ url('contact') }}">Contact</a></li>
+              <li><a href="/#about-the-conference">About</a></li>
+              <li><a href="/#conference-highlights">Highlights</a></li>
+              <li><a href="/#speakers">Speakers</a></li>
+              <li><a href="/#topics">Topics </a></li>
+              <li><a href="/#news">News</a></li>
+              <li><a href="/#contact-us">Contact Us</a></li>
+              <li><a href="/#apply-to-join">Apply</a></li>
+              <li><a href="{{ url('terms-and-conditions') }}">Terms & Conditions</a></li>
+              <li><a href="{{ url('privacy-policy') }}">Privacy Policy</a></li>
             </ul>
           </div>
         </div>

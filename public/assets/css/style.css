@@ -2451,7 +2451,7 @@ label {
 }
 @media screen and (max-width: 575px) {
   .cs_site_header.cs_style_1 .cs_btn span {
-    display: none;
+    font-size: 14px;
   }
   .cs_site_header.cs_style_1 .cs_btn svg {
     margin-right: 0;
@@ -2494,7 +2494,7 @@ label {
   display: grid;
   grid-gap: 10px;
   grid-template-columns: repeat(3, 1fr);
-} 
+}
 
 .cs_text_widget p {
   margin: 0;
@@ -2524,12 +2524,6 @@ label {
 
 .cs_footer_logo img {
   width: 172px;
-}
-
-@media (max-width: 767px) {
-  .cs_footer_logo {
-    display: none;
-  }
 }
 /*--------------------------------------------------------------
 8. Isotope
@@ -2966,8 +2960,8 @@ label {
 }
 @media (max-width: 575px) {
   .cs_hero.cs_style_1 {
-    padding: 180px 0px 80px;
-    min-height: 100vh;
+    padding: 0 0px 80px;
+    min-height: 94vh;
     height: initial;
   }
 }
@@ -4876,5 +4870,108 @@ html .ui-button.ui-state-disabled:active {
   .speaker-modal .modal-header img {
     max-height:200px;
     margin-bottom:20px;
+  }
+
+  .cs_site_branding {
+    width: 125px;
+  }
+
+  .cs_moving_wrap {
+    height: 8vw;
+  }
+
+  .cs_moving_text span img {
+    width:30vw;
+  }
+
+  #about-the-conference {
+    padding-bottom:20px;
+  }
+
+  #about-the-conference .col-lg-6.cs_mb_lg_55 {
+    margin-bottom:20px;
+  }
+
+  #conference-highlights {
+    padding-top:10px;
+    padding-bottom: 20px;
+  }
+
+  #conference-highlights .row {
+    flex-direction: column-reverse;
+  }
+
+  #conference-highlights .col-lg-6.cs_mb_lg_55 {
+    margin-bottom:20px;
+  }
+
+  #speakers .cs_section_heading_in h2 {
+    margin-bottom:0;
+  }
+
+  .cs_team_member img {
+    padding-top:0!important;
+  }
+
+  #topics {
+    padding-top:0;
+  }
+
+  .clipped-boxes {
+    padding-bottom:0;
+  }
+
+  .clipped-boxes .cs_team.cs_style_1 .cs_team_info p {
+    line-height: 16px;
+    font-size: 14px;
+  }
+
+  .clipped-boxes .col-6 {
+    margin-bottom:25px;
+  }
+
+  #apply-to-join {
+    padding-bottom:0;
+  }
+
+  #the-esports-world-cup {
+    padding-bottom:0;
+  }
+
+  #news {
+    padding-bottom:0;
+  }
+
+  #news .cs_post.cs_style_1 .cs_post_thumb {
+    height: 200px;
+  }
+
+  #news .cs_post_thumb-in {
+    background-size:contain;
+  }
+
+  #news .col-lg-6 {
+    padding-bottom:20px;
+  }
+
+  #contact-us {
+    padding-bottom:0;
+  }
+
+  .col-lg-3 .cs_footer_item {
+    display: flex;
+  }
+
+  .col-lg-3 .cs_footer_item .cs_text_widget {
+    width: 50%;
+  }
+
+  .col-lg-3 .cs_footer_item .cs_social_btns {
+    width: 50%;
+    justify-content: flex-end;
+  }
+
+  .cs_menu_widget {
+    font-size:12px;
   }
 }
