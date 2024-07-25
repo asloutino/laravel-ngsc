@@ -901,7 +901,7 @@
               <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
                 <div class="cs_section_heading_in">
                   <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">NEW ANNOUNCEMENT</h3>
-                  <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">OLYMPIC ESPORTS GAMES TO BE HOSTED IN THE KINGDOM OF SAUDI ARABIA</h2>
+                  <h2 class="cs_fs_36 cs_fs_lg_36 cs_mb_20">OLYMPIC ESPORTS GAMES TO BE HOSTED IN THE KINGDOM OF SAUDI ARABIA</h2>
                   <p class="m-0">The International Olympic Committee (IOC) announced that it has partnered with the National Olympic Committee (NOC) of Saudi Arabia to host the inaugural Olympic Esports Games 2025 in the Kingdom of Saudi Arabia. This groundbreaking step follows the IOC’s recent announcement that the IOC Executive Board (EB) has established Olympic Esports Games.</p>
                 </div>
               </div>
