@@ -242,11 +242,33 @@
     </section>
     <!-- End About Section -->
 
+    <!-- Modal HRH-Prince-Faisal-bin-Bandar -->
+    <div class="modal fade speaker-modal" id="HRH-Prince-Faisal-bin-Bandar" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/HRH-Prince-Faisal-bin-Bandar.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+            <h2 class="modal-title fs-5" id="staticBackdropLabel">HRH Prince Faisal bin Bandar</h2>
+              <p class="text-white m-0"></p>
+              <p class="text-white m-0"></p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Modal Andrew-Chen -->
     <div class="modal fade speaker-modal" id="Andrew-Chen" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-scrollable">
         <div class="modal-content">
-          <div class="modal-header">
+          <div class="modal-header flex-sm-row flex-column">
             <div class="col-lg-4">
               <img src="assets/img/speakers/Andrew-Chen.png" alt="Member">
             </div>
@@ -270,7 +292,7 @@
     <div class="modal fade speaker-modal" id="Greg-Norman" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-scrollable">
         <div class="modal-content">
-          <div class="modal-header">
+          <div class="modal-header flex-sm-row flex-column">
             <div class="col-lg-4">
               <img src="assets/img/speakers/Greg-Norman.png" alt="Member">
             </div>
@@ -288,33 +310,11 @@
       </div>
     </div>
 
-    <!-- Modal HRH-Prince-Faisal-bin-Bandar -->
-    <div class="modal fade speaker-modal" id="HRH-Prince-Faisal-bin-Bandar" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-      <div class="modal-dialog modal-dialog-scrollable">
-        <div class="modal-content">
-          <div class="modal-header">
-            <div class="col-lg-4">
-              <img src="assets/img/speakers/HRH-Prince-Faisal-bin-Bandar.png" alt="Member">
-            </div>
-            <div class="col-lg-8">
-            <h2 class="modal-title fs-5" id="staticBackdropLabel">HRH Prince Faisal bin Bandar</h2>
-              <p class="text-white m-0"></p>
-              <p class="text-white m-0"></p>
-            </div>
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-          </div>
-          <div class="modal-body">
-            <p></p>
-          </div>
-        </div>
-      </div>
-    </div>
-
     <!-- Modal Joe-Marsh -->
     <div class="modal fade speaker-modal" id="Joe-Marsh" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-scrollable">
         <div class="modal-content">
-          <div class="modal-header">
+          <div class="modal-header flex-sm-row flex-column">
             <div class="col-lg-4">
               <img src="assets/img/speakers/Joe-Marsh.png" alt="Member">
             </div>
@@ -336,7 +336,7 @@
     <div class="modal fade speaker-modal" id="Len-Blavantik" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-scrollable">
         <div class="modal-content">
-          <div class="modal-header">
+          <div class="modal-header flex-sm-row flex-column">
             <div class="col-lg-4">
               <img src="assets/img/speakers/Len-Blavantik.png" alt="Member">
             </div>
@@ -358,7 +358,7 @@
     <div class="modal fade speaker-modal" id="Lisa-Cosmas" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-scrollable">
         <div class="modal-content">
-          <div class="modal-header">
+          <div class="modal-header flex-sm-row flex-column">
             <div class="col-lg-4">
               <img src="assets/img/speakers/Lisa-Cosmas.png" alt="Member">
             </div>
@@ -380,7 +380,7 @@
     <div class="modal fade speaker-modal" id="Magnus-Carlsen" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-scrollable">
         <div class="modal-content">
-          <div class="modal-header">
+          <div class="modal-header flex-sm-row flex-column">
             <div class="col-lg-4">
               <img src="assets/img/speakers/Magnus-Carlsen.png" alt="Member">
             </div>
@@ -403,7 +403,7 @@
     <div class="modal fade speaker-modal" id="Maya-Rogers" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-scrollable">
         <div class="modal-content">
-          <div class="modal-header">
+          <div class="modal-header flex-sm-row flex-column">
             <div class="col-lg-4">
               <img src="assets/img/speakers/Maya-Rogers.png" alt="Member">
             </div>
@@ -429,7 +429,7 @@
     <div class="modal fade speaker-modal" id="RJ-Cutler" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-scrollable">
         <div class="modal-content">
-          <div class="modal-header">
+          <div class="modal-header flex-sm-row flex-column">
             <div class="col-lg-4">
               <img src="assets/img/speakers/RJ-Cutler.png" alt="Member">
             </div>
@@ -450,7 +450,7 @@
     <div class="modal fade speaker-modal" id="Ralf-Reichert" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-scrollable">
         <div class="modal-content">
-          <div class="modal-header">
+          <div class="modal-header flex-sm-row flex-column">
             <div class="col-lg-4">
               <img src="assets/img/speakers/Ralf-Reichert.png" alt="Member">
             </div>
@@ -472,7 +472,7 @@
     <div class="modal fade speaker-modal" id="Songyee-Yoon" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-scrollable">
         <div class="modal-content">
-          <div class="modal-header">
+          <div class="modal-header flex-sm-row flex-column">
             <div class="col-lg-4">
               <img src="assets/img/speakers/Songyee-Yoon.png" alt="Member">
             </div>
@@ -494,7 +494,7 @@
     <div class="modal fade speaker-modal" id="Toshimoto-Mitomo" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-scrollable">
         <div class="modal-content">
-          <div class="modal-header">
+          <div class="modal-header flex-sm-row flex-column">
             <div class="col-lg-4">
               <img src="assets/img/speakers/Toshimoto-Mitomo.png" alt="Member">
             </div>
@@ -525,6 +525,21 @@
           <div class="col-6 col-sm-4 col-md-4 col-lg-2">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/HRH-Prince-Faisal-bin-Bandar.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <!-- <a href="#" data-bs-toggle="modal" data-bs-target="#HRH-Prince-Faisal-bin-Bandar" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a> -->
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">HRH Prince Faisal bin Bandar</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base"></p>
+                <p class="text-white cs_fs_12 m-0 lh-base"></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Andrew-Chen.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
                 <a href="#" data-bs-toggle="modal" data-bs-target="#Andrew-Chen" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
@@ -547,21 +562,6 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Greg Norman</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base"></p>
-                <p class="text-white cs_fs_12 m-0 lh-base"></p>
-              </div>
-            </div>
-          </div>
-          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
-            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
-              <div class="cs_team_member position-relative cs_rounded_50">
-                <img class="w-100 cs_rounded_50" src="assets/img/speakers/HRH-Prince-Faisal-bin-Bandar.png" alt="Member">
-                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <!-- <a href="#" data-bs-toggle="modal" data-bs-target="#HRH-Prince-Faisal-bin-Bandar" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a> -->
-                </div>
-              </div>
-              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">HRH Prince Faisal bin Bandar</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base"></p>
                 <p class="text-white cs_fs_12 m-0 lh-base"></p>
               </div>

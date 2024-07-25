@@ -4821,3 +4821,21 @@ html .ui-button.ui-state-disabled:active {
   font-size: 12px;
   line-height: 1.6em;
 }
+
+.cs_team.cs_style_1, .cs_team_member img, .cs_team.cs_style_1 .cs_team_info {
+  margin-top:0!important;
+  padding-top:25px!important;
+}
+
+.cs_team.cs_style_1,
+.cs_team_member img,
+.cs_team.cs_style_1 .cs_team_info {
+  border-radius: 0!important;
+}
+
+@media screen and (max-width: 767px) {
+  .speaker-modal .modal-header img {
+    max-height:200px;
+    margin-bottom:20px;
+  }
+}
