@@ -531,9 +531,9 @@
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white m-0 cs_fs_20 cs_mb_3">Andrew Chen</h2>
-                <p class="text-white cs_fs_12 m-0">Andreessen Horowitz</p>
-                <p class="text-white cs_fs_12 m-0">General Partner</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">Andrew Chen</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Andreessen Horowitz</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">General Partner</p>
               </div>
             </div>
           </div>
@@ -546,9 +546,9 @@
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white m-0 cs_fs_20 cs_mb_3">Greg Norman</h2>
-                <p class="text-white cs_fs_12 m-0"></p>
-                <p class="text-white cs_fs_12 m-0"></p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">Greg Norman</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base"></p>
+                <p class="text-white cs_fs_12 m-0 lh-base"></p>
               </div>
             </div>
           </div>
@@ -561,9 +561,9 @@
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white m-0 cs_fs_20 cs_mb_3">HRH Prince Faisal bin Bandar</h2>
-                <p class="text-white cs_fs_12 m-0"></p>
-                <p class="text-white cs_fs_12 m-0"></p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">HRH Prince Faisal bin Bandar</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base"></p>
+                <p class="text-white cs_fs_12 m-0 lh-base"></p>
               </div>
             </div>
           </div>
@@ -576,9 +576,9 @@
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white m-0 cs_fs_20 cs_mb_3">Joe Marsh</h2>
-                <p class="text-white cs_fs_12 m-0">T1 Entertainment Sports</p>
-                <p class="text-white cs_fs_12 m-0">CEO</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">Joe Marsh</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">T1 Entertainment Sports</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO</p>
               </div>
             </div>
           </div>
@@ -591,9 +591,9 @@
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white m-0 cs_fs_20 cs_mb_3">Sir Leonard Blavatnik</h2>
-                <p class="text-white cs_fs_12 m-0">Access Industries</p>
-                <p class="text-white cs_fs_12 m-0">Founder</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">Sir Leonard Blavatnik</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Access Industries</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">Founder</p>
               </div>
             </div>
           </div>
@@ -606,9 +606,9 @@
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white m-0 cs_fs_20 cs_mb_3">Lisa Cosmas Hanson</h2>
-                <p class="text-white cs_fs_12 m-0">Niko Partners</p>
-                <p class="text-white cs_fs_12 m-0">CEO</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">Lisa Cosmas Hanson</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Niko Partners</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO</p>
               </div>
             </div>
           </div>
@@ -623,8 +623,8 @@
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white m-0 cs_fs_20 cs_mb_3">Magnus Carlsen</h2>
-                <p class="text-white cs_fs_12 m-0">World Chess Champion</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">Magnus Carlsen</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">World Chess Champion</p>
               </div>
             </div>
           </div>
@@ -637,9 +637,9 @@
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white m-0 cs_fs_20 cs_mb_3">Maya Rogers</h2>
-                <p class="text-white cs_fs_12 m-0">Tetris</p>
-                <p class="text-white cs_fs_12 m-0">CEO</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">Maya Rogers</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Tetris</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO</p>
               </div>
             </div>
           </div>
@@ -652,8 +652,8 @@
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white m-0 cs_fs_20 cs_mb_3">R.J. Cutler</h2>
-                <p class="text-white cs_fs_12 m-0">Oscar Nominated Documentary Filmmaker</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">R.J. Cutler</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Oscar Nominated Documentary Filmmaker</p>
               </div>
             </div>
           </div>
@@ -666,9 +666,9 @@
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white m-0 cs_fs_20 cs_mb_3">Ralf Reichert</h2>
-                <p class="text-white cs_fs_12 m-0">Esports World Cup Foundation</p>
-                <p class="text-white cs_fs_12 m-0">CEO</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">Ralf Reichert</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Esports World Cup Foundation</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO</p>
               </div>
             </div>
           </div>
@@ -681,9 +681,9 @@
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white m-0 cs_fs_20 cs_mb_3">Dr. Songyee Yoon</h2>
-                <p class="text-white cs_fs_12 m-0">Managing Partner</p>
-                <p class="text-white cs_fs_12 m-0">Principal Venture Partners</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">Dr. Songyee Yoon</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Managing Partner</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">Principal Venture Partners</p>
               </div>
             </div>
           </div>
@@ -696,9 +696,9 @@
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white m-0 cs_fs_20 cs_mb_3">Toshimoto Mitomo</h2>
-                <p class="text-white cs_fs_12 m-0">Sony Group Corporation</p>
-                <p class="text-white cs_fs_12 m-0">Executive Deputy President and CSO</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">Toshimoto Mitomo</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Sony Group Corporation</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">Executive Deputy President and CSO</p>
               </div>
             </div>
           </div>
