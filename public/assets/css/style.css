@@ -4866,6 +4866,11 @@ html .ui-button.ui-state-disabled:active {
   min-height: 520px;
 }
 
+.news-article img {
+  display: flex;
+  margin:0 auto;
+}
+
 @media screen and (max-width: 767px) {
   .speaker-modal .modal-header img {
     max-height:200px;

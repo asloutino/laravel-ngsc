@@ -1,7 +1,7 @@
 @extends('layout.layout')
 
 @section('content')
- <!-- Start Header Section -->
+    <!-- Start Header Section -->
     <header class="cs_site_header cs_style_1 cs_sticky_header cs_site_header_full_width">
       <!-- <div class="cs_top_header">
         <div class="container">
@@ -1005,7 +1005,7 @@
         <div class="row">
           <div class="col-lg-6">
             <div class="cs_post cs_style_1 shadow-sm cs_mb_30">
-              <a href="{{ url('blog-details') }}" class="cs_post_thumb d-block position-relative overflow-hidden">
+              <a href="{{ url('dates-for-2024-event-and-major-expansion') }}" class="cs_post_thumb d-block position-relative overflow-hidden">
                 <div class="cs_post_thumb-in cs_transition_5 background-filled h-100 w-100" data-src="{{ asset('assets/img/news/EWC_KV_MASTER.jpg') }}"></div>
               </a>
               <div class="cs_post_in">
@@ -1020,10 +1020,10 @@
                       <a href="">3 comments</a>
                     </li>
                   </ul> -->
-                  <h2 class="cs_post_title cs_lh_base cs_fs_20 cs_fs_lg_18 cs_mb_10"><a href="{{ url('blog-details') }}">Riyadh’s New Global Sport Conference Unveils Dates for 2024 Event and Major Expansion</a></h2>
+                  <h2 class="cs_post_title cs_lh_base cs_fs_20 cs_fs_lg_18 cs_mb_10"><a href="{{ url('dates-for-2024-event-and-major-expansion') }}">Riyadh’s New Global Sport Conference Unveils Dates for 2024 Event and Major Expansion</a></h2>
                   <div class="cs_post_subtitle">The premier conference for esports, sports, and gaming in the Middle East will be part of the Closing Weekend of the Esports World Cup in August 2024</div>
                 </div>
-                <a href="{{ url('blog-details') }}" class="cs_post_btn d-flex justify-content-between align-items-center cs_pl_40 cs_pr_40 cs_pb_10 cs_pt_10">
+                <a href="{{ url('dates-for-2024-event-and-major-expansion') }}" class="cs_post_btn d-flex justify-content-between align-items-center cs_pl_40 cs_pr_40 cs_pb_10 cs_pt_10">
                   <span class="cs_post_btn-text">Read More</span>
                   <div class="cs_post_btn-icon d-flex cs_transition_4">
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -1036,7 +1036,7 @@
           </div>
           <div class="col-lg-6">
             <div class="cs_post cs_style_1 shadow-sm cs_mb_30">
-              <a href="{{ url('blog-details') }}" class="cs_post_thumb d-block position-relative overflow-hidden">
+              <a href="{{ url('olympic-esports-games-to-be-hosted-in-the-kingdom-of-saudi-arabia') }}" class="cs_post_thumb d-block position-relative overflow-hidden">
                 <div class="cs_post_thumb-in cs_transition_5 background-filled h-100 w-100" data-src="{{ asset('assets/img/news/ANNOUNCEMENT.jpg') }}"></div>
               </a>
               <div class="cs_post_in">
@@ -1051,10 +1051,10 @@
                       <a href="">3 comments</a>
                     </li>
                   </ul> -->
-                  <h2 class="cs_post_title cs_lh_base cs_fs_20 cs_fs_lg_18 cs_mb_10"><a href="{{ url('blog-details') }}">Olympic Esports Games To Be Hosted In The Kingdom Of Saudi Arabia</a></h2>
+                  <h2 class="cs_post_title cs_lh_base cs_fs_20 cs_fs_lg_18 cs_mb_10"><a href="{{ url('olympic-esports-games-to-be-hosted-in-the-kingdom-of-saudi-arabia') }}">Olympic Esports Games To Be Hosted In The Kingdom Of Saudi Arabia</a></h2>
                   <div class="cs_post_subtitle">The International Olympic Committee (IOC) announced that it has partnered with the National Olympic Committee (NOC) of Saudi Arabia to host the inaugural Olympic Esports Games 2025 in the Kingdom of Saudi Arabia</div>
                 </div>
-                <a href="{{ url('blog-details') }}" class="cs_post_btn d-flex justify-content-between align-items-center cs_pl_40 cs_pr_40 cs_pb_10 cs_pt_10">
+                <a href="{{ url('olympic-esports-games-to-be-hosted-in-the-kingdom-of-saudi-arabia') }}" class="cs_post_btn d-flex justify-content-between align-items-center cs_pl_40 cs_pr_40 cs_pb_10 cs_pt_10">
                   <span class="cs_post_btn-text">Read More</span>
                   <div class="cs_post_btn-icon d-flex cs_transition_4">
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
