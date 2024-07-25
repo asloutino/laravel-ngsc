@@ -3533,6 +3533,14 @@ label {
   filter:grayscale(100%);
 }
 
+.cs_team:hover .cs_team_member img {
+  filter:grayscale(0%);
+}
+
+.cs_team_info h2 {
+  font-weight: 400;
+}
+
 /*--------------------------------------------------------------
   15. Testimonial
 ----------------------------------------------------------------*/
