@@ -33,47 +33,19 @@
             <div class="cs_main_header_center">
               <div class="cs_nav cs_primary_font fw-medium">
                 <ul class="cs_nav_list fw-medium text-uppercase">
-                  <li class="menu-item-has-children">
-                    <a href="{{ url('index') }}">Home</a>
-                    <ul>
-                      <li><a href="{{ url('index') }}">Business</a></li>
-                      <li><a href="{{ url('corporate') }}">Corporate</a></li>
-                      <li><a href="{{ url('finance') }}">Financial institute</a></li>
-                      <li><a href="{{ url('insurance') }}">Insurance Company</a></li>
-                      <li><a href="{{ url('consulting') }}">Consulting Agency</a></li>
-                      <li><a href="{{ url('business-with-ecommerce') }}">Business With E-Commerce</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="{{ url('about') }}">About</a></li>
-                  <li class="menu-item-has-children">
-                    <a href="#">Pages</a>
-                    <ul>
-                      <li><a href="{{ url('project-details') }}">Project Details</a></li>
-                      <li><a href="{{ url('services-details') }}">Service Details</a></li>
-                      <li><a href="{{ url('team') }}">Team </a></li>
-                      <li><a href="{{ url('team-details') }}">Team Member</a></li>
-                      <li><a href="{{ url('shop') }}">Our Store</a></li>
-                      <li><a href="{{ url('shop-product-details') }}">Product Details</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="{{ url('service') }}">Services</a></li>
-                  <li><a href="{{ url('portfolio') }}">Portfolio</a></li>
-                  <li class="menu-item-has-children">
-                    <a href="#">Blog</a>
-                    <ul>
-                      <li><a href="{{ url('blog-grid') }}">Blog Grid</a></li>
-                      <li><a href="{{ url('blog-list-with-sidebar') }}">Blog List With Sidebar</a></li>
-                      <li><a href="{{ url('blog-details') }}">Blog Details</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="{{ url('contact') }}">Contact</a></li>
+                  <li><a href="/#about-the-conference">About the Conference</a></li>
+                  <li><a href="/#conference-highlights">Conference Highlights</a></li>
+                  <li><a href="/#speakers">Speakers</a></li>
+                  <li><a href="/#topics">Topics</a></li>
+                  <li><a href="/#news">News</a></li>
+                  <li><a href="/#contact-us">Contact Us</a></li>
                 </ul>
               </div>
             </div>
             <div class="cs_main_header_right">
               <div class="cs_toolbox">
                 <div class="cs_hero_btn">
-                  <a href="{{ url('contact') }}" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>APPLY TO JOIN</span></a>
+                  <a href="/#apply-to-join" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_20 cs_pr_20 cs_pt_10 cs_pb_10 overflow-hidden"><span>APPLY TO JOIN</span></a>
                 </div>
               </div>
             </div>
@@ -218,9 +190,14 @@
     <!-- End Animated Text -->
 
     <!-- Start About Section -->
-    <section class="cs_pt_70 cs_pt_lg_35 cs_pb_35 cs_pb_lg_80 position-relative">
+    <section class="cs_pt_70 cs_pt_lg_35 cs_pb_35 cs_pb_lg_80 position-relative" id="about-the-conference">
       <div class="container">
         <div class="row">
+          <div class="col-lg-6 cs_mb_lg_55">
+            <div class="cs_experience cs_style_1 position-relative">
+              <img src="{{ asset('assets/img/about-the-ngsc-conference.jpg') }}" class="cs_mb_5">
+            </div>
+          </div>
           <div class="col-lg-6">
             <div class="cs_about cs_style_1">
               <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
@@ -232,9 +209,30 @@
               </div>
             </div>
           </div>
+        </div>
+      </div>
+    </section>
+    <!-- End About Section -->
+
+    <!-- Start About Section -->
+    <section class="cs_pt_0 cs_pt_lg_35 cs_pb_35 cs_pb_lg_80 position-relative" id="conference-highlights">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="cs_about cs_style_1">
+              <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
+                <div class="cs_section_heading_in">
+                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">THIS YEAR'S THEME</h3>
+                  <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">THE FUTURE OF FANDOM</h2>
+                  <p class="m-0">The New Global Sport Conference (NGSC) unites leaders from esports, gaming, business, sports, and entertainment to explore “The Future of Fandom.” The event will discuss fandom’s impact on business planning, content, IP and media rights, marketing, and community-building. This year, NGSC focuses on how fandom influences society, builds brand equity, and generates revenue through media rights, sponsorships, and merchandise.</p>
+                  <p class="mt-5">Sneak peeks of upcoming releases, behind-the-scenes insights, and opportunities to meet creators and stars will elevate this immersive experience, celebrate fandom culture and explore its transformative potential like never before.</p>
+                </div>
+              </div>
+            </div>
+          </div>
           <div class="col-lg-6 cs_mb_lg_55">
             <div class="cs_experience cs_style_1 position-relative">
-              <img src="{{ asset('assets/img/about-the-ngsc-conference.jpg') }}" class="cs_mb_5">
+              <img src="{{ asset('assets/img/Banner-1000x800-1.jpg') }}" class="cs_mb_5">
             </div>
           </div>
         </div>
@@ -513,7 +511,7 @@
     </div>
 
     <!-- Start Speakers Section -->
-    <section class="cs_pb_60 cs_pb_lg_55">
+    <section class="cs_pb_60 cs_pb_lg_55" id="speakers">
       <div class="container">
         <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
           <div class="cs_section_heading_in">
@@ -708,7 +706,7 @@
     <!-- End Speakers Section -->
 
     <!-- Start Topics Section -->
-    <section class="background-filled cs_pt_0 cs_pt_lg_75 cs_pb_75 cs_pb_lg_80">
+    <section class="background-filled cs_pt_0 cs_pt_lg_75 cs_pb_75 cs_pb_lg_80" id="topics">
       <div class="container">
         <div class="cs_gap_24">
           
@@ -885,61 +883,8 @@
     </section>
     <!-- End Topics Section -->
 
-    <!-- Start About Section -->
-    <section class="cs_pt_0 cs_pt_lg_35 cs_pb_35 cs_pb_lg_80 position-relative">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6 cs_mb_lg_55">
-            <div class="cs_experience cs_style_1 position-relative">
-              <a href="https://olympics.com/ioc/news/ioc-announces-olympic-esports-games-to-be-hosted-in-the-kingdom-of-saudi-arabia" target="_blank">
-                <img src="{{ asset('assets/img/IMG_3166-1024x572.jpg') }}" class="cs_mb_5">
-              </a>
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="cs_about cs_style_1">
-              <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
-                <div class="cs_section_heading_in">
-                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">NEW ANNOUNCEMENT</h3>
-                  <h2 class="cs_fs_36 cs_fs_lg_36 cs_mb_20">OLYMPIC ESPORTS GAMES TO BE HOSTED IN THE KINGDOM OF SAUDI ARABIA</h2>
-                  <p class="m-0">The International Olympic Committee (IOC) announced that it has partnered with the National Olympic Committee (NOC) of Saudi Arabia to host the inaugural Olympic Esports Games 2025 in the Kingdom of Saudi Arabia. This groundbreaking step follows the IOC’s recent announcement that the IOC Executive Board (EB) has established Olympic Esports Games.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- End About Section -->
-
-    <!-- Start About Section -->
-    <section class="cs_pt_0 cs_pt_lg_35 cs_pb_35 cs_pb_lg_80 position-relative">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6">
-            <div class="cs_about cs_style_1">
-              <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
-                <div class="cs_section_heading_in">
-                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">THIS YEAR'S THEME</h3>
-                  <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">THE FUTURE OF FANDOM</h2>
-                  <p class="m-0">The New Global Sport Conference (NGSC) unites leaders from esports, gaming, business, sports, and entertainment to explore “The Future of Fandom.” The event will discuss fandom’s impact on business planning, content, IP and media rights, marketing, and community-building. This year, NGSC focuses on how fandom influences society, builds brand equity, and generates revenue through media rights, sponsorships, and merchandise.</p>
-                  <p class="mt-5">Sneak peeks of upcoming releases, behind-the-scenes insights, and opportunities to meet creators and stars will elevate this immersive experience, celebrate fandom culture and explore its transformative potential like never before.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 cs_mb_lg_55">
-            <div class="cs_experience cs_style_1 position-relative">
-              <img src="{{ asset('assets/img/Banner-1000x800-1.jpg') }}" class="cs_mb_5">
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- End About Section -->
-
     <!-- Start 4 Boxes Section -->
-    <section class="cs_pb_115 cs_pb_lg_55 clipped-boxes">
+    <section class="cs_pb_80 cs_pb_lg_55 clipped-boxes">
       <div class="container">
         <div class="row">
           <div class="col-lg-3">
@@ -976,7 +921,7 @@
     <!-- End 4 Boxes Section -->
 
     <!-- Start Apply to Join Section -->
-    <section class="cs_pt_0 cs_pt_lg_35 cs_pb_35 cs_pb_lg_80 position-relative">
+    <section class="cs_pt_0 cs_pt_lg_35 cs_pb_35 cs_pb_lg_80 position-relative" id="apply-to-join">
       <div class="container">
         <div class="row">
         <div class="col-lg-7">
@@ -1047,9 +992,86 @@
       </div>
     </section>
     <!-- End About Section -->
+
+    <!-- Start Blog Section -->
+    <section class="cs_pt_35 cs_pt_lg_75 cs_pb_60 cs_pb_lg_50" id="news">
+      <div class="container">
+        <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_60 cs_mb_lg_40">
+          <div class="cs_section_heading_in">
+            <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">NEW GLOBAL SPORT CONFERENCE 2024</h3>
+            <h2 class="cs_fs_48 cs_fs_lg_36 m-0">NEWS</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-6">
+            <div class="cs_post cs_style_1 shadow-sm cs_mb_30">
+              <a href="{{ url('blog-details') }}" class="cs_post_thumb d-block position-relative overflow-hidden">
+                <div class="cs_post_thumb-in cs_transition_5 background-filled h-100 w-100" data-src="{{ asset('assets/img/news/EWC_KV_MASTER.jpg') }}"></div>
+              </a>
+              <div class="cs_post_in">
+                <div class="cs_post_info cs_pl_33 cs_pr_33 cs_pt_40 cs_pb_40">
+                  <!-- <ul class="cs_post_meta d-flex flex-wrap cs_fs_12 p-0 cs_mb_16">
+                    <li>
+                      <span><i class="fa-solid fa-user"></i> By </span> 
+                      <a href="">admin</a>
+                    </li>
+                    <li>
+                      <span><i class="fa-solid fa-comment-dots"></i></span> 
+                      <a href="">3 comments</a>
+                    </li>
+                  </ul> -->
+                  <h2 class="cs_post_title cs_lh_base cs_fs_20 cs_fs_lg_18 cs_mb_10"><a href="{{ url('blog-details') }}">Riyadh’s New Global Sport Conference Unveils Dates for 2024 Event and Major Expansion</a></h2>
+                  <div class="cs_post_subtitle">The premier conference for esports, sports, and gaming in the Middle East will be part of the Closing Weekend of the Esports World Cup in August 2024</div>
+                </div>
+                <a href="{{ url('blog-details') }}" class="cs_post_btn d-flex justify-content-between align-items-center cs_pl_40 cs_pr_40 cs_pb_10 cs_pt_10">
+                  <span class="cs_post_btn-text">Read More</span>
+                  <div class="cs_post_btn-icon d-flex cs_transition_4">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M11.9999 0.224976C6.52011 0.224976 1.63131 4.16368 0.485006 9.52707C-0.0876941 12.207 0.298106 15.0567 1.57581 17.4816C2.80551 19.8153 4.82151 21.7014 7.23351 22.7703C9.74241 23.8824 12.6227 24.0762 15.2597 23.3178C17.8037 22.5864 20.0594 20.9811 21.5951 18.8262C24.806 14.3211 24.3767 7.99288 20.5991 3.95608C18.3851 1.59028 15.2405 0.224976 11.9999 0.224976ZM17.6486 12.6291L14.4386 15.9165C13.6259 16.749 12.3413 15.4878 13.1507 14.6592L14.7704 13.0005H7.09461C6.54951 13.0005 6.09471 12.5454 6.09471 12.0006C6.09471 11.4558 6.54981 11.0007 7.09461 11.0007H14.732L13.0802 9.34918C12.2594 8.52838 13.532 7.25548 14.3528 8.07628L17.6411 11.3643C17.9897 11.7126 17.993 12.2766 17.6486 12.6291Z" fill="currentColor"/>
+                    </svg>  
+                  </div>                
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="cs_post cs_style_1 shadow-sm cs_mb_30">
+              <a href="{{ url('blog-details') }}" class="cs_post_thumb d-block position-relative overflow-hidden">
+                <div class="cs_post_thumb-in cs_transition_5 background-filled h-100 w-100" data-src="{{ asset('assets/img/news/ANNOUNCEMENT.jpg') }}"></div>
+              </a>
+              <div class="cs_post_in">
+                <div class="cs_post_info cs_pl_33 cs_pr_33 cs_pt_40 cs_pb_40">
+                  <!-- <ul class="cs_post_meta d-flex flex-wrap cs_fs_12 p-0 cs_mb_16">
+                    <li>
+                      <span><i class="fa-solid fa-user"></i> By </span> 
+                      <a href="">admin</a>
+                    </li>
+                    <li>
+                      <span><i class="fa-solid fa-comment-dots"></i></span> 
+                      <a href="">3 comments</a>
+                    </li>
+                  </ul> -->
+                  <h2 class="cs_post_title cs_lh_base cs_fs_20 cs_fs_lg_18 cs_mb_10"><a href="{{ url('blog-details') }}">Olympic Esports Games To Be Hosted In The Kingdom Of Saudi Arabia</a></h2>
+                  <div class="cs_post_subtitle">The International Olympic Committee (IOC) announced that it has partnered with the National Olympic Committee (NOC) of Saudi Arabia to host the inaugural Olympic Esports Games 2025 in the Kingdom of Saudi Arabia</div>
+                </div>
+                <a href="{{ url('blog-details') }}" class="cs_post_btn d-flex justify-content-between align-items-center cs_pl_40 cs_pr_40 cs_pb_10 cs_pt_10">
+                  <span class="cs_post_btn-text">Read More</span>
+                  <div class="cs_post_btn-icon d-flex cs_transition_4">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M11.9999 0.224976C6.52011 0.224976 1.63131 4.16368 0.485006 9.52707C-0.0876941 12.207 0.298106 15.0567 1.57581 17.4816C2.80551 19.8153 4.82151 21.7014 7.23351 22.7703C9.74241 23.8824 12.6227 24.0762 15.2597 23.3178C17.8037 22.5864 20.0594 20.9811 21.5951 18.8262C24.806 14.3211 24.3767 7.99288 20.5991 3.95608C18.3851 1.59028 15.2405 0.224976 11.9999 0.224976ZM17.6486 12.6291L14.4386 15.9165C13.6259 16.749 12.3413 15.4878 13.1507 14.6592L14.7704 13.0005H7.09461C6.54951 13.0005 6.09471 12.5454 6.09471 12.0006C6.09471 11.4558 6.54981 11.0007 7.09461 11.0007H14.732L13.0802 9.34918C12.2594 8.52838 13.532 7.25548 14.3528 8.07628L17.6411 11.3643C17.9897 11.7126 17.993 12.2766 17.6486 12.6291Z" fill="currentColor"/>
+                    </svg>  
+                  </div>                
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Blog Section -->
     
     <!-- Start Contact Us Section -->
-    <section class="cs_pt_0 cs_pt_lg_35 cs_pb_35 cs_pb_lg_80 position-relative">
+    <section class="cs_pt_0 cs_pt_lg_35 cs_pb_35 cs_pb_lg_80 position-relative" id="contact-us">
       <div class="container">
         <div class="row">
         <div class="col-lg-7">

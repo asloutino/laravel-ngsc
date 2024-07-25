@@ -2131,6 +2131,13 @@ label {
 
 .clipped-boxes .cs_team.cs_style_1 .cs_team_info p {
   text-align: left;
+  line-height: 20px;
+}
+
+.clipped-boxes .cs_team.cs_style_1,
+.clipped-boxes .cs_team_member img,
+.clipped-boxes .cs_team.cs_style_1 .cs_team_info {
+  padding-top:50px!important;
 }
 
 @media screen and (min-width: 1200px) {
@@ -2278,7 +2285,7 @@ label {
     margin-left: 25px;
   }
   .cs_nav .cs_nav_list > li {
-    margin-right: 35px;
+    margin-right: 20px;
   }
 }
 @media screen and (max-width: 1199px) {
@@ -2486,7 +2493,7 @@ label {
   padding: 0;
   display: grid;
   grid-gap: 10px;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .cs_text_widget p {
@@ -3457,8 +3464,8 @@ label {
   margin-right: 5px;
 }
 .cs_post.cs_style_1 .cs_post_btn {
-  background-color: rgba(112, 112, 112, 0.1);
-  color: #18191d;
+  background-color: #151515;
+  color: #fff;
 }
 .cs_post.cs_style_1 .cs_post_btn:hover {
   background-color: #926F34;

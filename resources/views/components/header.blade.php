@@ -28,41 +28,12 @@
               </a>
               <div class="cs_nav cs_primary_font fw-medium">
                 <ul class="cs_nav_list fw-medium text-uppercase">
-                  <li class="menu-item-has-children">
-                    <a href="{{ url('index') }}">Home</a>
-                    <ul>
-                      <li><a href="{{ url('index') }}">Business</a></li>
-                      <li><a href="{{ url('corporate') }}">Corporate</a></li>
-                      <li><a href="{{ url('finance') }}">Financial institute</a></li>
-                      <li><a href="{{ url('insurance') }}">Insurance Company</a></li>
-                      <li><a href="{{ url('consulting') }}">Consulting Agency</a></li>
-                      <li><a href="{{ url('business-with-ecommerce') }}">Business With E-Commerce</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="{{ url('about') }}">About</a></li>
-                  <li class="menu-item-has-children">
-                    <a href="#">Pages</a>
-                    <ul>
-                      <li><a href="{{ url('project-details') }}">Project Details</a></li>
-                      <li><a href="{{ url('services-details') }}">Service Details</a></li>
-                      <li><a href="{{ url('team') }}">Team </a></li>
-                      <li><a href="{{ url('team-details') }}">Team Member</a></li>
-                      <li><a href="{{ url('pricing') }}">Pricing Page</a></li>
-                      <li><a href="{{ url('shop') }}">Our Store</a></li>
-                      <li><a href="{{ url('shop-product-details') }}">Product Details</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="{{ url('service') }}">Services</a></li>
-                  <li><a href="{{ url('portfolio') }}">Portfolio</a></li>
-                  <li class="menu-item-has-children">
-                    <a href="#">Blog</a>
-                    <ul>
-                      <li><a href="{{ url('blog-grid') }}">Blog Grid</a></li>
-                      <li><a href="{{ url('blog-list-with-sidebar') }}">Blog List With Sidebar</a></li>
-                      <li><a href="{{ url('blog-details') }}">Blog Details</a></li>
-                    </ul>
-                  </li>
-                  <li><a href="{{ url('contact') }}">Contact</a></li>
+                  <li><a href="{{ url('index') }}">About the Conference</a></li>
+                  <li><a href="{{ url('about') }}">Conference Highlights</a></li>
+                  <li><a href="{{ url('service') }}">Speakers</a></li>
+                  <li><a href="{{ url('portfolio') }}">Topics</a></li>
+                  <li><a href="{{ url('contact') }}">News</a></li>
+                  <li><a href="{{ url('contact') }}">Contact Us</a></li>
                 </ul>
               </div>
             </div>
