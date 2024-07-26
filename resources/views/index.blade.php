@@ -193,9 +193,8 @@
     <section class="cs_pt_70 cs_pt_lg_35 cs_pb_35 cs_pb_lg_80 position-relative" id="about-the-conference">
       <div class="container">
         <div class="row">
-          <div class="col-lg-6 cs_mb_lg_55">
+          <div class="col-lg-6 cs_mb_lg_55 ngsc-conference-bg">
             <div class="cs_experience cs_style_1 position-relative">
-              <img src="{{ asset('assets/img/about-the-ngsc-conference.jpg') }}" class="cs_mb_5">
             </div>
           </div>
           <div class="col-lg-6">
@@ -548,7 +547,7 @@
     </div>
 
     <!-- Start Speakers Section -->
-    <section class="cs_pb_40 cs_pb_lg_55" id="speakers">
+    <section class="cs_pb_20 cs_pb_lg_55" id="speakers">
       <div class="container">
         <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
           <div class="cs_section_heading_in">

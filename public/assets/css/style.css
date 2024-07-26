@@ -4880,7 +4880,18 @@ html .ui-button.ui-state-disabled:active {
   background-repeat: no-repeat;
 }
 
+.ngsc-conference-bg {
+  background: url(../img/about-the-ngsc-conference.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top left;
+}
+
 @media screen and (max-width: 767px) {
+  .ngsc-conference-bg {
+    min-height: 280px;
+  }
+
   .speaker-modal .modal-header img {
     max-height:200px;
     margin-bottom:20px;
