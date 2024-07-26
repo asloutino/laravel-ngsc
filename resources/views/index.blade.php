@@ -1013,6 +1013,7 @@
           </div>
           <div class="col-lg-5 cs_mb_lg_55">
             <form class="row">
+              @csrf {{-- Cross-Site Request Forgery protection --}}
               <div class="col-lg-6">
                 <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="First Name">
               </div>
@@ -1085,33 +1086,41 @@
             </div>
           </div>
           <div class="col-lg-5 cs_mb_lg_55">
-            <form class="row">
+            <form class="row" method="POST" action="{{ route('contact.submit') }}">
+              @csrf {{-- Cross-Site Request Forgery protection --}}
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="First Name">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-first-name" id="contact-first-name" type="text" placeholder="First Name">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Last Name">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-last-name" id="contact-last-name" type="text" placeholder="Last Name">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Email">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-email" id="contact-email" type="text" placeholder="Email">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Phone">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-phone" id="contact-phone" type="text" placeholder="Phone">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Position">
+                <select class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-subject" id="contact-subject">
+                  <option value="">—Please choose an option—</option>
+                  <option value="Delegate Application">Delegate Application</option>
+                  <option value="Speaker Application">Speaker Application</option>
+                  <option value="Partnership Opportunity">Partnership Opportunity</option>
+                  <option value="Media Accreditation &amp; Inquiries">Media Accreditation &amp; Inquiries</option>
+                  <option value="General Inquiries">General Inquiries</option>
+                </select>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Company">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-company" id="contact-company" type="text" placeholder="Company">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Position">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-position" id="contact-position" type="text" placeholder="Position">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Industry">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-industry" id="contact-industry" type="text" placeholder="Industry">
               </div>
               <div class="col-lg-12">
-                <textarea class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_15" placeholder="Message" cols="35" rows="7"></textarea>
+                <textarea class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_15" name="contact-message" id="contact-message" placeholder="Message" cols="35" rows="7"></textarea>
               </div>
               <div class="col-lg-12">
                 <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Get in Touch</span></button>
