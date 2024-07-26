@@ -4,8 +4,8 @@
     <title>Contact Form Submission</title>
 </head>
 <body>
-    <p>Name: {{ $details['name'] }}</p>
-    <p>Email: {{ $details['email'] }}</p>
-    <p>Message: {{ $details['message'] }}</p>
+    <p>Name: {{ $details['contact-first-name'] }}</p>
+    <p>Email: {{ $details['contact-email'] }}</p>
+    <p>Message: {{ $details['contact-message'] }}</p>
 </body>
 </html>
