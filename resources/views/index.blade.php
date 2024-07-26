@@ -546,7 +546,7 @@
       </div>
     </div>
 
-    <!-- Start Speakers Section -->
+    <!-- Start Speakers Section  -->
     <section class="cs_pb_20 cs_pb_lg_55" id="speakers">
       <div class="container">
         <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
