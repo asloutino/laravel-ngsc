@@ -548,7 +548,7 @@
     </div>
 
     <!-- Start Speakers Section -->
-    <section class="cs_pb_60 cs_pb_lg_55" id="speakers">
+    <section class="cs_pb_40 cs_pb_lg_55" id="speakers">
       <div class="container">
         <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
           <div class="cs_section_heading_in">
@@ -743,7 +743,7 @@
     <!-- End Speakers Section -->
 
     <!-- Start Topics Section -->
-    <section class="background-filled cs_pt_0 cs_pt_lg_75 cs_pb_75 cs_pb_lg_80" id="topics">
+    <section class="background-filled cs_pt_0 cs_pt_lg_75 cs_pb_50 cs_pb_lg_80" id="topics">
       <div class="container">
         <div class="cs_gap_24">
           
@@ -936,7 +936,7 @@
                 <div class="cs_post_thumb-in cs_transition_5 h-100 w-100" data-src="{{ asset('assets/img/news/EWC_KV_MASTER.jpg') }}"></div>
               </a>
               <div class="cs_post_in">
-                <div class="cs_post_info cs_pl_33 cs_pr_33 cs_pt_40 cs_pb_40">
+                <div class="cs_post_info cs_pl_10 cs_pr_10 cs_pt_40 cs_pb_40">
                   <!-- <ul class="cs_post_meta d-flex flex-wrap cs_fs_12 p-0 cs_mb_16">
                     <li>
                       <span><i class="fa-solid fa-user"></i> By </span> 
@@ -967,7 +967,7 @@
                 <div class="cs_post_thumb-in cs_transition_5 h-100 w-100" data-src="{{ asset('assets/img/news/ANNOUNCEMENT.jpg') }}"></div>
               </a>
               <div class="cs_post_in">
-                <div class="cs_post_info cs_pl_33 cs_pr_33 cs_pt_40 cs_pb_40">
+                <div class="cs_post_info cs_pl_10 cs_pr_10 cs_pt_40 cs_pb_40">
                   <!-- <ul class="cs_post_meta d-flex flex-wrap cs_fs_12 p-0 cs_mb_16">
                     <li>
                       <span><i class="fa-solid fa-user"></i> By </span> 
@@ -979,7 +979,7 @@
                     </li>
                   </ul> -->
                   <h2 class="cs_post_title cs_lh_base cs_fs_20 cs_fs_lg_18 cs_mb_10"><a href="{{ url('olympic-esports-games-to-be-hosted-in-the-kingdom-of-saudi-arabia') }}">Olympic Esports Games To Be Hosted In The Kingdom Of Saudi Arabia</a></h2>
-                  <div class="cs_post_subtitle">The International Olympic Committee (IOC) announced that it has partnered with the National Olympic Committee (NOC) of Saudi Arabia to host the inaugural ...</div>
+                  <div class="cs_post_subtitle">The International Olympic Committee (IOC) announced that it has partnered with the National Olympic Committee (NOC) of Saudi Arabia to host ...</div>
                 </div>
                 <a href="{{ url('olympic-esports-games-to-be-hosted-in-the-kingdom-of-saudi-arabia') }}" class="cs_post_btn d-flex justify-content-between align-items-center cs_pl_40 cs_pr_40 cs_pb_10 cs_pt_10">
                   <span class="cs_post_btn-text">Read More</span>
