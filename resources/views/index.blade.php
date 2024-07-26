@@ -1014,22 +1014,22 @@
           <div class="col-lg-5 cs_mb_lg_55">
             <form class="row">
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_35 bg-gray" type="text" placeholder="First Name">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="First Name">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_35 bg-gray" type="text" placeholder="Last Name">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Last Name">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_35 bg-gray" type="text" placeholder="Email">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Email">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_35 bg-gray" type="text" placeholder="Company">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Company">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_35 bg-gray" type="text" placeholder="Position">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Position">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_35 bg-gray" type="text" placeholder="Industry">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Industry">
               </div>
               <div class="col-lg-12">
                 <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Apply to Join</span></button>
@@ -1087,31 +1087,31 @@
           <div class="col-lg-5 cs_mb_lg_55">
             <form class="row">
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_35 bg-gray" type="text" placeholder="First Name">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="First Name">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_35 bg-gray" type="text" placeholder="Last Name">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Last Name">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_35 bg-gray" type="text" placeholder="Email">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Email">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_35 bg-gray" type="text" placeholder="Phone">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Phone">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_35 bg-gray" type="text" placeholder="Position">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Position">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_35 bg-gray" type="text" placeholder="Company">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Company">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_35 bg-gray" type="text" placeholder="Position">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Position">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_35 bg-gray" type="text" placeholder="Industry">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Industry">
               </div>
               <div class="col-lg-12">
-                <textarea class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_40 bg-gray" placeholder="Message" cols="35" rows="7"></textarea>
+                <textarea class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_15" placeholder="Message" cols="35" rows="7"></textarea>
               </div>
               <div class="col-lg-12">
                 <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Get in Touch</span></button>

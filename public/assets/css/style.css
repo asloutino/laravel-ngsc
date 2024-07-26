@@ -349,13 +349,15 @@ textarea {
 }
 
 .form-control {
-  background: #f6f6f6;
-  padding: 19px 20px;
+  background: none;
+  padding: 12px 20px;
+  color: #fff;
+  border-bottom: 1px solid #fff !important;
+  transition: .4s;
 }
 .form-control:focus {
-  color: #18191d;
-  background-color: #f6f6f6;
-  box-shadow: 0 0 0 0.25rem rgba(233, 161, 50, 0.25);
+  color: #151515;
+    background-color: #f6f6f6;
 }
 
 .form-control-2 {
