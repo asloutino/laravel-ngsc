@@ -2957,6 +2957,10 @@ label {
   .cs_hero.cs_style_1 br {
     display: none;
   }
+
+  .cs_hero.cs_style_1 .cs_swiper_parallax_bg {
+    background-image:url(../img/EWC_vertical-kv_final.jpg)!important;
+  }
 }
 @media (max-width: 575px) {
   .cs_hero.cs_style_1 {
@@ -4869,6 +4873,11 @@ html .ui-button.ui-state-disabled:active {
 .news-article img {
   display: flex;
   margin:0 auto;
+}
+
+#news .cs_post_thumb-in {
+  background-size: contain!important;
+  background-repeat: no-repeat;
 }
 
 @media screen and (max-width: 767px) {

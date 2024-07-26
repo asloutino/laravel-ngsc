@@ -34,14 +34,6 @@
                 <h5>About the Esports World Cup</h5>
                 <p>The Esports World Cup is a global celebration of competitive excellence and esports fandom. The competition features a unique cross-game structure that will pit the world’s top esports teams and athletes against one another for the largest-ever prize pool. Debuting in the summer of 2024, gamers, publishers, and fans from around the globe will come together in Riyadh, Saudi Arabia, to crown the world’s first Esports World Cup Club Champion. https://esportsworldcup.com/en</p>
                 <p>Kicking off on July 2, the Esports World Cup is an eight-week celebration of competitive excellence and esports fandom that will draw the world’s top Clubs together to Riyadh, Saudi Arabia. The world’s best esports Clubs will compete in 22 competitions featuring the world’s top 21 games, in a global esports spectacle that will ultimately find and crown the first World Cup Club Champion. The qualified Clubs are competing for over $60 million in prize money.</p>
-                <h5>Further Information</h5>
-                <p>For more information, imagery, media accreditation, or to request an interview with a spokesperson, please contact:
-                  <ul>
-                    <li>David Drury</li>
-                    <li>Global PR Lead</li>
-                    <li>T: +44 7488 285747</li>
-                    <li>E: david@innes.agency</li>
-                  </p>
               </div>
             </div>
           </div>
