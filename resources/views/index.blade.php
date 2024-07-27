@@ -286,8 +286,8 @@
             </div>
             <div class="col-lg-8">
             <h2 class="modal-title fs-5" id="staticBackdropLabel">HRH Prince Faisal bin Bandar</h2>
-              <p class="text-white m-0"></p>
-              <p class="text-white m-0"></p>
+              <p class="text-white m-0">Chairman of the Saudi  Esports Federation</p>
+              <p class="text-white m-0">Vice Chairman of the Esports World Cup Foundation</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -332,8 +332,8 @@
             </div>
             <div class="col-lg-8">
             <h2 class="modal-title fs-5" id="staticBackdropLabel">Greg Norman</h2>
-              <p class="text-white m-0"></p>
-              <p class="text-white m-0"></p>
+              <p class="text-white m-0">CEO</p>
+              <p class="text-white m-0">Liv Golf</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -566,8 +566,8 @@
               </div> 
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">HRH Prince Faisal bin Bandar</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base"></p>
-                <p class="text-white cs_fs_12 m-0 lh-base"></p>
+                <p class="text-white cs_fs_12 m-0 lh-base">Chairman of the Saudi  Esports Federation</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">Vice Chairman of the Esports World Cup Foundation</p>
               </div>
             </div>
           </div>
@@ -596,8 +596,8 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Greg Norman</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base"></p>
-                <p class="text-white cs_fs_12 m-0 lh-base"></p>
+                <p class="text-white cs_fs_12 m-0 lh-base">Liv Golf</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO</p>
               </div>
             </div>
           </div>
