@@ -229,9 +229,8 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-6 cs_mb_lg_55">
+          <div class="col-lg-6 cs_mb_lg_55 ngsc-about-bg">
             <div class="cs_experience cs_style_1 position-relative">
-              <img src="{{ asset('assets/img/Banner-1000x800-1.jpg') }}" class="cs_mb_5">
             </div>
           </div>
         </div>
@@ -1046,9 +1045,8 @@
     <section class="cs_pt_0 cs_pt_lg_35 cs_pb_35 cs_pb_lg_80 position-relative" id="the-esports-world-cup">
       <div class="container">
         <div class="row">
-          <div class="col-lg-6 cs_mb_lg_55">
+          <div class="col-lg-6 cs_mb_lg_55 ngsc-ecw-bg">
             <div class="cs_experience cs_style_1 position-relative">
-              <img src="{{ asset('assets/img/esportsworldcup.jpg') }}" class="cs_mb_5">
             </div>
           </div>
           <div class="col-lg-6">

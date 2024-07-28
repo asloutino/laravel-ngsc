@@ -4889,8 +4889,24 @@ html .ui-button.ui-state-disabled:active {
   background-position: top left;
 }
 
+.ngsc-about-bg {
+  background: url(../img/banner-bg-ngsc.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top left;
+}
+
+.ngsc-ecw-bg {
+  background: url(../img/banner-bg-ngsc1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top left;
+}
+
 @media screen and (max-width: 767px) {
-  .ngsc-conference-bg {
+  .ngsc-conference-bg,
+  .ngsc-about-bg,
+  .ngsc-ecw-bg {
     min-height: 280px;
   }
 
