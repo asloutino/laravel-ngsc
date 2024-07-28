@@ -124,11 +124,11 @@
       }
 
       if ($header.hasClass('cs-gescout_sticky')) {
-        if (windowTop < lastScrollTop) {
+        // if (windowTop < lastScrollTop) {
           $header.addClass('cs-gescout_show');
-        } else {
-          $header.removeClass('cs-gescout_show');
-        }
+        // } else {
+        //   $header.removeClass('cs-gescout_show');
+        // }
       }
 
       lastScrollTop = windowTop;
