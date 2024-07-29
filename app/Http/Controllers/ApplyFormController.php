@@ -19,9 +19,9 @@ class ApplyFormController extends Controller
             'apply-industry' => 'required|min:3|max:255',
         ]);
 
-        if ($validatedData->fails()) {
-            return response()->json(['errors' => $validatedData->errors()]);
-        }
+        // if ($validatedData->fails()) {
+        //     return response()->json(['errors' => $validatedData->errors()]);
+        // }
 
         // Capture the data
         $first_name = $request->input('apply-first-name');
