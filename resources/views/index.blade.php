@@ -993,7 +993,7 @@
             </div>
           </div>
           <div class="col-lg-5 cs_mb_lg_55">
-            <form class="row">
+            <form class="row" method="POST" action="{{ route('apply.submit') }}">
               @csrf {{-- Cross-Site Request Forgery protection --}}
               <div class="col-lg-6">
                 <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="First Name">
