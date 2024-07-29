@@ -2060,7 +2060,7 @@ label {
 
 .cs_site_branding {
   display: inline-block;
-  width: 172px;
+  width: 140px;
 }
 .cs_site_branding + .cs_nav {
   margin-left: 65px;
@@ -2858,7 +2858,7 @@ label {
   border-top: 3px solid #926F34;
 }
 .cs_service.cs_style_1 .cs_service_thumb {
-  height: 242px;
+  height: 330px;
   margin-left: -10px;
   width: calc(100% + 20px);
 }
@@ -2938,7 +2938,7 @@ label {
 .cs_hero.cs_style_1 {
   height: 95vh;
   max-height: 900px;
-  padding: 0 160px 50px;
+  padding: 160px 0 160px 50px;
 }
 @media (max-width: 1500px) {
   .cs_hero.cs_style_1 {
@@ -2966,7 +2966,7 @@ label {
 }
 @media (max-width: 575px) {
   .cs_hero.cs_style_1 {
-    padding: 0 0px 80px;
+    padding: 110px 0 80px 0;
     min-height: 94vh;
     height: initial;
   }
@@ -4916,7 +4916,7 @@ html .ui-button.ui-state-disabled:active {
   }
 
   .cs_site_branding {
-    width: 125px;
+    width: 105px;
   }
 
   .cs_moving_wrap {

@@ -61,16 +61,16 @@
         <div class="cs_parallax_slider loading">
           <div class="swiper-wrapper">
             <div class="swiper-slide">
-              <div class="cs_hero cs_style_1 d-flex align-items-center justify-content-center background-filled position-relative overflow-hidden">
+              <div class="cs_hero cs_style_1 d-flex justify-content-center background-filled position-relative overflow-hidden">
                 <figure class="cs_swiper_parallax_bg" data-src="{{ asset('assets/img/EWC_KV_MASTER_FINAL_RGB.jpg') }}">
                   <img src="{{ asset('assets/img/hero_slider_1.jpeg') }}" alt="Slider" class="cs_entity_img">
                   <!-- <div class="bg-primary opacity-75 position-absolute w-100 h-100 start-0 top-0"></div> -->
                 </figure>
                 <div class="container text-center">
                   <div class="cs_hero_text position-relative cs_zindex_5 d-inline-block">
-                    <h1 class="text-white cs_mb_16 cs_fs_50 cs_fs_lg_46">THE FUTURE OF FANDOM</h1>
-                    <h2 class="text-white cs_mb_5 fw-normal cs_fs_18">Four Seasons Hotel Riyadh</h2>
-                    <p class="text-white cs_mb_20">August 24-25, 2024</p>
+                    <h1 class="text-white cs_mb_12 cs_fs_50 cs_fs_lg_36">THE FUTURE OF FANDOM</h1>
+                    <h2 class="text-white cs_mb_0 fw-normal cs_fs_16">Four Seasons Hotel Riyadh</h2>
+                    <p class="text-white cs_fs_14 cs_mb_20">August 24-25, 2024</p>
                   </div>
                 </div>
               </div>
@@ -224,7 +224,7 @@
                   <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">THIS YEAR'S THEME</h3>
                   <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">THE FUTURE OF FANDOM</h2>
                   <p class="m-0">The New Global Sport Conference (NGSC) unites leaders from esports, gaming, business, sports, and entertainment to explore “The Future of Fandom.” The event will discuss fandom’s impact on business planning, content, IP and media rights, marketing, and community-building. This year, NGSC focuses on how fandom influences society, builds brand equity, and generates revenue through media rights, sponsorships, and merchandise.</p>
-                  <p class="mt-5">Sneak peeks of upcoming releases, behind-the-scenes insights, and opportunities to meet creators and stars will elevate this immersive experience, celebrate fandom culture and explore its transformative potential like never before.</p>
+                  <p class="mt-2">Sneak peeks of upcoming releases, behind-the-scenes insights, and opportunities to meet creators and stars will elevate this immersive experience, celebrate fandom culture and explore its transformative potential like never before.</p>
                 </div>
               </div>
             </div>
@@ -245,7 +245,7 @@
           <div class="col-6 col-lg-3">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden">
               <div class="cs_team_info cs_pt_25 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
-                <p class="text-white m-0">Join the two-day program with thought leaders and experts, covering key esports challenges and opportunities</p>
+                <p class="text-white m-0">Join the 2-day program with thought leaders covering key esports challenges & opportunities</p>
               </div>
             </div>
           </div>
@@ -776,7 +776,7 @@
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                       <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">BECOMING A MODERN SPORTS HERO</h2>
                     </div>
-                    <p class="cs_mb_20 lh-base">Sports, Gaming and The Relentless Pursuit of Greatness</p>
+                    <!-- <p class="cs_mb_20 lh-base">Sports, Gaming and The Relentless Pursuit of Greatness</p> -->
                   </div>
                 </div>
                 <div class="cs_slide topicimg2">
@@ -785,7 +785,7 @@
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                       <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">GAME ON, SAUDI ARABIA</h2>
                     </div>
-                    <p class="cs_mb_20 lh-base">Gaming & Sports as the Kingdom’s Gateway to the World</p>
+                    <!-- <p class="cs_mb_20 lh-base">Gaming & Sports as the Kingdom’s Gateway to the World</p> -->
                   </div>
                 </div>
                 <div class="cs_slide topicimg3">
@@ -794,7 +794,7 @@
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                       <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">BUILDING A NEW GLOBAL SPORT</h2>
                     </div>
-                    <p class="cs_mb_20 lh-base">Esports, Traditional Sports & How to Craft a New Global Sporting Legacy</p>
+                    <!-- <p class="cs_mb_20 lh-base">Esports, Traditional Sports & How to Craft a New Global Sporting Legacy</p> -->
                   </div>
                 </div>
                 <div class="cs_slide topicimg4">
@@ -803,7 +803,7 @@
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                       <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">NAVIGATING GROWTH IN GAMES & ENTERTAINMENT</h2>
                     </div>
-                    <p class="cs_mb_20 lh-base">Consolidation, Innovation, New Markets & New Fans</p>
+                    <!-- <p class="cs_mb_20 lh-base">Consolidation, Innovation, New Markets & New Fans</p> -->
                   </div>
                 </div>
                 <div class="cs_slide topicimg1">
@@ -812,7 +812,7 @@
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                       <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">THE CULTURAL IDENTITY OF FUTURE FANDOM</h2>
                     </div>
-                    <p class="cs_mb_20 lh-base">Esports Meets Fashion, Art & Music</p>
+                    <!-- <p class="cs_mb_20 lh-base">Esports Meets Fashion, Art & Music</p> -->
                   </div>
                 </div>
                 <div class="cs_slide topicimg2">
@@ -821,7 +821,7 @@
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                       <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">THE ART OF (E)SPORTS STORYTELLING</h2>
                     </div>
-                    <p class="cs_mb_20 lh-base">Crafting Compelling Sports Narratives</p>
+                    <!-- <p class="cs_mb_20 lh-base">Crafting Compelling Sports Narratives</p> -->
                   </div>
                 </div>
                 <div class="cs_slide topicimg3">
@@ -830,7 +830,7 @@
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                       <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">PIONEERING THE PLATFORMS OF FANDOM</h2>
                     </div>
-                    <p class="cs_mb_20 lh-base">The Role of Tech Giants in Shaping Esports</p>
+                    <!-- <p class="cs_mb_20 lh-base">The Role of Tech Giants in Shaping Esports</p> -->
                   </div>
                 </div>
                 <div class="cs_slide topicimg4">
@@ -839,7 +839,7 @@
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                       <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">CAN TRADITION SURVIVE THE DIGITAL AGE?</h2>
                     </div>
-                    <p class="cs_mb_20 lh-base">Enhancing Traditional Sports and Creating New Fans</p>
+                    <!-- <p class="cs_mb_20 lh-base">Enhancing Traditional Sports and Creating New Fans</p> -->
                   </div>
                 </div>
                 <div class="cs_slide topicimg1">
@@ -848,7 +848,7 @@
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                       <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">CREATING FAN FAVORITE GAMES</h2>
                     </div>
-                    <p class="cs_mb_20 lh-base">Exploring Key Factors for Video Game Longevity in Development & Publishing</p>
+                    <!-- <p class="cs_mb_20 lh-base">Exploring Key Factors for Video Game Longevity in Development & Publishing</p> -->
                   </div>
                 </div>
                 <div class="cs_slide topicimg2">
@@ -857,7 +857,7 @@
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                       <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">FAN FRENZY MARKETING</h2>
                     </div>
-                    <p class="cs_mb_20 lh-base">Mastering Engagement and Excitement in Esports, Sports & Gaming</p>
+                    <!-- <p class="cs_mb_20 lh-base">Mastering Engagement and Excitement in Esports, Sports & Gaming</p> -->
                   </div>
                 </div>
                 <div class="cs_slide topicimg3">
@@ -866,7 +866,7 @@
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                       <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">WHEN AI WAS STILL BOTS: ALGORITHMS IN ESPORTS</h2>
                     </div>
-                    <p class="cs_mb_20 lh-base">The Past and Present of Training, Strategy & Engagement</p>
+                    <!-- <p class="cs_mb_20 lh-base">The Past and Present of Training, Strategy & Engagement</p> -->
                   </div>
                 </div>
                 <div class="cs_slide topicimg4">
@@ -875,7 +875,7 @@
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                       <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">BREAKING BOUNDARIES IN GAMES AND ESPORTS</h2>
                     </div>
-                    <p class="cs_mb_20 lh-base">Driving Diversity, Inclusion & Social Responsibility in the Games Industry</p>
+                    <!-- <p class="cs_mb_20 lh-base">Driving Diversity, Inclusion & Social Responsibility in the Games Industry</p> -->
                   </div>
                 </div>
                 <div class="cs_slide topicimg1">
@@ -884,7 +884,7 @@
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                       <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">REBOOTING SUCCESS</h2>
                     </div>
-                    <p class="cs_mb_20 lh-base">Lessons from Serial Entrepreneurs in Esports, Sports and Games</p>
+                    <!-- <p class="cs_mb_20 lh-base">Lessons from Serial Entrepreneurs in Esports, Sports and Games</p> -->
                   </div>
                 </div>
                 <div class="cs_slide topicimg2">
@@ -893,7 +893,7 @@
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
                       <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">CULTURAL CROSSROADS IN GAMES</h2>
                     </div>
-                    <p class="cs_mb_20 lh-base">Integrating Saudi Arabia’s Rich Artistic Heritage and Culture into Gaming</p>
+                    <!-- <p class="cs_mb_20 lh-base">Integrating Saudi Arabia’s Rich Artistic Heritage and Culture into Gaming</p> -->
                   </div>
                 </div>
               </div>
@@ -946,7 +946,7 @@
                     </li>
                   </ul> -->
                   <h2 class="cs_post_title cs_lh_base cs_fs_20 cs_fs_lg_18 cs_mb_10"><a href="{{ url('dates-for-2024-event-and-major-expansion') }}">Riyadh’s New Global Sport Conference Unveils Dates for 2024 Event and Major Expansion</a></h2>
-                  <div class="cs_post_subtitle">The premier conference for esports, sports, and gaming in the Middle East will be part of the Closing Weekend of the Esports World Cup in August 2024</div>
+                  <!-- <div class="cs_post_subtitle">The premier conference for esports, sports, and gaming in the Middle East will be part of the Closing Weekend of the Esports World Cup in August 2024</div> -->
                 </div>
                 <a href="{{ url('dates-for-2024-event-and-major-expansion') }}" class="cs_post_btn d-flex justify-content-between align-items-center cs_pl_40 cs_pr_40 cs_pb_10 cs_pt_10">
                   <span class="cs_post_btn-text">Read More</span>
@@ -977,7 +977,7 @@
                     </li>
                   </ul> -->
                   <h2 class="cs_post_title cs_lh_base cs_fs_20 cs_fs_lg_18 cs_mb_10"><a href="{{ url('olympic-esports-games-to-be-hosted-in-the-kingdom-of-saudi-arabia') }}">Olympic Esports Games To Be Hosted In The Kingdom Of Saudi Arabia</a></h2>
-                  <div class="cs_post_subtitle">The International Olympic Committee (IOC) announced that it has partnered with the National Olympic Committee (NOC) of Saudi Arabia to host ...</div>
+                  <!-- <div class="cs_post_subtitle">The International Olympic Committee (IOC) announced that it has partnered with the National Olympic Committee (NOC) of Saudi Arabia to host ...</div> -->
                 </div>
                 <a href="{{ url('olympic-esports-games-to-be-hosted-in-the-kingdom-of-saudi-arabia') }}" class="cs_post_btn d-flex justify-content-between align-items-center cs_pl_40 cs_pr_40 cs_pb_10 cs_pt_10">
                   <span class="cs_post_btn-text">Read More</span>
@@ -1032,7 +1032,7 @@
                 <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" type="text" placeholder="Industry">
               </div>
               <div class="col-lg-12">
-                <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Apply to Join</span></button>
+                <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 cs_mt_20 overflow-hidden"><span>Apply to Join</span></button>
               </div>
             </form>
           </div>
@@ -1121,7 +1121,7 @@
                 <textarea class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_15" name="contact-message" id="contact-message" placeholder="Message" cols="35" rows="7"></textarea>
               </div>
               <div class="col-lg-12">
-                <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Get in Touch</span></button>
+                <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 cs_mt_20 overflow-hidden"><span>Get in Touch</span></button>
               </div>
             </form>
           </div>
