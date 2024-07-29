@@ -23,8 +23,14 @@ class ContactFormController extends Controller
         ]);
 
         // Capture the data
-        $name = $request->input('contact-first-name').' '.$request->input('contact-last-name');
+        $first_name = $request->input('contact-first-name');
+        $last_name = $request->input('contact-last-name');
         $email = $request->input('contact-email');
+        $phone = $request->input('contact-phone');
+        $inquiry = $request->input('contact-subject');
+        $company = $request->input('contact-company');
+        $position = $request->input('contact-position');
+        $industry = $request->input('contact-industry');
         $message = $request->input('contact-message');
 
         Mail::to('etienne.wansa@gmail.com')->send(new ContactMail($validatedData));
