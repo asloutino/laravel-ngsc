@@ -285,8 +285,7 @@
             </div>
             <div class="col-lg-8">
             <h2 class="modal-title fs-5" id="staticBackdropLabel">HRH Prince Faisal bin Bandar</h2>
-              <p class="text-white m-0">Chairman of the Saudi  Esports Federation</p>
-              <p class="text-white m-0">Vice Chairman of the Esports World Cup Foundation</p>
+              <p class="text-white m-0">Chairman, Saudi Esports Federation</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -307,8 +306,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Andrew Chen</h2>
-              <p class="text-white m-0">General Partner</p>
-              <p class="text-white m-0">Andreessen Horowitz</p>
+              <p class="text-white m-0">General Partner, Andreessen Horowitz</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -331,8 +329,7 @@
             </div>
             <div class="col-lg-8">
             <h2 class="modal-title fs-5" id="staticBackdropLabel">Greg Norman</h2>
-              <p class="text-white m-0">CEO</p>
-              <p class="text-white m-0">Liv Golf</p>
+              <p class="text-white m-0">CEO, Liv Golf</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -353,8 +350,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Joe Marsh</h2>
-              <p class="text-white m-0">CEO</p>
-              <p class="text-white m-0">T1 Entertainment Sports</p>
+              <p class="text-white m-0">CEO, T1 Entertainment Sports</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -375,8 +371,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Sir Leonard Blavatnik</h2>
-              <p class="text-white m-0">Founder</p>
-              <p class="text-white m-0">Access Industries</p>
+              <p class="text-white m-0">Founder, Access Industries</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -397,8 +392,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Lisa Cosmas Hanson</h2>
-              <p class="text-white m-0">CEO</p>
-              <p class="text-white m-0">Niko Partners</p>
+              <p class="text-white m-0">CEO, Niko Partners</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -442,8 +436,7 @@
             </div>
             <div class="col-lg-8">
             <h2 class="modal-title fs-5" id="staticBackdropLabel">Maya Rogers</h2>
-              <p class="text-white m-0">Tetris</p>
-              <p class="text-white m-0">CEO</p>
+              <p class="text-white m-0">CEO, Tetris</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -489,8 +482,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Ralf Reichert</h2>
-              <p class="text-white m-0">CEO</p>
-              <p class="text-white m-0">Esports World Cup Foundation</p>
+              <p class="text-white m-0">CEO, Esports World Cup Foundation</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -511,8 +503,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Dr. Songyee Yoon</h2>
-              <p class="text-white m-0">Principal Venture Partners</p>
-              <p class="text-white m-0">Managing Partner</p>
+              <p class="text-white m-0">Managing Partner, Principal Venture Partners</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -533,8 +524,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Toshimoto Mitomo</h2>
-              <p class="text-white m-0">Executive Deputy President and CSO</p>
-              <p class="text-white m-0">Sony Group Corporation</p>
+              <p class="text-white m-0">Executive Deputy President and CSO, Sony</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -564,9 +554,8 @@
                 </div>
               </div> 
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">HRH Prince Faisal bin Bandar</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Chairman of the Saudi  Esports Federation</p>
-                <p class="text-white cs_fs_12 m-0 lh-base">Vice Chairman of the Esports World Cup Foundation</p>
+                <h2 class="text-white cs_fs_16 cs_mb_10">HRH Prince Faisal bin Bandar</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Chairman, Saudi Esports Federation</p>
               </div>
             </div>
           </div>
@@ -580,8 +569,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Andrew Chen</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Andreessen Horowitz</p>
-                <p class="text-white cs_fs_12 m-0 lh-base">General Partner</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">General Partner, Andreessen Horowitz</p>
               </div>
             </div>
           </div>
@@ -595,8 +583,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Greg Norman</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Liv Golf</p>
-                <p class="text-white cs_fs_12 m-0 lh-base">CEO</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO, Liv Golf</p>
               </div>
             </div>
           </div>
@@ -610,8 +597,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Joe Marsh</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">T1 Entertainment Sports</p>
-                <p class="text-white cs_fs_12 m-0 lh-base">CEO</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO, T1 Entertainment Sports</p>
               </div>
             </div>
           </div>
@@ -625,8 +611,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Sir Leonard Blavatnik</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Access Industries</p>
-                <p class="text-white cs_fs_12 m-0 lh-base">Founder</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">Founder, Access Industries</p>
               </div>
             </div>
           </div>
@@ -640,8 +625,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Lisa Cosmas Hanson</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Niko Partners</p>
-                <p class="text-white cs_fs_12 m-0 lh-base">CEO</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO, Niko Partners</p>
               </div>
             </div>
           </div>
@@ -671,8 +655,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Maya Rogers</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Tetris</p>
-                <p class="text-white cs_fs_12 m-0 lh-base">CEO</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO, Tetris</p>
               </div>
             </div>
           </div>
@@ -700,8 +683,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Ralf Reichert</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Esports World Cup Foundation</p>
-                <p class="text-white cs_fs_12 m-0 lh-base">CEO</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO, Esports World Cup Foundation</p>
               </div>
             </div>
           </div>
@@ -715,8 +697,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Dr. Songyee Yoon</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Principal Venture Partners</p>
-                <p class="text-white cs_fs_12 m-0 lh-base">Managing Partner</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">Managing Partner, Principal Venture Partners</p>
               </div>
             </div>
           </div>
@@ -730,8 +711,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Toshimoto Mitomo</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Sony Group Corporation</p>
-                <p class="text-white cs_fs_12 m-0 lh-base">Executive Deputy President and CSO</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">Executive Deputy President and CSO, Sony</p>
               </div>
             </div>
           </div>
