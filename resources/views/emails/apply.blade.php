@@ -6,9 +6,9 @@
 <body>
     <p>First Name: {{ $details['apply-first-name'] }}</p>
     <p>Last Name: {{ $details['apply-last-name'] }}</p>
-    <p>Email: {{ $details['contact-email'] }}</p>
-    <p>Company: {{ $details['contact-company'] }}</p>
-    <p>Position: {{ $details['contact-position'] }}</p>
-    <p>Industry: {{ $details['contact-industry'] }}</p>
+    <p>Email: {{ $details['apply-email'] }}</p>
+    <p>Company: {{ $details['apply-company'] }}</p>
+    <p>Position: {{ $details['apply-position'] }}</p>
+    <p>Industry: {{ $details['apply-industry'] }}</p>
 </body>
 </html>
