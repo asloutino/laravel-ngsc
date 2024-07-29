@@ -2132,7 +2132,7 @@ label {
 }
 
 .clipped-boxes .cs_team.cs_style_1 .cs_team_info p {
-  text-align: left;
+  text-align: center;
   line-height: 20px;
 }
 
@@ -3513,6 +3513,9 @@ label {
 .cs_team.cs_style_1 .cs_team_info {
   margin-top: -100px;
   background-color: #18191d;
+}
+#speakers .cs_team.cs_style_1 .cs_team_info {
+  background-color:transparent;
 }
 .cs_team.cs_style_1 .cs_social_btns {
   left: 50%;
