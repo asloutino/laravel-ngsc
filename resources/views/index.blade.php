@@ -162,8 +162,7 @@
       </div>
       <div class="cs_social_btns d-flex flex-column cs_column_gap_15 cs_row_gap_15 cs_transition_5 position-absolute cs_zindex_5 ">
         <a href="https://www.linkedin.com/company/nextwrldsa/" target="_blank" class="d-flex align-items-center justify-content-center cs_height_35 cs_width_35 text-white rounded-circle"><i class="fa-brands fa-linkedin-in"></i></a>
-        <a href="https://www.youtube.com/" target="_blank" class="d-flex align-items-center justify-content-center cs_height_35 cs_width_35 text-white rounded-circle"><i class="fa-brands fa-youtube"></i></a>
-        <a href="https://www.instagram.com/" target="_blank" class="d-flex align-items-center justify-content-center cs_height_35 cs_width_35 text-white rounded-circle"><i class="fa-brands fa-instagram"></i></a>
+        <a href="https://www.instagram.com/ngsc_ksa/" target="_blank" class="d-flex align-items-center justify-content-center cs_height_35 cs_width_35 text-white rounded-circle"><i class="fa-brands fa-instagram"></i></a>
       </div>
     </section>
     <!-- End Hero -->
@@ -286,13 +285,17 @@
               <img src="assets/img/speakers/HRH-Prince-Faisal-bin-Bandar.png" alt="Member">
             </div>
             <div class="col-lg-8">
-            <h2 class="modal-title fs-5" id="staticBackdropLabel">HRH Prince Faisal bin Bandar</h2>
+            <h2 class="modal-title fs-5" id="staticBackdropLabel">HRH Prince Faisal bin Bandar bin Sultan bin Abdulaziz</h2>
               <p class="text-white m-0">Chairman, Saudi Esports Federation</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p></p>
+            <p>His Royal Highness Prince Faisal bin Bandar bin Sultan Al Saud is the Chairman of the Saudi Esports Federation (SEF) and Arab Esports Federation, positions he has held since their establishment in 2017. He is also the president of the International Esports Federation, and the Vice Chairman of Savvy Games Group since its establishment.</p>
+            <p>Under his leadership, the federation quickly grew the range of its activities to become the leading Saudi entity in charge of growing the National Gaming and Esports Strategy. Initially, the federation focused on providing gamers with platforms to become athletes. Now, SEF lives at the center of the Saudi esports ecosystem, to open doors and enable all that want to grow it.</p>
+            <p>His vision for the federation is to create an impact that generates a ripple effect, evolving sectors and services that were traditionally thought to be unrelated to esports.</p>
+            <p>As a result, today the Saudi Esports Federation is seen as the subject matter expert in gaming and esports that is coordinating government action, guiding investors, and providing gamers with platforms to compete and socialize in Saudi Arabia.</p>
+            <p>HRH Prince Faisal is a believer in the power of esports and aims to show the world how it can be a force for good. In 2020, he led the federation in designing the first-ever partnerships between UN-humanitarian aid organizations and a gaming event, Gamers Without Borders, which became the world’s largest gaming esports charitable event.</p>
           </div>
         </div>
       </div>
@@ -552,7 +555,7 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/HRH-Prince-Faisal-bin-Bandar.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <!-- <a href="#" data-bs-toggle="modal" data-bs-target="#HRH-Prince-Faisal-bin-Bandar" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a> -->
+                <a href="#" data-bs-toggle="modal" data-bs-target="#HRH-Prince-Faisal-bin-Bandar" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
                 </div>
               </div> 
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
