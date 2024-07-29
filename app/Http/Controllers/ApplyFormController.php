@@ -11,24 +11,24 @@ class ApplyFormController extends Controller
     public function submit(Request $request)
     {
         $validatedData = $request->validate([
-            'contact-first-name' => 'required|min:3|max:255',
-            'contact-last-name' => 'required|min:3|max:255',
-            'contact-email' => 'required|email',
-            'contact-company' => 'required|min:3|max:255',
-            'contact-position' => 'required|min:3|max:255',
-            'contact-industry' => 'required|min:3|max:255',
+            'apply-first-name' => 'required|min:3|max:255',
+            'apply-last-name' => 'required|min:3|max:255',
+            'apply-email' => 'required|email',
+            'apply-company' => 'required|min:3|max:255',
+            'apply-position' => 'required|min:3|max:255',
+            'apply-industry' => 'required|min:3|max:255',
         ]);
 
         // Capture the data
-        $first_name = $request->input('contact-first-name');
-        $last_name = $request->input('contact-last-name');
-        $email = $request->input('contact-email');
-        $phone = $request->input('contact-phone');
-        $company = $request->input('contact-company');
-        $position = $request->input('contact-position');
-        $industry = $request->input('contact-industry');
+        $first_name = $request->input('apply-first-name');
+        $last_name = $request->input('apply-last-name');
+        $email = $request->input('apply-email');
+        $phone = $request->input('apply-phone');
+        $company = $request->input('apply-company');
+        $position = $request->input('apply-position');
+        $industry = $request->input('apply-industry');
 
-        Mail::to('etienne.wansa@gmail.com')->send(new ContactMail($validatedData));
+        Mail::to('etienne.wansa@gmail.com')->send(new ApplyMail($validatedData));
 
         // Process the data (e.g., validation, sending email)
         return back()->with('success', 'Thank you for your application!');
