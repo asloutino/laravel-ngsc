@@ -22,6 +22,10 @@ class ContactFormController extends Controller
             'contact-message' => 'required|min:10',
         ]);
 
+        if ($validatedData->fails()) {
+            return response()->json(['errors' => $validator->errors()]);
+        }
+
         // Capture the data
         $first_name = $request->input('contact-first-name');
         $last_name = $request->input('contact-last-name');

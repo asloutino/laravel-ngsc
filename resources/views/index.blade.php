@@ -996,10 +996,11 @@
             </div>
           </div>
           <div class="col-lg-5 cs_mb_lg_55">
-            <form class="row" method="POST" action="{{ route('apply.submit') }}">
+            <form class="row" id="applyForm" method="POST" action="{{ route('apply.submit') }}">
               @csrf {{-- Cross-Site Request Forgery protection --}}
               <div class="col-lg-6">
                 <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-first-name" id="apply-first-name" type="text" placeholder="First Name">
+                <span id="apply-first-name-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
                 <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-last-name" id="apply-last-name" type="text" placeholder="Last Name">
