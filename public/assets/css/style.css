@@ -5018,3 +5018,22 @@ html .ui-button.ui-state-disabled:active {
     font-size:12px;
   }
 }
+
+/* ARABIC */
+html[lang="ar"] {
+  direction: rtl;
+}
+
+html[lang="ar"] .cs_moving_wrap,
+html[lang="ar"] .cs_slider_activate {
+  direction: ltr;
+}
+
+html[lang="ar"] #topics .cs_section_heading_right .d-flex {
+  flex-flow: row-reverse;
+  float: inline-end;
+}
+
+html[lang="ar"] .cs_post_btn-icon {
+  transform: rotate(180deg);
+}

@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="NGSC">
     <!-- Favicon Icon -->
-    <link rel="icon" href="assets/img/favicon.png">
+    <link rel="icon" href="{{ asset('assets/img/favicon.png') }}">
     <!-- Site Title -->
     <title>The New Global Sport Conference - Riyadh, Saudi Arabia</title>
 

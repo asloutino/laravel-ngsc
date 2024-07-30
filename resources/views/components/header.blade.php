@@ -23,7 +23,7 @@
     <div class="container">
       <div class="cs_main_header_in">
         <div class="cs_main_header_left">
-          <a class="cs_site_branding" href="{{ url('index') }}">
+          <a class="cs_site_branding" href="{{ url('/') }}">
             <img src="{{ asset('assets/img/NGCS-Conference-Logo-white.svg') }}" alt="Logo">
           </a>
         </div>
@@ -36,6 +36,17 @@
               <li><a href="/#topics">Topics</a></li>
               <li><a href="/#news">News</a></li>
               <li><a href="/#contact-us">Contact Us</a></li>
+              <li class="lang-switch">
+                <?php if( (strpos(url()->current(),'/ar/') !== false) ) {
+                  $englishPath = substr(\Request::path(), strpos(\Request::path(), '/', 1)); ?>
+                  <a class="en" href="<?php echo $englishPath; ?>">EN</a>
+                  <a class="ar" href="{{url()->current()}}">AR</a>
+                <?php }
+                  else { ?>
+                  <a class="en" href="{{url()->current()}}">EN</a>
+                  <a class="ar" href="/ar/{{ \Request::path() }}">AR</a>
+                <?php } ?>
+              </li>
             </ul>
           </div>
         </div>
