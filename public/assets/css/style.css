@@ -4810,12 +4810,23 @@ html .ui-button.ui-state-disabled:active {
 
 .speaker-modal .modal-content {
   background:#151515;
-  border-radius: 0 50px 0 50px;
   border: 3px solid #926F34;
 }
 
-.speaker-modal .modal-header .col-lg-8 {
+html[lang="en"] .speaker-modal .modal-content {
+  border-radius: 0 50px 0 50px;
+}
+
+html[lang="ar"] .speaker-modal .modal-content {
+  border-radius: 50px 0 50px 0;
+}
+
+html[lang="en"] .speaker-modal .modal-header .col-lg-8 {
   margin-left:20px;
+}
+
+html[lang="ar"] .speaker-modal .modal-header .col-lg-8 {
+  margin-right:20px;
 }
 
 .speaker-modal .modal-header .btn-close {

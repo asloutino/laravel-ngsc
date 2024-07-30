@@ -313,15 +313,15 @@
               <img src="assets/img/speakers/Andrew-Chen.png" alt="Member">
             </div>
             <div class="col-lg-8">
-              <h2 class="modal-title fs-5" id="staticBackdropLabel">Andrew Chen</h2>
-              <p class="text-white m-0">General Partner, Andreessen Horowitz</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">أندرو تشين</h2>
+              <p class="text-white m-0">شريك عام، أندريسن هورويتز</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p>Andrew Chen is a General Partner for A16Z GAMES, focused on the intersection of tech and gaming — this includes AI, studios, infrastructure, and consumer apps.</p>
-            <p>Andrew is a prolific writer and for the past decade, he’s written hundreds of essays at andrewchen.com on the topics of startups and user growth. He is the author of the best-selling business book THE COLD START PROBLEM, published by Harper Business, which explores how new startups launch and scale by leveraging network effects. Prior to joining a16z, Andrew led the Rider Growth teams at Uber, and worked at a number of venture-backed startups.</p>
-            <p>Andrew holds a B.S. in Applied Mathematics from the University of Washington.</p>
+            <p>أندرو تشين هو شريك عام لشركة ايه 16 زد غايمز، التي تركز على التقاطع بين التكنولوجيا والألعاب - وهذا يشمل الذكاء الاصطناعي والاستوديوهات والبنية التحتية وتطبيقات المستهلك.</p>
+            <p>أندرو كاتب غزير الإنتاج، وقد كتب على مدى العقد الماضي مئات المقالات على andrewchen.com حول موضوعات الشركات الناشئة ونمو المستخدمين. وهو مؤلف كتاب الأعمال الأكثر مبيعاً "مشكلة البداية الباردة"، الذي نشرته دار هاربر بيزنس، والذي يستكشف كيفية إطلاق الشركات الناشئة الجديدة وتوسيع نطاقها من خلال الاستفادة من تأثيرات الشبكة. قبل انضمامه إلى ايه 16 زد، قاد أندرو فرق نمو الركاب في اوبر، وعمل في عدد من الشركات الناشئة المدعومة بالمشاريع.</p>
+            <p>أندرو حاصل على بكالوريوس العلوم. في الرياضيات التطبيقية من جامعة واشنطن.</p>
           </div>
         </div>
       </div>
@@ -336,8 +336,8 @@
               <img src="assets/img/speakers/Greg-Norman.png" alt="Member">
             </div>
             <div class="col-lg-8">
-            <h2 class="modal-title fs-5" id="staticBackdropLabel">Greg Norman</h2>
-              <p class="text-white m-0">CEO, Liv Golf</p>
+            <h2 class="modal-title fs-5" id="staticBackdropLabel">جريج نورمان</h2>
+              <p class="text-white m-0">الرئيس التنفيذي لشركة ليف غولف</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -357,13 +357,13 @@
               <img src="assets/img/speakers/Joe-Marsh.png" alt="Member">
             </div>
             <div class="col-lg-8">
-              <h2 class="modal-title fs-5" id="staticBackdropLabel">Joe Marsh</h2>
-              <p class="text-white m-0">CEO, T1 Entertainment Sports</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">جو مارش</h2>
+              <p class="text-white m-0">الرئيس التنفيذي لشركة ت وان  للترفيه الرياضي</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p>Joe Marsh is the CEO of T1 Entertainment & Sports, where he has driven the organization to new heights. Under his leadership, T1’s League of Legends team won the 2023 World Championship and the inaugural League of Legends Championship at the Esports World Cup. Recognized twice by Forbes as one of the Top 10 most valuable esports companies globally, T1 continues to lead the industry. Marsh has spearheaded initiatives like the T1 Base Camp, T1 Cafe & Arena, and the T1 Esports Academy, significantly shaping the esports landscape in South Korea and beyond. T1 operates 8 teams across 6 major games and collaborates with renowned brands including Nike, Mercedes Benz, Samsung, Red Bull, and Ralph Lauren. With over 19 years in sports and entertainment, Marsh’s journey from intern to executive highlights his dedication and influence in the industry. He holds a Marketing degree from Millersville University and an MBA in Finance, Analytics, and Strategic Management from Villanova University.</p>
+            <p>جو مارش هو الرئيس التنفيذي لشركة ت وان للترفيه والرياضة، حيث قاد المنظمة إلى آفاق جديدة. وتحت قيادته، فاز فريق دوري الأساطير التابع لـ ت وان ببطولة العالم لعام 2023 وبطولة دوري الأساطير الافتتاحية في كأس العالم للرياضات الإلكترونية. تم الاعتراف بها مرتين من قبل فوربس كواحدة من أفضل 10 شركات للرياضات الإلكترونية قيمة على مستوى العالم، وتستمر ت وان في قيادة هذه الصناعة. قاد مارش مبادرات مثل معسكر قاعدة ت وان، ومقهى وأرينا ت وان، وأكاديمية ت وان للرياضات الإلكترونية، مما أدى إلى تشكيل مشهد الرياضات الإلكترونية بشكل كبير في كوريا الجنوبية وخارجها. تدير ت وان 8 فرق في 6 ألعاب رئيسية وتتعاون مع علامات تجارية مشهورة بما في ذلك نايكي، مرسيدس بنز، سامسونج، ريد بول، ورالف لورين. مع أكثر من 19 عامًا في مجال الرياضة والترفيه، تسلط رحلة مارش من متدرب إلى منصب تنفيذي الضوء على تفانيه وتأثيره في الصناعة. وهو حاصل على شهادة في التسويق من جامعة ميلرزفيل وماجستير في إدارة الأعمال في المالية والتحليلات والإدارة الاستراتيجية من جامعة فيلانوفا.</p>
           </div>
         </div>
       </div>
@@ -378,13 +378,13 @@
               <img src="assets/img/speakers/Len-Blavantik.png" alt="Member">
             </div>
             <div class="col-lg-8">
-              <h2 class="modal-title fs-5" id="staticBackdropLabel">Sir Leonard Blavatnik</h2>
-              <p class="text-white m-0">Founder, Access Industries</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">السير ليونارد بلافاتنيك</h2>
+              <p class="text-white m-0">مؤسس شركة أكسيس إنداستريز</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p>Sir Leonard Blavatnik is among the world's most accomplished businessmen and prominent philanthropists. A dual US-UK citizen, he is the founder of Access Industries, a privately held investment firm with a $35 billion portfolio, which includes industrial giants LyondellBasell and Calpine. In 2016, Sir Leonard launched DAZN, now the world’s leading sports entertainment platform offering live and on-demand events, gaming, ticketing and e-commerce in more than 200 markets. He is also overseeing the digital transformation of the music industry as the majority shareholder of Warner Music Group and one of the first investors in Spotify.  In 2017, he was knighted by Queen Elizabeth II for his service to philanthropy and was appointed Chevalier of the French Legion d’Honneur for his support of education in 2013. Born in Odesa, Ukraine, Sir Leonard emigrated to the US in 1978. He earned his MS from Columbia University in 1981 and his MBA from Harvard Business School in 1989.</p>
+            <p>يعد السير ليونارد بلافاتنيك من بين رجال الأعمال الأكثر إنجازًا في العالم وفاعلي الخير البارزين. وهو مواطن مزدوج الجنسية الأمريكية والبريطانية، وهو مؤسس شركة أكسيس إنداستريز، وهي شركة استثمارية خاصة بقيمة 35 مليار دولار، والتي تضم العملاقين الصناعيين ليوندل بازل وكالبين. في عام 2016، أطلق السير ليونارد دازن، وهي الآن منصة الترفيه الرياضي الرائدة عالميًا والتي تقدم الأحداث المباشرة وعند الطلب والألعاب وحجز التذاكر والتجارة الإلكترونية في أكثر من 200 سوق. وهو يشرف أيضًا على التحول الرقمي لصناعة الموسيقى بصفته المساهم الأكبر في مجموعة وارنر ميوزيك وأحد المستثمرين الأوائل في سبوتيفي. في عام 2017، حصل على وسام فارس من الملكة إليزابيث الثانية لخدمته في الأعمال الخيرية، وتم تعيينه شيفالييه في وسام جوقة الشرف الفرنسي لدعمه للتعليم في عام 2013. ولد السير ليونارد في أوديسا، أوكرانيا، وهاجر إلى الولايات المتحدة في عام 1978. حصل على درجة الماجستير من جامعة كولومبيا في عام 1981 وماجستير في إدارة الأعمال من كلية هارفارد للأعمال في عام 1989.</p>
           </div>
         </div>
       </div>
@@ -399,13 +399,13 @@
               <img src="assets/img/speakers/Lisa-Cosmas.png" alt="Member">
             </div>
             <div class="col-lg-8">
-              <h2 class="modal-title fs-5" id="staticBackdropLabel">Lisa Cosmas Hanson</h2>
-              <p class="text-white m-0">CEO, Niko Partners</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">ليزا كوزماس هانسون</h2>
+              <p class="text-white m-0">الرئيس التنفيذي لشركة نيكو بارتنرز</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p>Lisa Cosmas Hanson is President and CEO of Niko Partners, a premier market research and consulting firm providing local research with global perspective on the Asia and MENA games market and their consumers. Lisa founded Niko Partners in 2002 and has since honed her expertise on the Chinese and Southeast Asian, East Asian, South Asian and MENA games industry that has benefitted Niko’s clients: Companies that are global leaders in game development &amp; publishing, game services, hardware, investments, and global governments. Lisa appears regularly in the media such as The New York Times, Business Week, Forbes, The Wall Street Journal, Dow Jones, Reuters, BBC, Bloomberg, Financial Times, VentureBeat, PocketGamer, GamesIndustry, Channel News Asia, and more. She is based in the US but travels to Asia and the Middle East regularly to give presentations at industry events and engage with companies and gamers.</p>
+            <p>ليزا كوزماس هانسون هي الرئيس والمدير التنفيذي لشركة نيكو بارتنرز، وهي شركة رائدة في مجال أبحاث السوق والاستشارات تقدم أبحاثًا محلية بمنظور عالمي حول سوق الألعاب في آسيا، والشرق الأوسط، وشمال أفريقيا، وعملائهم. أسست ليزا شركة نيكو بارتنرز في عام 2002، ومنذ ذلك الحين عززت خبرتها في مجال صناعة الألعاب في الصين وجنوب شرق آسيا وشرق آسيا وجنوب آسيا والشرق الأوسط وشمال أفريقيا، الأمر الذي أفاد عملاء نيكو: الشركات الرائدة عالميًا في مجال تطوير الألعاب ونشرها وخدمات الألعاب والأجهزة، الاستثمارات والحكومات العالمية. تظهر ليزا بانتظام في وسائل الإعلام مثل نيويورك تايمز، بيزنس ويك، فوربس، وول ستريت جورنال، داو جونز، رويترز، بي بي سي، بلومبرج، فايننشال تايمز، فينتشر بيت، بوكيت غيمر، غيمز إندستري، تشانل نيوز آسيا، وغيرها. تقيم في الولايات المتحدة، ولكنها تسافر إلى آسيا والشرق الأوسط بانتظام لتقديم عروض تقديمية في أحداث الصناعة والتفاعل مع الشركات واللاعبين.</p>
           </div>
         </div>
       </div>
@@ -420,15 +420,15 @@
               <img src="assets/img/speakers/Magnus-Carlsen.png" alt="Member">
             </div>
             <div class="col-lg-8">
-              <h2 class="modal-title fs-5" id="staticBackdropLabel">Magnus Carlsen</h2>
-              <p class="text-white m-0">World Chess Champion</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">ماجنوس كارلسن</h2>
+              <p class="text-white m-0">بطل العالم في الشطرنج</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p>Magnus Carlsen, born on 30th of November 1990, in Tonsberg, Norway, is a chess prodigy and the highest-rated player in history. Achieving Grandmaster status at just 13, Carlsen became the World Chess Champion in 2013 and successfully defended his title until 2021, when he chose not to compete further for the classical title. He has dominated the world of chess for more than a decade, being ranked number 1 since 2010, and has won multiple World Championships across all disciplines, including classical, rapid, and blitz chess.</p>
-            <p>Carlsen’s innovative approach and unparalleled strategic thinking have revolutionized the game. In recent years, Carlsen has significantly impacted the online chess scene, dominating online tournaments and engaging a global audience through digital platforms. His involvement in events like the Meltwater Champions Chess Tour has brought competitive chess to new heights in the digital age.</p>
-            <p>Magnus Carlsen is more than a champion; he is chess’ only true superstar. Time Magazine has recognized him as one of the world’s 100 most influential people. His participation in this conference underscores his commitment to the evolution of chess as an esports, highlighting his vision for the future of the game. Carlsen’s engagement in promoting chess education worldwide and his presence at the conference make him an inspiring figure for both aspiring players and seasoned enthusiasts.</p>
+            <p>ماغنوس كارلسن، ولد في 30 نوفمبر 1990، في تونسبرغ، النرويج، هو معجزة في لعبة الشطرنج واللاعب الأعلى تقييمًا في التاريخ. حصل كارلسن على لقب أستاذ كبير عندما كان عمره 13 عامًا فقط، وأصبح بطل العالم في الشطرنج في عام 2013 ودافع بنجاح عن لقبه حتى عام 2021، عندما اختار عدم التنافس على اللقب الكلاسيكي مرة أخرى. لقد سيطر على عالم الشطرنج لأكثر من عقد من الزمن، حيث احتل المرتبة الأولى منذ عام 2010، وفاز بالعديد من بطولات العالم في جميع التخصصات، بما في ذلك الشطرنج الكلاسيكي والسريع والشطرنج الخاطف.</p>
+            <p>لقد أحدث نهج كارلسن المبتكر وتفكيره الاستراتيجي الذي لا مثيل له ثورة في اللعبة. في السنوات الأخيرة، أثر كارلسن بشكل كبير على مشهد الشطرنج عبر الإنترنت، حيث سيطر على البطولات عبر الإنترنت وأشرك جمهورًا عالميًا من خلال المنصات الرقمية. أدت مشاركته في أحداث مثل جولة أبطال ميلت واتر للشطرنج إلى رفع لعبة الشطرنج التنافسية إلى آفاق جديدة في العصر الرقمي.</p>
+            <p>ماغنوس كارلسن هو أكثر من مجرد بطل. إنه النجم الحقيقي الوحيد في لعبة الشطرنج. وقد صنفته مجلة تايم كواحد من أكثر 100 شخصية مؤثرة في العالم. وتؤكد مشاركته في هذا المؤتمر التزامه بتطوير لعبة الشطرنج كرياضة إلكترونية، وتسليط الضوء على رؤيته لمستقبل اللعبة. إن مشاركة كارلسن في الترويج لتعليم الشطرنج في جميع أنحاء العالم وحضوره في المؤتمر يجعل منه شخصية ملهمة لكل من اللاعبين الطموحين و المتحمسين المتمرسين.</p>
           </div>
         </div>
       </div>
@@ -443,17 +443,17 @@
               <img src="assets/img/speakers/Maya-Rogers.png" alt="Member">
             </div>
             <div class="col-lg-8">
-            <h2 class="modal-title fs-5" id="staticBackdropLabel">Maya Rogers</h2>
-              <p class="text-white m-0">CEO, Tetris</p>
+            <h2 class="modal-title fs-5" id="staticBackdropLabel">مايا روجرز</h2>
+              <p class="text-white m-0">الرئيس التنفيذي لشركة تتريس</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p>Maya Rogers is CEO of Tetris, where she leads all worldwide business initiatives of the Tetris brand, one of the leading and most distinctive video game brands and franchises in the world with a history that spans 40 years. This includes game development, global licensing, marketing, brand management, merchandising, and IP enforcement.</p>
-            <p>Under Maya’s leadership, Tetris remains one of the most beloved games by fans worldwide with the introduction of top ranked licensee titles including Tetris 99, Tetris Effect: Connected, the Puyo Puyo Tetris series and more. She has also led the expansion of Tetris as a lifestyle brand, which today has more than 90 licensees and promotional partners globally, who now offer innovative Tetris-branded games, consumer products and experiences, including apparel, toys, décor, novelties and more.</p>
-            <p>Prior to heading Tetris, Maya steered cross-culturalization and development efforts for Tetris Online China, Sony Computer Entertainment America and American Honda. Maya is also a Founding Partner of Blue Startups, Hawaiʻi’s first venture accelerator, which helps early stage startups accelerate their businesses with investments and mentoring. Since 2014, Blue Startups has invested in over 110 companies, attracting over $500 million in follow-on funding. Blue Startups is currently ranked Top 20 accelerator in the U.S.</p>
-            <p>Maya currently serves on the boards of the Smithsonian Asian Pacific American Center, American Red Cross Hawaiʻi Chapter, Women’s Fund of Hawaiʻi and the Chamber of Commerce Hawaiʻi. She is also a national council member of the Tiffany Circle, a Red Cross women’s philanthropist organization, and member of the U.S.-Japan council, an educational organization that contributes to strengthening U.S. Japan relations.</p>
-            <p>Maya holds a BS in Business Administration from Pepperdine University and an Executive MBA from Pepperdine Graziadio School of Business and Management.</p>
+            <p>مايا روجرز هي الرئيس التنفيذي لشركة تتريس، حيث تقود جميع المبادرات التجارية العالمية لعلامة تتريس التجارية، وهي إحدى العلامات التجارية والامتيازات الرائدة والأكثر تميزًا لألعاب الفيديو في العالم ولها تاريخ يمتد إلى 40 عامًا. يتضمن ذلك تطوير الألعاب والترخيص العالمي والتسويق وإدارة العلامات التجارية والترويج وإنفاذ الملكية الفكرية.</p>
+            <p>تحت قيادة مايا، تظل تتريس واحدة من أكثر الألعاب المحبوبة لدى المعجبين في جميع أنحاء العالم مع تقديم ألقاب مرخصة ذات تصنيف عالي بما في ذلك تتريس 99 وتتريس إفكت:كونكتد وسلسلة بويو بويو تتريس والمزيد. لقد قادت أيضًا توسيع تتريس كعلامة تجارية لأسلوب الحياة، والتي لديها اليوم أكثر من 90 مرخصًا وشريكًا ترويجيًا على مستوى العالم، والذين يقدمون الآن ألعابًا مبتكرة تحمل علامة تتريس التجارية ومنتجات وتجارب استهلاكية، بما في ذلك الملابس والألعاب، والديكور، والمستجدات والمزيد.</p>
+            <p>قبل توليها رئاسة لعبة تتريس، قامت مايا بتوجيه جهود التطوير والتبادل الثقافي لشركة تتريس اون لاين الصين وسوني كمبيوتر انترتينمنت امريكا هوندا الأمريكية. مايا هي أيضًا شريك مؤسس لشركة بلو ستارتابس، وهي أول شركة لتسريع المشاريع في هاواي، والتي تساعد الشركات الناشئة في المراحل المبكرة على تسريع أعمالها من خلال الاستثمارات والتوجيه. منذ عام 2014، استثمرت بلو ستارتابس في أكثر من 110 شركة، اجتذبت أكثر من 500 مليون دولار من التمويل اللاحق. تم تصنيف بلو ستارتابس حاليًا ضمن أفضل 20 شركة تسريع في الولايات المتحدة.</p>
+            <p>تعمل مايا حاليًا في مجالس إدارة مركز سميثسونيان لآسيا والمحيط الهادئ الأمريكي، وفرع الصليب الأحمر الأمريكي في هاواي، وصندوق المرأة في هاواي، وغرفة التجارة في هاواي. وهي أيضًا عضو في المجلس الوطني لدائرة تيفاني، وهي منظمة خيرية نسائية تابعة للصليب الأحمر، وعضو في المجلس الأمريكي الياباني، وهي منظمة تعليمية تساهم في تعزيز العلاقات الأمريكية اليابانية.</p>
+            <p>حصلت مايا على درجة البكالوريوس في إدارة الأعمال من جامعة بيبردين وماجستير في إدارة الأعمال التنفيذية من كلية بيبردين جرازياديو للأعمال والإدارة.</p>
           </div>
         </div>
       </div>
@@ -468,13 +468,13 @@
               <img src="assets/img/speakers/RJ-Cutler.png" alt="Member">
             </div>
             <div class="col-lg-8">
-              <h2 class="modal-title fs-5" id="staticBackdropLabel">R.J. Cutler</h2>
-              <p class="text-white m-0">Oscar Nominated Documentary Filmmaker</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">آر جي كاتلر</h2>
+              <p class="text-white m-0">مخرج أفلام وثائقية مرشح لجائزة الأوسكار</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p>R.J. Cutler is an award-winning documentary filmmaker who has directed such films as A Perfect Candidate, The September Issue, BELUSHI, Billie Eilish: The World’s A Little Blurry, and the upcoming Martha and Elton John: Never Too Late. He has produced such films as The War Room, Thin, Listen to Me Marlon and The Disappearance of Shere Hite. Cutler is the founder of This Machine Filmworks, an LA-based production company specializing in the development and production of premium documentary content. This Machine is a part of Sony Non-Fiction Television. Cutler’s work has been nominated for an Academy Award and he is the recipient of three Emmys, two Peabody Awards, two Cinema Eye Awards and two Television Academy Honor awards, among others. In 2021, R.J. received the Critic’s Choice Pennebaker Award for Lifetime Achievement in Documentary Film. R.J. lives in Los Angeles with his wife Jane Cha Cutler, their children Maddie, Max and Penny and their dog Dexter.</p>
+            <p>ر.ج. كاتلر هو مخرج أفلام وثائقية حائز على جوائز عديدة، وقد قام بإخراج أفلام مثل المرشح المثالي، وإصدار سبتمبر، وبيلوشي، وبيلي إيليش: العالم ضبابي قليلاً، والفيلم القادم مارثا وإلتون جون: لم يفت الأوان بعد. لقد أنتج أفلامًا مثل غرفة الحرب، رفيع، استمع لي مارلون، واختفاء شير هايت. كاتلر هو مؤسس شركة ثيس ماشين فيلم وركس، وهي شركة إنتاج مقرها لوس أنجلوس متخصصة في تطوير وإنتاج محتوى وثائقي متميز. ثيس ماشين هي جزء من تلفزيون سوني للمحتوى غير الخيالي. تم ترشيح أعمال كاتلر لجائزة الأوسكار، وقد حصل على ثلاث جوائز إيمي، وجائزتي بيبودي، وجائزتي سينما أي وجائزتي الشرف لأكاديمية التلفزيون، من بين جوائز أخرى. في عام 2021، ر.ج. حصل على جائزة جائزة اختيار النقاد بينيبيكر لإنجاز العمر في الفيلم الوثائقي. ر.ج. يعيش في لوس أنجلوس مع زوجته جين تشا كاتلر وأطفالهما مادي وماكس وبيني وكلبهم ديكستر.</p>
           </div>
         </div>
       </div>
@@ -489,13 +489,15 @@
               <img src="assets/img/speakers/Ralf-Reichert.png" alt="Member">
             </div>
             <div class="col-lg-8">
-              <h2 class="modal-title fs-5" id="staticBackdropLabel">Ralf Reichert</h2>
-              <p class="text-white m-0">CEO, Esports World Cup Foundation</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">رالف رايشرت</h2>
+              <p class="text-white m-0">الرئيس التنفيذي لمؤسسة كأس العالم للرياضات الإلكترونية</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p>Ralf grew up as a native gamer with a passion for competition in the physical world as much as the digital. In the late 90s, he founded SK Gaming with his brothers, Tim and Benjamin, as one of the first esports clubs, and competed at the highest level - which subsequently made him fall in love with the industry. Excited to build this industry, Ralf and his team co-founded ESL, and embarked on the quest to build the largest stages for the new sport that turn athletes into stars worldwide. What was intended to be a quick win evolved into a lifelong journey. ESL has since become the largest esports brand, and company culminating in a billion-dollar transaction in 2022 to form ESL Faceit Group - EFG. Ralf has served as Chairman at EFG, on the mission to create worlds beyond gameplay, where esports and gaming collide. In October 2023, Ralf took on the role of CEO at the Esports World Cup Foundation with a mandate to elevate esports to one of the world's premier sports, while expanding the Foundation as a driving force in its development.</p>
+            <p>نشأ رالف كلاعب فطري لديه شغف بالمنافسة في العالم الطبيعي والرقمي أيضًا. 
+في أواخر التسعينيات، أسس شركة اس كيه جيمنج مع أخويه تيم وبنجامين، كأحد أندية الرياضات الإلكترونية الأولى، وتنافس على أعلى مستوى - وهذا ما دفعه لاحقًا إلى حب هذا المجال. متحمسًا لبناء هذه الصناعة، شارك رالف وفريقه في تأسيس أي أس أل، وشرع في السعي لبناء أكبر المنصات لهذه الرياضة الجديدة التي قامت بتحويل الرياضيين إلى نجوم في جميع أنحاء العالم. ما كان من المفترض أن يكون فوزًا سريعًا تطور إلى رحلة لمدى الحياة. أصبحت أي أس أل منذ ذلك الحين أكبر علامة تجارية للرياضات الإلكترونية، وبلغت الشركة ذروتها في صفقة بقيمة مليار دولار في عام 2022 لتشكيل مجموعة أي أس أل فايس إت. 
+خدم رالف كرئيس مجلس الإدارة، في مهمة لبناء عوالم تتجاوز اللعب، حيث تجتمع الرياضات الإلكترونية بالألعاب. في أكتوبر 2023، تولى رالف منصب الرئيس التنفيذي لمؤسسة كأس العالم للرياضات الإلكترونية التي كلفت برفع مستوى الرياضات الإلكترونية إلى واحدة من الرياضات الرائدة في العالم، وتنمية المؤسسة كقوة دافعة في تطورها.</p>
           </div>
         </div>
       </div>
@@ -510,13 +512,13 @@
               <img src="assets/img/speakers/Songyee-Yoon.png" alt="Member">
             </div>
             <div class="col-lg-8">
-              <h2 class="modal-title fs-5" id="staticBackdropLabel">Dr. Songyee Yoon</h2>
-              <p class="text-white m-0">Managing Partner, Principal Venture Partners</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">د. سونجي يون</h2>
+              <p class="text-white m-0">شريك إداري، برنسيبال فينتشر بارتنرز</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p>Songyee Yoon is a visionary leader, and investor and author in the AI and gaming  industry, with over 20 years of experience in developing and executing innovative  strategies for global online game companies. After graduating from the Korea Advanced  Institute of Science and Technology, Songyee went on to earn her Ph.D. from MIT in  Computational Neuroscience. Her strong belief in the concept of “play” as a crucible for  innovation eventually led her to NCSOFT, a leading global video game developer and  publisher, where she served as president and chief strategy officer. In this role, she led  the AI transformation of the company, applying AI for game development and various  aspects of business operations. She also oversaw the company's growth from a 350- person company to a global organization across seven countries in Asia, Europe, and  North America, driving strategic initiatives in monetization, marketing, branding,  business development, licensing, ESG, and education. Songyee brings a unique lens to  bridging countries’ approaches to technology and ethics and is an involved figure in the  international business community. While a member of South Korea’s Presidential  Advisory Council for Science and Technology, Songyee served under two presidents.  She is a member of the MIT Corporation and served as an advisory board member of  the Center for Asia Pacific Policy, where she continued to explore social impacts of AI,  equity and ethical sides of technology. She also serves on the board of trustees for the  Carnegie Endowment for International Peace and the Asian Art Museum. She was  named a Young Global Leader by the World Economic Forum, elected member of the  National Academy of Engineering of Korea, and one of the 50 Women to Watch in  Business by the Wall Street Journal. Songyee’s latest book, Push Play, explores the  significance of play on innovation, drawing lessons from games, medicine, human  resources and other industries.</p>
+            <p>د. يون قائدة ذات رؤية ومستثمرة ومؤلفة في مجال الذكاء الاصطناعي وصناعة الألعاب، تتمتع بخبرة تزيد عن 20 عامًا في تطوير وتنفيذ استراتيجيات مبتكرة لشركات الألعاب العالمية عبر الإنترنت. بعد تخرجها من المعهد الكوري المتقدم للعلوم والتكنولوجيا، حصلت سونجي على درجة الدكتوراه من معهد ماساتشوستس للتكنولوجيا في علم الأعصاب الحسابي. أدى إيمانها القوي بمفهوم "اللعب" باعتباره حافز للابتكار في النهاية إلى انضمامها إلى ن س سوفت، وهي شركة رائدة عالميًا في تطوير ونشر ألعاب الفيديو، حيث شغلت منصب الرئيس والمدير التنفيذي للاستراتيجية. وفي هذا المنصب، قادت عملية تحول الذكاء الاصطناعي للشركة، حيث طبقت الذكاء الاصطناعي لتطوير الألعاب والجوانب المختلفة للعمليات التجارية. كما أشرفت على نمو الشركة من شركة مكونة من 350 شخصًا إلى منظمة عالمية في سبع دول في آسيا وأوروبا وأمريكا الشمالية، حيث قادت المبادرات الإستراتيجية في تحقيق الدخل والتسويق والعلامات التجارية وتطوير الأعمال والترخيص والحوكمة البيئية والاجتماعية، والتعليم. قدمت سونجي عدسة فريدة لربط مناهج البلدان فيما يتعلق بالتكنولوجيا والأخلاق، بالإضافة الى المشاركة في مجتمع الأعمال الدولي. أثناء عضويتها في المجلس الاستشاري الرئاسي للعلوم والتكنولوجيا في كوريا الجنوبية، خدمت سونجي تحت رئاسة رئيسين. وهي عضو في مؤسسة معهد ماساتشوستس للتكنولوجيا وعملت كعضو في المجلس الاستشاري لمركز سياسة آسيا والمحيط الهادئ، حيث واصلت استكشاف التأثيرات الاجتماعية للذكاء الاصطناعي والمساواة والجوانب الأخلاقية للتكنولوجيا. وهي أيضًا عضو في مجلس أمناء مؤسسة كارنيجي للسلام الدولي ومتحف الفن الآسيوي. تم اختيارها كقائدة عالمية شابة من قبل المنتدى الاقتصادي العالمي، وعضو منتخب في الأكاديمية الوطنية للهندسة في كوريا، وواحدة من 50 امرأة تستحق المشاهدة في مجال الأعمال من قبل صحيفة وول ستريت جورنال. يستكشف كتاب سونجي الأخير، "بوش بلاي"، أهمية اللعب في الابتكار، واستخلاص الدروس من الألعاب والطب والموارد البشرية وغيرها من الصناعات.</p>
           </div>
         </div>
       </div>
@@ -531,13 +533,13 @@
               <img src="assets/img/speakers/Toshimoto-Mitomo.png" alt="Member">
             </div>
             <div class="col-lg-8">
-              <h2 class="modal-title fs-5" id="staticBackdropLabel">Toshimoto Mitomo</h2>
-              <p class="text-white m-0">Executive Deputy President and CSO, Sony</p>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">توشيموتو ميتومو</h2>
+              <p class="text-white m-0">نائب الرئيس التنفيذي وكبير مسؤولي الأمن في شركة مجموعة سوني</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p>Toshimoto Mitomo joined Sony Group Corporation (former Sony Corporation) in 1985 and currently its Executive Deputy President and CSO in charge of Intellectual Property, Business & Technology Strategy, Business Development, Business Incubation Platform and Mobility Business. In these roles, Mitomo is responsible for mid-to-long term business development for the future growth of Sony and Sony’s global IP strategies, technology standardization activities. In addition, Mitomo heads Sony Innovation Fund which is Sony’s corporate venture capital as Senior Investment Executive.</p>
+            <p>انضم توشيموتو ميتومو إلى شركة مجموعة سوني (شركة سوني سابقًا) في عام 1985 ويشغل حاليًا منصب نائب الرئيس التنفيذي وكبير مسؤولي الأمن المسؤول عن الملكية الفكرية واستراتيجية الأعمال والتكنولوجيا وتطوير الأعمال ومنصة حضانة الأعمال وأعمال التنقل. في هذه الأدوار، يكون ميتومو مسؤولاً عن تطوير الأعمال على المدى المتوسط ​​إلى الطويل من أجل النمو المستقبلي لشركة سوني واستراتيجيات الملكية الفكرية العالمية لشركة سوني ، وأنشطة توحيد التكنولوجيا. بالإضافة إلى ذلك، يرأس ميتومو صندوق سوني للابتكار وهو رأس المال الاستثماري لشركة سوني بصفته مديرًا تنفيذيًا أول للاستثمار.</p>
           </div>
         </div>
       </div>
@@ -558,12 +560,12 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/HRH-Prince-Faisal-bin-Bandar.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" data-bs-toggle="modal" data-bs-target="#HRH-Prince-Faisal-bin-Bandar" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#HRH-Prince-Faisal-bin-Bandar" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
                 </div>
               </div> 
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_16 cs_mb_10">HRH Prince Faisal bin Bandar</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Chairman, Saudi Esports Federation</p>
+                <h2 class="text-white cs_fs_16 cs_mb_10">صاحب السمو الملكي الأمير فيصل بن بندر بن سلطان</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">رئيس مجلس إدارة الاتحاد السعودي للرياضات الإلكترونية</p>
               </div>
             </div>
           </div>
@@ -572,12 +574,12 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Andrew-Chen.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" data-bs-toggle="modal" data-bs-target="#Andrew-Chen" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Andrew-Chen" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">Andrew Chen</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">General Partner, Andreessen Horowitz</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">أندرو تشين</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">شريك عام، أندريسن هورويتز</p>
               </div>
             </div>
           </div>
@@ -586,12 +588,12 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Greg-Norman.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <!-- <a href="#" data-bs-toggle="modal" data-bs-target="#Greg-Norman" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a> -->
+                <!-- <a href="#" data-bs-toggle="modal" data-bs-target="#Greg-Norman" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a> -->
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">Greg Norman</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">CEO, Liv Golf</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">جريج نورمان</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي لشركة ليف غولف</p>
               </div>
             </div>
           </div>
@@ -600,12 +602,12 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Joe-Marsh.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" data-bs-toggle="modal" data-bs-target="#Joe-Marsh" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Joe-Marsh" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">Joe Marsh</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">CEO, T1 Entertainment Sports</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">جو مارش</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي لشركة ت وان  للترفيه الرياضي</p>
               </div>
             </div>
           </div>
@@ -614,12 +616,12 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Len-Blavantik.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" data-bs-toggle="modal" data-bs-target="#Len-Blavantik" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Len-Blavantik" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">Sir Leonard Blavatnik</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Founder, Access Industries</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">السير ليونارد بلافاتنيك</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">مؤسس شركة أكسيس إنداستريز</p>
               </div>
             </div>
           </div>
@@ -628,12 +630,12 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Lisa-Cosmas.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" data-bs-toggle="modal" data-bs-target="#Lisa-Cosmas" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Lisa-Cosmas" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">Lisa Cosmas Hanson</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">CEO, Niko Partners</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">ليزا كوزماس هانسون</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي لشركة نيكو بارتنرز</p>
               </div>
             </div>
           </div>
@@ -644,12 +646,12 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Magnus-Carlsen.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" data-bs-toggle="modal" data-bs-target="#Magnus-Carlsen" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Magnus-Carlsen" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">Magnus Carlsen</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">World Chess Champion</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">ماجنوس كارلسن</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">بطل العالم في الشطرنج</p>
               </div>
             </div>
           </div>
@@ -658,12 +660,12 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Maya-Rogers.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" data-bs-toggle="modal" data-bs-target="#Maya-Rogers" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Maya-Rogers" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">Maya Rogers</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">CEO, Tetris</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">مايا روجرز</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي لشركة تتريس</p>
               </div>
             </div>
           </div>
@@ -672,12 +674,12 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/RJ-Cutler.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" data-bs-toggle="modal" data-bs-target="#RJ-Cutler" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#RJ-Cutler" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">R.J. Cutler</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Oscar Nominated Documentary Filmmaker</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">آر جي كاتلر</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">مخرج أفلام وثائقية مرشح لجائزة الأوسكار</p>
               </div>
             </div>
           </div>
@@ -686,12 +688,12 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Ralf-Reichert.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                  <a href="#" data-bs-toggle="modal" data-bs-target="#Ralf-Reichert" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Ralf-Reichert" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">Ralf Reichert</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">CEO, Esports World Cup Foundation</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">رالف رايشرت</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي لمؤسسة كأس العالم للرياضات الإلكترونية</p>
               </div>
             </div>
           </div>
@@ -700,12 +702,12 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Songyee-Yoon.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" data-bs-toggle="modal" data-bs-target="#Songyee-Yoon" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Songyee-Yoon" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">Dr. Songyee Yoon</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Managing Partner, Principal Venture Partners</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">د. سونجي يون</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">شريك إداري، برنسيبال فينتشر بارتنرز</p>
               </div>
             </div>
           </div>
@@ -714,12 +716,12 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Toshimoto-Mitomo.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" data-bs-toggle="modal" data-bs-target="#Toshimoto-Mitomo" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Toshimoto-Mitomo" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">Toshimoto Mitomo</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Executive Deputy President and CSO, Sony</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">توشيموتو ميتومو</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">نائب الرئيس التنفيذي وكبير مسؤولي الأمن في شركة مجموعة سوني</p>
               </div>
             </div>
           </div>
