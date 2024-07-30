@@ -288,17 +288,17 @@
               <img src="assets/img/speakers/HRH-Prince-Faisal-bin-Bandar.png" alt="Member">
             </div>
             <div class="col-lg-8">
-            <h2 class="modal-title fs-5" id="staticBackdropLabel">HRH Prince Faisal bin Bandar bin Sultan bin Abdulaziz</h2>
-              <p class="text-white m-0">Chairman, Saudi Esports Federation</p>
+            <h2 class="modal-title fs-5" id="staticBackdropLabel">صاحب السمو الملكي الأمير فيصل بن بندر بن سلطان</h2>
+              <p class="text-white m-0">رئيس مجلس إدارة الاتحاد السعودي للرياضات الإلكترونية</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p>His Royal Highness Prince Faisal bin Bandar bin Sultan Al Saud is the Chairman of the Saudi Esports Federation (SEF) and Arab Esports Federation, positions he has held since their establishment in 2017. He is also the president of the International Esports Federation, and the Vice Chairman of Savvy Games Group since its establishment.</p>
-            <p>Under his leadership, the federation quickly grew the range of its activities to become the leading Saudi entity in charge of growing the National Gaming and Esports Strategy. Initially, the federation focused on providing gamers with platforms to become athletes. Now, SEF lives at the center of the Saudi esports ecosystem, to open doors and enable all that want to grow it.</p>
-            <p>His vision for the federation is to create an impact that generates a ripple effect, evolving sectors and services that were traditionally thought to be unrelated to esports.</p>
-            <p>As a result, today the Saudi Esports Federation is seen as the subject matter expert in gaming and esports that is coordinating government action, guiding investors, and providing gamers with platforms to compete and socialize in Saudi Arabia.</p>
-            <p>HRH Prince Faisal is a believer in the power of esports and aims to show the world how it can be a force for good. In 2020, he led the federation in designing the first-ever partnerships between UN-humanitarian aid organizations and a gaming event, Gamers Without Borders, which became the world’s largest gaming esports charitable event.</p>
+            <p>صاحب السمو الملكي الأمير فيصل بن بندر بن سلطان هو رئيس مجلس إدارة الاتحاد السعودي للرياضات الإلكترونية ورئيس الاتحاد العربي للرياضات الإلكترونية منذ تأسيسهما في عام 2017، ونائبًا لرئيس الاتحاد الدولي للرياضات الإلكترونية منذ ديسمبر 2021، كما أنه نائب رئيس مجلس إدارة مجموعة سافي للألعاب الإلكترونية منذ تأسيسها.</p>
+            <p>تحت قيادته، نما الاتحاد بسرعة ليصبح الكيان السعودي الرائد المسؤول عن تنمية صناعة الرياضات الإلكترونية في المملكة والاستراتيجية الوطنية للألعاب والرياضات الإلكترونية. ركز الاتحاد في بداياته على تزويد اللاعبين بمنصات تمكنهم من أن يصبحوا لاعبين محترفين. واليوم، يعيش اتحاد الرياضات الإلكترونية في قلب المنظومة الرياضية السعودية لفتح أبواب تطوير وتمكين القطاع.</p>
+            <p>تتمثل رؤية سموه للاتحاد في إحداث أثر ذو قيمة، بالإضافة إلى تطوير الصناعات التقليدية التي كان يُعتقد عدم وجود صلة لها بالرياضات الإلكترونية.</p>
+            <p>ونتيجة لذلك، يُنظر اليوم إلى الاتحاد السعودي للرياضات الإلكترونية على أنه الخبير المختص في القطاع والذي يقوم بتنسيق الإجراءات الحكومية، وتوجيه المستثمرين، وتزويد اللاعبين بمنصات للمنافسة والتواصل الاجتماعي في المملكة العربية السعودية.</p>
+            <p>يؤمن صاحب السمو الملكي الأمير فيصل بقوة تأثير الرياضات الإلكترونية ويسعى إلى تسخير الرياضات الإلكترونية كقوة من أجل الخير. في عام 2020، قاد سموه الاتحاد في أول شراكة على الإطلاق مع منظمات المساعدات الإنسانية التابعة للأمم المتحدة لإقامة لاعبون بلا حدود - حيث أصبح أكبر حدث خيري للألعاب والرياضات الإلكترونية على مستوى العالم.</p>
           </div>
         </div>
       </div>
