@@ -15,17 +15,35 @@
         </div>
         <div class="col-lg-8 offset-lg-1">
           <div class="cs_footer_item cs_pt_20 cs_pb_20">
+          <?php if( (strpos(url()->current(),'/ar') !== false) ) { ?>
+            <h2 class="cs_widget_title text-white cs_fs_22 cs_mb_22">اكتشف</h2>
+          <?php }
+          else { ?>
             <h2 class="cs_widget_title text-white cs_fs_22 cs_mb_22">Explore</h2>
+          <?php } ?>
             <ul class="cs_menu_widget text-uppercase">
-              <li><a href="/#about-the-conference">About</a></li>
-              <li><a href="/#conference-highlights">Highlights</a></li>
-              <li><a href="/#speakers">Speakers</a></li>
-              <li><a href="/#topics">Topics </a></li>
-              <li><a href="/#news">News</a></li>
-              <li><a href="/#contact-us">Contact Us</a></li>
-              <li><a href="/#apply-to-join">Apply</a></li>
-              <li><a href="{{ url('terms-and-conditions') }}">Terms & Conditions</a></li>
-              <li><a href="{{ url('privacy-policy') }}">Privacy Policy</a></li>
+              <?php if( (strpos(url()->current(),'/ar') !== false) ) { ?>
+                <li><a href="/ar#about-the-conference">نبذة عن المؤتمر</a></li>
+                <li><a href="/ar#conference-highlights">أبرز فعاليات المؤتمر</a></li>
+                <li><a href="/ar#speakers">المتحدثون</a></li>
+                <li><a href="/ar#topics">المواضيع</a></li>
+                <li><a href="/ar#news">أبرز الأخبار</a></li>
+                <li><a href="/ar#contact-us">اتصل بنا</a></li>
+                <li><a href="/ar#apply-to-join">طلب الانضمام</a></li>
+                <li><a href="{{ url('/ar/terms-and-conditions') }}">شروط الاستخدام</a></li>
+                <li><a href="{{ url('/ar/privacy-policy') }}">سياسة الخصوصية</a></li>
+              <?php }
+              else { ?>
+                <li><a href="/#about-the-conference">About</a></li>
+                <li><a href="/#conference-highlights">Highlights</a></li>
+                <li><a href="/#speakers">Speakers</a></li>
+                <li><a href="/#topics">Topics</a></li>
+                <li><a href="/#news">News</a></li>
+                <li><a href="/#contact-us">Contact Us</a></li>
+                <li><a href="/#apply-to-join">Apply</a></li>
+                <li><a href="{{ url('terms-and-conditions') }}">Terms & Conditions</a></li>
+                <li><a href="{{ url('privacy-policy') }}">Privacy Policy</a></li>
+              <?php } ?>
             </ul>
           </div>
         </div>
@@ -34,7 +52,12 @@
   </div>
   <div class="cs_copyright text-center cs_fs_124 cs_lh_lg cs_pt_36 cs_pb_36">
     <div class="container">
-      <p class="m-0">Copyright © {{ date('Y') }} <a target="_blank" href="https://esportsworldcup.com/">Esports World Cup Foundation</a>. All rights reserved.</p>
+      <?php if( (strpos(url()->current(),'/ar') !== false) ) { ?>
+        <p class="m-0">© {{ date('Y') }} <a target="_blank" href="https://esportsworldcup.com/">اتحاد كأس العالم للرياضات الإلكترونية</a> | جميع الحقوق محفوظة.</p>
+      <?php }
+      else { ?>
+        <p class="m-0">Copyright © {{ date('Y') }} <a target="_blank" href="https://esportsworldcup.com/">Esports World Cup Foundation</a>. All rights reserved.</p>
+      <?php } ?>
     </div>
   </div>
 </footer>

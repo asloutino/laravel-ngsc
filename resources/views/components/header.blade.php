@@ -23,14 +23,14 @@
     <div class="container">
       <div class="cs_main_header_in">
         <div class="cs_main_header_left">
-          <a class="cs_site_branding" href="<?php if( (strpos(url()->current(),'/ar/') !== false) ) { ?>{{ url('/ar') }}<?php } else { ?>{{ url('/') }}<?php } ?>">
+          <a class="cs_site_branding" href="<?php if( (strpos(url()->current(),'/ar') !== false) ) { ?>{{ url('/ar') }}<?php } else { ?>{{ url('/') }}<?php } ?>">
             <img src="{{ asset('assets/img/NGCS-Conference-Logo-white.svg') }}" alt="Logo">
           </a>
         </div>
         <div class="cs_main_header_center">
           <div class="cs_nav cs_primary_font fw-medium">
             <ul class="cs_nav_list fw-medium text-uppercase">
-              <?php if( (strpos(url()->current(),'/ar/') !== false) ) { ?>
+              <?php if( (strpos(url()->current(),'/ar') !== false) ) { ?>
                 <li><a href="/ar#about-the-conference">نبذة عن المؤتمر</a></li>
                 <li><a href="/ar#conference-highlights">أبرز فعاليات المؤتمر</a></li>
                 <li><a href="/ar#speakers">المتحدثون</a></li>
@@ -47,7 +47,7 @@
                 <li><a href="/#contact-us">Contact Us</a></li>
               <?php } ?>
               <li class="lang-switch">
-                <?php if( (strpos(url()->current(),'/ar/') !== false) ) {
+                <?php if( (strpos(url()->current(),'/ar') !== false) ) {
                   $englishPath = substr(\Request::path(), strpos(\Request::path(), '/', 1)); ?>
                   <a class="en" href="<?php echo $englishPath; ?>">EN</a>
                   <a class="ar" href="{{url()->current()}}">AR</a>
