@@ -33,15 +33,14 @@
             <div class="cs_main_header_center">
               <div class="cs_nav cs_primary_font fw-medium">
                 <ul class="cs_nav_list fw-medium text-uppercase">
-                  <li><a href="/#about-the-conference">About the Conference</a></li>
-                  <li><a href="/#conference-highlights">Conference Highlights</a></li>
-                  <li><a href="/#speakers">Speakers</a></li>
-                  <li><a href="/#topics">Topics</a></li>
-                  <li><a href="/#news">News</a></li>
-                  <li><a href="/#contact-us">Contact Us</a></li>
+                  <li><a href="/ar#about-the-conference">نبذة عن المؤتمر</a></li>
+                  <li><a href="/ar#conference-highlights">أبرز فعاليات المؤتمر</a></li>
+                  <li><a href="/ar#speakers">المتحدثون</a></li>
+                  <li><a href="/ar#topics">المواضيع</a></li>
+                  <li><a href="/ar#news">أبرز الأخبار</a></li>
+                  <li><a href="/ar#contact-us">اتصل بنا</a></li>
                   <li class="lang-switch">
-                    <a class="en" href="{{url('/')}}">EN</a>
-                    <a class="ar" href="{{url('ar')}}">AR</a>
+                    <a class="en" href="{{url('/')}}">EN</a> | <a class="ar" href="{{url('ar')}}">AR</a>
                   </li>
                 </ul>
               </div>
@@ -49,7 +48,7 @@
             <div class="cs_main_header_right">
               <div class="cs_toolbox">
                 <div class="cs_hero_btn">
-                  <a href="/#apply-to-join" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_20 cs_pr_20 cs_pt_10 cs_pb_10 overflow-hidden"><span>APPLY TO JOIN</span></a>
+                <a href="/ar#apply-to-join" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_20 cs_pr_20 cs_pt_10 cs_pb_10 overflow-hidden"><span>طلب الانضمام</span></a>
                 </div>
               </div>
             </div>
@@ -72,9 +71,9 @@
                 </figure>
                 <div class="container text-center">
                   <div class="cs_hero_text position-relative cs_zindex_5 d-inline-block">
-                    <h1 class="text-white cs_mb_12 cs_fs_50 cs_fs_lg_36">THE FUTURE OF FANDOM</h1>
-                    <h2 class="text-white cs_mb_0 fw-normal cs_fs_16">Four Seasons Hotel Riyadh</h2>
-                    <p class="text-white cs_fs_14 cs_mb_20">August 24-25, 2024</p>
+                    <h1 class="text-white cs_mb_12 cs_fs_50 cs_fs_lg_36">مستقبل ثقافة المشجعين</h1>
+                    <h2 class="text-white cs_mb_0 fw-normal cs_fs_16">فندق فور سيزونز الرياض</h2>
+                    <p class="text-white cs_fs_14 cs_mb_20">24-25 أغسطس 2024</p>
                   </div>
                 </div>
               </div>
@@ -206,9 +205,9 @@
             <div class="cs_about cs_style_1">
               <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
                 <div class="cs_section_heading_in">
-                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">ABOUT THE CONFERENCE</h3>
-                  <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">NEW GLOBAL SPORT CONFERENCE 2024</h2>
-                  <p class="m-0">EWCF’s main conference will be the gateway for today and tomorrow’s executives, global leaders, and prime decision-makers into a new global sport and will showcase how esports can create new global opportunities. The NGSC24 will unite top players from sports, esports, gaming, entertainment, technology and beyond, serving as a a content-packed platform bringing together these industries. It carries on the torch of the Next World Forum series and NGSC23, uniting both events under one exclusive banner in 2024.</p>
+                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">حول المؤتمر</h3>
+                  <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">مؤتمر الرياضة العالمية الجديدة 2024</h2>
+                  <p class="m-0">سيمثل المؤتمر الرئيسي لمؤسسة كأس العالم للرياضات الإلكترونية بوابة لمديري الحاضر والمستقبل، والقادة العالميين وصناع السياسات، إلى رياضة عالمية جديدة، وسيعرض كيف ستوفر هذه الرياضة فرصًا عالمية جديدة. سيجمع مؤتمر الرياضة العالمية الجديدة 2024 بين أفضل الرياضيين ولاعبي الرياضات الإلكترونية والألعاب والترفيه والتكنولوجيا وغيرها، ليكون بمثابة منصة مليئة بالمحتوى تجمع هذه الصناعات معًا، حاملا شعلة سلسلة “منتدى نكست ورلد” ومؤتمر الرياضة العالمية الجديدة 2023، ليوحد كلا الحدثين تحت شعار واحد حصري خلال عام 2024.</p>
                 </div>
               </div>
             </div>
@@ -226,10 +225,10 @@
             <div class="cs_about cs_style_1">
               <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
                 <div class="cs_section_heading_in">
-                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">THIS YEAR'S THEME</h3>
-                  <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">THE FUTURE OF FANDOM</h2>
-                  <p class="m-0">The New Global Sport Conference (NGSC) unites leaders from esports, gaming, business, sports, and entertainment to explore “The Future of Fandom.” The event will discuss fandom’s impact on business planning, content, IP and media rights, marketing, and community-building. This year, NGSC focuses on how fandom influences society, builds brand equity, and generates revenue through media rights, sponsorships, and merchandise.</p>
-                  <p class="mt-2">Sneak peeks of upcoming releases, behind-the-scenes insights, and opportunities to meet creators and stars will elevate this immersive experience, celebrate fandom culture and explore its transformative potential like never before.</p>
+                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">موضوع هذا العام</h3>
+                  <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">مستقبل ثقافة المشجعين</h2>
+                  <p class="m-0">يجمع مؤتمر الرياضة العالمية الجديدة بين قادة ذوي الرؤية من الرياضات الإلكترونية والألعاب والأعمال والرياضات السائدة والترفيهية، لاستكشاف موضوع هذا العام: “مستقبل ثقافة المشجعين”. سيناقش المؤتمر تأثير ثقافة المشجعين على تخطيط الأعمال والمحتوى والملكية الفكرية وحقوق الإعلام والتسويق والبناء المجتمعي. سيركز المؤتمر هذا العام على اختراق المشجعين الألعاب، وبناء قيمة العلامة التجارية، وتوليد الإيرادات من خلال حقوق الإعلام والرعاية والبضائع التجارية.</p>
+                  <p class="mt-2">نظرات خاطفة على الإصدارات القادمة، ووراء الكواليس حول علامات مشهورة، وفرص مقابلة المبدعين والنجوم، ستزيد من ارتقاء هذه التجربة الغامرة، والاحتفال بثقافة المشجعين، واستكشاف إمكاناتها التحويلية بشكل لم يسبق له مثيل.</p>
                 </div>
               </div>
             </div>
@@ -250,28 +249,28 @@
           <div class="col-6 col-lg-3">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden">
               <div class="cs_team_info cs_pt_25 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
-                <p class="text-white m-0">Join the 2-day program with thought leaders covering key esports challenges & opportunities</p>
+                <p class="text-white m-0">انضم إلى برنامج يومين مع قادة الفكر والخبراء، في مناقشة التحديات والفرص الرئيسية في مجال الرياضات الإلكترونية</p>
               </div>
             </div>
           </div>
           <div class="col-6 col-lg-3">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden">
               <div class="cs_team_info cs_pt_25 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
-                <p class="text-white m-0">Maximize your networking opportunities with 800+ expected attendees</p>
+                <p class="text-white m-0">قم بزيادة فرص التواصل مع ما يزيد عن 800 من الحضور المتوقع</p>
               </div>
             </div>
           </div>
           <div class="col-6 col-lg-3">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden">
               <div class="cs_team_info cs_pt_25 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
-                <p class="text-white m-0">Engage with key figures behind KSA's Vision 2030 and its National Gaming and Esports strategy</p>
+                <p class="text-white m-0">تفاعل مع الشخصيات الرئيسية وراء رؤية المملكة العربية السعودية 2030، واستراتيجيتها الوطنية للألعاب والرياضات الإلكترونية</p>
               </div>
             </div>
           </div>
           <div class="col-6 col-lg-3">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden">
               <div class="cs_team_info cs_pt_25 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4">
-                <p class="text-white m-0">Experience Riyadh as a global hub for esports, sports, gaming and entertainment business</p>
+                <p class="text-white m-0">اكتشف الرياض كمركز عالمي للرياضات الإلكترونية والرياضة والألعاب والترفيه</p>
               </div>
             </div>
           </div>
@@ -738,8 +737,8 @@
             <div class="cs_service_slider_2 cs_gap_24">
               <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_30 cs_mb_lg_40 cs_column_gap_15 cs_row_gap_15">
                 <div class="cs_section_heading_in">
-                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInLeft;">NEW GLOBAL SPORT CONFERENCE 2024</h3>
-                  <h2 class="cs_fs_48 cs_fs_lg_36 m-0">TOPICS IN FOCUS</h2>
+                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 0.8s; animation-delay: 0.2s; animation-name: fadeInLeft;">مؤتمر الرياضة العالمية الجديدة 2024</h3>
+                  <h2 class="cs_fs_48 cs_fs_lg_36 m-0">مواضيع مهمة</h2>
                 </div>
                 <div class="cs_section_heading_right">
                   <div class="d-flex cs_column_gap_15 justify-content-lg-end justify-content-start">
@@ -763,7 +762,7 @@
                   <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 cs_transition_4 shadow cs_mb_25">
                     <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25"></div>
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
-                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">BECOMING A MODERN SPORTS HERO</h2>
+                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">أن تغدو بطلاً رياضيًا حديثًا</h2>
                     </div>
                     <!-- <p class="cs_mb_20 lh-base">Sports, Gaming and The Relentless Pursuit of Greatness</p> -->
                   </div>
@@ -772,7 +771,7 @@
                   <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 cs_transition_4 shadow cs_mb_25">
                     <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25"></div>
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
-                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">GAME ON, SAUDI ARABIA</h2>
+                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">المنافسة ابتدأت في المملكة العربية السعودية</h2>
                     </div>
                     <!-- <p class="cs_mb_20 lh-base">Gaming & Sports as the Kingdom’s Gateway to the World</p> -->
                   </div>
@@ -781,7 +780,7 @@
                   <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 cs_transition_4 shadow cs_mb_25">
                     <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25"></div>
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
-                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">BUILDING A NEW GLOBAL SPORT</h2>
+                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">بناء رياضة عالمية جديدة</h2>
                     </div>
                     <!-- <p class="cs_mb_20 lh-base">Esports, Traditional Sports & How to Craft a New Global Sporting Legacy</p> -->
                   </div>
@@ -790,7 +789,7 @@
                   <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 cs_transition_4 shadow cs_mb_25">
                     <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25"></div>
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
-                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">NAVIGATING GROWTH IN GAMES & ENTERTAINMENT</h2>
+                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">مواكبة النمو في مجال الألعاب والترفيه</h2>
                     </div>
                     <!-- <p class="cs_mb_20 lh-base">Consolidation, Innovation, New Markets & New Fans</p> -->
                   </div>
@@ -799,7 +798,7 @@
                   <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 cs_transition_4 shadow cs_mb_25">
                     <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25"></div>
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
-                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">THE CULTURAL IDENTITY OF FUTURE FANDOM</h2>
+                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">الهوية الثقافية لجماهير المستقبل</h2>
                     </div>
                     <!-- <p class="cs_mb_20 lh-base">Esports Meets Fashion, Art & Music</p> -->
                   </div>
@@ -808,7 +807,7 @@
                   <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 cs_transition_4 shadow cs_mb_25">
                     <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25"></div>
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
-                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">THE ART OF (E)SPORTS STORYTELLING</h2>
+                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">فن رواية قصص الرياضية الإلكترونية</h2>
                     </div>
                     <!-- <p class="cs_mb_20 lh-base">Crafting Compelling Sports Narratives</p> -->
                   </div>
@@ -817,7 +816,7 @@
                   <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 cs_transition_4 shadow cs_mb_25">
                     <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25"></div>
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
-                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">PIONEERING THE PLATFORMS OF FANDOM</h2>
+                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">الريادة في منصات ثقافة المشجعين</h2>
                     </div>
                     <!-- <p class="cs_mb_20 lh-base">The Role of Tech Giants in Shaping Esports</p> -->
                   </div>
@@ -826,7 +825,7 @@
                   <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 cs_transition_4 shadow cs_mb_25">
                     <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25"></div>
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
-                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">CAN TRADITION SURVIVE THE DIGITAL AGE?</h2>
+                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">هل بإمكان التقاليد البقاء في العصر الرقمي؟</h2>
                     </div>
                     <!-- <p class="cs_mb_20 lh-base">Enhancing Traditional Sports and Creating New Fans</p> -->
                   </div>
@@ -835,7 +834,7 @@
                   <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 cs_transition_4 shadow cs_mb_25">
                     <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25"></div>
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
-                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">CREATING FAN FAVORITE GAMES</h2>
+                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">إنشاء الألعاب المفضلة لدى المعجبين</h2>
                     </div>
                     <!-- <p class="cs_mb_20 lh-base">Exploring Key Factors for Video Game Longevity in Development & Publishing</p> -->
                   </div>
@@ -844,7 +843,7 @@
                   <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 cs_transition_4 shadow cs_mb_25">
                     <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25"></div>
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
-                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">FAN FRENZY MARKETING</h2>
+                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">تسويق هوس المعجبين</h2>
                     </div>
                     <!-- <p class="cs_mb_20 lh-base">Mastering Engagement and Excitement in Esports, Sports & Gaming</p> -->
                   </div>
@@ -853,7 +852,7 @@
                   <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 cs_transition_4 shadow cs_mb_25">
                     <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25"></div>
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
-                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">WHEN AI WAS STILL BOTS: ALGORITHMS IN ESPORTS</h2>
+                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">عندما كان الذكاء الاصطناعي لا يزال عبارة عن روبوتات: الخوارزميات في الرياضات الإلكترونية</h2>
                     </div>
                     <!-- <p class="cs_mb_20 lh-base">The Past and Present of Training, Strategy & Engagement</p> -->
                   </div>
@@ -862,7 +861,7 @@
                   <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 cs_transition_4 shadow cs_mb_25">
                     <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25"></div>
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
-                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">BREAKING BOUNDARIES IN GAMES AND ESPORTS</h2>
+                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">اختراق الحدود في الألعاب والرياضات الإلكترونية</h2>
                     </div>
                     <!-- <p class="cs_mb_20 lh-base">Driving Diversity, Inclusion & Social Responsibility in the Games Industry</p> -->
                   </div>
@@ -871,7 +870,7 @@
                   <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 cs_transition_4 shadow cs_mb_25">
                     <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25"></div>
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
-                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">REBOOTING SUCCESS</h2>
+                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">إعادة تفعيل النجاح</h2>
                     </div>
                     <!-- <p class="cs_mb_20 lh-base">Lessons from Serial Entrepreneurs in Esports, Sports and Games</p> -->
                   </div>
@@ -880,7 +879,7 @@
                   <div class="cs_service cs_style_1 cs_type_1 cs_pt_25 cs_pl_25 cs_pr_25 cs_pb_15 cs_transition_4 shadow cs_mb_25">
                     <div class="cs_service_thumb position-relative cs_rounded_5 cs_mb_25"></div>
                     <div class="cs_service_iconbox d-flex align-items-center cs_mb_20">
-                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">CULTURAL CROSSROADS IN GAMES</h2>
+                      <h2 class="cs_lh_base cs_fs_20 cs_fs_lg_18 m-0">مفترق الطرق الثقافية في الألعاب</h2>
                     </div>
                     <!-- <p class="cs_mb_20 lh-base">Integrating Saudi Arabia’s Rich Artistic Heritage and Culture into Gaming</p> -->
                   </div>

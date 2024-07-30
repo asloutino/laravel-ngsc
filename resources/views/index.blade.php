@@ -40,8 +40,7 @@
                   <li><a href="/#news">News</a></li>
                   <li><a href="/#contact-us">Contact Us</a></li>
                   <li class="lang-switch">
-                    <a class="en" href="{{url('/')}}">EN</a>
-                    <a class="ar" href="{{url('ar')}}">AR</a>
+                    <a class="en" href="{{url('/')}}">EN</a> | <a class="ar" href="{{url('ar')}}">AR</a>
                   </li>
                 </ul>
               </div>

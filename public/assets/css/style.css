@@ -2189,8 +2189,11 @@ label {
     margin-right: 60px;
     height: inherit;
   }
-  .cs_nav .cs_nav_list > li:last-child {
+  html[lang="en"] .cs_nav .cs_nav_list > li:last-child {
     margin-right: 0;
+  }
+  html[lang="ar"] .cs_nav .cs_nav_list > li:last-child {
+    margin-left: 0;
   }
   .cs_nav .cs_nav_list > li > a {
     padding: 10px 0;
@@ -5036,4 +5039,12 @@ html[lang="ar"] #topics .cs_section_heading_right .d-flex {
 
 html[lang="ar"] .cs_post_btn-icon {
   transform: rotate(180deg);
+}
+
+html[lang="ar"] #topics .cs_service_iconbox {
+  flex-flow:row-reverse
+}
+
+html[lang="ar"] #topics .cs_service_iconbox h2 {
+  text-align: right;
 }

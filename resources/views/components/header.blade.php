@@ -30,12 +30,22 @@
         <div class="cs_main_header_center">
           <div class="cs_nav cs_primary_font fw-medium">
             <ul class="cs_nav_list fw-medium text-uppercase">
-              <li><a href="/#about-the-conference">About the Conference</a></li>
-              <li><a href="/#conference-highlights">Conference Highlights</a></li>
-              <li><a href="/#speakers">Speakers</a></li>
-              <li><a href="/#topics">Topics</a></li>
-              <li><a href="/#news">News</a></li>
-              <li><a href="/#contact-us">Contact Us</a></li>
+              <?php if( (strpos(url()->current(),'/ar/') !== false) ) { ?>
+                <li><a href="/ar#about-the-conference">نبذة عن المؤتمر</a></li>
+                <li><a href="/ar#conference-highlights">أبرز فعاليات المؤتمر</a></li>
+                <li><a href="/ar#speakers">المتحدثون</a></li>
+                <li><a href="/ar#topics">المواضيع</a></li>
+                <li><a href="/ar#news">أبرز الأخبار</a></li>
+                <li><a href="/ar#contact-us">اتصل بنا</a></li>
+              <?php }
+              else { ?>
+                <li><a href="/#about-the-conference">About the Conference</a></li>
+                <li><a href="/#conference-highlights">Conference Highlights</a></li>
+                <li><a href="/#speakers">Speakers</a></li>
+                <li><a href="/#topics">Topics</a></li>
+                <li><a href="/#news">News</a></li>
+                <li><a href="/#contact-us">Contact Us</a></li>
+              <?php } ?>
               <li class="lang-switch">
                 <?php if( (strpos(url()->current(),'/ar/') !== false) ) {
                   $englishPath = substr(\Request::path(), strpos(\Request::path(), '/', 1)); ?>
@@ -43,8 +53,7 @@
                   <a class="ar" href="{{url()->current()}}">AR</a>
                 <?php }
                   else { ?>
-                  <a class="en" href="{{url()->current()}}">EN</a>
-                  <a class="ar" href="/ar/{{ \Request::path() }}">AR</a>
+                  <a class="en" href="{{url()->current()}}">EN</a> | <a class="ar" href="/ar/{{ \Request::path() }}">AR</a>
                 <?php } ?>
               </li>
             </ul>
@@ -53,7 +62,12 @@
         <div class="cs_main_header_right">
           <div class="cs_toolbox">
             <div class="cs_hero_btn">
-              <a href="/#apply-to-join" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_20 cs_pr_20 cs_pt_10 cs_pb_10 overflow-hidden"><span>APPLY TO JOIN</span></a>
+              <?php if( (strpos(url()->current(),'/ar/') !== false) ) { ?>
+                <a href="/ar#apply-to-join" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_20 cs_pr_20 cs_pt_10 cs_pb_10 overflow-hidden"><span>طلب الانضمام</span></a>
+              <?php }
+              else { ?>
+                <a href="/#apply-to-join" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_20 cs_pr_20 cs_pt_10 cs_pb_10 overflow-hidden"><span>APPLY TO JOIN</span></a>
+              <?php } ?>
             </div>
           </div>
         </div>
