@@ -548,8 +548,8 @@
       <div class="container">
         <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
           <div class="cs_section_heading_in">
-            <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">NEW GLOBAL SPORT CONFERENCE 2024</h3>
-            <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">SPEAKERS</h2>
+            <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">مؤتمر الرياضة العالمية الجديدة 2024</h3>
+            <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">المتحدثون</h2>
           </div>
         </div>
         <div class="row">
@@ -911,14 +911,14 @@
       <div class="container">
         <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_60 cs_mb_lg_40">
           <div class="cs_section_heading_in">
-            <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">NEW GLOBAL SPORT CONFERENCE 2024</h3>
-            <h2 class="cs_fs_48 cs_fs_lg_36 m-0">NEWS</h2>
+            <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">مؤتمر الرياضة العالمية الجديدة 2024</h3>
+            <h2 class="cs_fs_48 cs_fs_lg_36 m-0">أبرز الأخبار</h2>
           </div>
         </div>
         <div class="row">
           <div class="col-lg-6">
             <div class="cs_post cs_style_1 shadow-sm cs_mb_30">
-              <a href="{{ url('dates-for-2024-event-and-major-expansion') }}" class="cs_post_thumb d-block position-relative overflow-hidden">
+              <a href="{{ url('/ar/dates-for-2024-event-and-major-expansion') }}" class="cs_post_thumb d-block position-relative overflow-hidden">
                 <div class="cs_post_thumb-in cs_transition_5 h-100 w-100" data-src="{{ asset('assets/img/news/EWC_KV_MASTER.jpg') }}"></div>
               </a>
               <div class="cs_post_in">
@@ -933,11 +933,11 @@
                       <a href="">3 comments</a>
                     </li>
                   </ul> -->
-                  <h2 class="cs_post_title cs_lh_base cs_fs_20 cs_fs_lg_18 cs_mb_10"><a href="{{ url('dates-for-2024-event-and-major-expansion') }}">Riyadh’s New Global Sport Conference Unveils Dates for 2024 Event and Major Expansion</a></h2>
+                  <h2 class="cs_post_title cs_lh_base cs_fs_20 cs_fs_lg_18 cs_mb_10"><a href="{{ url('/ar/dates-for-2024-event-and-major-expansion') }}">المملكة تستضيف النسخة الثانية من مؤتمر الرياضة العالمية الجديدة، امتدادًا لنجاح أعمال كأس العالم للرياضات الإلكترونية</a></h2>
                   <!-- <div class="cs_post_subtitle">The premier conference for esports, sports, and gaming in the Middle East will be part of the Closing Weekend of the Esports World Cup in August 2024</div> -->
                 </div>
-                <a href="{{ url('dates-for-2024-event-and-major-expansion') }}" class="cs_post_btn d-flex justify-content-between align-items-center cs_pl_40 cs_pr_40 cs_pb_10 cs_pt_10">
-                  <span class="cs_post_btn-text">Read More</span>
+                <a href="{{ url('/ar/dates-for-2024-event-and-major-expansion') }}" class="cs_post_btn d-flex justify-content-between align-items-center cs_pl_40 cs_pr_40 cs_pb_10 cs_pt_10">
+                  <span class="cs_post_btn-text">اقرأ المزيد</span>
                   <div class="cs_post_btn-icon d-flex cs_transition_4">
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <path d="M11.9999 0.224976C6.52011 0.224976 1.63131 4.16368 0.485006 9.52707C-0.0876941 12.207 0.298106 15.0567 1.57581 17.4816C2.80551 19.8153 4.82151 21.7014 7.23351 22.7703C9.74241 23.8824 12.6227 24.0762 15.2597 23.3178C17.8037 22.5864 20.0594 20.9811 21.5951 18.8262C24.806 14.3211 24.3767 7.99288 20.5991 3.95608C18.3851 1.59028 15.2405 0.224976 11.9999 0.224976ZM17.6486 12.6291L14.4386 15.9165C13.6259 16.749 12.3413 15.4878 13.1507 14.6592L14.7704 13.0005H7.09461C6.54951 13.0005 6.09471 12.5454 6.09471 12.0006C6.09471 11.4558 6.54981 11.0007 7.09461 11.0007H14.732L13.0802 9.34918C12.2594 8.52838 13.532 7.25548 14.3528 8.07628L17.6411 11.3643C17.9897 11.7126 17.993 12.2766 17.6486 12.6291Z" fill="currentColor"/>
@@ -949,7 +949,7 @@
           </div>
           <div class="col-lg-6">
             <div class="cs_post cs_style_1 shadow-sm cs_mb_30">
-              <a href="{{ url('olympic-esports-games-to-be-hosted-in-the-kingdom-of-saudi-arabia') }}" class="cs_post_thumb d-block position-relative overflow-hidden">
+              <a href="{{ url('/ar/olympic-esports-games-to-be-hosted-in-the-kingdom-of-saudi-arabia') }}" class="cs_post_thumb d-block position-relative overflow-hidden">
                 <div class="cs_post_thumb-in cs_transition_5 h-100 w-100" data-src="{{ asset('assets/img/news/ANNOUNCEMENT.jpg') }}"></div>
               </a>
               <div class="cs_post_in">
@@ -964,11 +964,11 @@
                       <a href="">3 comments</a>
                     </li>
                   </ul> -->
-                  <h2 class="cs_post_title cs_lh_base cs_fs_20 cs_fs_lg_18 cs_mb_10"><a href="{{ url('olympic-esports-games-to-be-hosted-in-the-kingdom-of-saudi-arabia') }}">Olympic Esports Games To Be Hosted In The Kingdom Of Saudi Arabia</a></h2>
+                  <h2 class="cs_post_title cs_lh_base cs_fs_20 cs_fs_lg_18 cs_mb_10"><a href="{{ url('/ar/olympic-esports-games-to-be-hosted-in-the-kingdom-of-saudi-arabia') }}">إقامة الألعاب الأولمبية للرياضات الإلكترونية في المملكة العربية السعودية</a></h2>
                   <!-- <div class="cs_post_subtitle">The International Olympic Committee (IOC) announced that it has partnered with the National Olympic Committee (NOC) of Saudi Arabia to host ...</div> -->
                 </div>
-                <a href="{{ url('olympic-esports-games-to-be-hosted-in-the-kingdom-of-saudi-arabia') }}" class="cs_post_btn d-flex justify-content-between align-items-center cs_pl_40 cs_pr_40 cs_pb_10 cs_pt_10">
-                  <span class="cs_post_btn-text">Read More</span>
+                <a href="{{ url('/ar/olympic-esports-games-to-be-hosted-in-the-kingdom-of-saudi-arabia') }}" class="cs_post_btn d-flex justify-content-between align-items-center cs_pl_40 cs_pr_40 cs_pb_10 cs_pt_10">
+                  <span class="cs_post_btn-text">اقرأ المزيد</span>
                   <div class="cs_post_btn-icon d-flex cs_transition_4">
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <path d="M11.9999 0.224976C6.52011 0.224976 1.63131 4.16368 0.485006 9.52707C-0.0876941 12.207 0.298106 15.0567 1.57581 17.4816C2.80551 19.8153 4.82151 21.7014 7.23351 22.7703C9.74241 23.8824 12.6227 24.0762 15.2597 23.3178C17.8037 22.5864 20.0594 20.9811 21.5951 18.8262C24.806 14.3211 24.3767 7.99288 20.5991 3.95608C18.3851 1.59028 15.2405 0.224976 11.9999 0.224976ZM17.6486 12.6291L14.4386 15.9165C13.6259 16.749 12.3413 15.4878 13.1507 14.6592L14.7704 13.0005H7.09461C6.54951 13.0005 6.09471 12.5454 6.09471 12.0006C6.09471 11.4558 6.54981 11.0007 7.09461 11.0007H14.732L13.0802 9.34918C12.2594 8.52838 13.532 7.25548 14.3528 8.07628L17.6411 11.3643C17.9897 11.7126 17.993 12.2766 17.6486 12.6291Z" fill="currentColor"/>
@@ -991,9 +991,9 @@
             <div class="cs_about cs_style_1">
               <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
                 <div class="cs_section_heading_in">
-                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">REQUEST A TICKETED INVITATION</h3>
-                  <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">APPLY TO JOIN</h2>
-                  <p class="m-0">We will shortly start our invitations. While the event is invite-only, a limited number of tickets will become available on July 1st, following an application process. Please apply through the form to be considered for joining us for the New Global Sport Conference 2024.</p>
+                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">اطلب دعوة مع تذكرة</h3>
+                  <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">قدم طلب الانضمام</h2>
+                  <p class="m-0">سنبدأ قريباً دعواتنا. على الرغم من أن الحدث يقتصر على المدعوين فقط، إلا أن عددًا محدودًا من التذاكر سيكون متاحًا في الأول من يوليو، بعد عملية تقديم الطلبات. يرجى التقديم من خلال النموذج ليتم النظر فيه؛ للانضمام إلينا في مؤتمر الرياضة العالمية الجديدة 2024.</p>
                 </div>
               </div>
             </div>
@@ -1002,26 +1002,26 @@
             <form class="row" id="applyForm" method="POST" action="{{ route('apply.submit') }}">
               @csrf {{-- Cross-Site Request Forgery protection --}}
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-first-name" id="apply-first-name" type="text" placeholder="First Name">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-first-name" id="apply-first-name" type="text" placeholder="الاسم الأول">
                 <span id="apply-first-name-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-last-name" id="apply-last-name" type="text" placeholder="Last Name">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-last-name" id="apply-last-name" type="text" placeholder="الاسم الثاني">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-email" id="apply-email" type="text" placeholder="Email">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-email" id="apply-email" type="text" placeholder="البريد الالكتروني">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-company" id="apply-company" type="text" placeholder="Company">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-company" id="apply-company" type="text" placeholder="الشركة">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-position" id="apply-position" type="text" placeholder="Position">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-position" id="apply-position" type="text" placeholder="المنصب">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-industry" id="apply-industry" type="text" placeholder="Industry">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-industry" id="apply-industry" type="text" placeholder="قطاع العمل">
               </div>
               <div class="col-lg-12">
-                <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 cs_mt_20 overflow-hidden"><span>Apply to Join</span></button>
+                <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 cs_mt_20 overflow-hidden"><span>طلب الانضمام</span></button>
               </div>
             </form>
           </div>
@@ -1042,11 +1042,12 @@
             <div class="cs_about cs_style_1">
               <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
                 <div class="cs_section_heading_in">
-                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">ABOUT</h3>
-                  <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">THE ESPORTS WORLD CUP</h2>
-                  <p class="m-0">The Esports World Cup (EWC) is an elite, multi-genre esports competition held annually in Saudi Arabia starting in 2024. Taking place in July and August at the world-class venue in Riyadh Boulevard City, the EWC will offer the largest prize pool in esports and feature the most popular titles across major gaming genres. It will introduce a new cross-game competition format, awarding prizes for individual game titles and club performances. Designed for both professional esports players and gaming enthusiasts, the event will include qualifiers to provide many teams with the opportunity to participate, along with a thrilling calendar of on-the-ground activations, live entertainment, and competitions for fans.</p>
+                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">حول</h3>
+                  <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">كأس العالم للرياضات الإلكترونية</h2>
+                  <p class="m-0">كأس العالم للرياضات الإلكترونية هي مسابقة نخبوية متعددة الأنواع للرياضات الإلكترونية، ستقام سنويًا في المملكة العربية السعودية بدءًا من عام 2024. ستعقد هذه المسابقة في شهري يوليو وأغسطس في المركز العالمي في بوليفارد سيتي، الرياض، لتقدم أكبر مجموعة من الجوائز للرياضات الإلكترونية وستتميز بالعناوين الأكثر شعبية. ستعرض تنسيقًا جديدًا للمنافسة، وستمنح الجوائز لألقاب الألعاب الفردية وعروض الأندية.</p>
+                  <p>تم تصميم هذا الحدث لكل من لاعبي الرياضات الإلكترونية المحترفين وعشاق الألعاب، وستتضمن تصفيات لتزويد العديد من الفرق بفرصة المشاركة، إلى جانب تقويم مثير من الأنشطة والترفيه المباشر ومسابقات للجماهير.</p>
                   <div class="cs_hero_btn">
-                    <a href="https://esportsworldcup.com/" target="_blank" class="cs_btn cs_style_1 cs_mt_20 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>Visit Us</span></a>
+                    <a href="https://esportsworldcup.com/" target="_blank" class="cs_btn cs_style_1 cs_mt_20 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 overflow-hidden"><span>زورونا الآن</span></a>
                   </div>
                 </div>
               </div>
@@ -1065,9 +1066,11 @@
             <div class="cs_about cs_style_1">
               <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
                 <div class="cs_section_heading_in">
-                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">GET IN TOUCH</h3>
-                  <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">CONTACT US</h2>
-                  <p class="m-0">We’re thrilled to explore with you the opportunity to join us at the crossroads of esports, sports and gaming industry ! If you’re eager to be part of the action and gain exclusive access at our upcoming New Global Sports Conference 2024, we invite you to complete the application form. We will review and get back to you as soon as possible.</p>
+                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">الخطوة التالية</h3>
+                  <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">اتصل بنا</h2>
+                  <p class="m-0">يسعدنا أن نستكشف معكم فرصة الانضمام إلينا على مفترق طرق الرياضات الإلكترونية والرياضة وصناعة الألعاب!
+                  إذا كان لديكم الاهتمام لتكونوا جزءًا من الحدث والحصول على دخول حصري إلى مؤتمر الرياضة العالمية الجديدة 2024، ندعوكم إلى إكمال نموذج الطلب ادناه. سنقوم بالمراجعة والرد عليكم في أقرب وقت ممكن.</p>
+                  <p>لا تفوتوا هذه الفرصة لتكونوا جزءًا من هذا الحدث الرائد الذي سيشكل مستقبل الرياضات الإلكترونية.</p>
                 </div>
               </div>
             </div>
@@ -1076,41 +1079,41 @@
             <form class="row" method="POST" action="{{ route('contact.submit') }}">
               @csrf {{-- Cross-Site Request Forgery protection --}}
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-first-name" id="contact-first-name" type="text" placeholder="First Name">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-first-name" id="contact-first-name" type="text" placeholder="الاسم الأول">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-last-name" id="contact-last-name" type="text" placeholder="Last Name">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-last-name" id="contact-last-name" type="text" placeholder="الاسم الثاني">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-email" id="contact-email" type="text" placeholder="Email">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-email" id="contact-email" type="text" placeholder="البريد الالكتروني">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-phone" id="contact-phone" type="text" placeholder="Phone">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-phone" id="contact-phone" type="text" placeholder="رقم الهاتف">
               </div>
               <div class="col-lg-6">
                 <select class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-subject" id="contact-subject">
-                  <option value="">—Please choose an option—</option>
-                  <option value="Delegate Application">Delegate Application</option>
-                  <option value="Speaker Application">Speaker Application</option>
-                  <option value="Partnership Opportunity">Partnership Opportunity</option>
-                  <option value="Media Accreditation &amp; Inquiries">Media Accreditation &amp; Inquiries</option>
-                  <option value="General Inquiries">General Inquiries</option>
+                  <option value="">—الرجاء الاختيار—</option>
+                  <option value="Delegate Application">طلب المندوبين</option>
+                  <option value="Speaker Application">طلب المتحدثين</option>
+                  <option value="Partnership Opportunity">فرصة الشراكة</option>
+                  <option value="Media Accreditation &amp; Inquiries">اعتماد وسائل الاعلام والاستفسارات</option>
+                  <option value="General Inquiries">الاستفسارات العامة</option>
                 </select>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-company" id="contact-company" type="text" placeholder="Company">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-company" id="contact-company" type="text" placeholder="الشركة">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-position" id="contact-position" type="text" placeholder="Position">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-position" id="contact-position" type="text" placeholder="المنصب">
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-industry" id="contact-industry" type="text" placeholder="Industry">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-industry" id="contact-industry" type="text" placeholder="قطاع العمل">
               </div>
               <div class="col-lg-12">
-                <textarea class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_15" name="contact-message" id="contact-message" placeholder="Message" cols="35" rows="7"></textarea>
+                <textarea class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_15" name="contact-message" id="contact-message" placeholder="الرسالة" cols="35" rows="7"></textarea>
               </div>
               <div class="col-lg-12">
-                <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 cs_mt_20 overflow-hidden"><span>Get in Touch</span></button>
+                <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 cs_mt_20 overflow-hidden"><span>أكمل الارسال</span></button>
               </div>
             </form>
           </div>
