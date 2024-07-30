@@ -22,8 +22,8 @@
                     <a href="">3 comments</a>
                   </li>
                 </ul> -->
-                <h2 class="cs_post_title cs_lh_base cs_fs_26 cs_fs_lg_18 cs_mb_20"><a href="{{ url('olympic-esports-games-to-be-hosted-in-the-kingdom-of-saudi-arabia') }}">Olympic Esports Games To Be Hosted In The Kingdom Of Saudi Arabia</a></h2>
-                <p>The International Olympic Committee (IOC) announced that it has partnered with the National Olympic Committee (NOC) of Saudi Arabia to host the inaugural Olympic Esports Games 2025 in the Kingdom of Saudi Arabia. This groundbreaking step follows the IOC’s recent announcement that the IOC Executive Board (EB) has established Olympic Esports Games.</p>
+                <h2 class="cs_post_title cs_lh_base cs_fs_26 cs_fs_lg_18 cs_mb_20"><a href="{{ url('olympic-esports-games-to-be-hosted-in-the-kingdom-of-saudi-arabia') }}">إقامة الألعاب الأولمبية للرياضات الإلكترونية في المملكة العربية السعودية</a></h2>
+                <p>أعلنت اللجنة الأولمبية الدولية عن شراكتها مع اللجنة الأولمبية الوطنية في المملكة العربية السعودية لاستضافة دورة الألعاب الأولمبية الإلكترونية الافتتاحية 2025 في المملكة العربية السعودية. تأتي هذه الخطوة الرائدة في أعقاب إعلان اللجنة الأولمبية الدولية مؤخرًا بأن المجلس التنفيذي للجنة الأولمبية الدولية قد أنشأ ألعاب الرياضات الإلكترونية الأولمبية.</p>
               </div>
             </div>
           </div>

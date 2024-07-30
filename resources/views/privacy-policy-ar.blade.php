@@ -11,111 +11,111 @@
           <div class="col-lg-12">
             <div class="cs_post cs_style_1 shadow-sm cs_mb_30">
               <div class="cs_pl_40 cs_pr_40 cs_pt_40 cs_pb_40 cs_pl_lg_25 cs_pr_lg_25 cs_pt_lg_25 cs_pb_lg_25">
-                <h2 class="cs_post_title cs_lh_base cs_fs_26 cs_fs_lg_18 cs_mb_20">Privacy Policy</h2>
-                <p>This Privacy Notice applies to the processing of personal data of New Global Sport Conference website users. By using the website, you agree to this privacy notice. The New Global Sport Conference website is committed to protecting user data and follows strict guidelines to protect personal data. The website collects and processes personal data to the extent required by applicable laws and regulations and with your consent. This Privacy Notice shall explain what personal data we collect, for what purpose, to whom we disclose the data, and how long we keep it. Moreover, we describe your rights and how you can exercise or invoke them.</p>
+                <h2 class="cs_post_title cs_lh_base cs_fs_26 cs_fs_lg_18 cs_mb_20">سياسة الخصوصية</h2>
+                <p>نطبق إشعار الخصوصية هذا على معالجة البيانات الشخصية لمستخدمي موقع كأس العالم للرياضات الإلكترونية باستخدامك لهذا الموقع، فإنك توافق على إشعار الخصوصية. يلتزم موقع كأس العالم للرياضات الإلكترونية بحماية بيانات المستخدم ويتبع إرشادات صارمة لحماية البيانات الشخصية. كما يقوم الموقع بجمع ومعالجة البيانات الشخصية إلى الحد الذي تحدده الأنظمة واللوائح المعمول بها وبناء على لموافقتك. يوضح إشعار الخصوصية هذا ما هي البيانات الشخصية التي نجمعها، ولأي غرض، ولمن نفصح عن البيانات، وما مدة احتفاظنا بها. بالإضافة لتوضيح حقوقك وكيف يمكنك ممارسة تلك الحقوق أو المطالبة بها.</p>
 
-<p><strong>WHAT PERSONAL DATA WE COLLECT AND PROCESS</strong></p>
-<p>By &ldquo;Personal Data&rdquo; any data, regardless of its source or form, that may lead to identifying an individual specifically, or that may directly or indirectly make it possible to identify an individual, including name, personal identification number, addresses, contact numbers, license numbers, records, personal assets, bank and credit card numbers, photos and videos of an individual, and any other data of personal nature.</p>
+<p><strong>ما هي البيانات الشخصية التي نجمعها ونعالجها</strong></p>
+<p>بالإشارة “البيانات الشخصية” هي كل بيان -مهما كان مصدره أو شكله- من شأنه أن يؤدي إلى معرفة الفرد على وجه التحديد، أو يجعل التعرف عليه ممكنا بصفة مباشرة أو غير مباشرة، ومن ذلك: الاسم، ورقم الهوية الشخصية، والعناوين، وأرقام التواصل، وأرقام الرخص والسجلات والممتلكات الشخصية، وأرقام الحسابات البنكية والبطاقات الائتمانية، وصور الفرد الثابتة أو المتحركة، وغير ذلك من البيانات ذات الطابع الشخصي.</p>
 
-<p>On the website, and in alignment with the principle of data minimization, we collect personal data only when needed. We usually collect the following information:</p>
+<p>في هذا الموقع وتماشيًا مع مبدأ الحد من جمع البيانات، نقوم بجمع البيانات الشخصية فقط عند الحاجة إليها. كما نقوم بجمع المعلومات التالية:</p>
 <ul>
-    <li>Usage data, e.g., information about how you use the New Global Sport Conference website.</li>
-    <li>Information establishing your identity, e.g., contact details such as your phone number, email, address, etc.</li>
-    <li>Information you provide which is required to access and use the website or related other systems.</li>
-    <li>Identifiers, location information and other technical information, e.g., information that can be traced back to you such as IP address, location and time zone setting, browser type and versions, operating system and platform, and any other technology on the devices you use to access this website cookies, and system or service-specific technical information).</li>
-    <li>Information that you provide independently to us, e.g., if you email or call us</li>
+    <li>بيانات الاستخدام، على سبيل المثال، معلومات حول كيفية استخدامك لموقعكأس العالم للرياضات الإلكترونية الإلكتروني.</li>
+    <li>المعلومات التي تحدد هويتك، على سبيل المثال، تفاصيل الاتصال مثل رقم الهاتف والبريد الإلكتروني والعنوان وما إلى ذلك.</li>
+    <li>المعلومات المطلوبة التي تقدمها للوصول إلى الموقع الإلكتروني لاستخدامه أو الأنظمة الأخرى ذات الصلة.</li>
+    <li>المعرفات ومعلومات الموقع والمعلومات التقنية الأخرى، على سبيل المثال، المعلومات التي يمكن إرجاعها إليك مثل عنوان بروتوكول الإنترنت وإعدادات الموقع والمنطقة الزمنية ونوع المتصفح وإصداراته ونظام التشغيل والمنصات والتقنيات الأخرى على الأجهزة التي تستخدمها للوصول إلى ملفات تعريف الارتباط لهذا الموقع والمعلومات التقنية بالنظام أو الخدمة.</li>
+    <li>المعلومات التي تقدمها لنا بشكل مستقل، على سبيل المثال، إذا قمت بمراسلتنا عبر البريد الإلكتروني أو الاتصال بنا.</li>
 </ul>
 
 
-<p><strong>HOW WE COLLECT YOUR PERSONAL DATA</strong></p>
-<p>We gather most of the personal data and we use from the following resources:</p>
+<p><strong>كيف نجمع بياناتك الشخصية</strong></p>
+<p>نقوم بجمع البيانات الشخصية ونستخدمها من خلال المصادر التالية أدناه:</p>
 <ul>
-    <li>Yourself, and from what we receive from you by actively obtaining your personal information ourselves, for example, through the use of website tracking devices .</li>
-    <li>The technology you use to access the website and or other New Global Sport Conference systems.</li>
+    <li>عندما تقدمها لنا عن طريقك، أو مما نتلقاه منك من خلال الحصول بنشاط على معلوماتك الشخصية، على سبيل المثال، من خلال استخدام أجهزة تتبع المواقع.</li>
+    <li>التقنيات التي تستخدمها للوصول إلى الموقع الإلكتروني و/أو أنظمة كأس العالم للرياضات الإلكترونية.</li>
 </ul>
 
-<p><strong>WHY WE COLLECT AND USE YOUR PERSONAL DATA</strong></p>
-<p>We only use data for the purpose it was collected for. Your personal data on the following bases, where available under applicable date protection laws:</p>
+<p><strong>لماذا نقوم بجمع واستخدام بياناتك الشخصية</strong></p>
+<p>نحن نستخدم بياناتك الشخصية فقط للغرض الذي تم جمعها من أجله. ووفقا للأسس النظامية بناء على نظام حماية البيانات وهي:</p>
 <ul>
-    <li>For our legitimate interests. Using your personal information helps us to operate, improve and minimize any disruption to our website. We also have a legitimate interest in sending you information on the products, services and offerings we believe will be of interest to you; and</li>
-    <li>Because you have given your consent (if we expressly ask for consent to process your personal information, for a specific purpose).</li>
+    <li>مصالحنا المشروعة، التي تساعدنا لاستخدام معلوماتك الشخصية في تشغيل وتحسين او تقليل الانقطاع في هذا الموقع. ولدينا أيضًا أسس مشروعة لإرسال المعلومات إليك حول المنتجات والخدمات والعروض التي نعتقد أنها ستكون ذات فائدة لك؛ و</li>
+    <li>بناء على موافقتك (في حال طلبنا الموافقة الصريحة لمعالجة معلوماتك الشخصية، لغرض محدد(</li>
 </ul>
-<p>We reserve the right to disclose your data when required by the law and regulations.</p>
+<p>نحن نحتفظ بالحق عن الكشف عن بياناتك عندما تتطلب ذلك الأنظمة واللوائح المعمول بها الكشف بذلك.</p>
 
-<p><strong>WHO DO WE SHARE YOUR PERSONAL DATA WITH</strong></p>
-<p>We only share information if necessary and in compliance with applicable laws and regulations, for example:</p>
+<p><strong>مع من نشارك بياناتك الشخصية؟</strong></p>
+<p>نحن نشارك المعلومات فقط إذا لزم الأمر وبما يتوافق مع الأنظمة واللوائح المعمول بها، على سبيل المثال:</p>
 <ul>
-    <li>Third party service providers and sub-contractors who provide a service to us and help us run our business efficiently (including but not limited to marketing and advertising, data processing, IT and office services);</li>
-    <li>Any member of our group; and</li>
-    <li>Any competent authorities if we are legally required to comply with a request for data.</li>
-</ul>
-
-<p>We will not use any of your personal data for commercial purposes or share it with any third party outside the purpose of the New Global Sport Conference without your permission unless it is collected without identifiers on an aggregated basis for analytical purposes, studies, reports with adherence to personal data protection laws and regulations in the Kingdom of Saudi Arabia. We will not disclose your personal data without your consent except under the following circumstances where the entity requesting disclosure is a public entity and in which case the data will be shared in strict accordance with the controls and procedures set out in the personal data protection laws of the Kingdom of Saudi Arabia:</p>
-<ul>
-    <li>Security purposes</li>
-    <li>To comply with other KSA laws</li>
-    <li>to meet judicial requirements</li>
-    <li>to protect public health or safety</li>
-    <li>to protect the life or health of a particular individual(s).</li>
+    <li>مقدمو خدمات الطرف الثالث والمتعاقدين بالباطن الذين يقدمون الخدمة لنا ويساعدوننا في إدارة أعمالنا (بما في ذلك، على سبيل المثال لا الحصر، التسويق والإعلان ومعالجة البيانات وتقنية المعلومات والخدمات الإدارية)؛</li>
+    <li>عضو في مجموعتنا ، أو</li>
+    <li>إذا كنا مطالبين نظامًا بالامتثال لطلب مشاركة البيانات مع الجهات المختصة</li>
 </ul>
 
-<p><strong>HOW DO WE PROTECT YOUR PERSONAL DATA</strong></p>
-<p>We are committed to maintain the privacy and confidentiality of all personal data collected. Such data may only be disclosed or shared when approved and required by law, or when we believe that such action is necessary or desirable to fulfil the purpose for which we have collected the data, the basis on which we have relied to collect your personal data, or for technical support. We ensure that the records we hold about you are kept secure and made available only to those who have the clearance to see them. We do this is by implementing technical and organizational business measures such as:</p>
+<p>لن نستخدم أيًا من بياناتك الشخصية لأغراض تجارية أو نشاركها مع أي طرف ثالث خارج نطاق كأس العالم للرياضات الإلكترونية دون إذنك ما لم يتم جمعها بدون معرفات وذلك لأغراض التحليلية والدراسات والتقارير مع الالتزام بـأنظمة حماية البيانات الشخصية في المملكة العربية السعودية. ولن نقوم بالكشف عن بياناتك الشخصية دون موافقتك إلا في بعض الحالات عندما تكون الجهة الطالبة بالإفصاح جهة عامة وفي هذه الحالة سيتم مشاركة البيانات بما يوائم مع الضوابط والإجراءات المنصوص عليها في أنظمة حماية البيانات الشخصية في المملكة العربية السعودية على سبيل المثال:</p>
 <ul>
-    <li>Access management controls to systems and networks</li>
-    <li>Training staff to maintain and protect your data</li>
-    <li>Implementing technical and organizational business controls in place over where data is stored</li>
-    <li>Personal data are deleted when it is no longer needed. We may only keep such data beyond need if:<ol>
-            <li>There was a legal instrument requiring storing your data, and for a set period of time, so long as such personal data is deleted thereafter.</li>
-            <li>If your personal data is directly connected to a lawsuit, and is required to be maintained; personal data shall be deleted as soon as all legal procedures are completed.</li>
+    <li>أغراض أمنية</li>
+    <li>الالتزام بأنظمة المملكة العربية السعودية</li>
+    <li>استيفاء المتطلبات القضائية</li>
+    <li>لحماية الصحة العامة أو السلامة العامة</li>
+    <li>لحماية حياة أو صحة فرد أو (أفراد) معينين.</li>
+</ul>
+
+<p><strong>كيف نحمي بياناتك الشخصية</strong></p>
+<p>نحن ملتزمون بالحفاظ على خصوصية وسرية جميع البيانات الشخصية التي نجمعها. ولا يجوز الإفصاح عن هذه البيانات أو مشاركتها إلا عندما تتم الموافقة عليها ومطلوبة بموجب الأنظمة، أو عندما نعتقد أن هذا الإجراء ضروري أو مناسب لتحقيق الغرض الذي جمعنا البيانات من أجله، وهو الأساس الذي اعتمدنا عليه في جمع بياناتك الشخصية. أو للحصول على الدعم الفني كما نضمن أن سجلات البيانات التي نحتفظ بها لك آمنة ومتاحة فقط لأشخاص الذين لديهم صلاحيات الوصول لها ونقوم بذلك من خلال تنفيذ تدابير التقنية والتنظيمية مثل:</p>
+<ul>
+    <li>ضوابط إدارة الوصول للأنظمة والشبكات</li>
+    <li>تدريب الموظفين للحفاظ على بياناتك وحمايتها</li>
+    <li>تنفيذ الضوابط التقنية والتنظيمية الإدارية المعمول بها في مكان تخزين البيانات</li>
+    <li>يتم حذف البيانات الشخصية عندما لا تكون هناك حاجة إليها. كما لا يجوز لنا الاحتفاظ بهذه البيانات بعد انتهاء الحاجة لها إلا إذا:<ol>
+            <li>كان هناك مستند قانوني يتطلب تخزين بياناتك، ولفترة زمنية محددة، ويتم حذف هذه البيانات الشخصية بعد ذلك؛</li>
+            <li>إذا كانت بياناتك الشخصية مرتبطة بشكل مباشر بدعوى قضائية، ويلزم الحفاظ عليها؛ ويتم حذف البيانات الشخصية فور الانتهاء من كافة إجراءات الدعوى القانونية.</li>
         </ol>
     </li>
 </ul>
 
-<p><strong>HOW DO WE STORE YOUR PERSONAL DATA</strong></p>
-<p>We implement reasonable physical, administrative, and technical safeguards to help us protect personal data from unauthorized access, use, and disclosure, but can make limited guarantees. Your personal data is stored for as long as it is necessary, according to data retention periods, for the purposes for which it was collected, and for satisfying any legal, regulatory, accounting or reporting requirements.</p>
+<p><strong>كيف نقوم بتخزين بياناتك الشخصية</strong></p>
+<p>نحن نطبق ضمانات مادية وإدارية وتقنية ملائمة لمساعدتنا على حماية البيانات الشخصية من الوصول والاستخدام والكشف غير المصرح به، ولكن يمكننا تقديم ضمانات محدودة. ويتم تخزين بياناتك الشخصية طالما كان ذلك ضروريًا، وفقًا لفترات الاحتفاظ بالبيانات محددة، للأغراض التي تم جمعها من أجلها، ولتلبية أي متطلبات قانونية أو تنظيمية أو محاسبية أو إعداد التقارير.</p>
 
-<p><strong>WHAT ARE YOUR RIGHTS</strong></p>
-<p>KSA personal data protection law provides you with certain rights regarding our processing of your personal data, which we would like to explain to you briefly below. KSA personal data protection law provides you with certain rights regarding our processing of your personal data, which we would like to explain to you briefly below. New Global Sport Conference website will make a good faith effort to honor the rights of personal data owners and to fulfill regulatory requirements.</p>
+<p><strong>ما هي حقوقك</strong></p>
+<p>يوفر لك نظام حماية البيانات الشخصية في المملكة العربية السعودية حقوقًا معينة فيما يتعلق بمعالجتنا لبياناتك الشخصية، والتي نود أن نشرحها لك بإيجاز أدناه. سيبذل فريق موقع كأس العالم للرياضات الإلكتروني جهدًا وبحسن النية لاحترام حقوق أصحاب البيانات الشخصية والوفاء بالمتطلبات التنظيمية.</p>
 
 <ul>
-    <li>Right to be informed:<ol>
-            <li>You have the right to be informed of the purpose and the valid legal basis or practical justification for collecting the personal data, and that your data shall not be processed later in a manner inconsistent with that purpose.</li>
+    <li>الحق في العلم:<ol>
+            <li>لديك الحق في أن تكون على علم بالغرض والأساس التنظيمي أو المبرر العملي لجمع بياناتك الشخصية، وأن بياناتك لن تتم معالجتها لاحقاً بطريقة لا تتوافق مع هذا الغرض.</li>
         </ol>
     </li>
-    <li>Right to request access:<ol>
-            <li>You have the right to ask for access to, and copies of, your personal data. There are some exemptions or cases in which we cannot fulfill this request, for example, if the identity of the requestor cannot be verified, if the request is manifestly unfounded or excessive, if we have properly disposed the personal data at the end of its retention period, if your personal data includes someone else&rsquo;s personal data and redaction is not possible, and if a law provides another exception.</li>
+    <li>الحق في طلب الوصول:<ol>
+            <li>لديك الحق في طلب الوصول إلى بياناتك الشخصية والحصول على نسخ منها. كما يوجد بعض الاستثناءات أو الحالات التي لا يمكننا فيها تلبية هذا الطلب، على سبيل المثال، إذا تعذر التحقق من هوية مقدم الطلب، أو إذا كان الطلب لا أساس له من الصحة أو مفرط التكرار، أو إذا تخلصنا من البيانات الشخصية بشكل نهائي عند وصول مدة نهاية الاحتفاظ بها إذا كانت بياناتك الشخصية تتضمن بيانات شخصية لشخص آخر وكان تعميتها غير ممكن، أوإذا كان نظام آخر ينص على استثناء.</li>
         </ol>
     </li>
-    <li>Right to request correction:<ol>
-            <li>You always have the right to ask us to correct, update, or complete the personal data we are processing about you.</li>
+    <li>الحق في طلب التصحيح:<ol>
+            <li>يحق لك دائمًا أن تطلب منا تصحيح أو تحديث أو استكمال البيانات الشخصية التي نعالجها عنك.</li>
         </ol>
     </li>
-    <li>Right to request destruction:<ol>
-            <li>This right allows you, under certain circumstances, to request that we delete your personal data.</li>
+    <li>الحق في طلب الحذف:<ol>
+            <li>يسمح لك هذا الحق، في ظل ظروف معينة، بطلب حذف بياناتك الشخصية.</li>
         </ol>
     </li>
-    <li>Right to withdraw consent:<ol>
-            <li>If we processed your personal data solely based on consent, you have the right to revoke this consent at any time.</li>
+    <li>الحق في سحب الموافقة:<ol>
+            <li>إذا قمنا بمعالجة بياناتك الشخصية بناءً على موافقتك، فيحق لك إلغاء هذه الموافقة في أي وقت.</li>
         </ol>
     </li>
 </ul>
 
 
-<p><strong>CHANGE IN NOTICE</strong></p>
-<p>To ensure that we continue to offer the best possible experience and the highest level of protection to you, we reserve the right to update the privacy notice as and when necessary, for example, in compliance with new laws and regulations. Any update to this privacy notice will be available on this website. We therefore recommend you check it periodically. This version was last updated on October 23, 2023.</p>
+<p><strong>التغيير في الإشعار</strong></p>
+<p>ولضمان استمرارنا في تقديم أفضل تجربة ممكنة وأعلى مستوى من الحماية لك، فإننا نحتفظ بالحق في تحديث إشعار الخصوصية عند الحاجة، على سبيل المثال، بما يتوافق عند صدور الأنظمة واللوائح سيكون أي تحديث لإشعار الخصوصية هذا متاحًا في هذا الموقع. لذلك ننصحك بالتحقق منه بشكل دوري. تم تحديث هذا الإصدار آخر مرة في 23 أكتوبر 2023.</p>
 
-<p><strong>EFFECTIVENESS</strong></p>
-<p>By accessing or using our website, you agree that you have read, understand, and accept the terms and conditions of this Privacy Notice and shall grant this policy its enforceability, in addition, your continuance of using this website shall constitute an implied acceptance of this Privacy Notice.</p>
+<p><strong>الفعالية</strong></p>
+<p>من خلال الوصول إلى موقعنا الإلكتروني أو استخدامه، فإنك توافق على أنك قد قرأت وفهمت ووافقت على شروط وأحكام إشعار الخصوصية هذا ويمنح هذه الإشعار قابلية التنفيذ، بالإضافة إلى ذلك، فإن استمرارك في استخدام هذا الموقع يعتبر موافقة ضمنية على هذا إشعار الخصوصية.</p>
 
-<p><strong>OUR USE OF COOKIES</strong></p>
-<p>New Global Sport Conference website uses cookies, pixels, and other mechanisms to improve your experience on our website. For more information about the use of cookies on our website and how you can manage your cookie preferences. You may disable cookies in your browser settings, but this may affect certain functionalities of the website.</p>
+<p><strong>استخدامنا لملفات تعريف الارتباط</strong></p>
+<p>يستخدم موقع كأس العالم للرياضات الإلكترونية ملفات تعريف الارتباط والبكسل والآليات الأخرى لتحسين تجربتك على موقعنا. ولمزيد من المعلومات حول استخدام ملفات تعريف الارتباط على موقعنا الإلكتروني وكيف يمكنك إدارة تفضيلات ملفات تعريف الارتباط الخاصة بك. يمكنك تعطيل ملفات تعريف الارتباط في إعدادات المتصفح الخاص بك، ولكن هذا قد يؤثر على وظائف معينة للموقع.</p>
 
-<p><strong>LINK TO OTHER WEBSITES</strong></p>
-<p>Our website may contain links to third party sites, which may be subject to separate privacy notices or policies. These sites are not under our control, and we are not responsible for their own privacy notices or policies.</p>
+<p><strong>الروابط إلى مواقع أخرى</strong></p>
+<p>قد يحتوي موقعنا على روابط لمواقع خارجية، والتي قد تخضع لإشعارات أو سياسات الخصوصية منفصلة وهذه المواقع ليست تحت سيطرتنا، ونحن لسنا مسؤولين عن إشعارات الخصوصية أو سياساتها تلك.</p>
 
-<p><strong>CONTACT US</strong></p>
-<p>If you have any questions or inquiries regarding this Privacy Notice, please contact us at <a href="mailto:conference@worldcupfoundation.org">conference@worldcupfoundation.org</a> .</p>
+<p><strong>اتصل بنا</strong></p>
+<p>إذا كانت لديك أي أسئلة أو استفسارات بخصوص إشعار الخصوصية هذا، فيرجى التواصل معانا على <a href="mailto:conference@worldcupfoundation.org">conference@worldcupfoundation.org</a> .</p>
               </div>
             </div>
           </div>

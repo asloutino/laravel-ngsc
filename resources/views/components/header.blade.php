@@ -23,7 +23,7 @@
     <div class="container">
       <div class="cs_main_header_in">
         <div class="cs_main_header_left">
-          <a class="cs_site_branding" href="{{ url('/') }}">
+          <a class="cs_site_branding" href="<?php if( (strpos(url()->current(),'/ar/') !== false) ) { ?>{{ url('/ar') }}<?php } else { ?>{{ url('/') }}<?php } ?>">
             <img src="{{ asset('assets/img/NGCS-Conference-Logo-white.svg') }}" alt="Logo">
           </a>
         </div>

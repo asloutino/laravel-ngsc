@@ -26,7 +26,7 @@
         <div class="container">
           <div class="cs_main_header_in">
             <div class="cs_main_header_left">
-              <a class="cs_site_branding" href="{{url('index')}}">
+              <a class="cs_site_branding" href="{{url('/')}}">
                 <img src="{{ asset('assets/img/NGCS-Conference-Logo-white.svg') }}" alt="Logo">
               </a>
             </div>
@@ -40,7 +40,7 @@
                   <li><a href="/#news">News</a></li>
                   <li><a href="/#contact-us">Contact Us</a></li>
                   <li class="lang-switch">
-                    <a class="en" href="{{url('index')}}">EN</a>
+                    <a class="en" href="{{url('/')}}">EN</a>
                     <a class="ar" href="{{url('ar')}}">AR</a>
                   </li>
                 </ul>
