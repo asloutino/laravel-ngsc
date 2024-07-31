@@ -2142,10 +2142,11 @@ label {
   padding-top:50px!important;
 }
 
-@media screen and (max-width:767px) {
+@media screen and (max-width:1190px) {
   .cs_nav .cs_nav_list .lang-switch {
     display: flex;
     padding-top:8px;
+    margin-left:0!important;
   }
   .cs_nav .cs_nav_list .lang-switch a {
     padding-top:0;
@@ -5050,6 +5051,10 @@ html[lang="ar"] .speaker-modal .modal-header .col-lg-8 {
   .cs_menu_widget {
     font-size:12px;
   }
+}
+
+#sponsors {
+  display: none;
 }
 
 /* ARABIC */

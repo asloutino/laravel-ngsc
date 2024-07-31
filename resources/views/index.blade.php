@@ -983,7 +983,7 @@
     </section>
     <!-- End Blog Section -->
 
-    <div class="cs_pt_10 cs_pt_lg_80 cs_pb_70">
+    <div class="cs_pt_10 cs_pt_lg_80 cs_pb_70" id="sponsors">
       <div class="container">
         <div class="cs_brands d-flex justify-content-xl-between align-items-center cs_column_gap_25 cs_row_gap_25 flex-wrap justify-content-center">
           <div class="cs_brand">
