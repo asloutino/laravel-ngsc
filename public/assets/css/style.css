@@ -5037,8 +5037,9 @@ html[lang="ar"] .speaker-modal .modal-header .col-lg-8 {
     height: 200px;
   }
 
-  #news .cs_post_thumb-in {
+  html[lang="ar"] #news .cs_post_thumb-in {
     background-size:contain;
+    background-position:right;
   }
 
   #news .col-lg-6 {
