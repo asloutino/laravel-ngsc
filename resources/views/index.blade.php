@@ -983,8 +983,15 @@
     </section>
     <!-- End Blog Section -->
 
-    <div class="cs_pt_10 cs_pt_lg_80 cs_pb_70" id="sponsors">
+    <!-- Start Sponsors Section -->
+    <section class="cs_pt_10 cs_pt_lg_80 cs_pb_70" id="sponsors">
       <div class="container">
+        <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_60 cs_mb_lg_40">
+          <div class="cs_section_heading_in">
+            <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">NEW GLOBAL SPORT CONFERENCE 2024</h3>
+            <h2 class="cs_fs_48 cs_fs_lg_36 m-0">SPONSORS AND PARTNERS</h2>
+          </div>
+        </div>
         <div class="cs_brands d-flex justify-content-xl-between align-items-center cs_column_gap_25 cs_row_gap_25 flex-wrap justify-content-center">
           <div class="cs_brand">
             <a href="https://amazon.com" target="_blank">
@@ -1013,7 +1020,8 @@
           </div>
         </div>
       </div>
-    </div>
+    </section>
+    <!-- End Sponsors Section -->
 
     <!-- Start Apply to Join Section -->
     <section class="cs_pt_0 cs_pt_lg_35 cs_pb_35 cs_pb_lg_80 position-relative" id="apply-to-join">
