@@ -3464,7 +3464,7 @@ label {
   13. Posts
 ----------------------------------------------------------------*/
 .cs_post.cs_style_1 .cs_post_thumb {
-  height: 346px;
+  height: 255px;
 }
 .cs_post.cs_style_1 .cs_post_thumb::before {
   content: "";
@@ -5037,11 +5037,6 @@ html[lang="ar"] .speaker-modal .modal-header .col-lg-8 {
     height: 200px;
   }
 
-  html[lang="ar"] #news .cs_post_thumb-in {
-    background-size:contain;
-    background-position:right;
-  }
-
   #news .col-lg-6 {
     padding-bottom:20px;
   }
@@ -5065,6 +5060,12 @@ html[lang="ar"] .speaker-modal .modal-header .col-lg-8 {
 
   .cs_menu_widget {
     font-size:12px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  html[lang="ar"] #news .cs_post_thumb-in {
+    background-position:right;
   }
 }
 
