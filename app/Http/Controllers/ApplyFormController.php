@@ -11,12 +11,12 @@ class ApplyFormController extends Controller
     public function submit(Request $request)
     {
         $validatedData = $request->validate([
-            'apply-first-name' => 'required|min:3|max:255',
-            'apply-last-name' => 'required|min:3|max:255',
-            'apply-email' => 'required|email',
-            'apply-company' => 'required|min:3|max:255',
-            'apply-position' => 'required|min:3|max:255',
-            'apply-industry' => 'required|min:3|max:255',
+            'apply_first_name' => 'required|min:3|max:255',
+            'apply_last_name' => 'required|min:3|max:255',
+            'apply_email' => 'required|email',
+            'apply_company' => 'required|min:3|max:255',
+            'apply_position' => 'required|min:3|max:255',
+            'apply_industry' => 'required|min:3|max:255',
         ]);
 
         // if ($validatedData->fails()) {
@@ -24,13 +24,13 @@ class ApplyFormController extends Controller
         // }
 
         // Capture the data
-        $first_name = $request->input('apply-first-name');
-        $last_name = $request->input('apply-last-name');
-        $email = $request->input('apply-email');
-        $phone = $request->input('apply-phone');
-        $company = $request->input('apply-company');
-        $position = $request->input('apply-position');
-        $industry = $request->input('apply-industry');
+        $first_name = $request->input('apply_first_name');
+        $last_name = $request->input('apply_last_name');
+        $email = $request->input('apply_email');
+        $phone = $request->input('apply_phone');
+        $company = $request->input('apply_company');
+        $position = $request->input('apply_position');
+        $industry = $request->input('apply_industry');
 
         Mail::to('etienne.wansa@gmail.com')->send(new ApplyMail($validatedData));
 

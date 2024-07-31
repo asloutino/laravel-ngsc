@@ -1073,26 +1073,32 @@
             <form class="row" id="applyForm" method="POST" action="{{ route('apply.submit') }}">
               @csrf {{-- Cross-Site Request Forgery protection --}}
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-first-name" id="apply-first-name" type="text" placeholder="First Name">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply_first_name" id="apply_first_name" type="text" placeholder="First Name">
                 <span id="apply-first-name-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-last-name" id="apply-last-name" type="text" placeholder="Last Name">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply_last_name" id="apply_last_name" type="text" placeholder="Last Name">
+                <span id="apply-last-name-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-email" id="apply-email" type="text" placeholder="Email">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply_email" id="apply_email" type="text" placeholder="Email">
+                <span id="apply-email-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-company" id="apply-company" type="text" placeholder="Company">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply_company" id="apply_company" type="text" placeholder="Company">
+                <span id="apply-company-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-position" id="apply-position" type="text" placeholder="Position">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply_position" id="apply_position" type="text" placeholder="Position">
+                <span id="apply-position-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-industry" id="apply-industry" type="text" placeholder="Industry">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply_industry" id="apply_industry" type="text" placeholder="Industry">
+                <span id="apply-industry-error" class="text-danger"></span>
               </div>
               <div class="col-lg-12">
-                <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 cs_mt_20 overflow-hidden"><span>Apply to Join</span></button>
+                <span id="apply-success-message"></span>
+                <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 cs_mt_20 overflow-hidden" id="apply-button"><span>Apply to Join</span></button>
               </div>
             </form>
           </div>
