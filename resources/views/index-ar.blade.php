@@ -1075,26 +1075,32 @@
             <form class="row" id="applyForm" method="POST" action="{{ route('apply.submit') }}">
               @csrf {{-- Cross-Site Request Forgery protection --}}
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-first-name" id="apply-first-name" type="text" placeholder="الاسم الأول">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply_first_name" id="apply_first_name" type="text" placeholder="الاسم الأول">
                 <span id="apply-first-name-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-last-name" id="apply-last-name" type="text" placeholder="الاسم الثاني">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply_last_name" id="apply_last_name" type="text" placeholder="الاسم الثاني">
+                <span id="apply-last-name-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-email" id="apply-email" type="text" placeholder="البريد الالكتروني">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply_email" id="apply_email" type="text" placeholder="البريد الالكتروني">
+                <span id="apply-email-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-company" id="apply-company" type="text" placeholder="الشركة">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply_company" id="apply_company" type="text" placeholder="الشركة">
+                <span id="apply-company-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-position" id="apply-position" type="text" placeholder="المنصب">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply_position" id="apply_position" type="text" placeholder="المنصب">
+                <span id="apply-position-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply-industry" id="apply-industry" type="text" placeholder="قطاع العمل">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="apply_industry" id="apply_industry" type="text" placeholder="قطاع العمل">
+                <span id="apply-industry-error" class="text-danger"></span>
               </div>
               <div class="col-lg-12">
-                <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 cs_mt_20 overflow-hidden"><span>طلب الانضمام</span></button>
+                <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 cs_mt_20 overflow-hidden" id="apply-button"><span>طلب الانضمام</span></button>
+                <span id="apply-success-message"></span>
               </div>
             </form>
           </div>
@@ -1149,19 +1155,23 @@
             </div>
           </div>
           <div class="col-lg-5 cs_mb_lg_55">
-            <form class="row" method="POST" action="{{ route('contact.submit') }}">
+            <form class="row" id="contactForm" method="POST" action="{{ route('contact.submit') }}">
               @csrf {{-- Cross-Site Request Forgery protection --}}
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-first-name" id="contact-first-name" type="text" placeholder="الاسم الأول">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact_first_name" id="contact_first_name" type="text" placeholder="الاسم الأول">
+                <span id="contact-first-name-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-last-name" id="contact-last-name" type="text" placeholder="الاسم الثاني">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact_last_name" id="contact_last_name" type="text" placeholder="الاسم الثاني">
+                <span id="contact-last-name-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-email" id="contact-email" type="text" placeholder="البريد الالكتروني">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact_email" id="contact_email" type="text" placeholder="البريد الالكتروني">
+                <span id="contact-email-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-phone" id="contact-phone" type="text" placeholder="رقم الهاتف">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact_phone" id="contact_phone" type="text" placeholder="رقم الهاتف">
+                <span id="contact-phone-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
                 <select class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-subject" id="contact-subject">
@@ -1172,21 +1182,27 @@
                   <option value="Media Accreditation &amp; Inquiries">اعتماد وسائل الاعلام والاستفسارات</option>
                   <option value="General Inquiries">الاستفسارات العامة</option>
                 </select>
+                <span id="contact-subject-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-company" id="contact-company" type="text" placeholder="الشركة">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact_company" id="contact_company" type="text" placeholder="الشركة">
+                <span id="contact-company-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-position" id="contact-position" type="text" placeholder="المنصب">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact_position" id="contact_position" type="text" placeholder="المنصب">
+                <span id="contact-position-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-industry" id="contact-industry" type="text" placeholder="قطاع العمل">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact_industry" id="contact_industry" type="text" placeholder="قطاع العمل">
+                <span id="contact-industry-error" class="text-danger"></span>
               </div>
               <div class="col-lg-12">
-                <textarea class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_15" name="contact-message" id="contact-message" placeholder="الرسالة" cols="35" rows="7"></textarea>
+                <textarea class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_15" name="contact_message" id="contact_message" placeholder="الرسالة" cols="35" rows="7"></textarea>
+                <span id="contact-message-error" class="text-danger"></span>
               </div>
               <div class="col-lg-12">
                 <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 cs_mt_20 overflow-hidden"><span>أكمل الارسال</span></button>
+                <span id="contact-success-message"></span>
               </div>
             </form>
           </div>
