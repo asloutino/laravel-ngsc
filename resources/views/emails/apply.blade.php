@@ -4,11 +4,11 @@
     <title>Apply Form Submission</title>
 </head>
 <body>
-    <p>First Name: {{ $details['apply-first-name'] }}</p>
-    <p>Last Name: {{ $details['apply-last-name'] }}</p>
-    <p>Email: {{ $details['apply-email'] }}</p>
-    <p>Company: {{ $details['apply-company'] }}</p>
-    <p>Position: {{ $details['apply-position'] }}</p>
-    <p>Industry: {{ $details['apply-industry'] }}</p>
+    <p>First Name: {{ $details['apply_first_name'] }}</p>
+    <p>Last Name: {{ $details['apply_last_name'] }}</p>
+    <p>Email: {{ $details['apply_email'] }}</p>
+    <p>Company: {{ $details['apply_company'] }}</p>
+    <p>Position: {{ $details['apply_position'] }}</p>
+    <p>Industry: {{ $details['apply_industry'] }}</p>
 </body>
 </html>
