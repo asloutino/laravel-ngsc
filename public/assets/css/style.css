@@ -2142,6 +2142,25 @@ label {
   padding-top:50px!important;
 }
 
+@media screen and (max-width:767px) {
+  .cs_nav .cs_nav_list .lang-switch {
+    display: flex;
+    padding-top:8px;
+  }
+  .cs_nav .cs_nav_list .lang-switch a {
+    padding-top:0;
+  }
+}
+
+@media screen and (min-width:768px) {
+  html[lang="en"] .cs_nav .cs_nav_list > li.lang-switch {
+    margin-left:40px;
+  }
+  html[lang="ar"] .cs_nav .cs_nav_list > li.lang-switch {
+    margin-right:60px;
+  }
+}
+
 @media screen and (min-width: 1200px) {
   .cs_main_header {
     position: relative;
