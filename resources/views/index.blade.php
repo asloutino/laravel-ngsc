@@ -1097,8 +1097,8 @@
                 <span id="apply-industry-error" class="text-danger"></span>
               </div>
               <div class="col-lg-12">
-                <span id="apply-success-message"></span>
                 <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 cs_mt_20 overflow-hidden" id="apply-button"><span>Apply to Join</span></button>
+                <span id="apply-success-message"></span>
               </div>
             </form>
           </div>
@@ -1150,22 +1150,26 @@
             </div>
           </div>
           <div class="col-lg-5 cs_mb_lg_55">
-            <form class="row" method="POST" action="{{ route('contact.submit') }}">
+            <form class="row" id="contactForm" method="POST" action="{{ route('contact.submit') }}">
               @csrf {{-- Cross-Site Request Forgery protection --}}
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-first-name" id="contact-first-name" type="text" placeholder="First Name">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact_first_name" id="contact_first_name" type="text" placeholder="First Name">
+                <span id="contact-first-name-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-last-name" id="contact-last-name" type="text" placeholder="Last Name">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact_last_name" id="contact_last_name" type="text" placeholder="Last Name">
+                <span id="contact-last-name-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-email" id="contact-email" type="text" placeholder="Email">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact_email" id="contact_email" type="text" placeholder="Email">
+                <span id="contact-email-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-phone" id="contact-phone" type="text" placeholder="Phone">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact_phone" id="contact_phone" type="text" placeholder="Phone">
+                <span id="contact-phone-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <select class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-subject" id="contact-subject">
+                <select class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact_subject" id="contact_subject">
                   <option value="">—Please choose an option—</option>
                   <option value="Delegate Application">Delegate Application</option>
                   <option value="Speaker Application">Speaker Application</option>
@@ -1173,21 +1177,27 @@
                   <option value="Media Accreditation &amp; Inquiries">Media Accreditation &amp; Inquiries</option>
                   <option value="General Inquiries">General Inquiries</option>
                 </select>
+                <span id="contact-subject-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-company" id="contact-company" type="text" placeholder="Company">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact_company" id="contact_company" type="text" placeholder="Company">
+                <span id="contact-company-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-position" id="contact-position" type="text" placeholder="Position">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact_position" id="contact_position" type="text" placeholder="Position">
+                <span id="contact-position-error" class="text-danger"></span>
               </div>
               <div class="col-lg-6">
-                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact-industry" id="contact-industry" type="text" placeholder="Industry">
+                <input class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_10" name="contact_industry" id="contact_industry" type="text" placeholder="Industry">
+                <span id="contact-industry-error" class="text-danger"></span>
               </div>
               <div class="col-lg-12">
-                <textarea class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_15" name="contact-message" id="contact-message" placeholder="Message" cols="35" rows="7"></textarea>
+                <textarea class="form-control cs_fs_14 cs_rounded_5 border-0 cs_mb_15" name="contact_message" id="contact_message" placeholder="Message" cols="35" rows="7"></textarea>
+                <span id="contact-message-error" class="text-danger"></span>
               </div>
               <div class="col-lg-12">
                 <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 cs_mt_20 overflow-hidden"><span>Get in Touch</span></button>
+                <span id="contact-success-message"></span>
               </div>
             </form>
           </div>

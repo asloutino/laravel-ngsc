@@ -53,5 +53,51 @@
             }
           });
         });
+
+        $('#contactForm').submit(function(e) {
+          e.preventDefault();
+          $('#contact-button').hide();
+          $('#contact-first-name-error').text('');
+          $('#contact-last-name-error').text('');
+          $('#contact-email-error').text('');
+          $('#contact-phone-error').text('');
+          $('#contact-subject-error').text('');
+          $('#contact-company-error').text('');
+          $('#contact-position-error').text('');
+          $('#contact-industry-error').text('');
+          $('#contact-message-error').text('');
+          $('#contact-success-message').text('');
+
+          $.ajax({
+            url: "{{ route('contact.submit') }}",
+            method: 'POST',
+            data: $(this).serialize(),
+            success: function(response) {
+              if (response.errors) {
+                // $('#apply-first-name-error').text(response.errors.apply-first-name);
+                // $('#email-error').text(response.errors.email);
+              } else {
+                $('#contact-success-message').text("Thank you for your submission!");
+                $('#contactForm')[0].reset();
+                $('#contact-button').show();
+              }
+            },
+            error: function(xhr, status, error) {
+                // Handle errors if needed
+                var parsedErrors = jQuery.parseJSON( xhr.responseText );
+                console.error(parsedErrors);
+                $('#contact-first-name-error').text(parsedErrors.errors.contact_first_name);
+                $('#contact-last-name-error').text(parsedErrors.errors.contact_last_name);
+                $('#contact-email-error').text(parsedErrors.errors.contact_email);
+                $('#contact-phone-error').text(parsedErrors.errors.contact_phone);
+                $('#contact-subject-error').text(parsedErrors.errors.contact_subject);
+                $('#contact-company-error').text(parsedErrors.errors.contact_company);
+                $('#contact-position-error').text(parsedErrors.errors.contact_position);
+                $('#contact-industry-error').text(parsedErrors.errors.contact_industry);
+                $('#contact-message-error').text(parsedErrors.errors.contact_message);
+                $('#contact-button').show();
+            }
+          });
+        });
       });
     </script>

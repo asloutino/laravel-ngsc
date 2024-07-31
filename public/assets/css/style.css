@@ -5073,6 +5073,14 @@ html[lang="ar"] .speaker-modal .modal-header .col-lg-8 {
   display: none;
 }
 
+.text-danger {
+  font-size:12px;
+}
+
+#apply-success-message, #contact-success-message {
+  margin:10px;
+}
+
 /* ARABIC */
 html[lang="ar"] {
   direction: rtl;
