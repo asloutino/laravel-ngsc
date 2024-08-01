@@ -33,7 +33,11 @@
                 // $('#apply-first-name-error').text(response.errors.apply-first-name);
                 // $('#email-error').text(response.errors.email);
               } else {
-                $('#apply-success-message').text("Thank you for your submission!");
+                if ($('html')[0].lang == "en") {
+                    $('#apply-success-message').text("Thank you for your submission!");
+                } else if ($('html')[0].lang == "ar") {
+                    $('#apply-success-message').text("شكرا لاكمال الارسال!");
+                }
                 $('#applyForm')[0].reset();
                 $('#apply-button').show();
               }
@@ -41,7 +45,15 @@
             error: function(xhr, status, error) {
                 // Handle errors if needed
                 var parsedErrors = jQuery.parseJSON( xhr.responseText );
-                console.error(parsedErrors);
+
+                var applyFirstNameError = parsedErrors.errors.apply_first_name;
+                var applylastNameError = parsedErrors.errors.apply_last_name;
+                var applyEmailError = parsedErrors.errors.apply_email;
+                var applyPhoneError = parsedErrors.errors.apply_phone;
+                var applyCompanyError = parsedErrors.errors.apply_company;
+                var applyPositionError = parsedErrors.errors.apply_position;
+                var applyIndustryError = parsedErrors.errors.apply_industry;
+
                 $('#apply-first-name-error').text(parsedErrors.errors.apply_first_name);
                 $('#apply-last-name-error').text(parsedErrors.errors.apply_last_name);
                 $('#apply-email-error').text(parsedErrors.errors.apply_email);
@@ -77,7 +89,11 @@
                 // $('#apply-first-name-error').text(response.errors.apply-first-name);
                 // $('#email-error').text(response.errors.email);
               } else {
-                $('#contact-success-message').text("Thank you for your submission!");
+                if ($('html')[0].lang == "en") {
+                    $('#apply-success-message').text("Thank you for your submission!");
+                } else if ($('html')[0].lang == "ar") {
+                    $('#apply-success-message').text("شكرا لاكمال الارسال!");
+                }
                 $('#contactForm')[0].reset();
                 $('#contact-button').show();
               }
@@ -85,7 +101,6 @@
             error: function(xhr, status, error) {
                 // Handle errors if needed
                 var parsedErrors = jQuery.parseJSON( xhr.responseText );
-                console.error(parsedErrors);
                 $('#contact-first-name-error').text(parsedErrors.errors.contact_first_name);
                 $('#contact-last-name-error').text(parsedErrors.errors.contact_last_name);
                 $('#contact-email-error').text(parsedErrors.errors.contact_email);
