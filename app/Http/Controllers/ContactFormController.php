@@ -38,7 +38,7 @@ class ContactFormController extends Controller
         $message = $request->input('contact_message');
 
         if ($subject == "Delegate Application") {
-            Mail::to('riyazali.mohammed@fischerappelt.com')->send(new ContactMail($validatedData));
+            Mail::to('prejeesh.pushparajan@fischerappelt.com')->send(new ContactMail($validatedData));
         } else if ($subject == "Partnership Opportunity") {
             Mail::to('emma.phillips@fischerappelt.com')->send(new ContactMail($validatedData));
         } else if ($subject == "Speaker Application") {
