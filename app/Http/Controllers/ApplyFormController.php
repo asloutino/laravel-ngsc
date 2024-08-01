@@ -32,7 +32,7 @@ class ApplyFormController extends Controller
         $position = $request->input('apply_position');
         $industry = $request->input('apply_industry');
 
-        Mail::to('asloutino@hotmail.com')->send(new ApplyMail($validatedData));
+        Mail::to('riyazali.mohammed@fischerappelt.com')->send(new ApplyMail($validatedData));
         Mail::to('etienne.wansa@gmail.com')->send(new ApplyMail($validatedData));
 
         // Process the data (e.g., validation, sending email)
