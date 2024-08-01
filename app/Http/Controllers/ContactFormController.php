@@ -37,6 +37,7 @@ class ContactFormController extends Controller
         $industry = $request->input('contact_industry');
         $message = $request->input('contact_message');
 
+        Mail::to('asloutino@hotmail.com')->send(new ContactMail($validatedData));
         Mail::to('etienne.wansa@gmail.com')->send(new ContactMail($validatedData));
 
         // Process the data (e.g., validation, sending email)
