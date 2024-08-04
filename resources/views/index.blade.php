@@ -1484,7 +1484,7 @@
                 <span id="contact-message-error" class="text-danger"></span>
               </div>
               <div class="col-lg-12">
-                <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 cs_mt_20 overflow-hidden"><span>Get in Touch</span></button>
+                <button class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_30 cs_pr_30 cs_pt_10 cs_pb_10 cs_mt_20 overflow-hidden" id="contact-button"><span>Get in Touch</span></button>
                 <span id="contact-success-message"></span>
               </div>
             </form>

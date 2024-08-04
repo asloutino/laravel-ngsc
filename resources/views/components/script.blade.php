@@ -86,13 +86,13 @@
             data: $(this).serialize(),
             success: function(response) {
               if (response.errors) {
-                // $('#apply-first-name-error').text(response.errors.apply-first-name);
+                // $('#contact-first-name-error').text(response.errors.contact-first-name);
                 // $('#email-error').text(response.errors.email);
               } else {
                 if ($('html')[0].lang == "en") {
-                    $('#apply-success-message').text("Thank you for your submission!");
+                    $('#contact-success-message').text("Thank you for your submission!");
                 } else if ($('html')[0].lang == "ar") {
-                    $('#apply-success-message').text("شكرا لاكمال الارسال!");
+                    $('#contact-success-message').text("شكرا لاكمال الارسال!");
                 }
                 $('#contactForm')[0].reset();
                 $('#contact-button').show();
