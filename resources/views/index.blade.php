@@ -543,6 +543,181 @@
       </div>
     </div>
 
+    <!-- Modal Anna-Rozwandowicz -->
+    <div class="modal fade speaker-modal" id="Anna-Rozwandowicz" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Anna-Rozwandowicz.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Anna Rozwandowicz</h2>
+              <p class="text-white m-0">CEO, The Story Mobb</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Anna Rozwandowicz is the Founder and CEO of The Story Mob, a leading international consultancy for gaming culture, immersive entertainment and esports. In her role, she advises global sports and entertainment brands, publishers, esports Clubs and their athletes on impactful, authentic communications with gaming fans. Prior to founding the agency in 2018, Anna served as VP of Communications at EFG. There, she led worldwide communications efforts for major tournaments and secured unprecedented mainstream media coverage for the world's fastest-growing sport. With offices in Los Angeles and London, The Story Mob has worked with over 100 global gaming, sports, and entertainment brands. Anna is also an advisor for the Cybersmile Foundation, a mentor for esports startups at leAD Sports, and a speaker on gaming culture and communications.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Brian-Ward -->
+    <div class="modal fade speaker-modal" id="Brian-Ward" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Brian-Ward.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Brian Ward</h2>
+              <p class="text-white m-0">CEO, Savvy Games Group</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Brian is the CEO of Savvy Games Group, a Riyadh-based games and esports company with a mission to lead investment and long-term growth of the industry.  Under his leadership, in just over two years Savvy has become the world’s largest esports company and tenth-largest games publisher, with 3,800 employees in 22 countries, including several award-winning teams and intellectual properties.</p>
+            <p>Brian has nearly 30 years of studio and operations experience, including senior positions at Electronic Arts, Microsoft, and Activision Blizzard.  While leading worldwide studios at Activision, he managed all development and more than a dozen studio acquisitions – tripling capacity, quadrupling revenue, and posting industry-leading margins.  Games he helped lead have won more than 300 Game of The Year and 1,400 Editor’s Choice and Outstanding Achievement awards, and include six #1 entertainment franchises, with lifetime revenues of more than $35 billion.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Jann-Mardenborough -->
+    <div class="modal fade speaker-modal" id="Jann-Mardenborough" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Jann-Mardenborough.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Jann Mardenborough</h2>
+              <p class="text-white m-0">Motorsport and SIM Racing Driver</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Introducing Jann Mardenborough, our VIP keynote speaker for NGSC 2024. Jann’s journey from virtual racing to motorsport excellence exemplifies determination and innovation. His career began in the digital world of Gran Turismo, where his exceptional talent caught the attention of scouts, leading to a historic victory at the 2011 GT Academy and a place on the Nissan racing team.</p>
+            <p>Jann’s achievements include competing in the 24 Hours of Le Mans and the GT500 class in Japan, constantly pushing the limits of what is possible, and aiming now for the Hypercar Class. He is also a pioneering figure in motorsport technology, contributing to the Nissan Formula E Team as a development driver.</p>
+            <p>As a speaker, Jann offers valuable insights into virtual and real-world racing, technological evolution in motorsport, and perseverance. Join us in welcoming Jann Mardenborough for an inspiring exploration of motorsport and innovation.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Jens-Hilgers -->
+    <div class="modal fade speaker-modal" id="Jens-Hilgers" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Jens-Hilgers.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Jens Hilgers</h2>
+              <p class="text-white m-0"></p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Maha-Abouelenein -->
+    <div class="modal fade speaker-modal" id="Maha-Abouelenein" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Maha-Abouelenein.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Maha Abouelenein</h2>
+              <p class="text-white m-0">CEO, Digital and Savvy</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Maha Abouelenein is an American Egyptian with more than 30 years of global communications experience advising global corporate giants, startups, governments, CEOS & high-net-worth individuals. She is the CEO of Digital & Savvy, a strategic communications consulting firm with offices in the USA and Dubai.</p>
+            <p>A sought-after strategist & speaker, Maha is an expert on personal branding, reputation management, modern communications and the transformational power of storytelling. She is the former Head of Global Communications & Public Policy at Google and Founding Managing Director of Weber Shandwick in MENA. She worked in Promotions & Sports Marketing at General Mills before becoming an entrepreneur.</p>
+            <p>Maha is on the Global Board of Directors of the Associated Press & hosts the “Savvy Talk” podcast. For more, visit: digitalandsavvy.com</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Mathilde-Pignol -->
+    <div class="modal fade speaker-modal" id="Mathilde-Pignol" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Mathilde-Pignol.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Mathilde Pignol</h2>
+              <p class="text-white m-0">Co-Founder and CCO, Roboto Games</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Mathilde is Co-Founder & Chief Creative Officer of Roboto Games, her second games company. In her role, she oversees company strategy as well as the design and art of their next title, Stormforge. Mathilde is originally from France but moved to the US as a teenager. She holds a Bachelors in Computer Science and Psychology and a Masters in UX Design from Carnegie Mellon University. After graduating, she started her first company, ZipZapPlay, where she made games played by millions of people. After the acquisition of the company by PopCap Games, she co-ran the PopCap San Francisco studio for Electronic Arts. More than anything, Mathilde loves making games, the perfect intersection of technology, art, and design.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Nate-Morley -->
+    <div class="modal fade speaker-modal" id="Nate-Morley" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Nate-Morley.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Nate Morley</h2>
+              <p class="text-white m-0">Founder of Works Collective</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Nate Morley is the founder of Works Collective, the agency behind the brand identities for the Esports World Cup, FIFA World Cup 2026, FIFA Women’s World Cup 2023, the 2028 Los Angeles Olympic Games and many more. Nate’s career has been built on developing and amplifying brands that impact culture. While working as the CMO at DC Shoes, Nate helped create the Gymkhana series of YouTube films, that have ammassed over a billion views. His experience also includes working at Nike in Global Brand Marketing, as the CMO at Skullcandy and as Advisory Board member of the YouTube juggernaut, Donut Media. As an agency partner, Nate has created strategy, campaigns and content for major brands like Samsung, Spotify, Target, ESPN, Activision, Fender Guitars, Robinhood, Gillette and many more. His strategic and creative expertise is broad, diverse and has solidified him as a leader in shaping cultural narratives and defining market success.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Nicola-Mizon -->
+    <div class="modal fade speaker-modal" id="Nicola-Mizon" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Nicola-Mizon.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Nicola Mizon</h2>
+              <p class="text-white m-0">COO & Co-Founder, Kutur Runway, Vizta DGTL</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Nicola Mizon holds a BA (Hons) in Computer Games Design from University Campus Suffolk. Throughout her career, Nicola has collaborated with renowned names like FC Bayern Munich, Agatha Christie, Luc Besson on the Valerian game, and Atari co-founder Nolan Bushnell.</p>
+            <p>Nicola co-founded Vizta DGTL, a Berlin-based game studio aiming to revolutionise the intersection of gaming, fashion, and commerce. Their flagship product, Kutur Runway, seeks to create the largest digital fashion social platform driven by gaming, merging creativity, community, and technology. This platform addresses systemic industry issues, promoting inclusivity and aligning with Saudi Arabia's Vision 2030.</p>
+            <p>A respected keynote speaker, Nicola shares her expertise on digital transformation and accessibility. She is enthusiastic about Vizta DGTL's expansion into the Middle East, eager to collaborate with local talents, and promote cultural heritage through innovative digital games, web3 elements, and virtual environments.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Start Speakers Section  -->
     <section class="cs_pb_20 cs_pb_lg_55" id="speakers">
       <div class="container">
@@ -720,6 +895,118 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Toshimoto Mitomo</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">Executive Deputy President and CSO, Sony</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Anna-Rozwandowicz.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Anna-Rozwandowicz" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Anna Rozwandowicz</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO, The Story Mobb</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Brian-Ward.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Brian-Ward" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Brian Ward</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO, Savvy Games Group</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Jann-Mardenborough.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Jann-Mardenborough" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Jann Mardenborough</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Motorsport and SIM Racing Driver</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Jens-Hilgers.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <!-- <a href="#" data-bs-toggle="modal" data-bs-target="#Jens-Hilgers" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a> -->
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Jens Hilgers</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base"></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Maha-Abouelenein.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Maha-Abouelenein" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Maha Abouelenein</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO, Digital and Savvy</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Mathilde-Pignol.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Mathilde-Pignol" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Mathilde Pignol</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Co-Founder and CCO, Roboto Games</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Nate-Morley.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Nate-Morley" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Nate Morley</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Founder of Works Collective</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Nicola-Mizon.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Nicola-Mizon" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Nicola Mizon</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">COO & Co-Founder, Kutur Runway, Vizta DGTL</p>
               </div>
             </div>
           </div>
