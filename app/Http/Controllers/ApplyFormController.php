@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Mail\ApplyMail;
+use App\Mail\ThankYou;
 use Illuminate\Support\Facades\Mail;
 
 class ApplyFormController extends Controller
