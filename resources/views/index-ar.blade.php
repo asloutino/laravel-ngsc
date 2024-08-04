@@ -546,6 +546,181 @@
       </div>
     </div>
 
+    <!-- Modal Anna-Rozwandowicz -->
+    <div class="modal fade speaker-modal" id="Anna-Rozwandowicz" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Anna-Rozwandowicz.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">آنا روزفاندوفيتش</h2>
+              <p class="text-white m-0">الرئيس التنفيذي، ذا ستوري موب</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>آنا روزواندويتش هي المؤسس والرئيس التنفيذي لشركة ذا ستوري موب، وهي شركة استشارية دولية رائدة في مجال ثقافة الألعاب والترفيه الغامر والرياضات الإلكترونية. من خلال دورها، تقدم المشورة للعلامات التجارية الرياضية والترفيهية العالمية والناشرين ونوادي الرياضات الإلكترونية والرياضيين بشأن الاتصالات الحقيقية المؤثرة مع عشاق الألعاب. قبل تأسيس الوكالة في عام 2018، شغلت آنا منصب نائب الرئيس للاتصالات في إي إف جي. وهناك، قادت جهود الاتصالات العالمية للبطولات الكبرى وحصلت على تغطية إعلامية غير مسبوقة للرياضة الأسرع نموًا في العالم. من خلال مكاتبها في لوس أنجلوس ولندن، عملت ذا ستوري موب مع أكثر من 100 علامة تجارية عالمية للألعاب والرياضة والترفيه. آنا هي أيضًا مستشارة لمؤسسة سايبر سمايل، ومرشدة للشركات الناشئة في مجال الرياضات الإلكترونية في ليد سبورتز، ومتحدثة في ثقافة الألعاب والاتصالات.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Brian-Ward -->
+    <div class="modal fade speaker-modal" id="Brian-Ward" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Brian-Ward.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">بريان وارد</h2>
+              <p class="text-white m-0">الرئيس التنفيذي، مجموعة الألعاب سافي</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>بريان هو الرئيس التنفيذي لمجموعة الألعاب سافي، وهي شركة ألعاب ورياضات إلكترونية مقرها الرياض، مهمتها قيادة الاستثمار والنمو طويل المدى لهذه الصناعة. وتحت قيادته، فيما يزيد قليلاً عن عامين، أصبحت سافي أكبر شركة للرياضات الإلكترونية في العالم وعاشر أكبر ناشر للألعاب، مع 3800 موظف في 22 دولة، بما في ذلك العديد من الفرق الحائزة على جوائز والملكية الفكرية.</p>
+            <p>يتمتع براين بما يقرب من 30 عامًا من الخبرة في الاستوديو والعمليات، بما في ذلك مناصب عليا في إلكترونيك آرتس ومايكروسوفت و أكتيفيجن بليزارد. أثناء قيادته الاستوديوهات العالمية في أكتيفيجن، أدار جميع عمليات التطوير وأكثر من اثنتي عشرة عملية استحواذ على الاستوديوهات - مما أدى إلى مضاعفة السعة ثلاث مرات، وزيادة الإيرادات أربع مرات، وتحقيق هوامش ربح رائدة في الصناعة. فازت الألعاب التي ساعد في قيادتها بأكثر من 300 "لعبة العام" و1400 جائزة "اختيار المحرر" و"الإنجاز المتميز"، وتشمل ست امتيازات ترفيهية رقم 1، مع إيرادات كلية تزيد عن 35 مليار دولار.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Jann-Mardenborough -->
+    <div class="modal fade speaker-modal" id="Jann-Mardenborough" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Jann-Mardenborough.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">جان ماردنبورو</h2>
+              <p class="text-white m-0">سائق سباقات السيارات والمحاكاة</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>نقدم لكم جان ماردنبورو، المتحدث الرئيسي في مؤتمر الرياضة العالمية الجديدة 2024. رحلة جان من السباق الافتراضي إلى التميز في رياضة السيارات تجسد العزم والابتكار. بدأت حياته المهنية في عالم غران توريزمو الرقمي، حيث لفتت موهبته الاستثنائية انتباه الكشافين، مما أدى إلى فوز تاريخي في أكاديمية جي تي لعام 2011 والانضمام لفريق سباق نيسان.</p>
+            <p>تشمل إنجازات جان المنافسة في سباق 24 ساعة في لومان وجي تي 500 كلاس في اليابان، وتحدي حدود الممكن باستمرار، وهدفه الآن هو الوصول إلى فئة الهايبركار. جان شخصية رائدة في تكنولوجيا رياضة السيارات، حيث يساهم في فريق نيسان فورمولا إي كسائق تطوير.</p>
+            <p>بصفته متحدثًا، يقدم جان رؤى قيمة حول السباقات الافتراضية والحقيقية، والتطور التكنولوجي في رياضة السيارات، والمثابرة. انضموا إلينا في الترحيب بجان ماردنبورو لاستكشاف ملهم لرياضة السيارات والإبداع.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Jens-Hilgers -->
+    <div class="modal fade speaker-modal" id="Jens-Hilgers" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Jens-Hilgers.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">جينز هيلغرز</h2>
+              <p class="text-white m-0"></p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Maha-Abouelenein -->
+    <div class="modal fade speaker-modal" id="Maha-Abouelenein" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Maha-Abouelenein.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">مها ابو العينين</h2>
+              <p class="text-white m-0">الرئيس التنفيذي، ديجيتال أند سافي</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>مها أبو العينين هي مواطنة أمريكية مصرية تتمتع بأكثر من 30 عامًا من الخبرة في مجال الاتصالات العالمية، حيث قدمت الاستشارات للشركات العالمية العملاقة والشركات الناشئة والحكومات والمديرين التنفيذيين والأفراد ذوي الثروات العالية. وهي الرئيس التنفيذي لشركة ديجيتال أند سافي، وهي شركة استشارات اتصالات استراتيجية ولها مكاتب في الولايات المتحدة الأمريكية ودبي.</p>
+            <p>تعتبر مها خبيرة استراتيجية ومتحدثة مطلوبة، وهي خبيرة في العلامات التجارية الشخصية وإدارة السمعة والاتصالات الحديثة والقوة التحويلية لسرد القصص. وهي الرئيس السابق للاتصالات العالمية والسياسة العامة في غوغل والمدير الإداري المؤسس لشركة ويبر شاندويك في منطقة الشرق الأوسط وشمال أفريقيا. عملت في مجال الترويج والتسويق الرياضي في شركة جنرال ميلز قبل أن تصبح رائدة أعمال.</p>
+            <p>مها عضو في مجلس الإدارة العالمي لوكالة أسوشيتد برس وتستضيف البودكاست "سافي تالك". للمزيد، قم بزيارة: digitalandsavvy.com</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Mathilde-Pignol -->
+    <div class="modal fade speaker-modal" id="Mathilde-Pignol" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Mathilde-Pignol.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">ماتيلد بيجنول</h2>
+              <p class="text-white m-0">المؤسس المشارك والرئيس التنفيذي لشؤون الروبوتات، روبوتو غايمز</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>ماتيلد هي المؤسس المشارك والمدير الإبداعي لشركة روبوتو غايمز ، شركتها الثانية للألعاب. من خلال دورها، تشرف على استراتيجية الشركة بالإضافة إلى تصميم وفن عنوانها التالي، ستورم فورج. ماتيلد هي في الأصل من فرنسا لكنها انتقلت إلى الولايات المتحدة عندما كانت مراهقة. وهي حاصلة على درجة البكالوريوس في علوم الكمبيوتر وعلم النفس ودرجة الماجستير في تصميم تجربة المستخدم من جامعة كارنيجي ميلون. بعد التخرج، أنشأت شركتها الأولى، زيبزاب بلاي، حيث صنعت ألعابًا يلعبها ملايين الأشخاص. بعد استحواذ شركة بوب غاب غايمز على الشركة، شاركت في إدارة استوديو بوب غاب سان فرانسيسكو إلكترونيك أرتس. أكثر من أي شيء آخر، تحب ماتيلد صنع الألعاب، التي تمثل التقاطع المثالي بين التكنولوجيا والفن والتصميم.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Nate-Morley -->
+    <div class="modal fade speaker-modal" id="Nate-Morley" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Nate-Morley.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">نايت مورلي</h2>
+              <p class="text-white m-0">مؤسس ووركس كولكتيف</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Nate Morley is the founder of Works Collective, the agency behind the brand identities for the Esports World Cup, FIFA World Cup 2026, FIFA Women’s World Cup 2023, the 2028 Los Angeles Olympic Games and many more. Nate’s career has been built on developing and amplifying brands that impact culture. While working as the CMO at DC Shoes, Nate helped create the Gymkhana series of YouTube films, that have ammassed over a billion views. His experience also includes working at Nike in Global Brand Marketing, as the CMO at Skullcandy and as Advisory Board member of the YouTube juggernaut, Donut Media. As an agency partner, Nate has created strategy, campaigns and content for major brands like Samsung, Spotify, Target, ESPN, Activision, Fender Guitars, Robinhood, Gillette and many more. His strategic and creative expertise is broad, diverse and has solidified him as a leader in shaping cultural narratives and defining market success.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Nicola-Mizon -->
+    <div class="modal fade speaker-modal" id="Nicola-Mizon" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Nicola-Mizon.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">نيكولا ميزون</h2>
+              <p class="text-white m-0">مدير العمليات والمؤسس المشارك، كوتور ران واي، فيزتا دي جي تي إل</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>حصلت نيكولا ميزون على درجة البكالوريوس (مع مرتبة الشرف) في تصميم ألعاب الكمبيوتر من جامعة كامبوس سوفولك. طوال مسيرتها المهنية، تعاونت نيكولا مع أسماء مشهورة مثل نادي بايرن ميونيخ لكرة القدم، وأجاثا كريستي، ولوك بيسون في فيلم لعبة فاليريان، والمؤسس المشارك لشركة أتاري نولان بوشنيل.</p>
+            <p>شاركت نيكولا في تأسيس فيزتا دي جي تي إل ، وهو استوديو ألعاب مقره برلين يهدف إلى إحداث ثورة في تقاطع الألعاب والأزياء والتجارة. يسعى منتجها الرائد، كوتور ران واي، إلى إنشاء أكبر منصة اجتماعية رقمية للأزياء مدفوعة بالألعاب، ودمج الإبداع والمجتمع والتكنولوجيا. تعالج هذه المنصة القضايا الصناعية النظامية، وتروج للشمولية وتتماشى مع رؤية المملكة العربية السعودية 2030.</p>
+            <p>تشارك نيكولا، المتحدثة الرئيسية المحترمة، خبرتها في التحول الرقمي وإمكانية الوصول. وهي متحمسة لتوسع فيزتا دي جي تي إل في الشرق الأوسط، وتحرص على التعاون مع المواهب المحلية، وتعزيز التراث الثقافي من خلال الألعاب الرقمية المبتكرة وعناصر الويب 3 والبيئات الافتراضية.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Start Speakers Section  -->
     <section class="cs_pb_20 cs_pb_lg_55" id="speakers">
       <div class="container">
@@ -723,6 +898,118 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">توشيموتو ميتومو</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">نائب الرئيس التنفيذي وكبير مسؤولي الأمن في شركة مجموعة سوني</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Anna-Rozwandowicz.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Anna-Rozwandowicz" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">آنا روزفاندوفيتش</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي، ذا ستوري موب</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Brian-Ward.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Brian-Ward" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">بريان وارد</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي، مجموعة الألعاب سافي</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Jann-Mardenborough.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Jann-Mardenborough" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">جان ماردنبورو</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">سائق سباقات السيارات والمحاكاة</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Jens-Hilgers.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <!-- <a href="#" data-bs-toggle="modal" data-bs-target="#Jens-Hilgers" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a> -->
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">جينز هيلغرز</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base"></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Maha-Abouelenein.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Maha-Abouelenein" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">مها ابو العينين</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي | ديجيتال أند سافي</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Mathilde-Pignol.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Mathilde-Pignol" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">ماتيلد بيجنول</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">المؤسس المشارك والرئيس التنفيذي لشؤون الروبوتات، روبوتو غايمز</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Nate-Morley.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Nate-Morley" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">نايت مورلي</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">مؤسس ووركس كولكتيف</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Nicola-Mizon.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Nicola-Mizon" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">نيكولا ميزون</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">مدير العمليات والمؤسس المشارك، كوتور ران واي، فيزتا دي جي تي إل</p>
               </div>
             </div>
           </div>
