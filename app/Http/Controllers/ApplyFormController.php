@@ -35,6 +35,8 @@ class ApplyFormController extends Controller
         Mail::to('prejeesh.pushparajan@fischerappelt.com')->send(new ApplyMail($validatedData));
         Mail::to('etienne.wansa@gmail.com')->send(new ApplyMail($validatedData));
 
+        Mail::to($email)->send(new ThankYou($validatedData));
+
         // Process the data (e.g., validation, sending email)
         return back()->with('success', 'Thank you for your application!');
     }

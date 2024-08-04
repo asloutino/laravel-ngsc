@@ -50,6 +50,8 @@ class ContactFormController extends Controller
         }
         Mail::to('etienne.wansa@gmail.com')->send(new ContactMail($validatedData));
 
+        Mail::to($email)->send(new ThankYou($validatedData));
+
         // Process the data (e.g., validation, sending email)
         return back()->with('success', 'Thank you for your message!');
     }
