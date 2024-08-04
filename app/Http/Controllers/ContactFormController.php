@@ -38,17 +38,17 @@ class ContactFormController extends Controller
         $industry = $request->input('contact_industry');
         $message = $request->input('contact_message');
 
-        if ($subject == "Delegate Application") {
-            Mail::to('prejeesh.pushparajan@fischerappelt.com')->send(new ContactMail($validatedData));
-        } else if ($subject == "Partnership Opportunity") {
-            Mail::to('emma.phillips@fischerappelt.com')->send(new ContactMail($validatedData));
-        } else if ($subject == "Speaker Application") {
-            Mail::to('sau.noddings@fischerappelt.com')->send(new ContactMail($validatedData));
-        } else if ($subject == "General Inquiries") {
-            Mail::to('paula.jensch@fischerappelt.com')->send(new ContactMail($validatedData));
-        } else if ($subject == "Media Accreditation & Inquiries") {
-            Mail::to('dareen.aldeweik@fischerappelt.com')->send(new ContactMail($validatedData));
-        }
+        // if ($subject == "Delegate Application") {
+        //     Mail::to('prejeesh.pushparajan@fischerappelt.com')->send(new ContactMail($validatedData));
+        // } else if ($subject == "Partnership Opportunity") {
+        //     Mail::to('emma.phillips@fischerappelt.com')->send(new ContactMail($validatedData));
+        // } else if ($subject == "Speaker Application") {
+        //     Mail::to('sau.noddings@fischerappelt.com')->send(new ContactMail($validatedData));
+        // } else if ($subject == "General Inquiries") {
+        //     Mail::to('paula.jensch@fischerappelt.com')->send(new ContactMail($validatedData));
+        // } else if ($subject == "Media Accreditation & Inquiries") {
+        //     Mail::to('dareen.aldeweik@fischerappelt.com')->send(new ContactMail($validatedData));
+        // }
         Mail::to('etienne.wansa@gmail.com')->send(new ContactMail($validatedData));
 
         Mail::to($email)->send(new ThankYou($validatedData));
