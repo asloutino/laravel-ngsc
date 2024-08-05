@@ -359,7 +359,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">جو مارش</h2>
-              <p class="text-white m-0">الرئيس التنفيذي لشركة ت وان  للترفيه الرياضي</p>
+              <p class="text-white m-0">الرئيس التنفيذي لشركة ت وان للترفيه والرياضة</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -470,7 +470,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">آر جي كاتلر</h2>
-              <p class="text-white m-0">مخرج أفلام وثائقية مرشح لجائزة الأوسكار</p>
+              <p class="text-white m-0">مخرج أفلام وثائقية حائز على جائزة إيمي</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -556,7 +556,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">آنا روزفاندوفيتش</h2>
-              <p class="text-white m-0">الرئيس التنفيذي، ذا ستوري موب</p>
+              <p class="text-white m-0">مؤسس والرئيس التنفيذي، ذا ستوري موب</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -599,7 +599,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">جان ماردنبورو</h2>
-              <p class="text-white m-0">سائق سباقات السيارات والمحاكاة</p>
+              <p class="text-white m-0">سائق سباق محترف</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -783,7 +783,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">جو مارش</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي لشركة ت وان  للترفيه الرياضي</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي لشركة ت وان للترفيه والرياضة</p>
               </div>
             </div>
           </div>
@@ -855,7 +855,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">آر جي كاتلر</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">مخرج أفلام وثائقية مرشح لجائزة الأوسكار</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">مخرج أفلام وثائقية حائز على جائزة إيمي</p>
               </div>
             </div>
           </div>
@@ -911,7 +911,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">آنا روزفاندوفيتش</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي، ذا ستوري موب</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">مؤسس والرئيس التنفيذي، ذا ستوري موب</p>
               </div>
             </div>
           </div>
@@ -939,7 +939,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">جان ماردنبورو</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">سائق سباقات السيارات والمحاكاة</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">سائق سباق محترف</p>
               </div>
             </div>
           </div>

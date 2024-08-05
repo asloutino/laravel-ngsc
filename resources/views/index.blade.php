@@ -289,8 +289,8 @@
               <img src="assets/img/speakers/HRH-Prince-Faisal-bin-Bandar.png" alt="Member">
             </div>
             <div class="col-lg-8">
-            <h2 class="modal-title fs-5" id="staticBackdropLabel">HRH Prince Faisal bin Bandar bin Sultan bin Abdulaziz</h2>
-              <p class="text-white m-0">Chairman, Saudi Esports Federation</p>
+            <h2 class="modal-title fs-5" id="staticBackdropLabel">HRH Prince Faisal bin Bandar bin Sultan Al Saud</h2>
+              <p class="text-white m-0">Chairman of the Saudi Esports Federation</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -359,7 +359,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Joe Marsh</h2>
-              <p class="text-white m-0">CEO, T1 Entertainment Sports</p>
+              <p class="text-white m-0">CEO, T1 Entertainment & Sports</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -470,7 +470,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">R.J. Cutler</h2>
-              <p class="text-white m-0">Oscar Nominated Documentary Filmmaker</p>
+              <p class="text-white m-0">Emmy Winning Documentary Filmmaker</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -533,7 +533,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Toshimoto Mitomo</h2>
-              <p class="text-white m-0">Executive Deputy President and CSO, Sony</p>
+              <p class="text-white m-0">Executive Deputy President and CSO, Sony Group Corporation</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -554,7 +554,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Anna Rozwandowicz</h2>
-              <p class="text-white m-0">CEO, The Story Mobb</p>
+              <p class="text-white m-0">CEO, The Story Mob</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -597,7 +597,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Jann Mardenborough</h2>
-              <p class="text-white m-0">Motorsport and SIM Racing Driver</p>
+              <p class="text-white m-0">Professional Racing Driver</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -738,8 +738,8 @@
                 </div>
               </div> 
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_16 cs_mb_10">HRH Prince Faisal bin Bandar</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Chairman, Saudi Esports Federation</p>
+                <h2 class="text-white cs_fs_16 cs_mb_10">HRH Prince Faisal bin Bandar bin Sultan Al Saud</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Chairman of the Saudi Esports Federation</p>
               </div>
             </div>
           </div>
@@ -781,7 +781,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Joe Marsh</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">CEO, T1 Entertainment Sports</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO, T1 Entertainment & Sports</p>
               </div>
             </div>
           </div>
@@ -853,7 +853,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">R.J. Cutler</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Oscar Nominated Documentary Filmmaker</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">Emmy Winning Documentary Filmmaker</p>
               </div>
             </div>
           </div>
@@ -895,7 +895,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Toshimoto Mitomo</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Executive Deputy President and CSO, Sony</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">Executive Deputy President and CSO, Sony Group Corporation</p>
               </div>
             </div>
           </div>
@@ -909,7 +909,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Anna Rozwandowicz</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">CEO, The Story Mobb</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO, The Story Mob</p>
               </div>
             </div>
           </div>
@@ -937,7 +937,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Jann Mardenborough</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Motorsport and SIM Racing Driver</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">Professional Racing Driver</p>
               </div>
             </div>
           </div>
