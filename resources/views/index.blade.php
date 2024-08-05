@@ -602,9 +602,9 @@
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p>Introducing Jann Mardenborough, our VIP keynote speaker for NGSC 2024. Jann’s journey from virtual racing to motorsport excellence exemplifies determination and innovation. His career began in the digital world of Gran Turismo, where his exceptional talent caught the attention of scouts, leading to a historic victory at the 2011 GT Academy and a place on the Nissan racing team.</p>
+            <p>Jann’s journey from virtual racing to motorsport excellence exemplifies determination and innovation. His career began in the digital world of Gran Turismo, where his exceptional talent caught the attention of scouts, leading to a historic victory at the 2011 GT Academy and a place on the Nissan racing team.</p>
             <p>Jann’s achievements include competing in the 24 Hours of Le Mans and the GT500 class in Japan, constantly pushing the limits of what is possible, and aiming now for the Hypercar Class. He is also a pioneering figure in motorsport technology, contributing to the Nissan Formula E Team as a development driver.</p>
-            <p>As a speaker, Jann offers valuable insights into virtual and real-world racing, technological evolution in motorsport, and perseverance. Join us in welcoming Jann Mardenborough for an inspiring exploration of motorsport and innovation.</p>
+            <p>As a speaker, Jann offers valuable insights into virtual and real-world racing, technological evolution in motorsport, and perseverance.</p>
           </div>
         </div>
       </div>
