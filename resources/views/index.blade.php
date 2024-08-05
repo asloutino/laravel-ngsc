@@ -620,7 +620,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Jens Hilgers</h2>
-              <p class="text-white m-0"></p>
+              <p class="text-white m-0">General Partner & Co-Founder, BITKRAFT Ventures</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -951,7 +951,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Jens Hilgers</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base"></p>
+                <p class="text-white cs_fs_12 m-0 lh-base">General Partner & Co-Founder, BITKRAFT Ventures</p>
               </div>
             </div>
           </div>
