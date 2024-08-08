@@ -721,6 +721,207 @@
       </div>
     </div>
 
+    <!-- Modal Faisal-Bin-Homran -->
+    <div class="modal fade speaker-modal" id="Faisal-Bin-Homran" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Faisal-Bin-Homran.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">فيصل بن حمران</h2>
+              <p class="text-white m-0">الرئيس التنفيذي للرياضات الإلكترونية في مؤسسة كأس العالم للرياضات الإلكترونية</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>يشغر فيصل بن حمران منصب الرئيس التنفيذي للرياضات الإلكترونية في مؤسسة كأس العالم للرياضات الإلكترونية. ويعتبر بن حمران مسؤولاً عن قيادة مبادرة كأس العالم للرياضات الإلكترونية وتطويرها، بالإضافة إلى تركيزه على تعزيز التجارب الترفيهية المرافقة للفعالية، كما يقوم بلعب دور هام في دعم جهود المؤسسة لتعزيز قطاع الألعاب والرياضات الإلكترونية حول العالم.</p>
+            <p>وقبل تعيينه في مؤسسة كأس العالم للرياضات الإلكترونية، شغل بن حمران منصب الرئيس التنفيذي للرياضات الإلكترونية في الاتحاد السعودي للرياضات الإلكترونية، حيث لعب دوراً بارزاً في دفع جهود الاتحاد لترسيخ مكانة المملكة كمركز إقليمي رائد للرياضات الإلكترونية والتجارب الترفيهية. وخلال مسيرته مع الاتحاد، ساهم بن حمران بتطوير مجتمع اللاعبين والتخطيط لسير عمل بطولات الاتحاد المستقبلية وقيادة طموح الاتحاد بالارتقاء باللاعب الناشئ لإيصاله للاحتراف.</p>
+            <p>وكان لإبن حمران دور بارز في تطوير الاستراتيجية الوطنية للألعاب والرياضات الإلكترونية والإشراف على تطوير أندية الرياضات الإلكترونية وإنشاء بطولات جديدة، بالإضافة لاكتشاف فرص جديدة في السوق المتنامية، ورعاية المواهب الناشئة، بما ينسجم مع رؤية ومهام الاتحاد السعودي للرياضات الإلكترونية. وعمل بن حمران على إيصال "موسم الجيمرز" للمكانة العالمية التي وصل إليها، وأشرف على عمليات بطولة "لاعبون بلا حدود"، أكبر فعالية خيرية للرياضات الإلكترونية في العالم، وبطولة الدوري السعودي الإلكتروني وغيرها من البطولات.</p>
+            <p>ويتميز بن حمران بشغفٍ حقيقي بالألعاب والرياضات الإلكترونية، حيث دخل مجال الرياضات الإلكترونية كلاعب محترف عام 2009 بينما كان يدرس هندسة نظم المعلومات في جامعة الملك فهد للبترول والمعادن حيث حصل على درجة البكالوريوس، وبعد ذلك، واصل مسيرته الأكاديمية وحصل على درجة الماجستير في الابتكار وريادة وتطوير الأعمال من جامعة وستمنستر  بالمملكة المتحدة، ممّا أضفى على مسيرته المهنية بعداً أكاديمياً واحترافياً.</p>
+            <p>وقبل انضمامه إلى الاتحاد السعودي للرياضات الإلكترونية عام 2021، عزّز بن حمران خبراته لأكثر من 10 سنوات في مجالات متنوعة شملت تطوير الأعمال بقطاع الرياضات والألعاب الإلكترونية، وتنظيم البطولات وقاعات الألعاب الإلكترونية، وتطوير المواقع الإلكترونية، وإدارة الفرق الإلكترونية، وتطبيقات الألعاب الإلكترونية.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Gabriel-Toledo -->
+    <div class="modal fade speaker-modal" id="Gabriel-Toledo" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Gabriel-Toledo.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">غابرييل " FalleN" توليدو</h2>
+              <p class="text-white m-0">لاعب سي اس 2، فيوريا للرياضات الإلكترونية</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>غابرييل توليدو رياضي برازيلي متميز في الرياضات الإلكترونية، اشتهر بإسهاماته لكاونتر سترايك.  مع أكثر من 20 عامًا من الخبرة، أثبت غابرييل نفسه كشخصية رئيسية في المجال التنافسي. اشتهر بمهاراته الاستثنائية كلاعب AWPer وقائد في اللعبة، وقد أثر بشكل كبير على المشهد بعبقريته الاستراتيجية وأسلوب اللعب المبتكر. اكتسب شهرة مع فرق مثل لومينوسيتي جيمنج واس كيه جيمنج، حيث قادهم إلى انتصارات كبيرة، بما في ذلك إي إس إل وان كولونيا 2016 وام ال جي كولومبوس 2016. يلعب حاليًا لصالح فيوريا للرياضات الالكترونية، ويستمر في التفوق والتأثير على اللعبة. بالإضافة إلى مسيرته المهنية في الرياضات الإلكترونية، يمتلك غابرييل شركة تسمى فالين كومباني، مما تعكس تأثيره الواسع خارج نطاق الألعاب. يتميز إرثه وتفانيه في التميز والقيادة ودوره المحوري في تطوير الرياضات الإلكترونية.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Joe-Pompliano -->
+    <div class="modal fade speaker-modal" id="Joe-Pompliano" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Joe-Pompliano.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">جو بومبليانو</h2>
+              <p class="text-white m-0">الشريك الإداري في شركة بومب للاستثمارات</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>جو بومبليانو هو أحد أسرع الشخصيات نموًا في مجال الرياضة. ترك حياته المهنية في جي بي مورجان في عام 2020 ليبدأ في إنشاء محتوى الأعمال الرياضية بدوام كامل، وسرعان ما أصبح مصدرًا موثوقًا به للمديرين التنفيذيين والرياضيين المحترفين و المشجعين العاديين.</p>
+            <p>حققت أعمال المحتوى الخاصة بجو أكثر من 2 مليار ظهور في العام الماضي، ويقرأ رسالته الإخبارية أكثر من 125000 شخص في 185 دولة. تم عرض أعمال جو في إي إس بي إن وبلومبرج وفوكس سبورتس وسي إن بي سي، ويقضي قدرًا كبيرًا من الوقت في تحديد ودعم المؤسسين العظماء من خلال فرص الاستثمار في المراحل المبكرة، بما في ذلك شركات مثل ريديت وريبليت وأندر دوغ فانتازي ودوري لاكروس الممتاز.</p>
+            <p>يستضيف جو أيضًا بودكاست شهيرًا بعنوان "عرض جو بومب"، حيث يجري مقابلات مع الرياضيين والمديرين التنفيذيين حول حياتهم المهنية، أعمالهم، واستثماراتهم. من بين الضيوف السابقين: دانا وايت، لانس أرمسترونج، جاري فاينرتشوك، مارك لور، فرانسيس نجانو، تروي أيكمان وأليكس رودريجيز.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal MJ-Acosta-Ruiz -->
+    <div class="modal fade speaker-modal" id="MJ-Acosta-Ruiz" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/MJ-Acosta-Ruiz.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">إم جيه أكوستا رويز</h2>
+              <p class="text-white m-0">مذيعة رياضية</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>إم جيه أكوستا رويز هي مقدمة برامج تلفزيونية ومذيعة رياضية، وتعمل حاليًا كمذيعة لبرنامج سبورت سنتر على قناة إي إس بي إن وكمراسلة جانبية لبرنامج مندي نايت فوتبول على قناة اي اس بي ان سبورتس.</p>
+            <p>أصبحت الصحفية الحائزة على جائزة إيمي أول امرأة لاتينية تستضيف برنامجًا في وسائل إعلام اتحاد كرة القدم الأميركي. تتحدث الإنجليزية والإسبانية بشكل كامل، وتعمل دوليًا لتتواصل مع المشهد المتنوع والمتنامي خارج الولايات المتحدة.</p>
+            <p>مع ما يقرب من 15 عامًا في مجال التلفزيون والترفيه، تواصل عملها كمدافعة عن التمثيل والمساواة. تعمل إم جيه بشكل وثيق مع مجموعات تمكين المرأة مثل "مقعد على الطاولة". وهي مكرسة لتضخيم أصوات المجتمعات المهمشة.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Nanea-Reeves -->
+    <div class="modal fade speaker-modal" id="Nanea-Reeves" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Nanea-Reeves.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">نانيا ريفز</h2>
+              <p class="text-white m-0">الرئيس التنفيذي والمؤسس المشارك لشركة تريب والمدير التنفيذي السابق للعمليات في شركة إلكترونيك ارتس</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Nick-Brown -->
+    <div class="modal fade speaker-modal" id="Nick-Brown" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Nick-Brown.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">نيك براون</h2>
+              <p class="text-white m-0">شريك ومنتج تنفيذي في جود بوي كرييتيف</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>نيك براون هو شريك مؤسس ومنتج تنفيذي في جود بوي كرييتيف، وهو استوديو إبداعي مقره لوس أنجلوس يركز على إنتاج الأفلام الحية في مجال الألعاب والرياضات الإلكترونية. يطور جود بوي وينتج إعلانات تجارية ومقاطع تشويقية وأفلام وثائقية لأكبر ناشري الألعاب في العالم بما في ذلك رايوت جيمز وأبيك جيمز ويوبي سوفت. وقد فاز بجائزتي إيمي الرياضية عن عمله مع رايوت جيمز في بطولة العالم لليج أوف شامبيونز.</p>
+            <p>في منصبه كمنتج تنفيذي، يشرف نيك على التطوير الإبداعي وجميع أنشطة إنتاج الأفلام الحية. لديه خبرة واسعة في العمل على المستوى الدولي بعد أن أنتج حملات متعددة في الولايات المتحدة والصين وكوريا واليابان وسنغافورة وألمانيا والدنمارك وإسبانيا وإنجلترا وأيسلندا، وتركيا، والمكسيك، والبرازيل.</p>
+            <p>قبل تأسيس جود بوي، عمل نيك في التطوير الإبداعي والإنتاج لشركة والت ديزني، حيث أنتج حملات محتوى رقمية  و تجارية حائزة على عدة جوائز.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal OJ-Borg -->
+    <div class="modal fade speaker-modal" id="OJ-Borg" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/OJ-Borg.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">او جيه بورج</h2>
+              <p class="text-white m-0">المذيع المنتج التنفيذي لستاندرد فيلمز</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>أمضى او جيه بورج العقد الماضي منغمسًا في الرياضات الإلكترونية سواء أمام الميكروفون أو خلفه، حيث عمل في أكبر أحداث الرياضات الإلكترونية حول العالم.</p>
+            <p>وهو أيضًا مذيع مشهور في المملكة المتحدة يقدم برامج ترفيهية على الراديو والتلفزيون لهيئة الإذاعة البريطانية (بي بي سي) بالإضافة إلى العديد من الرياضات، من بطولة يو اف سي إلى سباق فرنسا للدراجات.</p>
+            <p>بصفته مخرجًا ومنتجًا تنفيذيًا في شركة الإنتاج الخاصة به ستاندرد فيلمز، أنتج أفلامًا وثائقية ومفاهيمية عالية الجودة تسد الفجوة بين الرياضات الإلكترونية والمذيعين السائدين.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Shuji-Utsumi -->
+    <div class="modal fade speaker-modal" id="Shuji-Utsumi" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Shuji-Utsumi.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">شوجي أوتسومي</h2>
+              <p class="text-white m-0">الرئيس والمدير التنفيذي للعمليات في شركة سيجا</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>يعمل شوجي أوتسومي في صناعة الألعاب والترفيه منذ أكثر من 35 عامًا. بعد قيادة مشروع "بلاي ستيشن" في سوني، تمت دعوته من قبل شركة منافسة لسوني، سيجا، للعمل كرئيس تطوير مشروع "دريم كاست". بعد إطلاق الجهاز، قاد فرقًا إبداعية وتجارية كمدير تنفيذي في شركات مثل ديزني إنتراكتيف آسيا ووارنر ميوزيك، اليابان. كما أسس شركته الخاصة، كيو إنترتينمنت، حيث أنتج الألعاب الأسطورية لومينيس وتشايلد أوف إيدن. في عام 2020، عاد إلى سيجا كمدير تنفيذي للعمليات ولعب دورًا رئيسيًا في إحياء سيجا من خلال استراتيجية الوسائط المتعددة لسونيك ذا هيدجهوج، وفي أبريل 2024 تم تعيينه رئيسًا ومديرًا تنفيذيًا للعمليات في سيجا. يتمتع بخلفية فريدة تجمع بين الخبرة في الإدارة وتطوير المحتوى من منظور عالمي. تشمل العناوين الرئيسية التي شارك فيها بشكل مباشر والتي تمثل حياته المهنية كراش بانديكوت وكينجدوم هارتس والعديد من الألعاب الأخرى.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Steve-Arhancet -->
+    <div class="modal fade speaker-modal" id="Steve-Arhancet" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Steve-Arhancet.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">ستيفن ارهانسيت</h2>
+              <p class="text-white m-0">الرئيس التنفيذي لشركة تيم ليكويد</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>يعد ستيفن "ليكويد 112" ارهانسيت رائدًا في صناعة الرياضات الإلكترونية، حيث يمزج أكثر من عقد من الخبرة في مجال تمويل الأعمال مع الألعاب الاحترافية لبناء تيم ليكويد، وهو مركز عالمي للرياضات الإلكترونية. بصفته الرئيس التنفيذي المشارك، يشرف على أكثر من 300 موظف و100 رياضي من النخبة في أربع منشآت دولية. تحت قيادته، حققت تيم ليكويد انتصارات كبيرة، بما في ذلك بطولة دوتا 2 الدولية، وخمسة ألقاب في سلسلة بطولة دوري الأساطير، و الجراند سلام في كاونتر سترايك. يمتد تأثيره إلى مجلات فوربس وبيزنس إنسايدر ونيتفليكس، مما دفع الرياضات الإلكترونية إلى صناعة تبلغ قيمتها 1.5 مليار دولار.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Start Speakers Section  -->
     <section class="cs_pb_20 cs_pb_lg_55" id="speakers">
       <div class="container">
@@ -1010,6 +1211,132 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">نيكولا ميزون</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">مدير العمليات والمؤسس المشارك، كوتور ران واي، فيزتا دي جي تي إل</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Faisal-Bin-Homran.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Faisal-Bin-Homran" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">فيصل بن حمران</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي للرياضات الإلكترونية في مؤسسة كأس العالم للرياضات الإلكترونية</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Gabriel-Toledo.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Gabriel-Toledo" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">غابرييل " FalleN" توليدو</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">لاعب سي اس 2، فيوريا للرياضات الإلكترونية</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Joe-Pompliano.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Joe-Pompliano" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">جو بومبليانو</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الشريك الإداري في شركة بومب للاستثمارات</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/MJ-Acosta-Ruiz.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#MJ-Acosta-Ruiz" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">إم جيه أكوستا رويز</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">مذيعة رياضية</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Nanea-Reeves.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <!-- <a href="#" data-bs-toggle="modal" data-bs-target="#Nanea-Reeves" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a> -->
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">نانيا ريفز</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي والمؤسس المشارك لشركة تريب والمدير التنفيذي السابق للعمليات في شركة إلكترونيك ارتس</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Nick-Brown.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Nick-Brown" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">نيك براون</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">شريك ومنتج تنفيذي في جود بوي كرييتيف</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/OJ-Borg.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#OJ-Borg" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">او جيه بورج</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">المذيع المنتج التنفيذي لستاندرد فيلمز</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Shuji-Utsumi.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Shuji-Utsumi" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">شوجي أوتسومي</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس والمدير التنفيذي للعمليات في شركة سيجا</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Steve-Arhancet.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Steve-Arhancet" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">ستيفن ارهانسيت</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي لشركة تيم ليكويد</p>
               </div>
             </div>
           </div>
