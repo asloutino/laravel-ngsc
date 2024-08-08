@@ -690,7 +690,7 @@
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p>Nate Morley is the founder of Works Collective, the agency behind the brand identities for the Esports World Cup, FIFA World Cup 2026, FIFA Women’s World Cup 2023, the 2028 Los Angeles Olympic Games and many more. Nate’s career has been built on developing and amplifying brands that impact culture. While working as the CMO at DC Shoes, Nate helped create the Gymkhana series of YouTube films, that have ammassed over a billion views. His experience also includes working at Nike in Global Brand Marketing, as the CMO at Skullcandy and as Advisory Board member of the YouTube juggernaut, Donut Media. As an agency partner, Nate has created strategy, campaigns and content for major brands like Samsung, Spotify, Target, ESPN, Activision, Fender Guitars, Robinhood, Gillette and many more. His strategic and creative expertise is broad, diverse and has solidified him as a leader in shaping cultural narratives and defining market success.</p>
+            <p>Nate Morley is the founder of Works Collective, the agency behind the brand identities for the Esports World Cup, FIFA World Cup 2026, FIFA Women’s World Cup 2023, the 2028 Los Angeles Olympic Games and many more. Nate’s career has been built on developing and amplifying brands that impact culture. While working as the CMO at DC Shoes, Nate helped create the Gymkhana series of YouTube films that have amassed over a billion views. His experience also includes working at Nike in Global Brand Marketing, as the CMO at Skullcandy and as Advisory Board member of the YouTube juggernaut, Donut Media. As an agency partner, Nate has created strategy, campaigns and content for major brands like Samsung, Spotify, Target, ESPN, Activision, Fender Guitars, Robinhood, Gillette and many more. His strategic and creative expertise is broad, diverse and has solidified him as a leader in shaping cultural narratives and defining market success.</p>
           </div>
         </div>
       </div>
@@ -714,6 +714,204 @@
             <p>Nicola Mizon holds a BA (Hons) in Computer Games Design from University Campus Suffolk. Throughout her career, Nicola has collaborated with renowned names like FC Bayern Munich, Agatha Christie, Luc Besson on the Valerian game, and Atari co-founder Nolan Bushnell.</p>
             <p>Nicola co-founded Vizta DGTL, a Berlin-based game studio aiming to revolutionise the intersection of gaming, fashion, and commerce. Their flagship product, Kutur Runway, seeks to create the largest digital fashion social platform driven by gaming, merging creativity, community, and technology. This platform addresses systemic industry issues, promoting inclusivity and aligning with Saudi Arabia's Vision 2030.</p>
             <p>A respected keynote speaker, Nicola shares her expertise on digital transformation and accessibility. She is enthusiastic about Vizta DGTL's expansion into the Middle East, eager to collaborate with local talents, and promote cultural heritage through innovative digital games, web3 elements, and virtual environments.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Faisal-Bin-Homran -->
+    <div class="modal fade speaker-modal" id="Faisal-Bin-Homran" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Faisal-Bin-Homran.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Faisal Mohammed Bin Homran</h2>
+              <p class="text-white m-0">Chief Product Officer at the Esports World Cup Foundation</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Faisal bin Homran is responsible for leading and growing the Esports World Cup initiative, with special attention paid to its surrounding on-site festival experience. Prior to his appointment at the EWCF, bin Homran was the Chief Esports Officer at the Saudi Esports Federation (SEF), where he played a prominent role in the federation’s efforts to consolidate the Kingdom’s position as the leading regional esports and gaming hub. Bin Homran supported the National Gaming and Esports Strategy and the national gamers community by overseeing Saudi esports clubs’ development, overcoming industry challenges, creating new tournaments, identifying new opportunities in an expanding marketplace, and nurturing up-and-coming talent in line with SEF’s mission and vision. He oversaw the operations of Gamers Without Borders, the biggest esports charity event worldwide, and the Saudi eLeague, which he considers to be his most memorable career milestone to date.</p>
+            <p>A sporadic gamer with an enduring passion for the wider gaming world, bin Homran entered the professional gamers ranks in 2009 when pursuing a bachelor’s degree in information systems engineering from King Fahad University of Petroleum and Minerals. He put his esports career on hold to obtain a Master’s Degree in entrepreneurship, innovation, and business development from the University of Westminster, UK. Prior to joining SEF in 2021, bin Homran gained over 10 years of experience in business development, tournament organization, e-games halls and website development, e-club management, and e-game applications.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Gabriel-Toledo -->
+    <div class="modal fade speaker-modal" id="Gabriel-Toledo" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Gabriel-Toledo.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Gabriel "FalleN" Toledo</h2>
+              <p class="text-white m-0">CS2 Player, FURIA Esports</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Gabriel "FalleN" Toledo is a distinguished Brazilian esports athlete renowned for his contributions to the Counter-Strike scene. With over 20 years of experience, FalleN has established himself as a key figure in the competitive field. Celebrated for his exceptional skills as an AWPer and in-game leader, he has significantly impacted the scene with his strategic genius and innovative gameplay. FalleN gained prominence with teams like Luminosity Gaming and SK Gaming, leading them to major victories, including the ESL One Cologne 2016 and MLG Columbus 2016. Currently, he plays for FURIA Esports, continuing to excel and influence the game. In addition to his esports career, FalleN has a business called FalleN Company, reflecting his broad impact beyond gaming. His legacy is marked by his dedication to excellence, leadership, and his pivotal role in the evolution of esports.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Joe-Pompliano -->
+    <div class="modal fade speaker-modal" id="Joe-Pompliano" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Joe-Pompliano.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Joe Pompliano</h2>
+              <p class="text-white m-0">Managing Partner Pomp Investments</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Joe Pompliano is one of the fastest-growing personalities in the sports business. He left a career at J.P. Morgan in 2020 to start creating sports business content full-time, and he has quickly become a go-to resource for industry executives, professional athletes, and casual fans.</p>
+            <p>Joe’s content business did over 2 billion impressions last year, and his newsletter is read by more than 125,000 people in 185 countries. Joe’s work has been featured in ESPN, Bloomberg, FOX Sports, and CNBC, and he spends a considerable amount of time identifying and supporting great founders through early-stage investment opportunities, including companies like Reddit, Replit, Underdog Fantasy, and the Premier Lacrosse League.</p>
+            <p>Joe also hosts a popular podcast, "The Joe Pomp Show,” where he interviews athletes and executives about their life, career, business, and investments. Past guests have included Dana White, Lance Armstrong, Gary Vaynerchuk, Marc Lore, Francis Ngannou, Troy Aikman, and Alex Rodriguez.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal MJ-Acosta-Ruiz -->
+    <div class="modal fade speaker-modal" id="MJ-Acosta-Ruiz" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/MJ-Acosta-Ruiz.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">MJ Acosta- Ruiz</h2>
+              <p class="text-white m-0">Sportscaster</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>MJ Acosta-Ruiz is a television host and sportscaster, currently featured as the anchor of ESPN's Sportscenter and as a sideline reporter for ESPN Deportes' Monday Night Football.</p>
+            <p>The Emmy Award winning journalist became the first  woman of color to host a show at NFL Media. Fully bilingual in English and Spanish, you can find her working internationally to reach the diverse and growing landscape outside of the U.S.</p>
+            <p>With nearly 15 years in the TV & Entertainment industry, she continues her work as an advocate for representation and equality. MJ works closely with women’s empowerment groups such as A Seat at the Table and is dedicated to amplifying the voices of marginalized communities.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Nanea-Reeves -->
+    <div class="modal fade speaker-modal" id="Nanea-Reeves" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Nanea-Reeves.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Nanea Reeves</h2>
+              <p class="text-white m-0">CEO & CO-Founder of TRIPP and Former COO of Electronic Arts</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Nick-Brown -->
+    <div class="modal fade speaker-modal" id="Nick-Brown" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Nick-Brown.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Nick Brown</h2>
+              <p class="text-white m-0">Partner, Executive Producer, Good Boy Creative-</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Nick Brown is a founding partner and executive producer at Good Boy Creative, an LA-Based creative studio focused on live-action film production in the gaming and esports space. Good Boy develops and produces commercials, teasers, and documentaries for the biggest game publishers in the world including Riot Games, Epic Games, and Ubisoft. He has won 2 sports Emmys for his work with Riot Games League of Legends World Championship.</p>
+            <p>In his position as executive producer, Nick oversees creative development and all live-action production activities. He has extensive experience working internationally having produced multiple campaigns in the USA, China, Korea, Japan, Singapore, Germany, Denmark, Spain, England, Iceland, Turkey, Mexico, and Brazil.</p>
+            <p>Prior to founding Good Boy, Nick worked in creative development and production for the Walt Disney Company, producing award winning digital & branded content campaigns.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal OJ-Borg -->
+    <div class="modal fade speaker-modal" id="OJ-Borg" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/OJ-Borg.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">OJ Borg</h2>
+              <p class="text-white m-0">Broadcaster Executive Producer STNDRD Films</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>OJ Borg has spent the last decade immersed in esports both in front, and behind the microphone working on the biggest esports events around the globe.</p>
+            <p>He also is a renowned broadcaster in the UK presenting entertainment shows on Radio & TV for the BBC as well as across a multitude of sports. From the UFC to the Tour de France.</p>
+            <p>As a director and executive producer within his own production company STNDRD FILMS, he has made high end conceptual films and documentaries that bridge the gap between esports & mainstream broadcasters.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Shuji-Utsumi -->
+    <div class="modal fade speaker-modal" id="Shuji-Utsumi" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Shuji-Utsumi.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Shuji Utsumi</h2>
+              <p class="text-white m-0">President & COO, SEGA Corporation</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Shuji Utsumi has been in the Games and Entertainment industry for over 35 years. After leading the  “PlayStation” project at Sony, he was invited by a Sony rival company, SEGA, to serve as a development head for the “Dreamcast” project. After launching the console, he led creative and business teams as an executive at companies such as Disney Interactive Asia and Warner Music Japan. He also founded his own company, Q Entertainment, where he produced the legendary games Lumines and Child of Eden. In 2020, he returned to SEGA as a CSO and played a key role in SEGA's revival through the transmedia strategy of Sonic the Hedgehog, and in April 2024 he was appointed President & COO of SEGA. He has a unique background, combining both management and content development experience from a global perspective. The major titles that he was directly involved in and that represent his career include Crash Bandicoot, Kingdom Hearts, and many others.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Steve-Arhancet -->
+    <div class="modal fade speaker-modal" id="Steve-Arhancet" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Steve-Arhancet.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Steve Arhancet</h2>
+              <p class="text-white m-0">CEO of Team Liquid</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Steven “LiQuiD112” Arhancet is a trailblazer in the esports industry, blending over a decade of business finance expertise with professional gaming to build Team Liquid, a global esports powerhouse. As Co-CEO, he oversees 300+ employees and 100 elite athletes across four international facilities. Under his leadership, Team Liquid has secured major victories, including The International Dota 2 Championship, five League of Legends Championship Series titles, and the Grand Slam in Counter-Strike. His influence spans Forbes, Business Insider, and Netflix, driving esports into a $1.5 billion industry.</p>
           </div>
         </div>
       </div>
@@ -1008,6 +1206,132 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Nicola Mizon</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">COO & Co-Founder, Kutur Runway, Vizta DGTL</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Faisal-Bin-Homran.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Faisal-Bin-Homran" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Faisal Mohammed Bin Homran</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Chief Product Officer at the Esports World Cup Foundation</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Gabriel-Toledo.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Gabriel-Toledo" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Gabriel "Fallen" oledo</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">CS2 Player FURIA Esports</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Joe-Pompliano.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Joe-Pompliano" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Joe Pompliano</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Managing Partner Pomp Investments</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/MJ-Acosta-Ruiz.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#MJ-Acosta-Ruiz" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">MJ Acosta-Ruiz</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Sportscaster-ESPN</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Nanea-Reeves.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Nanea-Reeves" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Nanea Reeves</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO & CO-Founder of TRIPP and Former COO of Electronic Arts</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Nick-Brown.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Nick-Brown" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Nick Brown</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Partner, Executive Producer, Good Boy Creative-</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/OJ-Borg.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#OJ-Borg" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">OJ Borg</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Broadcaster Executive Producer STNDRD Films</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Shuji-Utsumi.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Shuji-Utsumi" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Shuji Utsumi</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">President & COO, SEGA Corporation</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Steve-Arhancet.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Steve-Arhancet" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Steve Arhancet</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO of Team Liquid</p>
               </div>
             </div>
           </div>
