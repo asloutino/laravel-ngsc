@@ -3464,7 +3464,7 @@ label {
   13. Posts
 ----------------------------------------------------------------*/
 .cs_post.cs_style_1 .cs_post_thumb {
-  height: 255px;
+  height: 175px;
 }
 .cs_post.cs_style_1 .cs_post_thumb::before {
   content: "";
@@ -3486,7 +3486,7 @@ label {
 }
 @media screen and (min-width: 992px) and (max-width: 1199px) {
   .cs_post.cs_style_1 .cs_post_thumb {
-    height: 245px;
+    height: 165px;
   }
 }
 .cs_post.cs_style_1 .cs_post_meta {
