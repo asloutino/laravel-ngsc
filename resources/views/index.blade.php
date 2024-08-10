@@ -729,13 +729,13 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Faisal Mohammed Bin Homran</h2>
-              <p class="text-white m-0">Chief Product Officer at the Esports World Cup Foundation</p>
+              <p class="text-white m-0">Chief Product Officer, Esports World Cup Foundation</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p>Faisal bin Homran is responsible for leading and growing the Esports World Cup initiative, with special attention paid to its surrounding on-site festival experience. Prior to his appointment at the EWCF, bin Homran was the Chief Esports Officer at the Saudi Esports Federation (SEF), where he played a prominent role in the federation’s efforts to consolidate the Kingdom’s position as the leading regional esports and gaming hub. Bin Homran supported the National Gaming and Esports Strategy and the national gamers community by overseeing Saudi esports clubs’ development, overcoming industry challenges, creating new tournaments, identifying new opportunities in an expanding marketplace, and nurturing up-and-coming talent in line with SEF’s mission and vision. He oversaw the operations of Gamers Without Borders, the biggest esports charity event worldwide, and the Saudi eLeague, which he considers to be his most memorable career milestone to date.</p>
-            <p>A sporadic gamer with an enduring passion for the wider gaming world, bin Homran entered the professional gamers ranks in 2009 when pursuing a bachelor’s degree in information systems engineering from King Fahad University of Petroleum and Minerals. He put his esports career on hold to obtain a Master’s Degree in entrepreneurship, innovation, and business development from the University of Westminster, UK. Prior to joining SEF in 2021, bin Homran gained over 10 years of experience in business development, tournament organization, e-games halls and website development, e-club management, and e-game applications.</p>
+            <p>He is responsible for leading and growing the Esports World Cup initiative, with special attention paid to its surrounding onsite festival experience. Prior to his appointment at the EWCF, Bin Homran was the Chief Esports Officer at the Saudi Esports Federation (SEF), where he played a prominent role in the federation’s efforts to consolidate the Kingdom’s position as the leading regional esports and gaming hub. Bin Homran supported the National Gaming and Esports Strategy and the national gamers community by overseeing Saudi esports clubs’ development, overcoming industry challenges, creating new tournaments, identifying new opportunities in an expanding marketplace, and nurturing up-and-coming talent in line with SEF’s mission and vision. He oversaw the operations of Gamers Without Borders, the biggest esports charity event worldwide, and the Saudi eLeague, which he considers to be his most memorable career milestone to date.</p>
+            <p>A sporadic gamer with an enduring passion for the wider gaming world, Bin Homran entered the professional gamers ranks in 2009 when pursuing a Bachelor’s Degree in Information Systems Engineering from King Fahad University of Petroleum and Minerals. He put his esports career on hold to obtain a Master’s Degree in Entrepreneurship, Innovation, and Business Development from the University of Westminster, UK. Prior to joining SEF in 2021, Bin Homran gained over 10 years of experience in business development, tournament organization, e-games halls and website development, e-club management, and e-game applications.</p>
           </div>
         </div>
       </div>
@@ -772,7 +772,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Joe Pompliano</h2>
-              <p class="text-white m-0">Managing Partner Pomp Investments</p>
+              <p class="text-white m-0">Managing Partner, Pomp Investments</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -862,14 +862,14 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">OJ Borg</h2>
-              <p class="text-white m-0">Broadcaster Executive Producer STNDRD Films</p>
+              <p class="text-white m-0">Broadcaster / Executive Producer, STNDRD Films</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
             <p>OJ Borg has spent the last decade immersed in esports both in front, and behind the microphone working on the biggest esports events around the globe.</p>
-            <p>He also is a renowned broadcaster in the UK presenting entertainment shows on Radio & TV for the BBC as well as across a multitude of sports. From the UFC to the Tour de France.</p>
-            <p>As a director and executive producer within his own production company STNDRD FILMS, he has made high end conceptual films and documentaries that bridge the gap between esports & mainstream broadcasters.</p>
+            <p>He also is a renowned broadcaster in the UK presenting entertainment shows on Radio & TV for the BBC as well as across a multitude of sports from the UFC to the Tour de France.</p>
+            <p>As a director and executive producer within his own production company STNDRD FILMS, he has made high-end conceptual films and documentaries that bridge the gap between esports & mainstream broadcasters.</p>
           </div>
         </div>
       </div>
@@ -906,7 +906,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Steve Arhancet</h2>
-              <p class="text-white m-0">CEO of Team Liquid</p>
+              <p class="text-white m-0">Co-CEO, Team Liquid</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -1219,7 +1219,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Faisal Mohammed Bin Homran</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Chief Product Officer at the Esports World Cup Foundation</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">Chief Product Officer, Esports World Cup Foundation</p>
               </div>
             </div>
           </div>
@@ -1232,8 +1232,8 @@
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">Gabriel "Fallen" oledo</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">CS2 Player FURIA Esports</p>
+                <h2 class="text-white cs_fs_20 cs_mb_10">Gabriel "FalleN" Toledo</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">CS2 Player, FURIA Esports</p>
               </div>
             </div>
           </div>
@@ -1247,7 +1247,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Joe Pompliano</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Managing Partner Pomp Investments</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">Managing Partner, Pomp Investments</p>
               </div>
             </div>
           </div>
@@ -1303,7 +1303,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">OJ Borg</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Broadcaster Executive Producer STNDRD Films</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">Broadcaster / Executive Producer, STNDRD Films</p>
               </div>
             </div>
           </div>
