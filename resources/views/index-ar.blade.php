@@ -925,6 +925,425 @@
       </div>
     </div>
 
+    <!-- Modal Arnold-Hur -->
+    <div class="modal fade speaker-modal" id="Arnold-Hur" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Arnold-Hur.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">أرنولد هور</h2>
+              <p class="text-white m-0">الرئيس التنفيذي لشركة جن جي للرياضات الإلكترونية</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>أرنولد هور هو الرئيس التنفيذي لشركة جن جي للرياضات الإلكترونية، وهي منظمة عالمية للرياضات الإلكترونية. تمتلك شركة جن جي وتدير فرقًا رياضية إلكترونية رائدة على مستوى العالم، فضلًا عن برامج الألعاب المبتكرة، بما في ذلك أكاديمية جن جي العالمية ونتورك، وهي منصة لتمكين المرأة في مجال الألعاب. قبل الانضمام إلى شركة جن جي، كان أرنولد رئيسًا لشركة ميم بوكس، إحدى أنجح شركات الشركات الناشئة في كوريا، حيث ساعد في تنمية الشركة من السلسلة أ إلى السلسلة س، وجمع أكثر من 160 مليون دولار. قبل انضمامه إلى شركة ميم بوكس، عمل في مجال المنتجات والاستراتيجية في جوجل، والاستشارات الإدارية في مجموعة بوسطن الاستشارية، والخدمات المصرفية الاستثمارية مع جولدمان ساكس.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Bilal-Fares -->
+    <div class="modal fade speaker-modal" id="Bilal-Fares" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Bilal-Fares.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">بلال فارس</h2>
+              <p class="text-white m-0">نائب الرئيس الأول والمدير العام، أديداس إي إم سي ماركيت</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>بلال فارس قائد يتمتع بدافع ذاتي وخبرة تزيد عن 20 عامًا في مجال البيع والأعمال والإدارة التنظيمية، وهو ملتزم بتحقيق النتائج وتعزيز تنمية الأفراد. منذ عام 2018، يعمل في أديداس، حيث شغل مناصب مختلفة، وساهم بشكل كبير في نمو الشركة على المستويين الإقليمي والعالمي. يركز نهجه القيادي على مواءمة رؤية العميل والمنظمة، وضمان تحقيق كل هدف بتفانٍ. طوال حياته المهنية، برع بلال في تصميم وتنفيذ استراتيجيات شاملة من البداية إلى النهاية لتحقيق النجاح المستدام. تمتد خبرته الواسعة إلى قيادة فرق كبيرة عبر وظائف وجغرافيات مختلفة، مما يمنحه فهمًا عميقًا لإدارة المنتجات والتسويق وتطوير الأفراد وخدمة العملاء والتكنولوجيا وتقديم الخدمات.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Bruce-Stein -->
+    <div class="modal fade speaker-modal" id="Bruce-Stein" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Bruce-Stein.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">بروس شتاين</h2>
+              <p class="text-white m-0">المؤسس لشركة أكسيوماتيك جيمنغ</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>خلال حياته المهنية، شغل بروس شتاين مناصب "س" في كل من الشركات الناشئة والمنتجات الاستهلاكية العامة والشركات القائمة على التكنولوجيا وتسويق الملكية الفكرية. يعمل حاليًا كمستشار لشركة "جونو بارتنرز" والعملاء المعتمدين على التكنولوجيا الاستهلاكية مثل روبوتات الذكاء الاصطناعي المجسدة.</p>
+            <p>كان بروس مؤخرًا الرئيس التنفيذي/المؤسس المشارك لشركة أكسيوماتيك، وهي منصة استثمارية في الرياضات الإلكترونية/ألعاب الفيديو. لقد وضع استراتيجية أكسيوماتيك منذ بدايتها في عام 2015 من خلال استثمار "تيم ليكويد" من خلال جميع استثماراتهم في"أبيك غيمز" و"دابر لابز" و"نيانتيك غايمز"وغيرها.</p>
+            <p>تشمل خبرة شتاين السابقة: المدير التنفيذي للعمليات/الرئيس العالمي/"ماتيل"، الرئيس التنفيذي لسوني انتراكتيف انترتينمنت (بلاي ستيشن)، الرئيس/الرئيس التنفيذي لشركة منتجات كينر (هاسبرو)، الرئيس التنفيذي لشركة ماندالاي ميديا ، الرئيس التنفيذي/رئيس مجلس الإدارة راديكال كوميونيكاشون والمؤسس/الرئيس التنفيذي لشركة ذا هاتشيري.</p>
+            <p>كان ستاين مستشارًا استراتيجيًا لشركات بي / في سي وشركات الإعلام والإنترنت بما في ذلك دريم ووركس إس كيه جي و وارنر بروس.وكي بي سي بي و غوغنهايم كابيتال.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Craig-Levine -->
+    <div class="modal fade speaker-modal" id="Craig-Levine" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Craig-Levine.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">كريج ليفين</h2>
+              <p class="text-white m-0">الرئيس التنفيذي المشارك لمجموعة إي أس أل فايس إت</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>مجموعة إي أس أل فايس إت هي الشركة الرائدة في مجال الألعاب التنافسية والرياضات الإلكترونية. ساعد كريج في تصميم عملية اندماج" إي أس أل غيمينغ" و"فايس إت" في عام 2022 وعمل سابقًا كرئيس تنفيذي مشارك لشركة إي أس أل غيمينغ حيث قاد استراتيجية الأعمال العالمية والعمليات.</p>
+            <p>بصفته لاعبًا طوال حياته، ساعد كريج في ريادة صناعة الرياضات الإلكترونية لأكثر من 20 عامًا كلاعب في البداية، ثم مالك فريق، وأصبح مديرًا تنفيذيًا ديناميكيًا للرياضات الإلكترونية.</p>
+            <p>ليفين حاصل على بكالوريوس العلوم في نظم المعلومات والإدارة والسلوك التنظيمي من كلية ستيرن للأعمال بجامعة نيويورك.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Dan-Bunting -->
+    <div class="modal fade speaker-modal" id="Dan-Bunting" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Dan-Bunting.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">دان بونتنج</h2>
+              <p class="text-white m-0">رئيس مشارك سابق في استوديوهات تريارك ومدير ألعاب كول أوف ديوتي</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>بخبرة تزيد عن 20 عامًا في بناء الفرق وقيادة تطوير الألعاب، يعد دان بونتنج قائدًا إبداعيًا وتشغيليًا متمرسًا في صناعة الألعاب. بدأ بونتنج في استوديو التطوير تريارك في عام 2003، واكتسب سمعة طيبة باعتباره قادرًا على حل المشكلات وتحفيز الفريق والمبتكر الذي حدد مسار حياته المهنية على مدار السنوات. أدى عمله في سلسلة كول أوف ديوتي، بلاك أوبس إلى أن تصبح واحدة من أنجح العناوين في تاريخ ألعاب الفيديو، بما في ذلك العديد من العناوين ضمن أفضل 50 لعبة مبيعًا على الإطلاق. في مجال الرياضات الإلكترونية المزدهر في أوائل العقد الأول من القرن الحادي والعشرين، مهدت سلسلة بلاك أوبس الطريق لامتياز كول أوف ديوتي، مما ساعد في النهاية في بناء الرياضات الإلكترونية التنافسية لتصبح ظاهرة عالمية. يعمل بونتنج حاليًا كمستثمر ناشئ ومستشار في نظام الألعاب المستقل، ويوجه الجيل القادم من المبدعين الذين يشكلون مستقبل الألعاب.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Eric-Shanks -->
+    <div class="modal fade speaker-modal" id="Eric-Shanks" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Eric-Shanks.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">إريك شانكس</h2>
+              <p class="text-white m-0">الرئيس التنفيذي والمنتج التنفيذي، فوكس سبورتس</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>إريك شانكس هو الرئيس التنفيذي والمنتج التنفيذي لشركة فوكس سبورتس. يشرف شانكس على جميع الكيانات داخل فوكس سبورتس، أف أس وان، أف أس تو؛ فوكس سوكر بلس ؛ فوكس سبورتس؛ فوكس كوليدج سبورتس وفوكس سبورتس ديجيتال.</p>
+            <p>لقد شق شانكس طريقه من مساعد بث إلى الرئيس التنفيذي والمنتج التنفيذي. تم تعيينه في هذا المنصب في يونيو 2010، ويُعتقد أنه أصغر مسؤول تنفيذي على الإطلاق يقود قسمًا رياضيًا في شبكة بث.</p>
+            <p>تم اختيار شانكس كأفضل مسؤول تنفيذي رياضي لعام 2023 من قبل مجلة الأعمال الرياضية، وهو فائز بأكثر من 20 جائزة إيمي الرياضية وحامل 11 براءة اختراع أمريكية.</p>
+            <p>شغل شانكس منصب نائب الرئيس التنفيذي لشركة دايركت تي في من 2004 إلى 2010، حيث اخترع قناة اتحاد كرة القدم الأميركي ريد زون.</p>
+            <p>في عام 2001، أنشأ شانكس شبكات سكاي ايطاليا الرياضية لشركة نيوز كورب. أسس قناة سكاي سبورتس 1و2 وأشرف على الاستحواذ على حقوق الدوري الإيطالي وكان المنتج التنفيذي هناك خلال موسم إطلاقه الافتتاحي. كما خدم شانكس في طواقم الإنتاج لتغطية قناة فوكس سبورتس لدوري الهوكي الوطني ودوري البيسبول الرئيسي. ساعد شانكس في تطوير خط الهجوم الأصفر و"قرص الهوكي المتوهج" من فوكس تراكس.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Fabian-Scheuermann -->
+    <div class="modal fade speaker-modal" id="Fabian-Scheuermann" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Fabian-Scheuermann.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">فابيان شويرمان</h2>
+              <p class="text-white m-0">المسؤول الرئيسي عن الألعاب، مؤسسة كأس العالم للرياضات الإلكترونية</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>يشغل فابيان شويرمان منصب المسؤول الرئيسي عن الألعاب في مؤسسة كأس العالم للرياضات الإلكترونية، حيث يشرف على إدارة جميع عناوين الألعاب والعلاقات مع الناشرين المعنيين في المسابقة. ويشمل ذلك أكبر الناشرين والأسماء في مجال الرياضات الإلكترونية. قبل هذا الدور، ساهم في استمرار نجاح مجموعة إي أس أل فيس إت، حيث قاد شراكات الناشرين العالمية وأدار محفظة الألعاب الأساسية لمدة ست سنوات ونصف. مع أكثر من عقد من الخبرة في صناعة الألعاب والمحتوى، عمل فابيان باستمرار على تمكين الناشرين والشركاء في جميع أنحاء العالم. قبل الشروع في حياته المهنية في الألعاب والرياضات الإلكترونية، درس فابيان في هولندا وأستراليا وألمانيا، وحصل على ماجستير إدارة الأعمال قبل أن يقضي أربع سنوات في الاستشارات وعمليات الدمج والاستحواذ لبدء حياته المهنية. في وقت فراغه، يتنافس في رياضات مختلفة، على دراجته بيلوتون، أو في المنزل في ساحات المعارك الافتراضية لألعاب أف بي أس وموبا المحمولة.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Ghada-Alhudaithi -->
+    <div class="modal fade speaker-modal" id="Ghada-Alhudaithi" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Ghada-Alhudaithi.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">غادة الحديثي</h2>
+              <p class="text-white m-0">المؤسس المشارك لشركة تايبل نايت غيمز</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>غادة الحديثي شخصية متحمسة ولديها شغف صناعة الألعاب. تطور هذا الشغف بالألعاب بمرور الوقت، مما شكل اهتماماتها وأثار طموحاتها في مجال ريادة الأعمال. أدركت غادة قدرة ألعاب الفيديو على جذب انتباه الجمهور وترفيه، وأصبحت متحمسة لتحويل هذه الهواية المستمرة طوال حياتها إلى مهنة احترافية. حاصلة على درجة الماجستير في إدارة الأعمال المتخصصة في المالية من جامعة الأمير سلطان، ولديها خبرة واسعة في ريادة الأعمال وتطوير الأعمال والإدارة الاستراتيجية. بصفتها المؤسس المشارك لشركة تايبل نايت غايمز، ساهمت في توسيع الشركة، حيث وصلت تطبيقات ألعاب الهاتف المحمول إلى أعلى المخططات المحلية والإقليمية على آب ستور وغوغل بلاي. وتخصصت في تطوير الألعاب الاجتماعية لمنصات الهاتف المحمول، وقد أظهرت روح المبادرة وكفاءتها التقنية. بدافع من الابتكار والتأثير، فهي حريصة على مواجهة التحديات الجديدة وتقديم مساهمة ذات معنى في النظام البيئي للألعاب في المملكة العربية السعودية.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Heba-Atyah -->
+    <div class="modal fade speaker-modal" id="Heba-Atyah" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Heba-Atyah.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">د. هبة محمد عطية</h2>
+              <p class="text-white m-0">الرئيس التنفيذي  والمؤسس لشركة غايم إت</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>انتقلت الدكتورة هبة محمد عطية، الرئيس التنفيذي ومؤسس شركة غايم إت، من مهنة طبية متميزة في أمراض النطق وإعاقات النمو لتصبح رائدة أعمال في عالم الألعاب الجادة. مع أكثر من 10 سنوات من الخبرة السريرية في مستشفى الملك فيصل التخصصي ومركز الأبحاث في العمل مع الأطفال، نجحت أيضًا في قيادة مبادرات رئيسية في جميع أنحاء الولايات المتحدة الأمريكية والإمارات العربية المتحدة والمملكة العربية السعودية، لتعزيز الشراكات بين القطاعين العام والخاص ومشاريع تمكين المجتمع. تواصل الدكتورة عطية قيادة التغيير التحويلي باستخدام العلوم السريرية مع الألعاب المبتكرة وتكنولوجيا الذكاء الاصطناعي، مما يحدث ثورة في كيفية تعلم الأطفال ونجاحهم في العصر الرقمي. حصل عملها على العديد من الجوائز والتقدير، بما في ذلك جائزة "ليب أفياتريكس" للشركة الناشئة الأكثر ابتكارًا التي تقودها النساء في عام 2022، وجائزة أفضل مؤسسة أنثى من وزارة الاتصالات وتكنولوجيا المعلومات في المملكة العربية السعودية في عام 2023، ومؤخرًا في عام 2024 الفوز بجوائز "مايكروسوفت باور وومن" في الشرق الأوسط.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Jonny-Ebbert -->
+    <div class="modal fade speaker-modal" id="Jonny-Ebbert" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Jonny-Ebbert.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">جوني إيبرت</h2>
+              <p class="text-white m-0">المدير الإبداعي الرئيسي، بنجي</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>شغل جوني إيبرت منصب المدير الإبداعي الرئيسي في بنجي لمدة سبع سنوات. وأثناء وجوده هناك، أدار استراتيجية محفظة بنجي وجميع الأقسام الإبداعية، وساعد في ضمان جودة المنتج في جميع الامتيازات. وقبل ذلك، عمل جوني في شركة بليزارد إنترتينمنت لمدة سبع سنوات و كمصمم رئيسي في امتيازي ديابلو وستاركرافت. كما عمل جوني في شركة ريليك إنترتينمنت وكان مدير عناوين لعبة فجر الحرب لمدة خمس سنوات.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Khaled-Makhshoush -->
+    <div class="modal fade speaker-modal" id="Khaled-Makhshoush" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Khaled-Makhshoush.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">خالد مخشوش</h2>
+              <p class="text-white m-0">فنان رقمي</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>خالد هو فنان رقمي متخصص في فن البيكسل. يستخدم لوحة رسم وقلمًا وفأرة لإنشاء لوحات رقمية جوية تستكشف العلاقة بين العواطف والفضاء. يركز على شعور المكان ويرسم أماكن خيالية مبنية على أماكن حقيقية، و يمزج الواقع بالخيال في فنه ويدعو المشاهدين لتجربة رؤيته. إنه مستوحى من العالم الحديث والمعاصر ومناظره الطبيعية المتنوعة. إنه يتحدى نفسه للتعبير عن أفكاره ومشاعره باستخدام وسيلة محدودة ومدمجة من فن البيكسل، باستخدام الألوان والأشكال والأنماط لإنشاء مشاهد مفصلة تجسد جوهر خياله.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Michal-Blicharz -->
+    <div class="modal fade speaker-modal" id="Michal-Blicharz" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Michal-Blicharz.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">ميشال بليشارز</h2>
+              <p class="text-white m-0">نائب رئيس تطوير المنتجات، مجموعة إي أس أل فايس إت</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>ميشال "كارماك" بليشارز هو من قدامى خبراء الرياضات الإلكترونية الحائزين على جوائز لأكثر من 20 عامًا. انتقل من الجودو التنافسي إلى الرياضات الإلكترونية، وكان لاعبًا تنافسيًا وصحفيًا ثم منظمًا للبطولات. وهو أيضا مسؤول عن بناء البنية التحتية لبطولات محترفي الرياضات الإلكترونية في جميع أنحاء العالم. يشغل حاليًا منصب نائب الرئيس للمشاريع الخاصة في مجموعة إي أس أل فايس إت.</p>
+            <p>كان "صحفي العام للرياضات الإلكترونية" في عامي 2009 و2010، وتم إدخاله إلى قاعة مشاهير أخبار الرياضة الإلكترونية في عام 2019 وحصل على جائزة الإنجاز مدى الحياة من جوائز الرياضات الإلكترونية في عام 2021. يُنسب إليه الفضل في تحويل سلسلة بطولات إنتل إكستريم ماسترز إلى واحدة من أكثر الممتلكات قيمة وشهرة في العالم، حيث نقل بطولاتها من المعارض التجارية إلى الساحات في أوروبا وأمريكا الشمالية والجنوبية وأستراليا وآسيا وحقق إنجازات بارزة.</p>
+            <p>وهو مؤسس أقدم حدث ميداني متكرر في العالم، إنتل إكستريم ماسترز كاتوفيتشي، والذي بدأه في عام 2013.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Peter-Hutton -->
+    <div class="modal fade speaker-modal" id="Peter-Hutton" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Peter-Hutton.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">بيتر هاتون</h2>
+              <p class="text-white m-0">عضو مجلس إدارة، الدوري السعودي للمحترفين</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>​​بيتر هاتون هو مدير الدوري السعودي للمحترفين ورئيس اللجنة الإعلامية للدوري. وقد ترأس مؤخرًا اللجنة المنظمة لكأس العالم للكريكت ت20، كما أنه عضو في مجلس إدارة منظمة الترايثلون الاحترافية ودوري الركبي. كما يقدم المشورة لسلسلة من شركات التكنولوجيا، مستفيدًا من خبرته السابقة كرئيس للشراكات الرياضية العالمية في ميتا.</p>
+            <p>كان هاتون في الأصل معلقًا ومقدمًا رياضيًا، ثم ارتقى ليصبح الرئيس التنفيذي لأكبر القنوات الرياضية التلفزيونية في أوروبا وآسيا وشبه القارة الهندية (يوروسبورت، وإي إس بي إن ستار سبورتس، وتين سبورتس). كما أدار أعمال وكالات رياضية بما في ذلك فترة كرئيس تنفيذي مشارك لشركة إم بي آند سيلفا، وأكثر من عقد من الزمان في شركة آي إم جي.</p>
+            <p>بيتر يقيم حاليًا في وادي السيليكون، كاليفورنيا بعد أن عمل سابقًا في باريس ولندن وموسكو ودبي وسنغافورة وهونج كونج ودلهي.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Reem-Alkanhal -->
+    <div class="modal fade speaker-modal" id="Reem-Alkanhal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Reem-Alkanhal.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">ريم الكنهل</h2>
+              <p class="text-white m-0">مديرة إبداعية ومصممة أزياء</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>أدركت ريم الكنهل منذ سن مبكر أن حياتها سترتبط إلى الأبد بالموضة، وقد ساهمت غرائزها في النسيج والشكل وإحساسها العميق بكيفية ربط ثقافتها والعالم الحديث في دفع العديد من مجموعاتها التي لا يتم تحديدها أبدًا حسب الموسم أو الاتجاه، بل حسب المزاج والأهمية.</p>
+            <p>ولدت ونشأت في المملكة العربية السعودية، وبدأت تجربة الموضة عندما كانت طالبة. شكلت القمصان والتنانير البسيطة والأنيقة التي يمكن للنساء ارتدائها بعدة طرق جزءًا من فلسفتها التصميمية التي تجمع بين الخطوط النظيفة والمنحنيات والهياكل النظيفة وإمكانيات حرية التفرد.</p>
+            <p>التحقت ريم بدورة في "معهد الفنون والمهارات" بالرياض، حيث تطورت معرفتها بصناعة الملابس. في عام 2010، بعد عام واحد من تخرجها، أسست ريم علامتها التجارية التي تحمل اسمها – ريم الكنهل، وهي مجموعة من الملابس الجاهزة والإكسسوارات، ذات طابع فريد من حيث الشكل واللون والجمالية.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Ricardo-Fort -->
+    <div class="modal fade speaker-modal" id="Ricardo-Fort" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Ricardo-Fort.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">ريكاردو فورت</h2>
+              <p class="text-white m-0">مؤسس شركة سبورت باي فورت كونسلتينج</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>ريكاردو فورت هو أحد أكثر الأسماء احترامًا في مجال الرعاية العالمية. بصفته المدير التنفيذي الوحيد الذي قاد أقسام الرعاية العالمية لرعايتي الاتحاد الدولي لكرة القدم واللجنة الأولمبية الدولية - فيزا وكوكا كولا - فقد نجح في التفاوض على مليارات الدولارات في عقود الرعاية مع اللجنة الأولمبية الدولية والاتحاد الدولي لكرة القدم والاتحاد الأوروبي لكرة القدم والرياضيين ودوري كرة القدم الأمريكية وفرق الفورمولا 1 والعديد من الرياضات العالمية الأخرى والترفيه. في عام 2021، أطلق شركة سبورت باي فورت كونسلتينج، وهي شركة تساعد الرعاة والدوريات والمستثمرين والرياضيين على الاستثمار بنجاح في الرياضة. ومن بين عملائه الحاليين والسابقين شركات عالمية رائدة مثل إتش بي وماكدونالدز وسيلز فورس وأيه بي إن بيف وغيرها الكثير. ريكاردو هو أيضًا مستشار للعديد من الشركات الناشئة في مجال التكنولوجيا الرياضية، والاتحادات، والرياضيين، والأندية. ولد ريكاردو ونشأ في البرازيل، ويحمل الجنسية الثلاثية (الولايات المتحدة الأمريكية وإيطاليا والبرازيل)، وعاش وعمل في الولايات المتحدة الأمريكية، والهند، وفرنسا، والبرازيل. وهو يقيم حاليا في البرتغال.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Sam-Mathews -->
+    <div class="modal fade speaker-modal" id="Sam-Mathews" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Sam-Mathews.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">سام ماثيوز</h2>
+              <p class="text-white m-0">الرئيس التنفيذي، فناتيك</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>سام ماثيوز هو المؤسس صاحب الرؤية والرئيس التنفيذي لشركة فناتيك، منظمة فرق الرياضات الإلكترونية الرائدة في العالم. بفضل شغفه بالألعاب التنافسية، أنشأ ماثيوز شركة فناتيك في عام 2004، وحولها إلى مركز قوي في صناعة الرياضات الإلكترونية، وقيادة ثقافة الشباب. تحت قيادته، تعتبر فتاتيك على نطاق واسع منظمة الرياضات الإلكترونية الأكثر نجاحًا في العالم مع العديد من البطولات عبر مختلف الألعاب، بما في ذلك ليج أوف ليجيندز، فالورانت، وكاونتر سترايك وغيرها الكثير. كان النهج المبتكر الذي اتبعه ماثيوز هو الدافع وراء نجاح الفريق، ولكنه ساعد أيضًا في تشكيل مشهد الرياضات الإلكترونية العالمي. اشتهر بتفكيره الاستراتيجي وتفانيه، وقد قام بتوسيع تأثير فناتيك من خلال شراكات مع أمثال غوتشي، ومجموعة منتجات مزدهرة تدعمها سوني، ومرافق تدريب حديثة على مستوى العالم. عدا عن الرياضات الإلكترونية، يعد ماثيوز مدافعًا بارزًا عن مجتمع الألعاب، حيث يسعى جاهداً لرفع مستوى الرياضات الإلكترونية إلى مستوى الاعتراف السائد.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Stefy-Bau -->
+    <div class="modal fade speaker-modal" id="Stefy-Bau" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Stefy-Bau.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">ستيفي باو</h2>
+              <p class="text-white m-0">مؤسس والرئيس التنفيذي، إن إت للرياضات الإلكترونية</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>ستيفي باو هي رائدة أعمال مسلسلة، ومتحدثة شغوفة، وبطلة العالم في موتوكروس لثلاث مرات، والمؤسس والرئيس التنفيذي لشركة إن إت للرياضات الالكترونية و إن إت للرياضة. مع أكثر من 30 عامًا في رياضة السيارات والتنقل الإلكتروني والرياضات الإلكترونية، كانت رائدة في المبادرات العالمية التي تعمل على تعزيز تمكين المرأة في الرياضة والألعاب. تعمل إن إت للرياضات الإلكترونية على سد فجوة رياضة السيارات من خلال سباقات المحاكاة، مما توفر وصولاً عالميًا إلى تجارب رياضة السيارات. تعمل فعاليات مثل" تسابق معي" و " من الشاشة إلى السرعة" على تعزيز التنوع وتوفير مسارات لمشاركة النساء في السباقات الواقعية. يعمل برنامج "سيم 4 ستم" على إشراك الطالبات في أنشطة العلوم والتكنولوجيا والهندسة والرياضيات المتعلقة برياضة السيارات. تنشئ إن إت للرياضات الالكترونية أيضًا مسارا عبر الرياضات الإلكترونية لعالم الدراجات النارية، وهو شغف ستيفي الأول.</p>
+            <p>كانت ستيفي أول امرأة تتسابق بشكل احترافي مع الرجال في تاريخ موتوكروس. بعد تعرضها لإصابة أنهت مسيرتها المهنية، تمكنت من إدارة بطولة العالم للموتوكروس للسيدات وشاركت في رياضة السيارات طوال حياتها. تم إدراجها في "أساطير موتوكروس في الحجر" في عام 2023، وهي تعمل في مجالس إدارة مثل "ويست" و"جيف"، للدفاع عن النساء والأقليات. رسالتها الأساسية هي: "كن نفسك وقم بالقفزة!"</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Tim-Morten -->
+    <div class="modal fade speaker-modal" id="Tim-Morten" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Tim-Morten.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">تيم مورتون</h2>
+              <p class="text-white m-0">المؤسس المشارك والرئيس التنفيذي، فروست جاينت ستوديوز</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>تيم مورتون هو الرئيس التنفيذي والمؤسس المشارك لشركة فروست جاينت ستوديوز. لقد كان سابقًا مدير إنتاج ستار كرافت تو، وهو متحمس للعمل الآن على لعبة إستراتيجية جديدة في الوقت الفعلي تسمى ستورم غايت. بدأ تيم عمله في صناعة الألعاب عام 1994 في أكتيفيجن، ثم ساعد بعد ذلك في قيادة فرق التطوير في الكترونيك ارتس اند بليزارد.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Yannick-Theler -->
+    <div class="modal fade speaker-modal" id="Yannick-Theler" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Yannick-Theler.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">يانيك ثيلر</h2>
+              <p class="text-white m-0">الرئيس التنفيذي، استوديوهات ستير</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>يجلب يانيك ثيلر خبرة 20 عامًا في يوبيسوفت إلى مجموعة سافي، حيث يشغل منصب الرئيس التنفيذي لأستوديوهات ستير - وهي شركة تطوير ألعاب مقرها الرياض تهدف إلى خلق تجارب رائدة للاعبين في المملكة العربية السعودية والعالم.</p>
+            <p>بدأ يانيك مسيرته المهنية في صناعة ألعاب الفيديو في المكتب التجاري السويسري لشركة يوبيسوفت، حيث عمل كمدير للتسويق والمبيعات لأكثر من 4 سنوات. ثم تم تعيينه نائبًا لرئيس تطوير الأعمال لأنشطة أعمال يوبيسوفت في آسيا، ومقره في شنغهاي، الصين.</p>
+            <p>بعد ذلك، تم تعيين يانيك مديرًا تنفيذيًا في يوبيسوفت شنغهاي حيث أشرف على تطوير العديد من ألعاب AAA قبل أن يتولى تحدي تأسيس استوديو يوبيسوفت أبو ظبي قبل اثني عشر عامًا.</p>
+            <p>في السابق، عمل يانيك في إدارة الثروات في يو بي إس، وكان لاعب هوكي الجليد المحترف الذي تنافس في الدوري الوطني السويسري للهوكي لمدة سبعة مواسم.</p>
+            <p>يانيك ثيلر متزوج ولديه ابن يبلغ من العمر 10 سنوات.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Start Speakers Section  -->
     <section class="cs_pb_20 cs_pb_lg_55" id="speakers">
       <div class="container">
@@ -1340,6 +1759,272 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">ستيفن ارهانسيت</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي لشركة تيم ليكويد</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Arnold-Hur.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Arnold-Hur" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">أرنولد هور</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي لشركة جن جي للرياضات الإلكترونية</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Bilal-Fares.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Bilal-Fares" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">بلال فارس</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">نائب الرئيس الأول والمدير العام، أديداس إي إم سي ماركيت</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Bruce-Stein.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Bruce-Stein" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">بروس شتاين</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">المؤسس لشركة أكسيوماتيك جيمنغ</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Craig-Levine.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Craig-Levine" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">كريج ليفين</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي المشارك لمجموعة إي أس أل فايس إت</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Dan-Bunting.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Dan-Bunting" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">دان بونتنج</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">رئيس مشارك سابق في استوديوهات تريارك ومدير ألعاب كول أوف ديوتي</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Eric-Shanks.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Eric-Shanks" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">إريك شانكس</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي والمنتج التنفيذي، فوكس سبورتس</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Fabian-Scheuermann.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Fabian-Scheuermann" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">فابيان شويرمان</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">المسؤول الرئيسي عن الألعاب، مؤسسة كأس العالم للرياضات الإلكترونية</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Ghada-Alhudaithi.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Ghada-Alhudaithi" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">غادة الحديثي</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">المؤسس المشارك لشركة تايبل نايت غيمز</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Heba-Atyah.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Heba-Atyah" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">د. هبة محمد عطية</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي  والمؤسس لشركة غايم إت</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Jonny-Ebbert.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Jonny-Ebbert" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">جوني إيبرت</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">المدير الإبداعي الرئيسي، بنجي</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Khaled-Makhshoush.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Khaled-Makhshoush" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">خالد مخشوش</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">فنان رقمي</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Michal-Blicharz.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Michal-Blicharz" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">ميشال بليشارز</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">نائب رئيس تطوير المنتجات، مجموعة إي أس أل فايس إت</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Peter-Hutton.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Peter-Hutton" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">بيتر هاتون</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">عضو مجلس إدارة، الدوري السعودي للمحترفين</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Reem-Alkanhal.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Reem-Alkanhal" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">ريم الكنهل</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">مديرة إبداعية ومصممة أزياء</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Ricardo-Fort.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Ricardo-Fort" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">ريكاردو فورت</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">مؤسس شركة سبورت باي فورت كونسلتينج</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Sam-Mathews.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Sam-Mathews" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">سام ماثيوز</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي، فناتيك</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Stefy-Bau.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Stefy-Bau" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">ستيفي باو</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">مؤسس والرئيس التنفيذي، إن إت للرياضات الإلكترونية</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Tim-Morten.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Tim-Morten" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">تيم مورتون</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">المؤسس المشارك والرئيس التنفيذي، فروست جاينت ستوديوز</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Yannick-Theler.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Yannick-Theler" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">يانيك ثيلر</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي، استوديوهات ستير</p>
               </div>
             </div>
           </div>
