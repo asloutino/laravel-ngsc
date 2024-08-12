@@ -338,12 +338,14 @@
             </div>
             <div class="col-lg-8">
             <h2 class="modal-title fs-5" id="staticBackdropLabel">Greg Norman</h2>
-              <p class="text-white m-0">CEO, Liv Golf</p>
+              <p class="text-white m-0">Commissioner & CEO, LIV Golf</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p></p>
+            <p>Arguably the most successful athlete-turned-businessman in the world, Greg Norman is known as much for his entrepreneurial spirit in the boardroom as his dominance on the golf course. The internationally renowned “Great White Shark” won more than 90 tournaments worldwide, including two Open Championships, and holds the distinction of defending his No. 1 position in the world golf rankings for 331 weeks. As one of the most prolific players in the game’s history, his astounding career culminated in 2001 when he was inducted into the World Golf Hall of Fame with a higher percentage of votes than any other inductee in history.</p>
+            <p>Greg Norman now transcends the game of golf, with over a dozen companies around the world bearing his name and the iconic shark logo as part of the Greg Norman Company, which he leads as Chairman & CEO. His internationally recognized brand boasts more than 115 golf course designs across six continents, a global real estate collection, award-winning wine, golf-inspired lifestyle apparel and a diverse investment division. Across all facets of business, the Greg Norman brand consistently delivers the quality that his name is synonymous with and continues to inspire people to attack life.</p>
+            <p>In 2021, Greg Norman became the first and founding CEO of LIV Golf Investments, a newly formed company whose purpose is to holistically improve the health of professional golf on a global scale to help unlock the sports’ untapped potential. PIF, one of the world’s largest sovereign wealth funds with a diverse international investment portfolio, is the majority shareholder in LIV Golf Investments.</p>
           </div>
         </div>
       </div>
@@ -625,7 +627,8 @@
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p></p>
+            <p>Jens Hilgers is a serial entrepreneur based in Berlin (Germany) widely known for his work and contributions in the Esports and Gaming industry. Jens was the Founding CEO of ESL, is a Co-Founder and Chairman of world-renowned Esports team G2 Esports as well as Co-Founder and former CEO of esports data company BAYES Esports.</p>
+            <p>In 2016 Jens founded BITKRAFT Ventures, which he grew to become a globally leading Investment Platform focused on Gaming and Interactive Entertainment with currently more than 900M US$ in assets under management.</p>
           </div>
         </div>
       </div>
@@ -917,6 +920,426 @@
       </div>
     </div>
 
+    <!-- Modal Arnold-Hur -->
+    <div class="modal fade speaker-modal" id="Arnold-Hur" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Arnold-Hur.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Arnold Hur</h2>
+              <p class="text-white m-0">CEO, Gen.G Esports</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Arnold Hur is CEO of Gen.G, a global esports organization. Based in Los Angeles, Seoul, and Shanghai, Gen.G owns and operates top esports teams globally and well as innovative gaming programs, including the Gen.G Global Academy and the NetWORK, a platform for the empowerment of women in gaming. Before joining Gen.G, Arnold was President of Memebox, one of Korea’s most successful startup companies, where he helped grow the company from Series A to Series C, raising over $160M. Prior to Memebox, he worked on product and strategy at Google, management consulting at Boston Consulting Group, and investment banking with Goldman Sachs.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Bilal-Fares -->
+    <div class="modal fade speaker-modal" id="Bilal-Fares" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Bilal-Fares.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Bilal Fares</h2>
+              <p class="text-white m-0">SVP & General Manager, Adidas EMC Market</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Bilal Fares is a self-motivated leader with over 20 years of experience in retail, business, and organisational management, committed to delivering results and fostering people development. Since 2018, he has been working at Adidas, holding various roles, and contributing significantly to the company's growth at a regional and global level. His leadership approach centres on aligning the customer and the organisation's vision, ensuring every objective is met with dedication. Throughout his career, Bilal has excelled in designing and implementing comprehensive end-to-end strategies that achieve sustainable success. His extensive experience spans leading large teams across various functions and geographies, providing him with a deep understanding of product management, marketing, people development, customer service, technology, and service delivery.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Bruce-Stein -->
+    <div class="modal fade speaker-modal" id="Bruce-Stein" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Bruce-Stein.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Bruce Stein</h2>
+              <p class="text-white m-0">Founder, aXiomatic Gaming</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>During his career, Bruce Stein has held ‘C’ suite positions in both startup and public consumer products, tech based, and IP commercialization companies. He currently serves as an advisor to Juno Partners and consumer-tech based clients such as Embodied AI Robotics.</p>
+            <p>Most recently, Bruce was CEO/Co-Founder of aXiomatic, an esports/video gaming investment platform. He set the strategy for aXiomatic from its beginning in 2015 with the Team Liquid investment through all their investments into Epic Games, Dapper Labs, Niantic Games, and others.</p>
+            <p>Stein’s earlier experience includes: COO/Worldwide President/BOD Mattel, CEO Sony Interactive Entertainment (PlayStation), President/CEO Kenner Products (Hasbro), CEO Mandalay Media, CEO/Chairman Radical Communication and Founder/CEO of The Hatchery. Stein has been a strategic advisor to PE/VC, media and internet companies including Dreamworks SKG, Warner Bros., KPCB and Guggenheim Capital.</p>
+            <p>Stein was a Board Member of ViewSonic, a YPO alum, member of the Mayor’s Esports/Gaming Council for Los Angeles, and the Steering Committee of China Americas Sports and Health Association. Stein received a B.A. from Pitzer College and an M.B.A. from the University of Chicago Booth Graduate School of Business.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Craig-Levine -->
+    <div class="modal fade speaker-modal" id="Craig-Levine" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Craig-Levine.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Craig Levine</h2>
+              <p class="text-white m-0">Co-CEO, ESL Faceit Group</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>ESL FACEIT Group (EFG) is the leading competitive games and esports company. Craig helped architect the merger of ESL Gaming and FACEIT in 2022 and prior served as the co-CEO of ESL Gaming where he led global business strategy and operations.</p>
+            <p>As a lifelong gamer, Craig has helped pioneer the esports industry for over 20 years – first as a player, then team owner, and has become a dynamic esports executive.</p>
+            <p>Levine holds a B.S. in Information Systems and Management and Organizational Behavior from the Stern Business School at New York University.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Dan-Bunting -->
+    <div class="modal fade speaker-modal" id="Dan-Bunting" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Dan-Bunting.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Dan Bunting</h2>
+              <p class="text-white m-0">Former Co-Head, Treyarch Studios & Game Director, Call of Duty</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>With over 20 years of experience building teams and leading game development, Dan Bunting is a seasoned creative and operational leader in the games industry. Starting at development studio Treyarch in 2003, Bunting established a reputation as a problem-solver, team motivator and innovator that defined his career path throughout the years. His work on the Call of Duty: Black Ops series led to it becoming one of the most successful franchises in video game history, including several titles in the top 50 games sold of all time. In the burgeoning field of ESports in the early 2010s, the Black Ops series paved the way for the Call of Duty franchise, eventually helping build competitive ESports into a global phenomenon. Bunting currently works as a start-up investor and advisor in the independent games ecosystem, guiding the next generation of creators shaping the future of gaming.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Eric-Shanks -->
+    <div class="modal fade speaker-modal" id="Eric-Shanks" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Eric-Shanks.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Eric Shanks</h2>
+              <p class="text-white m-0">CEO and Executive Producer, Fox Sports</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Eric Shanks is Chief Executive Officer and Executive Producer of FOX Sports. Shanks oversees all entities within FOX Sports, FS1, FS2; FOX Soccer Plus; FOX Deportes; FOX College Sports and FOX Sports Digital.</p>
+            <p>An accomplished inventor, producer and executive, Shanks has worked his way up from a Broadcast Associate to CEO and Executive Producer. Named to the position in June 2010, he is believed to be the youngest executive to ever lead a broadcast network sports division.</p>
+            <p>Named Sports Business Journal’s 2023 Sports Executive of the Year, Shanks is a winner of more than 20 Sports Emmy Awards and holder of 11 U.S. patents.</p>
+            <p>Shanks served as Executive Vice President for DIRECTV from 2004 to 2010, where he invented the NFL RedZone Channel.</p>
+            <p>In 2001, Shanks created Sky Italia’s sports networks for NewsCorp. He created Sky Sports 1 and 2 and oversaw the acquisition of Serie A rights and was the executive producer there during its inaugural launch season.</p>
+            <p>Shanks also served on production crews for FOX Sports’ coverage of the NHL and MLB. Shanks helped develop the yellow first-down line and the FOXTrax “glowing puck.”</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Fabian-Scheuermann -->
+    <div class="modal fade speaker-modal" id="Fabian-Scheuermann" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Fabian-Scheuermann.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Fabian Scheuermann</h2>
+              <p class="text-white m-0">Chief Games Officer, Esports World Cup Foundation</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Fabian Scheuermann serves as the Chief Games Officer for the Esports World Cup Foundation, overseeing the management of all game titles and the relationship with the respective publishers featured in the competition. These include the biggest publishers and titles in esports. Before this role, he contributed to the continued success of ESL FACEIT Group, where he led global publisher partnerships and managed their core game portfolio for six and a half years. With over a decade of experience in the gaming and content industry, Fabian has consistently empowered publishers and partners worldwide. Before embarking on his career in gaming and esports, Fabian studied in the Netherlands, Australia, and Germany, earning an MBA before spending four years in consulting and M&A to kick off his career. In his free time, Fabian can be found competing in various sports, on his Peloton bike, or at home on the virtual battlegrounds of FPS and mobile MOBA titles.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Ghada-Alhudaithi -->
+    <div class="modal fade speaker-modal" id="Ghada-Alhudaithi" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Ghada-Alhudaithi.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Ghada AlHudaithi</h2>
+              <p class="text-white m-0">Co-Founder, Table Knight Games</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Ghada AlHudaithi is a driven individual with a passion for the gaming industry. This passion for gaming evolved over time, shaping her interests and sparking her entrepreneurial ambitions. Ghada recognized the potential for video games to engage and entertain audiences, and she became driven to turn this lifelong hobby into a professional pursuit. Holding a Master's degree in Business Administration specialized in Finance from Prince Sultan University, she has extensive experience in entrepreneurship, business development, and strategic management. As the Co-Founder of Table Knight Games, she has contributed to the company's expansion, with mobile game applications reaching top local and regional charts on the App Store and Google Play. Specializing in developing social games for mobile platforms, she has demonstrated her entrepreneurial spirit and technical proficiency. Motivated by innovation and impact, she is eager to take on new challenges and make a meaningful contribution to Saudi Arabia’s gaming ecosystem.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Heba-Atyah -->
+    <div class="modal fade speaker-modal" id="Heba-Atyah" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Heba-Atyah.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Dr. Heba Atyah</h2>
+              <p class="text-white m-0">CEO & Founder, GameIT</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Dr. Heba Mohammed Atyah, CEO and Founder of GameIT, has transitioned from a distinguished medical career in speech pathology and developmental disabilities to become a pioneering entrepreneur in the world of serious games. With more than 10 years of clinical experience in King Faisal Specialist Hospital and Research Center working with children, she has successfully, also, led major initiatives across the USA, UAE, and KSA, fostering public-private partnerships and community empowerment projects. Dr. Atyah continues to drive transformative change by using clinical science with innovative gaming and AI technology, revolutionizing how children learn and thrive in the digital age. Her work has garnered multiple awards and recognition, including the Leap Aviatrix Award for the most innovative startup pioneered by women in 2022, the Best Female Founder Award by MCIT Saudi Arabia in 2023, and lately in 2024 winning Microsoft Power Women Awards for the Middle East.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Jonny-Ebbert -->
+    <div class="modal fade speaker-modal" id="Jonny-Ebbert" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Jonny-Ebbert.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Jonny Ebbert</h2>
+              <p class="text-white m-0">Chief Creative Officer, Bungie</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Jonny Ebbert was the Chief Creative officer at Bungie for seven years. While there, he managed Bungie's portfolio strategy, all creative departments, and helped ensure product quality across all franchises. Prior to this, Jonny was at Blizzard Entertainment for seven years and worked as a lead designer on the Diablo and Starcraft franchises. Jonny was also at Relic Entertainment and was the game director for the Dawn of War franchise for five years.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Khaled-Makhshoush -->
+    <div class="modal fade speaker-modal" id="Khaled-Makhshoush" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Khaled-Makhshoush.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Khaled Makhshoush</h2>
+              <p class="text-white m-0">Digital Artist</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Khaled is a digital artist who specializes in pixel art. He uses a drawing tablet, a stylus and a mouse to create atmospheric digital paintings that explore the relationship between emotions and space. He focuses on how the place feels like and draws imaginary places based on real ones, blending reality and imagination in his art and inviting the viewers to experience his vision. He is inspired by the modern and contemporary world and its diverse landscapes. He challenges himself to express his ideas and feelings with a limited and compact medium of pixel art, using colors, shapes and patterns to create detailed scenes that capture the essence of his imagination.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Michal-Blicharz -->
+    <div class="modal fade speaker-modal" id="Michal-Blicharz" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Michal-Blicharz.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Michal Blicharz</h2>
+              <p class="text-white m-0">VP Product Development, ESL Faceit Group</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Michal “Carmac” Blicharz is an award-winning esports industry veteran of over 20 years. Having transitioned from competitive judo to electronic sports, he was a competitive gamer, journalist, and tournament organizer. He is also responsible for building tournament infrastructure for esports professionals worldwide. Currently, he is VP of Special Projects at ESL FACEIT GROUP.</p>
+            <p>He was Esports Journalist of the Year in 2009 and 2010, was inducted into Esports Insider’s Hall of Fame in 2019 and received a lifetime achievement award from The Esports Awards in 2021. He is credited with turning the Intel Extreme Masters tournament series into one of the most valuable and prestigious properties in the world, taking its tournaments from trade shows into arenas in Europe, North and South America, Australia and Asia and setting landmark achievements.</p>
+            <p>He is the father of the world’s oldest recurring arena event, Intel Extreme Masters Katowice which he started in 2013.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Peter-Hutton -->
+    <div class="modal fade speaker-modal" id="Peter-Hutton" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Peter-Hutton.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Peter Hutton</h2>
+              <p class="text-white m-0">Board Director, Saudi Pro League</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>​​Peter Hutton is Director of the Saudi Pro League and Chairman of the league’s media committee. He recently chaired the organising committee of the T20 Cricket World Cup and also sits on the board of the professional triathlon organisation and the rugby league. He also advises a series of tech companies, building on his previous experience as Head of Worldwide Sports Partnerships at Meta.</p>
+            <p>Originally a sports commentator and presenter, Hutton rose to become CEO of the biggest TV sports channels in Europe, Asia and the Indian sub-continent (Eurosport, ESPN-Star Sports, Ten Sports). He also ran sports agency businesses including a spell as Co-CEO of MP and Silva, and over a decade at IMG.</p>
+            <p>He is currently based in Silicon Valley, California after previously working in Paris, London, Moscow, Dubai, Singapore, Hong Kong and Delhi.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Reem-Alkanhal -->
+    <div class="modal fade speaker-modal" id="Reem-Alkanhal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Reem-Alkanhal.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Reem AlKanhal</h2>
+              <p class="text-white m-0">Creative Director & Fashion Designer</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>​From an early age, Reem AlKanhal knew her life would be forever linked with fashion, her instincts for fabric, form and a deep sense of how to connect her culture and the modern world have driven many of her collections which are never defined by season or trend, but mood and relevance.</p>
+            <p>Born and raised in Saudi Arabia, she began experimenting with fashion as a student. Simple, stylish tops and skirts that women could wear in many ways formed part of her design philosophy which combines clean lines with drape curves, clean structures with the possibilities of freedom of individuality.</p>
+            <p>Reem then took on a course at the “Art & Skills Institute” in Riyadh, where her knowledge of garment making developed. In 2010, one year after graduating, Reem founded her eponymous label – Reem AlKanhal, a modular ready-to-wear collection of clothes and accessories, with an unmistakable take to form, colour and aesthetic.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Ricardo-Fort -->
+    <div class="modal fade speaker-modal" id="Ricardo-Fort" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Ricardo-Fort.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Ricardo Fort</h2>
+              <p class="text-white m-0">Founder, Sport by Fort Consulting</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Ricardo Fort is one of the most respected names in the global sponsorship business. As the only executive to lead the Global Sponsorship Departments of two FIFA and IOC sponsors – Visa and Coca-Cola – he successfully negotiated billions of dollars in sponsorship contracts with the International Olympic Committee, FIFA, UEFA, athletes, the NFL, Formula 1 and Formula 1 teams, and many other worldwide sports and entertainment properties. In 2021, he launched Sport by Fort Consulting, a company that helps sponsors, leagues, investors, and athletes successfully invest in sports. Among his current and former clients are leading global companies such as HP, McDonald’s, Salesforce, AB-InBev, and many more. Ricardo is also an advisor to multiple sports-tech startups, Federations, athletes, and clubs. Born and raised in Brazil, Ricardo holds a triple citizenship (USA, Italy and Brazil), has lived and worked in the USA, India, France and Brazil. He is currently based in Portugal.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Sam-Mathews -->
+    <div class="modal fade speaker-modal" id="Sam-Mathews" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Sam-Mathews.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Sam Mathews</h2>
+              <p class="text-white m-0">Club CEO, Fnatic</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Sam Mathews is the visionary founder and CEO of Fnatic, the world's leading esports team organization. With a passion for competitive gaming, Mathews established Fnatic in 2004, transforming it into a powerhouse within the esports industry, and driving youth culture. Under his leadership, Fnatic is widely regarded as the most successful esports organisation in the world with numerous championships across various games, including League of Legends, Valorant, Counter-Strike, and many more. Mathews' innovative approach has driven the team's success but also helped to shape the global esports landscape. Known for his strategic thinking and dedication, he has expanded Fnatic's influence through partnerships with the likes of Gucci, a thriving product portfolio supported by Sony, and state-of-the-art training facilities globally. Beyond esports, Mathews is a prominent advocate for the gaming community, striving to elevate esports to mainstream recognition.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Stefy-Bau -->
+    <div class="modal fade speaker-modal" id="Stefy-Bau" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Stefy-Bau.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Stefy Bau</h2>
+              <p class="text-white m-0">Founder and CEO, Init Esports</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Stefy Bau is a serial entrepreneur, a passionate speaker, a three-time motocross world champion, and Founder & CEO of Init Esports and Init Sports. With over 30 years in motorsports, e-mobility, and esports, she has pioneered global initiatives, promoting women's empowerment in sports and gaming. Stefy's Init Esports bridges the motorsports gap through sim racing, providing global access to motorsport experiences. Events like Race Me and Screen to Speed foster diversity and offer pathways to participation for women into real-world racing. The Sim 4 STEM program engages female students in motorsports-related STEM activities. Init Esports also creates a pathway via esports for the motorcycle world, Stefy’s first passion.</p>
+            <p>Stefy was the first woman to race professionally with men in motocross history. After a career-ending injury, she managed the Women's World Motocross Championship and has been involved in motorsports her entire life. Inducted into the Motocross Legends in Stone in 2023, she serves on boards like WiST and GEF, advocating for women and minorities. Her core message is: "Be you and take the leap!"</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Tim-Morten -->
+    <div class="modal fade speaker-modal" id="Tim-Morten" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Tim-Morten.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Tim Morten</h2>
+              <p class="text-white m-0">Co-Founder and CEO, Frost Giant Studios</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Tim Morten is the CEO and Co-Founder of Frost Giant Studios. He was previously the Production Director of StarCraft II, and he's excited to now be working on a new real-time strategy game called Stormgate. Tim got his start in the game industry in 1994 at Activision, and subsequently helped lead development teams at Electronic Arts and Blizzard.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Yannick-Theler -->
+    <div class="modal fade speaker-modal" id="Yannick-Theler" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Yannick-Theler.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Yannick Theler</h2>
+              <p class="text-white m-0">CEO, Steer Studios</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Yannick Theler brings 20 years of Ubisoft experience to Savvy Group, where he is CEO of Steer Studios – a Riyadh-based game development company on a mission to create groundbreaking experiences for players in Saudi Arabia and globally.</p>
+            <p>Yannick began his career in the video game industry in Ubisoft's Swiss business office, working as Marketing & Sales Director for over 4 years. He was then appointed VP Business Development for Ubisoft’s business activities in Asia, based out of Shanghai, China.</p>
+            <p>Following this, Yannick was appointed Executive Director at Ubisoft Shanghai where he oversaw the development of many AAA games before taking the challenge of founding the Ubisoft Abu Dhabi studio twelve years ago.</p>
+            <p>Previously, Yannick worked in Wealth Management at UBS, and was a professional ice hockey player competing in the Swiss National Hockey League for seven seasons.</p>
+            <p>He is married and has a 10-year-old son.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Start Speakers Section  -->
     <section class="cs_pb_20 cs_pb_lg_55" id="speakers">
       <div class="container">
@@ -960,12 +1383,12 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Greg-Norman.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <!-- <a href="#" data-bs-toggle="modal" data-bs-target="#Greg-Norman" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a> -->
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Greg-Norman" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Greg Norman</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">CEO, Liv Golf</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">Commissioner & CEO, LIV Golf</p>
               </div>
             </div>
           </div>
@@ -1144,7 +1567,7 @@
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Jens-Hilgers.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <!-- <a href="#" data-bs-toggle="modal" data-bs-target="#Jens-Hilgers" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a> -->
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Jens-Hilgers" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
@@ -1332,6 +1755,272 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Steve Arhancet</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">Co-CEO, Team Liquid</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Arnold-Hur.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Arnold-Hur" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Arnold Hur</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO, Gen.G Esports</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Bilal-Fares.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Bilal-Fares" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Bilal Fares</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">SVP & General Manager, Adidas EMC Market</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Bruce-Stein.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Bruce-Stein" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Bruce Stein</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Founder, aXiomatic Gaming</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Craig-Levine.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Craig-Levine" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Craig Levine</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Co-CEO, ESL Faceit Group</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Dan-Bunting.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Dan-Bunting" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Dan Bunting</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Former Co-Head, Treyarch Studios & Game Director, Call of Duty</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Eric-Shanks.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Eric-Shanks" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Eric Shanks</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO and Executive Producer, Fox Sports</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Fabian-Scheuermann.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Fabian-Scheuermann" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Fabian Scheuermann</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Chief Games Officer, Esports World Cup Foundation</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Ghada-Alhudaithi.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Ghada-Alhudaithi" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Ghada Alhudaithi</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Co-Founder, Table Knight Games</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Heba-Atyah.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Heba-Atyah" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Dr. Heba Atyah</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO & Founder, GameIT</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Jonny-Ebbert.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Jonny-Ebbert" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Jonny Ebbert</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Chief Creative Officer, Bungie</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Khaled-Makhshoush.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Khaled-Makhshoush" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Khaled Makhshoush</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Digital Artist</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Michal-Blicharz.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Michal-Blicharz" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Michal Blicharz</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">VP Product Development, ESL Faceit Group</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Peter-Hutton.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Peter-Hutton" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Peter Hutton</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Board Director, Saudi Pro League</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Reem-Alkanhal.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Reem-Alkanhal" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Reem AlKanhal</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Creative Director & Fashion Designer</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Ricardo-Fort.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Ricardo-Fort" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Ricardo Fort</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Founder, Sport by Fort Consulting</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Sam-Mathews.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Sam-Mathews" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Sam Mathews</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Club CEO, Fnatic</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Stefy-Bau.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Stefy-Bau" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Stefy Bau</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Founder and CEO, Init Esports</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Tim-Morten.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Tim-Morten" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Tim Morten</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Co-Founder and CEO, Frost Giant Studios</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Yannick-Theler.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Yannick-Theler" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Yannick Theler</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO, Steer Studios</p>
               </div>
             </div>
           </div>
