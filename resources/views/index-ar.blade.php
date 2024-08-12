@@ -334,7 +334,7 @@
         <div class="modal-content">
           <div class="modal-header flex-sm-row flex-column">
             <div class="col-lg-4">
-              <img src="assets/img/speakers/Greg-Norman.png" alt="Member">
+              <img src="assets/img/speakers/Greg-Norman1.png" alt="Member">
             </div>
             <div class="col-lg-8">
             <h2 class="modal-title fs-5" id="staticBackdropLabel">جريج نورمان</h2>
@@ -966,7 +966,7 @@
           <div class="col-6 col-sm-4 col-md-4 col-lg-2">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
-                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Greg-Norman.png" alt="Member">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Greg-Norman1.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
                   <a href="#" data-bs-toggle="modal" data-bs-target="#Greg-Norman" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
                 </div>
