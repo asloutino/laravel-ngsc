@@ -4954,7 +4954,41 @@ html[lang="ar"] .speaker-modal .modal-header .col-lg-8 {
   background-position: top left;
 }
 
+.cs_brands {
+  column-gap: 150px;
+}
+
+.cs_brand {
+  place-self: flex-start;
+}
+
+.cs_brand:first-child img {
+  margin-top:30px;
+  max-width:160px;
+}
+
+.cs_brand.col-lg-3 img {
+  margin-top:120px;
+}
+
+.cs_brand:last-child img {
+  margin-top:74px;
+}
+
 @media screen and (max-width: 767px) {
+  .cs_brand.col-lg-3 img {
+    margin-top: 20px;
+    max-width: 280px;
+  }
+
+  .cs_brand:last-child {
+    margin-top: 50px;
+  }
+
+  .cs_brand:last-child img {
+    margin-top: 20px;
+  }
+
   .ngsc-conference-bg,
   .ngsc-about-bg,
   .ngsc-ecw-bg {
@@ -5067,10 +5101,17 @@ html[lang="ar"] .speaker-modal .modal-header .col-lg-8 {
   html[lang="ar"] #news .cs_post_thumb-in {
     background-position:right;
   }
-}
 
-#sponsors {
-  display: none;
+  .cs_brand:last-child:before {
+    display: block;
+    position: absolute;
+    content: '';
+    background: #fff;
+    width: 1px;
+    height: 225px;
+    margin-top: 40px;
+    margin-left: -50px;
+  }
 }
 
 .text-danger {
