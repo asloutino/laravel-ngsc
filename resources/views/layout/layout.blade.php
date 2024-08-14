@@ -1,3 +1,4 @@
+<?php header_remove("X-Powered-By"); ?>
 <!DOCTYPE html>
 <html class="no-js" <?php if( (strpos(url()->current(),'/ar') !== false) ) { echo 'lang="ar"'; } else { echo 'lang="en"'; } ?>>
     <x-head/>
