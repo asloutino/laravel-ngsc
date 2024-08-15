@@ -5112,6 +5112,11 @@ html[lang="ar"] .speaker-modal .modal-header .col-lg-8 {
     margin-top: 40px;
     margin-left: -50px;
   }
+
+  html[lang="ar"] .cs_brand:last-child:before {
+    margin-left: 0;
+    margin-right: -50px;
+  }
 }
 
 .text-danger {

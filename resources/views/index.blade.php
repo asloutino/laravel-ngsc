@@ -48,7 +48,7 @@
             <div class="cs_main_header_right">
               <div class="cs_toolbox">
                 <div class="cs_hero_btn">
-                  <a href="/#apply-to-join" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_10 cs_pr_10 cs_pt_10 cs_pb_10 overflow-hidden"><span>APPLY TO JOIN</span></a>
+                  <a href="https://webook.com/en/events/new-global-sport-conference-2024" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_10 cs_pr_10 cs_pt_10 cs_pb_10 overflow-hidden"><span>APPLY TO JOIN</span></a>
                 </div>
               </div>
             </div>
@@ -2373,7 +2373,7 @@
     <!-- End Sponsors Section -->
 
     <!-- Start Apply to Join Section -->
-    <section class="cs_pt_0 cs_pt_lg_35 cs_pb_35 cs_pb_lg_80 position-relative" id="apply-to-join">
+    <!-- <section class="cs_pt_0 cs_pt_lg_35 cs_pb_35 cs_pb_lg_80 position-relative" id="apply-to-join">
       <div class="container">
         <div class="row">
         <div class="col-lg-7">
@@ -2422,7 +2422,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
     <!-- End Apply to Join Section -->
 
     <!-- Start About Section -->
