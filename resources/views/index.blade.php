@@ -2333,7 +2333,7 @@
                       <a href="">3 comments</a>
                     </li>
                   </ul> -->
-                  <h2 class="cs_post_title cs_lh_base cs_fs_20 cs_fs_lg_18 cs_mb_10"><a href="{{ url('dates-for-2024-event-and-major-expansion') }}">Riyadh’s New Global Sport Conference Unveils Dates for 2024 Event and Major Expansion</a></h2>
+                  <h2 class="cs_post_title cs_lh_base cs_fs_20 cs_fs_lg_18 cs_mb_10"><a href="{{ url('dates-for-2024-event-and-major-expansion') }}">Riyadh’s New Global Sport Conference Unveils Dates for 2024</a></h2>
                   <!-- <div class="cs_post_subtitle">The premier conference for esports, sports, and gaming in the Middle East will be part of the Closing Weekend of the Esports World Cup in August 2024</div> -->
                 </div>
                 <a href="{{ url('dates-for-2024-event-and-major-expansion') }}" class="cs_post_btn d-flex justify-content-between align-items-center cs_pl_40 cs_pr_40 cs_pb_10 cs_pt_10">
@@ -2426,7 +2426,7 @@
                       <a href="">3 comments</a>
                     </li>
                   </ul> -->
-                  <h2 class="cs_post_title cs_lh_base cs_fs_20 cs_fs_lg_18 cs_mb_10"><a href="{{ url('the-rise-of-esports-athletes-as-modern-sport-heroes') }}">The New Global Sport Conference to discuss the rise of esports athletes as modern sport heroes</a></h2>
+                  <h2 class="cs_post_title cs_lh_base cs_fs_20 cs_fs_lg_18 cs_mb_10"><a href="{{ url('the-rise-of-esports-athletes-as-modern-sport-heroes') }}">The New Global Sport Conference to discuss the rise of esports athletes</a></h2>
                   <!-- <div class="cs_post_subtitle">The International Olympic Committee (IOC) announced that it has partnered with the National Olympic Committee (NOC) of Saudi Arabia to host ...</div> -->
                 </div>
                 <a href="{{ url('the-rise-of-esports-athletes-as-modern-sport-heroes') }}" class="cs_post_btn d-flex justify-content-between align-items-center cs_pl_40 cs_pr_40 cs_pb_10 cs_pt_10">
