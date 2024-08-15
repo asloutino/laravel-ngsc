@@ -48,7 +48,7 @@
             <div class="cs_main_header_right">
               <div class="cs_toolbox">
                 <div class="cs_hero_btn">
-                <a href="https://webook.com/en/events/new-global-sport-conference-2024" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_10 cs_pr_10 cs_pt_10 cs_pb_10 overflow-hidden"><span>طلب الانضمام</span></a>
+                <a href="https://webook.com/en/events/new-global-sport-conference-2024" class="cs_btn cs_style_1 cs_fs_16 cs_rounded_5 cs_pl_10 cs_pr_10 cs_pt_10 cs_pb_10 overflow-hidden"><span>احصل على تذكرة</span></a>
                 </div>
               </div>
             </div>
