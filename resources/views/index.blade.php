@@ -328,29 +328,6 @@
       </div>
     </div>
 
-    <!-- Modal Greg-Norman -->
-    <div class="modal fade speaker-modal" id="Greg-Norman" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-      <div class="modal-dialog modal-dialog-scrollable">
-        <div class="modal-content">
-          <div class="modal-header flex-sm-row flex-column">
-            <div class="col-lg-4">
-              <img src="assets/img/speakers/Greg-Norman1.png" alt="Member">
-            </div>
-            <div class="col-lg-8">
-            <h2 class="modal-title fs-5" id="staticBackdropLabel">Greg Norman</h2>
-              <p class="text-white m-0">Commissioner & CEO, LIV Golf</p>
-            </div>
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-          </div>
-          <div class="modal-body">
-            <p>Arguably the most successful athlete-turned-businessman in the world, Greg Norman is known as much for his entrepreneurial spirit in the boardroom as his dominance on the golf course. The internationally renowned “Great White Shark” won more than 90 tournaments worldwide, including two Open Championships, and holds the distinction of defending his No. 1 position in the world golf rankings for 331 weeks. As one of the most prolific players in the game’s history, his astounding career culminated in 2001 when he was inducted into the World Golf Hall of Fame with a higher percentage of votes than any other inductee in history.</p>
-            <p>Greg Norman now transcends the game of golf, with over a dozen companies around the world bearing his name and the iconic shark logo as part of the Greg Norman Company, which he leads as Chairman & CEO. His internationally recognized brand boasts more than 115 golf course designs across six continents, a global real estate collection, award-winning wine, golf-inspired lifestyle apparel and a diverse investment division. Across all facets of business, the Greg Norman brand consistently delivers the quality that his name is synonymous with and continues to inspire people to attack life.</p>
-            <p>In 2021, Greg Norman became the first and founding CEO of LIV Golf Investments, a newly formed company whose purpose is to holistically improve the health of professional golf on a global scale to help unlock the sports’ untapped potential. PIF, one of the world’s largest sovereign wealth funds with a diverse international investment portfolio, is the majority shareholder in LIV Golf Investments.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-
     <!-- Modal Joe-Marsh -->
     <div class="modal fade speaker-modal" id="Joe-Marsh" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-scrollable">
@@ -1474,20 +1451,6 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Andrew Chen</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">General Partner, Andreessen Horowitz</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
-            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
-              <div class="cs_team_member position-relative cs_rounded_50">
-                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Greg-Norman1.png" alt="Member">
-                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                  <a href="#" data-bs-toggle="modal" data-bs-target="#Greg-Norman" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
-                </div>
-              </div>
-              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">Greg Norman</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Commissioner & CEO, LIV Golf</p>
               </div>
             </div>
           </div>

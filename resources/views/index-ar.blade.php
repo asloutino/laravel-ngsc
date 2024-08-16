@@ -328,29 +328,6 @@
       </div>
     </div>
 
-    <!-- Modal Greg-Norman -->
-    <div class="modal fade speaker-modal" id="Greg-Norman" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-      <div class="modal-dialog modal-dialog-scrollable">
-        <div class="modal-content">
-          <div class="modal-header flex-sm-row flex-column">
-            <div class="col-lg-4">
-              <img src="assets/img/speakers/Greg-Norman1.png" alt="Member">
-            </div>
-            <div class="col-lg-8">
-            <h2 class="modal-title fs-5" id="staticBackdropLabel">جريج نورمان</h2>
-              <p class="text-white m-0">المفوض والرئيس التنفيذي لشركة ليف جولف</p>
-            </div>
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-          </div>
-          <div class="modal-body">
-            <p>يُعَد جريج نورمان بلا شك من أنجح رياضي تحول إلى رجل أعمال في العالم، معروفًا بروحه الريادية في غرفة الاجتماعات وبسيطرته على ملعب الجولف. فاز "القرش الأبيض العظيم" المشهور عالميًا بأكثر من 90 بطولة في جميع أنحاء العالم، بما في ذلك بطولتان مفتوحتان، ويحمل لقب الدفاع عن المركز الأول في التصنيف العالمي للجولف لمدة 331 أسبوعًا. وباعتباره أحد أكثر اللاعبين غزارة في تاريخ اللعبة، بلغت مسيرته المذهلة ذروتها في عام 2001 عندما تم إدخاله إلى قاعة مشاهير الجولف العالمية بنسبة أصوات أعلى من أي شخص آخر تم إدخاله في التاريخ.</p>
-            <p>يتجاوز جريج نورمان الآن لعبة الجولف، حيث تحمل أكثر من اثنتي عشرة شركة حول العالم اسمه وشعار القرش الشهير كجزء من شركة جريج نورمان، التي يقودها بصفته رئيسًا تنفيذيًا. تتميز علامته التجارية المعترف بها دوليًا بأكثر من 115 تصميمًا ملاعب الجولف عبر ست قارات، ومجموعة عقارات عالمية، ونبيذ حائز على جوائز، وملابس مستوحاة من الجولف وقسم استثماري متنوع. في جميع جوانب العمل، تقدم علامة جريج نورمان التجارية باستمرار الجودة التي يرتبط بها اسمه وتستمر في إلهام الناس لمواجهة الحياة.</p>
-            <p>في عام 2021، أصبح جريج نورمان أول رئيس تنفيذي مؤسس لشركة ليف جولف للاستثمارات، وهي شركة تم تشكيلها حديثًا والغرض منها تحسين صحة الجولف الاحترافي بشكل شامل على نطاق عالمي للمساعدة في إطلاق العنان لإمكانات الرياضة غير المستغلة. صندوق الاستثمارات العامة، أحد أكبر صناديق الثروة السيادية في العالم مع محفظة استثمارية دولية متنوعة، هو المساهم الأكبر في ليف جولف للاستثمارات.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-
     <!-- Modal Joe-Marsh -->
     <div class="modal fade speaker-modal" id="Joe-Marsh" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-scrollable">
@@ -1379,20 +1356,6 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">أندرو تشين</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">شريك عام، أندريسن هورويتز</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
-            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
-              <div class="cs_team_member position-relative cs_rounded_50">
-                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Greg-Norman1.png" alt="Member">
-                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
-                  <a href="#" data-bs-toggle="modal" data-bs-target="#Greg-Norman" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
-                </div>
-              </div>
-              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">جريج نورمان</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">المفوض والرئيس التنفيذي لشركة ليف جولف</p>
               </div>
             </div>
           </div>
