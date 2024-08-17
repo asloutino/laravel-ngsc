@@ -1321,6 +1321,105 @@
       </div>
     </div>
 
+    <!-- Start Hosts & Moderators Section -->
+    <section class="cs_pb_20 cs_pb_lg_55" id="speakers">
+      <div class="container">
+        <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
+          <div class="cs_section_heading_in">
+            <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">المضيفون</h3>
+            <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">والمشرفون</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/MJ-Acosta-Ruiz.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#MJ-Acosta-Ruiz" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">إم جيه أكوستا رويز</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">مذيعة رياضية</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Joe-Pompliano.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Joe-Pompliano" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">جو بومبليانو</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الشريك الإداري في شركة بومب للاستثمارات</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/OJ-Borg.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#OJ-Borg" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">او جيه بورج</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">المذيع المنتج التنفيذي لستاندرد فيلمز</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Songyee-Yoon.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Songyee-Yoon" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">د. سونجي يون</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">شريك إداري، برنسيبال فينتشر بارتنرز</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Maha-Abouelenein.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Maha-Abouelenein" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">مها ابو العينين</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي | ديجيتال أند سافي</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Anna-Rozwandowicz.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Anna-Rozwandowicz" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">آنا روزفاندوفيتش</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">مؤسس والرئيس التنفيذي، ذا ستوري موب</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Hosts & Moderators Section -->
+
     <!-- Start Speakers Section  -->
     <section class="cs_pb_20 cs_pb_lg_55" id="speakers">
       <div class="container">
@@ -1476,20 +1575,6 @@
           <div class="col-6 col-sm-4 col-md-4 col-lg-2">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
-                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Songyee-Yoon.png" alt="Member">
-                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
-                <a href="#" data-bs-toggle="modal" data-bs-target="#Songyee-Yoon" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
-                </div>
-              </div>
-              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">د. سونجي يون</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">شريك إداري، برنسيبال فينتشر بارتنرز</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
-            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
-              <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Toshimoto-Mitomo.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
                 <a href="#" data-bs-toggle="modal" data-bs-target="#Toshimoto-Mitomo" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
@@ -1498,20 +1583,6 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">توشيموتو ميتومو</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">نائب الرئيس التنفيذي وكبير مسؤولي الأمن في شركة مجموعة سوني</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
-            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
-              <div class="cs_team_member position-relative cs_rounded_50">
-                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Anna-Rozwandowicz.png" alt="Member">
-                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
-                <a href="#" data-bs-toggle="modal" data-bs-target="#Anna-Rozwandowicz" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
-                </div>
-              </div>
-              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">آنا روزفاندوفيتش</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">مؤسس والرئيس التنفيذي، ذا ستوري موب</p>
               </div>
             </div>
           </div>
@@ -1554,20 +1625,6 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">ينس هيلجرز</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">الشريك العام والمؤسس المشارك، بيتكرافت فنتشرز</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
-            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
-              <div class="cs_team_member position-relative cs_rounded_50">
-                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Maha-Abouelenein.png" alt="Member">
-                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
-                <a href="#" data-bs-toggle="modal" data-bs-target="#Maha-Abouelenein" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
-                </div>
-              </div>
-              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">مها ابو العينين</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي | ديجيتال أند سافي</p>
               </div>
             </div>
           </div>
@@ -1644,34 +1701,6 @@
           <div class="col-6 col-sm-4 col-md-4 col-lg-2">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
-                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Joe-Pompliano.png" alt="Member">
-                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
-                <a href="#" data-bs-toggle="modal" data-bs-target="#Joe-Pompliano" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
-                </div>
-              </div>
-              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">جو بومبليانو</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">الشريك الإداري في شركة بومب للاستثمارات</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
-            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
-              <div class="cs_team_member position-relative cs_rounded_50">
-                <img class="w-100 cs_rounded_50" src="assets/img/speakers/MJ-Acosta-Ruiz.png" alt="Member">
-                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
-                <a href="#" data-bs-toggle="modal" data-bs-target="#MJ-Acosta-Ruiz" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
-                </div>
-              </div>
-              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">إم جيه أكوستا رويز</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">مذيعة رياضية</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
-            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
-              <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Nanea-Reeves.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
                 <!-- <a href="#" data-bs-toggle="modal" data-bs-target="#Nanea-Reeves" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a> -->
@@ -1694,20 +1723,6 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">نيك براون</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">شريك ومنتج تنفيذي في جود بوي كرييتيف</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
-            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
-              <div class="cs_team_member position-relative cs_rounded_50">
-                <img class="w-100 cs_rounded_50" src="assets/img/speakers/OJ-Borg.png" alt="Member">
-                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
-                <a href="#" data-bs-toggle="modal" data-bs-target="#OJ-Borg" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
-                </div>
-              </div>
-              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">او جيه بورج</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">المذيع المنتج التنفيذي لستاندرد فيلمز</p>
               </div>
             </div>
           </div>
@@ -2184,7 +2199,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-3">
+          <div class="col-lg-4">
             <div class="cs_post cs_style_1 shadow-sm cs_mb_30">
               <a href="{{ url('/ar/dates-for-2024-event-and-major-expansion') }}" class="cs_post_thumb d-block position-relative overflow-hidden">
                 <div class="cs_post_thumb-in cs_transition_5 h-100 w-100" data-src="{{ asset('assets/img/news/EWC_KV_MASTER.jpg') }}"></div>
@@ -2215,7 +2230,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3">
+          <div class="col-lg-4">
             <div class="cs_post cs_style_1 shadow-sm cs_mb_30">
               <a href="{{ url('/ar/olympic-esports-games-to-be-hosted-in-the-kingdom-of-saudi-arabia') }}" class="cs_post_thumb d-block position-relative overflow-hidden">
                 <div class="cs_post_thumb-in cs_transition_5 h-100 w-100" data-src="{{ asset('assets/img/news/ANNOUNCEMENT.jpg') }}"></div>
@@ -2246,7 +2261,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3">
+          <div class="col-lg-4">
             <div class="cs_post cs_style_1 shadow-sm cs_mb_30">
               <a href="{{ url('/ar/global-leaders-to-address-the-future-of-fandom-and-fan-engagement-at-ngsc') }}" class="cs_post_thumb d-block position-relative overflow-hidden">
                 <div class="cs_post_thumb-in cs_transition_5 h-100 w-100" data-src="{{ asset('assets/img/news/EWC_KV_MASTER.jpg') }}"></div>
@@ -2277,7 +2292,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3">
+          <div class="col-lg-4">
             <div class="cs_post cs_style_1 shadow-sm cs_mb_30">
               <a href="{{ url('/ar/the-rise-of-esports-athletes-as-modern-sport-heroes') }}" class="cs_post_thumb d-block position-relative overflow-hidden">
                 <div class="cs_post_thumb-in cs_transition_5 h-100 w-100" data-src="{{ asset('assets/img/news/EWC_KV_MASTER.jpg') }}"></div>
@@ -2308,6 +2323,37 @@
               </div>
             </div>
           </div>
+          <div class="col-lg-4">
+            <div class="cs_post cs_style_1 shadow-sm cs_mb_30">
+              <a href="{{ url('/ar/global-industry-leaders-eager-to-share-insights-at-ngsc') }}" class="cs_post_thumb d-block position-relative overflow-hidden">
+                <div class="cs_post_thumb-in cs_transition_5 h-100 w-100" data-src="{{ asset('assets/img/news/EWC_KV_MASTER.jpg') }}"></div>
+              </a>
+              <div class="cs_post_in">
+                <div class="cs_post_info cs_pl_10 cs_pr_10 cs_pt_40 cs_pb_40">
+                  <!-- <ul class="cs_post_meta d-flex flex-wrap cs_fs_12 p-0 cs_mb_16">
+                    <li>
+                      <span><i class="fa-solid fa-user"></i> By </span> 
+                      <a href="">admin</a>
+                    </li>
+                    <li>
+                      <span><i class="fa-solid fa-comment-dots"></i></span> 
+                      <a href="">3 comments</a>
+                    </li>
+                  </ul> -->
+                  <h2 class="cs_post_title cs_lh_base cs_fs_20 cs_fs_lg_18 cs_mb_10"><a href="{{ url('/ar/global-industry-leaders-eager-to-share-insights-at-ngsc') }}">أعربوا عن تطلعاتهم لحضور المؤتمر العالمي الذي تستضيفه الرياض وثقتهم بأنه سيكون منصة رئيسية لتشكيل مستقبل قطاع الألعاب والرياضات الإلكترونية</a></h2>
+                  <!-- <div class="cs_post_subtitle">The premier conference for esports, sports, and gaming in the Middle East will be part of the Closing Weekend of the Esports World Cup in August 2024</div> -->
+                </div>
+                <a href="{{ url('/ar/global-industry-leaders-eager-to-share-insights-at-ngsc') }}" class="cs_post_btn d-flex justify-content-between align-items-center cs_pl_40 cs_pr_40 cs_pb_10 cs_pt_10">
+                  <span class="cs_post_btn-text">اقرأ المزيد</span>
+                  <div class="cs_post_btn-icon d-flex cs_transition_4">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path d="M11.9999 0.224976C6.52011 0.224976 1.63131 4.16368 0.485006 9.52707C-0.0876941 12.207 0.298106 15.0567 1.57581 17.4816C2.80551 19.8153 4.82151 21.7014 7.23351 22.7703C9.74241 23.8824 12.6227 24.0762 15.2597 23.3178C17.8037 22.5864 20.0594 20.9811 21.5951 18.8262C24.806 14.3211 24.3767 7.99288 20.5991 3.95608C18.3851 1.59028 15.2405 0.224976 11.9999 0.224976ZM17.6486 12.6291L14.4386 15.9165C13.6259 16.749 12.3413 15.4878 13.1507 14.6592L14.7704 13.0005H7.09461C6.54951 13.0005 6.09471 12.5454 6.09471 12.0006C6.09471 11.4558 6.54981 11.0007 7.09461 11.0007H14.732L13.0802 9.34918C12.2594 8.52838 13.532 7.25548 14.3528 8.07628L17.6411 11.3643C17.9897 11.7126 17.993 12.2766 17.6486 12.6291Z" fill="currentColor"/>
+                    </svg>  
+                  </div>                
+                </a>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>
@@ -2318,21 +2364,92 @@
       <div class="container">
         <!-- <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_60 cs_mb_lg_40">
           <div class="cs_section_heading_in">
-            <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">مؤتمر الرياضة العالمية الجديدة 2024</h3>
-            <h2 class="cs_fs_48 cs_fs_lg_36 m-0">الشركاء و الرعاه</h2>
+            <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">NEW GLOBAL SPORT CONFERENCE 2024</h3>
+            <h2 class="cs_fs_48 cs_fs_lg_36 m-0">SPONSORS AND PARTNERS</h2>
           </div>
         </div> -->
-        <div class="cs_brands d-flex justify-content-xl-between align-items-center cs_column_gap_25 cs_row_gap_25 flex-wrap justify-content-center">
-          <div class="cs_brand col-lg-2">
-            <h6>شريك استراتيجي</h6>
-            <img src="{{ asset('assets/img/partners/Qiddiya.svg') }}" alt="Partner">
+        <div class="cs_brands d-flex cs_column_gap_25 cs_row_gap_25 flex-wrap justify-content-center">
+          <div class="col-lg-7">
+            <h5>الشركاء الاستراتيجيون</h5>
+            <div class="d-flex align-items-center">
+              <div class="cs_brand col-3 col-lg-3">
+                <a href="https://www.stc.com.sa/content/stc/sa/en/personal/home.html" target="_blank">
+                  <img src="{{ asset('assets/img/partners/STC.svg') }}" alt="Partner">
+                </a>
+              </div>
+              <div class="cs_brand col-3 col-lg-3">
+                <a href="https://x.com/qiddiyagaming" target="_blank">
+                  <img src="{{ asset('assets/img/partners/Qiddiya.svg') }}" alt="Partner" style="max-height:95px;">
+                </a>
+              </div>
+              <div class="cs_brand col-6 col-lg-6">
+                <a href="http://www.hmg.com/" target="_blank">
+                  <img src="{{ asset('assets/img/partners/HMG.svg') }}" alt="Partner" style="max-height:50px;">
+                </a>
+              </div>
+            </div>
           </div>
-          <div class="cs_brand col-lg-3">
-            <img src="{{ asset('assets/img/partners/HMG.svg') }}" alt="Partner">
+          <div class="col-lg-5 needs-separation">
+            <h5>الشركاء الرسميون</h5>
+            <div class="d-flex cs_pt_20 align-items-center">
+              <div class="cs_brand col-4 col-lg-4">
+                <a href="https://www.honor.com/sa-ar/" target="_blank">
+                  <img src="{{ asset('assets/img/partners/Honor.svg') }}" alt="Partner">
+                </a>
+              </div>
+              <div class="cs_brand col-4 col-lg-4" style="padding-left:7%;">
+                <a href="https://www.intel.com/content/www/us/en/homepage.html" target="_blank">
+                  <img src="{{ asset('assets/img/partners/Intel.svg') }}" alt="Partner">
+                </a>
+              </div>
+              <div class="cs_brand col-4 col-lg-4">
+                <a href="https://barns.com.sa/en" target="_blank">
+                  <img src="{{ asset('assets/img/partners/Barns.svg') }}" alt="Partner" style="max-height:50px;">
+                </a>
+              </div>
+            </div>
           </div>
-          <div class="cs_brand col-lg-2">
-            <h6>شريك رسمي</h6>
-            <img src="{{ asset('assets/img/partners/Intel.svg') }}" alt="Partner">
+        </div>
+        <div class="cs_brands longer-row d-flex cs_column_gap_25 cs_row_gap_25 flex-wrap justify-content-center">
+          <div class="col-lg-12 cs_pt_70 cs_pt_lg_20">
+            <h5>الشركاء الإعلاميون</h5>
+            <div class="d-flex align-items-center row">
+              <div class="cs_brand col-3 col-lg-1">
+                <a href="http://www.cnbcarabia.com/" target="_blank">
+                  <img src="{{ asset('assets/img/partners/CNBC.svg') }}" alt="Partner" style="max-height:60px;">
+                </a>
+              </div>
+              <div class="cs_brand col-5 col-lg-2">
+                <a href="http://www.arabnews.com/" target="_blank">
+                  <img src="{{ asset('assets/img/partners/ArabNews.svg') }}" alt="Partner">
+                </a>
+              </div>
+              <div class="cs_brand col-4 col-lg-2">
+                <a href="https://me.ign.com/ar/" target="_blank">
+                  <img src="{{ asset('assets/img/partners/IGN.svg') }}" alt="Partner">
+                </a>
+              </div>
+              <div class="cs_brand col-3 col-lg-2">
+                <a href="https://www.agbi.com/" target="_blank">
+                  <img src="{{ asset('assets/img/partners/AGBI.svg') }}" alt="Partner" style="max-height:35px;">
+                </a>
+              </div>
+              <div class="cs_brand col-3 col-lg-2">
+                <a href="https://www.true-gaming.net/" target="_blank">
+                  <img src="{{ asset('assets/img/partners/TrueGaming.svg') }}" alt="Partner" style="max-height:50px;">
+                </a>
+              </div>
+              <div class="cs_brand col-3 col-lg-2">
+                <a href="https://qsah.sa/" target="_blank">
+                  <img src="{{ asset('assets/img/partners/Tabah.svg') }}" alt="Partner">
+                </a>
+              </div>
+              <div class="cs_brand col-3 col-lg-2">
+                <a href="https://mobidictum.com/" target="_blank">
+                  <img src="{{ asset('assets/img/partners/Mobidictum.png') }}" alt="Partner">
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
