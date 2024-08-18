@@ -315,7 +315,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Andrew Chen</h2>
-              <p class="text-white m-0">General Partner, Andreessen Horowitz</p>
+              <p class="text-white m-0">General Partner & Co-Founder, Andreessen Horowitz</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -949,7 +949,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Bruce Stein</h2>
-              <p class="text-white m-0">Founder, aXiomatic Gaming</p>
+              <p class="text-white m-0">Co-Founder aXiomatic Gaming, MD Juno Capital</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -1317,6 +1317,228 @@
       </div>
     </div>
 
+    <!-- Modal HE-Abdullah-Alswaha -->
+    <div class="modal fade speaker-modal" id="HE-Abdullah-Alswaha" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/HE-Abdullah-Alswaha.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">H.E. Abdullah Alswaha</h2>
+              <p class="text-white m-0">Minister of Communications and Information Technology, Kingdom of Saudi Arabia</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>His Excellency Engineer Abdullah Alswaha has over two decades of experience in leadership, innovation and entrepreneurship. Throughout his decade-long career, he built multi-billion riyal, high-performing organizations in the private and public sector. HE chairs the Communications, Space and Technology Commission, the Saudi Space Agency, the Research Development and Innovation Authority, the King Abdulaziz City for Science and Technology (KACST). HE is a member of several ministerial level social and economic committees, and sits on the boards of the MISK Foundation, NEOM and King Saud University. HE holds bachelor’s degrees in electrical engineering from the King Fahd University of Petroleum and Minerals (KFUPM) and computer science from the University of Washington, and has attended the Executive Education Program at Harvard Business School.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Andrzej-Antoszkiewicz -->
+    <div class="modal fade speaker-modal" id="Andrzej-Antoszkiewicz" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Andrzej-Antoszkiewicz.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Andrzej Antoszkiewicz</h2>
+              <p class="text-white m-0">CEO & Managing Partner, OrdoStrategica LDA</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Andrzej Antoszkiewicz is the CEO & Managing Partner of OrdoStrategica, where he focuses on the future of sports and esports events. His portfolio career includes numerous international leadership functions, including FIFA, OECD, and NATO.</p>
+            <p>At FIFA, as Global Head of Strategy, Planning, Innovation & Business Solutions, Andrzej had a profound impact on how FIFA planned and delivered World Cups. During his tenure, FIFA transformed its FWC operating model, reformed its host selection and bidding processes, revolutionised tournament innovation and implemented integrated planning.</p>
+            <p>Andrzej also led the overall planning and coordination of two NATO Summits. In 2015, he was appointed as Principal NATO Summit Advisor to the Government of Poland, for which he was made Knight of the Order of Merit of the Republic of Poland.</p>
+            <p>Holding an MBA from the University of Oxford, in 2022 Andrzej was recognized as one of the Global Top 100 Best and Brightest by Poets&Quants Magazine.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Becca-Henry -->
+    <div class="modal fade speaker-modal" id="Becca-Henry" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Becca-Henry.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Becca Henry</h2>
+              <p class="text-white m-0">Senior Brand Communications Manager, G2 Esports</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Becca Henry is a communications and brand builder with a career of over 13 years in esports and gaming. A passionate expert in esports entertainment, she currently leads global communications and brand for G2 Esports, the most entertaining and innovative organization in esports, crafting strategies that authentically connect with G2’s audience, and enhance G2’s power of storytelling and unique tone of voice.</p>
+            <p>Prior to G2, Becca was the VP of Communications for Misfits Gaming Group, where she leveraged her skills to strengthen and grow the brand identity of MGG, and increase awareness, visibility, and brand affinity across MGG’s growing list of properties.</p>
+            <p>Before Misfits, Becca led European Esports Communications for Riot Games - from the inaugural year of the EU LCS, focusing on raising awareness of a sport in its infancy, all the way to the brand campaign that launched the LEC.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Danny-Tang -->
+    <div class="modal fade speaker-modal" id="Danny-Tang" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Danny-Tang.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Danny Tang</h2>
+              <p class="text-white m-0">Co-Founder, CFO and Head of Global Strategy Office, VSPO</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>As a co-founder of VSPO, Danny has served as its CFO since inception in 2016 and has led various departments within the business. Ms. Tang previously served as a senior associate and then a vice president at China Development Bank Capital from 2010 to 2014. Prior to that, she served as an investment analyst at Kohlberg Kravis Roberts & Co. from 2007 to 2010.</p>
+            <p>Ms. Tang received her bachelor’s degree in economics and mathematics with honors from Bryn Mawr College and her master’s degree of science in management from Stanford University.</p>
+            <p>She is passionate about the long-term future of the esports industry, and was recognized as one of the Top 100 Asian-Pacific Women-Powered Leaders by J.P.Morgan and Ernst & Young in 2022.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Je-Alipio -->
+    <div class="modal fade speaker-modal" id="Je-Alipio" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Je-Alipio.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Je Alipio</h2>
+              <p class="text-white m-0">Director & Head of Business Development, APAC & MENA, The Walt Disney Company</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Jê spearheads the gaming initiatives of The Walt Disney Company in Asia Pacific, Middle East & North Africa. He is focused on delivering high-quality gaming experiences across franchises that bring fans closer to their favourite stories and characters on digital platforms. He has over 20 years of experience in the gaming industry, having held various senior leadership positions in Electronic Arts for Asia Pacific as well as mid-sized and start up studios. He also currently serves as mentor for PIXEL, IGDA and studios under Info-communications Media Development Authority Singapore and Google’s Indie Games Accelerator as well as Board Advisor to the Singapore Games Association and Asosiasi Game Indonesia.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal John-Hanke -->
+    <div class="modal fade speaker-modal" id="John-Hanke" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/John-Hanke.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">John Hanke</h2>
+              <p class="text-white m-0">Founder & CEO, Niantic</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>John leads the development of Niantic's global-scale augmented reality platform that powers games including Pokémon GO, Pikmin Bloom, Monster Hunter Now, Peridot, and Ingress. Niantic’s AR platform is also used by developers around the world to create sophisticated AR experiences for phones and AR glasses.</p>
+            <p>Incubated out of the Maps team at Google, Niantic first created Ingress and then Pokémon GO, a cultural phenomenon played by tens of millions of people each month. Earlier in his career, John was a founder of Archetype Interactive, creator of one of the very first online massively multiplayer games, Meridian 59. He went on to co-found Keyhole, a company dedicated to recreating a digital version of Earth, which was acquired by Google and led to the creation of Google Earth. John was Vice President of Google's Geo division, overseeing projects including Maps and Street View, for seven years before founding Niantic.</p>
+            <p>John holds a BA from the University of Texas at Austin and an MBA from the Haas School of Business at UC Berkeley.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Michael-Metzger -->
+    <div class="modal fade speaker-modal" id="Michael-Metzger" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Michael-Metzger.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Michael Metzger</h2>
+              <p class="text-white m-0">Managing Partner, Drake Star</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Michael Metzger is a Managing Partner at Drake Star, a global media/tech investment bank with ~100 professionals across the U.S. and Europe. He has facilitated over 20 gaming and esports related M&A and financing transactions and is considered a global thought leader in the digital media and gaming space. Michael holds five patents in the field of communications and serves as the Chairman and Board Director of the German American Business Association in Southern California (GABA). He received an MBA from the Anderson School of Management at the University of California (UCLA), Los Angeles and an MSEE from the University of Ulm, Germany.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Mike-Milanov -->
+    <div class="modal fade speaker-modal" id="Mike-Milanov" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Mike-Milanov.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Mike Milanov</h2>
+              <p class="text-white m-0">Chairman - Advisory Board, Gaming & Esports at Qiddiya</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Mike Milanov, 37, is a seasoned gaming and esports veteran with a unique blend of industry expertise, entrepreneurial drive and a passion for shaping the future. As Chairman of the Advisory Board, Gaming & Esports at Qiddiya, Milanov spearheads the development of the global gaming and esports hub, the Qiddiya City Gaming & Esports District, ensuring it boldly aligns with the Kingdom of Saudi Arabia's Vision 2030. He oversees projects ranging from cutting-edge esports arenas to themed gaming hotels, all infused with the latest technology and architectural excellence. Demonstrating his strategic foresight, Milanov has contributed to developing forward-looking projects in the gaming and esports industry extending into 2050.</p>
+            <p>Prior to joining Qiddiya, Milanov served for years as Chief Operating Officer and Chief Business Development Officer at Team Liquid. In his position as CBDO, he led Liquid Enterprise’s new business endeavors through strategic partnerships and collaborations, mergers and acquisitions, co-branded licensing programs, and the creation of new revenue platforms. As COO, Milanov scaled Team Liquid from 10 to 250 full-time employees, where he managed multiple business units, including partnerships, original content production, apparel and new business. Beyond his commercial and operational responsibilities, Milanov leveraged his experience in video production, influencer management, sales and online streaming to help Liquid respond and adapt to industry trends. Under the Liquid Enterprises umbrella, Milanov spurred the development of 1UP Studios, Team Liquid’s in-house production company, the agency business of Liquid Media and the expansion of Liquid’s Apparel Unit, including partnerships and collaborations with the likes of Marvel and Naruto.</p>
+            <p>Inspired by his background as a professional World of Warcraft gamer, Milanov brings a "world-first" mindset to Qiddiya. Drawing on strategic thinking and long-range planning, he collaborates with global industry stakeholders to position Qiddiya as the undisputed global epicenter of gaming and esports. In his spare time, he loves playing Fortnite, League of Legends and tennis, discovering fashion and restaurants, and producing music. He lives in LA.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Ng-Ser-Miang -->
+    <div class="modal fade speaker-modal" id="Ng-Ser-Miang" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Ng-Ser-Miang.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Ng Ser Miang</h2>
+              <p class="text-white m-0">Vice President, International Olympic Committee</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Ng Ser Miang is a Singaporean entrepreneur, sport administrator, sailor and retired Ambassador. He is a distinguished figure in the world of sports, with a career spanning over two decades of dedicated service to the International Olympic Committee (IOC). He has been an active IOC member since 1998. He currently serves as Chair of the IOC Finance Commission and Human Resources Committee and was on the IOC Executive Board for 16 years with 8 years as Vice President. He played a pivotal role in shaping the future of esports in the Olympic Movement through his position as Steering Committee Co-Chair of the inaugural Olympic Esports Week 2023 in Singapore. His commitment to promoting innovation in sports and advancing the Olympic movement has made him a respected leader and visionary within the international sports arena.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Shay-Segev -->
+    <div class="modal fade speaker-modal" id="Shay-Segev" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Shay-Segev.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Shay Segev</h2>
+              <p class="text-white m-0">CEO, DAZN Group</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Shay Segev is the CEO of DAZN Group, the global sports entertainment platform that connects sports fans across the world. Under his leadership, DAZN is revolutionizing the way people experience sports through its market-leading, proprietary technology. DAZN is the global home of European football, women’s football, NFL International, boxing, basketball, motorsports, golf, and many other sports.</p>
+            <p>Before joining DAZN, Shay served as CEO of Entain, a FTSE 100 gaming company, where he drove remarkable growth. Previously, he was the COO of Playtech, a B2B gaming platform. Shay holds an MBA from the Kellogg School of Management and a degree in Computer Science.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Start Hosts & Moderators Section -->
     <section class="cs_pb_20 cs_pb_lg_55" id="speakers">
       <div class="container">
@@ -1450,7 +1672,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Andrew Chen</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">General Partner, Andreessen Horowitz</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">General Partner & Co-Founder, Andreessen Horowitz</p>
               </div>
             </div>
           </div>
@@ -1788,7 +2010,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Bruce Stein</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Founder, aXiomatic Gaming</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">Co-Founder aXiomatic Gaming, MD Juno Capital</p>
               </div>
             </div>
           </div>
@@ -1999,6 +2221,146 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Tim Morten</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">Co-Founder and CEO, Frost Giant Studios</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/HE-Abdullah-Alswaha.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#HE-Abdullah-Alswaha" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">H.E. Abdullah Alswaha</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Minister of Communications and Information Technology, Kingdom of Saudi Arabia</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Andrzej-Antoszkiewicz.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Andrzej-Antoszkiewicz" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Andrzej Antoszkiewicz</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO & Managing Partner, OrdoStrategica LDA</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Becca-Henry.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Becca-Henry" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Becca Henry</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Senior Brand Communications Manager, G2 Esports</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Danny-Tang.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Danny-Tang" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Danny Tang</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Co-Founder, CFO and Head of Global Strategy Office, VSPO</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Je-Alipio.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Je-Alipio" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Je Alipio</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Director & Head of Business Development, APAC & MENA, The Walt Disney Company</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/John-Hanke.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#John-Hanke" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">John Hanke</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Founder & CEO, Niantic</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Michael-Metzger.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Michael-Metzger" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Michael Metzger</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Managing Partner, Drake Star</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Mike-Milanov.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Mike-Milanov" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Mike Milanov</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Chairman - Advisory Board, Gaming & Esports at Qiddiya</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Ng-Ser-Miang.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Ng-Ser-Miang" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Ng Ser Miang</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Vice President, International Olympic Committee</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Shay-Segev.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Shay-Segev" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Shay Segev</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO, DAZN Group</p>
               </div>
             </div>
           </div>

@@ -315,7 +315,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">أندرو تشين</h2>
-              <p class="text-white m-0">شريك عام، أندريسن هورويتز</p>
+              <p class="text-white m-0">شريك عام والمؤسس المشارك، أندريسن هورويتز</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -803,7 +803,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">نانيا ريفز</h2>
-              <p class="text-white m-0">الرئيس التنفيذي والمؤسس المشارك لشركة تريب والمدير التنفيذي السابق للعمليات في شركة إلكترونيك ارتس</p>
+              <p class="text-white m-0">الرئيس التنفيذي والمؤسس المشارك لشركة تريب ونائب الرئيس والمدير التنفيذي للعمليات سابقا بمجموعة إلكترونيك آرتس اونلاين</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -954,7 +954,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">بروس شتاين</h2>
-              <p class="text-white m-0">المؤسس لشركة أكسيوماتيك جيمنغ</p>
+              <p class="text-white m-0">المؤسس المشارك لشركة اكسيوماتيك جيمينج، والمدير الإداري لشركة جونو كابيتال</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -1321,6 +1321,229 @@
       </div>
     </div>
 
+    <!-- Modal HE-Abdullah-Alswaha -->
+    <div class="modal fade speaker-modal" id="HE-Abdullah-Alswaha" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/HE-Abdullah-Alswaha.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">معالي الوزير عبد الله السواحه</h2>
+              <p class="text-white m-0">وزير الاتصالات وتقنية المعلومات، المملكة العربية السعودية</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>يتمتع معالي المهندس عبد الله السواحه بخبرة تزيد عن عقدين من الزمان في القيادة والابتكار وريادة الأعمال. وخلال مسيرته المهنية التي استمرت عقدًا من الزمان، بنى منظمات عالية الأداء بمليارات الريالات في القطاعين الخاص والعام. ويرأس معاليه هيئة الاتصالات والفضاء والتكنولوجيا، ووكالة الفضاء السعودية، وهيئة البحث والتطوير والابتكار، ومدينة الملك عبد العزيز للعلوم والتقنية. وهو عضو في العديد من اللجان الاجتماعية والاقتصادية على المستوى الوزاري، ويشغل عضوية مجلس إدارة مؤسسة مسك الخيرية، ونيوم، وجامعة الملك سعود. حصل معاليه على درجة البكالوريوس في الهندسة الكهربائية من جامعة الملك فهد للبترول والمعادن، وعلوم الكمبيوتر من جامعة واشنطن، وحضر برنامج التعليم التنفيذي في كلية هارفارد للأعمال.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Andrzej-Antoszkiewicz -->
+    <div class="modal fade speaker-modal" id="Andrzej-Antoszkiewicz" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Andrzej-Antoszkiewicz.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">أندريه أنتوسكيويتش</h2>
+              <p class="text-white m-0">الرئيس التنفيذي والشريك الإداري لشركة أوردوستراتيجيكا إل دي إيه</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>أندريه أنتوسكيويتش هو الرئيس التنفيذي والشريك الإداري لشركة أوردوستراتيجيكا، حيث يركز على مستقبل الأحداث الرياضية والرياضية الإلكترونية. تشمل محفظته المهنية العديد من وظائف القيادة الدولية، بما في ذلك الاتحاد الدولي لكرة القدم (الفيفا)، ومنظمة التعاون الاقتصادي والتنمية، وحلف شمال الأطلسي (الناتو).</p>
+            <p>في الاتحاد الدولي لكرة القدم، بصفته رئيسًا عالميًا للاستراتيجية والتخطيط والابتكار وحلول الأعمال، كان لأندريه تأثيرًا عميقًا على كيفية تخطيط الفيفا وتقديمها لكأس العالم. خلال فترة عمله، حول الفيفا نموذج تشغيل كأس العالم لكرة القدم، وأصلح عملية اختيار المضيفين والعطاءات، وأحدث ثورة في ابتكار البطولات ونفذ التخطيط المتكامل.</p>
+            <p>كما قاد أندريه التخطيط والتنسيق الشاملين لقمتين لحلف شمال الأطلسي. في عام 2015، تم تعيينه مستشارًا رئيسيًا لقمة حلف شمال الأطلسي لحكومة بولندا، حيث حصل على وسام فارس الاستحقاق لجمهورية بولندا.</p>
+            <p>حصل أندريه على درجة الماجستير في إدارة الأعمال من جامعة أكسفورد، وفي عام 2022 تم الاعتراف به كواحد من أفضل 100 شخص على مستوى العالم من قبل مجلة بوويتز أند كوانتز.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Becca-Henry -->
+    <div class="modal fade speaker-modal" id="Becca-Henry" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Becca-Henry.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">بيكا هنري</h2>
+              <p class="text-white m-0">مديرة أولى لاتصالات العلامة التجارية، جي 2 للرياضات الإلكترونية</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>بيكا هنري هي خبيرة اتصالات وبناء علامات تجارية ولديها مسيرة مهنية تزيد عن 13 عامًا في مجال الرياضات الإلكترونية والألعاب. وهي خبيرة متحمسة في مجال الترفيه الرياضي الإلكتروني، وتقود حاليًا الاتصالات العالمية والعلامة التجارية لشركة جي 2 للرياضات الإلكترونية، وهي المنظمة الأكثر تسلية وإبداعًا في مجال الرياضات الإلكترونية، وتضع استراتيجيات تتصل بشكل أصيل بجمهور جي 2، وتعزز قوة جي 2 في سرد ​​القصص ونبرة الصوت الفريدة.</p>
+            <p>قبل جي 2، كانت بيكا نائبة رئيس الاتصالات لمجموعة ميسفيتس للألعاب، حيث استفادت من مهاراتها لتعزيز وتنمية هوية العلامة التجارية لشركة إم جي جي، وزيادة الوعي والرؤية وتقارب العلامة التجارية عبر قائمة إم جي جي المتنامية من الممتلكات.</p>
+            <p>قبل ميسفيتس، قادت بيكا اتصالات الرياضات الإلكترونية الأوروبية لشركة رايوت جيمز - من العام الافتتاحي لبطولة إل سي إس الأوروبية، مع التركيز على زيادة الوعي الرياضة في مهدها، وصولاً إلى حملة العلامة التجارية التي أطلقت بطولة إل إي سي.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Danny-Tang -->
+    <div class="modal fade speaker-modal" id="Danny-Tang" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Danny-Tang.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">داني تان</h2>
+              <p class="text-white m-0">المؤسس المشارك والمدير المالي ورئيس مكتب الاستراتيجية العالمية، في إس بي أو</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>بصفتها أحد المؤسسين المشاركين في في إس بي أو، شغلت داني منصب المدير المالي للشركة منذ إنشائها في عام 2016 وقاد العديد من الأقسام داخل الشركة. عملت السيدة تانج سابقًا كشريكة أولى ثم نائبة رئيس بنك التنمية الصيني من عام 2010 إلى عام 2014. وقبل ذلك، عملت كمحللة استثمارية فيكولبيرج كرافيس روبرتس وشركاه من عام 2007 إلى عام 2010.</p>
+            <p>حصلت السيدة تانج على درجة البكالوريوس في الاقتصاد والرياضيات مع مرتبة الشرف من كلية برين ماور ودرجة الماجستير في العلوم في الإدارة من جامعة ستانفورد.</p>
+            <p>وهي شغوفة بالمستقبل البعيد لصناعة الرياضات الإلكترونية، وقد تم الاعتراف بها كواحدة من أفضل 100 قائدة مدعومة من النساء في منطقة آسيا والمحيط الهادئ من قبل جي بي مورجان وإرنست ويونغ في عام 2022.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Je-Alipio -->
+    <div class="modal fade speaker-modal" id="Je-Alipio" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Je-Alipio.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">جي أليبيو</h2>
+              <p class="text-white m-0">مدير ورئيس تطوير الأعمال، منطقة آسيا والمحيط الهادئ والشرق الأوسط وشمال إفريقيا، شركة والت ديزني</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>يتولى جي قيادة مبادرات الألعاب لشركة والت ديزني في منطقة آسيا والمحيط الهادئ والشرق الأوسط وشمال إفريقيا. ويركز على تقديم تجارب ألعاب عالية الجودة عبر الامتيازات التي تقرب المعجبين من قصصهم و شخصياتهم المفضلة على المنصات الرقمية. لديه أكثر من 20 عامًا من الخبرة في صناعة الألعاب، حيث شغل مناصب قيادية عليا مختلفة في إلكترونيك آرتس لمنطقة آسيا والمحيط الهادئ بالإضافة إلى استوديوهات متوسطة الحجم وناشئة. كما يعمل حاليًا كمرشد لشركة بكسل وإيغدا والاستوديوهات التابعة لهيئة تطوير وسائل الإعلام والاتصالات في سنغافورة وبرنامج تسريع الألعاب المستقلة التابع لشركة جوجل بالإضافة إلى مستشار مجلس إدارة جمعية الألعاب في سنغافورة وجمعية ألعاب أسوسياسي إندونيسيا.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal John-Hanke -->
+    <div class="modal fade speaker-modal" id="John-Hanke" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/John-Hanke.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">جون هانكه</h2>
+              <p class="text-white m-0">المؤسس والرئيس التنفيذي لشركة نيانتيك</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>يقود جون تطوير منصة الواقع المعزز العالمية لشركة نيانتيك التي تدعم الألعاب بما في ذلك بوكيمون جو وبيكمين بلوم ومونستر هنتر ناو وبيريدوتوإنجرس. كما يستخدم المطورون في جميع أنحاء العالم منصة الواقع المعزز الخاصة بشركة نيانتيك لإنشاء تجارب الواقع المعزز المتطورة للهواتف ونظارات الواقع المعزز.</p>
+            <p>بعد احتضان فريق الخرائط في جوجل، أنشأت نيانتيك أولاً لعبة إنجرس ثم لعبة بوكيمون جو، وهي ظاهرة ثقافية يلعبها عشرات الملايين من الأشخاص كل شهر. في وقت سابق من حياته المهنية، كان جون أحد مؤسسي أرك تايب، مبتكر إحدى أولى ألعاب اللاعبين المتعددين على الإنترنت، ميريديان 59. ثم شارك في تأسيس كيهول، وهي شركة مخصصة لإعادة إنشاء نسخة رقمية من الكرة الأرضية، والتي استحوذت عليها جوجل وأدت إلى إنشاء جوجل ايرث.كان جون نائب رئيس قسم جيو في جوجل، حيث أشرف على مشاريع بما في ذلك الخرائط والتجوّل الافتراضي، لمدة سبع سنوات قبل تأسيس نيانتيك.</p>
+            <p>حصل جون على درجة البكالوريوس من جامعة تكساس في أوستن ودرجة الماجستير في إدارة الأعمال من كلية هاس للأعمال في جامعة كاليفورنيا بيركلي.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Michael-Metzger -->
+    <div class="modal fade speaker-modal" id="Michael-Metzger" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Michael-Metzger.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">مايكل ميتزجر</h2>
+              <p class="text-white m-0">الشريك الإداري، دريك ستار</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>مايكل ميتزجر هو الشريك الإداري في دريك ستار، بنك استثماري عالمي في مجال الوسائط/التكنولوجيا يضم حوالي 100 متخصص في جميع أنحاء الولايات المتحدة وأوروبا. وقد سهّل أكثر من 20 عملية اندماج واستحواذ وتمويل مرتبطة بالألعاب والرياضات الإلكترونية ويعتبر من رواد الفكر العالميين في مجال الوسائط الرقمية والألعاب. يحمل مايكل خمس براءات اختراع في مجال الاتصالات ويشغل منصب رئيس مجلس إدارة جمعية الأعمال الألمانية الأمريكية في جنوب كاليفورنيا. حصل على ماجستير إدارة الأعمال من كلية أندرسون للإدارة في جامعة كاليفورنيا، لوس أنجلوس، وماجستير في الهندسة الكهربائية من جامعة أولم، ألمانيا.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Mike-Milanov -->
+    <div class="modal fade speaker-modal" id="Mike-Milanov" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Mike-Milanov.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">مايك ميلانوف</h2>
+              <p class="text-white m-0">رئيس مجلس إدارة المجلس الاستشاري للألعاب والرياضات الإلكترونية في القدية</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>مايك ميلانوف، 37 عامًا، هو خبير مخضرم في الألعاب والرياضات الإلكترونية يتمتع بمزيج فريد من الخبرة في الصناعة والدافع الريادي والشغف بتشكيل المستقبل. بصفته رئيسًا للمجلس الاستشاري للألعاب والرياضات الإلكترونية في القدية، يتولى ميلانوف قيادة تطوير مركز الألعاب والرياضات الإلكترونية العالمي، منطقة الألعاب والرياضات الإلكترونية في مدينة القدية، مما يضمن توافقها بجرأة مع رؤية المملكة العربية السعودية 2030. يشرف على مشاريع تتراوح من ساحات الألعاب الإلكترونية المتطورة إلى فنادق الألعاب ذات الطابع الخاص، وكلها مشبعة بأحدث التقنيات والتميز المعماري. ودلالة على رؤيته الاستراتيجية، ساهم ميلانوف في تطوير مشاريع مستقبلية في صناعة الألعاب والرياضات الإلكترونية تمتد حتى عام 2050.</p>
+            <p>قبل الانضمام إلى القدية، عمل ميلانوف لسنوات كرئيس تنفيذي للعمليات ورئيس تنفيذي لتطوير الأعمال في تيم ليكويد. في منصبه كرئيس تنفيذي لتنمية الأعمال، قاد ميلانوف المساعي التجارية الجديدة لشركة ليكويد من خلال الشراكات والتعاون الاستراتيجي، وعمليات الدمج والاستحواذ، وبرامج الترخيص ذات العلامة التجارية المشتركة، وإنشاء منصات إيرادات جديدة. بصفته مدير العمليات، نجح ميلانوف في توسيع فريق تيم ليكويد من 10 إلى 250 موظفًا بدوام كامل، حيث أدار وحدات أعمال متعددة، بما في ذلك الشراكات، وإنتاج المحتوى الأصلي، والملابس والأعمال الجديدة. وبخلاف مسؤولياته التجارية والتشغيلية، استفاد ميلانوف من خبرته في إنتاج الفيديو وإدارة المؤثرين والمبيعات والبث عبر الإنترنت لمساعدة ليكويد على الاستجابة والتكيف مع اتجاهات الصناعة. وتحت مظلة مؤسسة ليكويد، حفز ميلانوف تطوير استوديوهات وان أب، شركة الإنتاج الداخلية لشركة تيم ليكويد، وأعمال الوكالة لشركة ليكويد ميديا وتوسيع وحدة الملابس التابعة لشركة ليكويد، بما في ذلك الشراكات والتعاون مع أمثال مارفل وناروتو.</p>
+            <p>مستوحى من خلفيته كلاعب محترف في عالم وور كرافت، يجلب ميلانوف عقلية "الأولى عالميًا" إلى القدية. و بالاستفادة من التفكير الاستراتيجي والتخطيط بعيد المدى، يتعاون مع أصحاب المصلحة في الصناعة العالمية لوضع القدية كمركز عالمي بلا منازع للألعاب والرياضات الإلكترونية. وفي أوقات فراغه، يحب لعب فورتنايت، ودوري الأساطير، والتنس، واكتشاف الموضة، والمطاعم وإنتاج الموسيقى. يعيش مايك في لوس أنجلوس.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Ng-Ser-Miang -->
+    <div class="modal fade speaker-modal" id="Ng-Ser-Miang" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Ng-Ser-Miang.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">سير ميانج نج</h2>
+              <p class="text-white m-0">نائب رئيس اللجنة الأولمبية الدولية</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>إن سير ميانج هو رجل أعمال سنغافوري ومدير رياضي وبحار وسفير متقاعد. وهو شخصية بارزة في عالم الرياضة، حيث امتدت مسيرته المهنية لأكثر من عقدين من الخدمة المخلصة للجنة الأولمبية الدولية. وكان عضوًا نشطًا في اللجنة الأولمبية الدولية منذ عام 1998. وهو يشغل حاليًا منصب رئيس لجنة المالية والموارد البشرية التابعة للجنة الأولمبية الدولية وكان عضوًا في المجلس التنفيذي للجنة الأولمبية الدولية لمدة 16 عامًا منها 8 سنوات كنائب للرئيس. ولعب دورًا محوريًا في تشكيل مستقبل الرياضات الإلكترونية في الحركة الأولمبية من خلال منصبه كرئيس مشارك للجنة التوجيهية لأسبوع الرياضات الإلكترونية الأولمبي الافتتاحي 2023 في سنغافورة. وقد جعله التزامه بتعزيز الابتكار في الرياضة والنهوض بالحركة الأولمبية قائدًا محترمًا وصاحب رؤية في الساحة الرياضية الدولية.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Shay-Segev -->
+    <div class="modal fade speaker-modal" id="Shay-Segev" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Shay-Segev.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">شاي سيجيف</h2>
+              <p class="text-white m-0">الرئيس التنفيذي لمجموعة دازن</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>شاي سيجيف هو الرئيس التنفيذي لمجموعة دازن، منصة الترفيه الرياضي العالمية التي تربط بين مشجعي الرياضة في جميع أنحاء العالم. وتحت قيادته، تعمل دازن على إحداث ثورة في الطريقة التي يستمتع بها الناس بالرياضة من خلال تكنولوجيتها الرائدة في السوق.</p>
+            <p>دازن هي الموطن العالمي لكرة القدم الأوروبية وكرة القدم النسائية والدوري الوطني لكرة القدم الأمريكية والملاكمة وكرة السلة ورياضة السيارات والجولف والعديد من الرياضات الأخرى.</p>
+            <p>قبل الانضمام إلى دازن، شغل شاي منصب الرئيس التنفيذي لشركة إنتين، وهي شركة ألعاب مدرجة في مؤشر فاينانشال تايمز 100، حيث قاد نموًا ملحوظًا. وفي السابق، كان مدير العمليات في بلايتك، وهي منصة ألعاب ب2ب. حصل شاي على ماجستير إدارة الأعمال من كلية كيلوج للإدارة ودرجة في علوم الكمبيوتر.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Start Hosts & Moderators Section -->
     <section class="cs_pb_20 cs_pb_lg_55" id="speakers">
       <div class="container">
@@ -1454,7 +1677,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">أندرو تشين</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">شريك عام، أندريسن هورويتز</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">شريك عام والمؤسس المشارك، أندريسن هورويتز</p>
               </div>
             </div>
           </div>
@@ -1708,7 +1931,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">نانيا ريفز</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي والمؤسس المشارك لشركة تريب والمدير التنفيذي السابق للعمليات في شركة إلكترونيك ارتس</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي والمؤسس المشارك لشركة تريب ونائب الرئيس والمدير التنفيذي للعمليات سابقا بمجموعة إلكترونيك آرتس اونلاين</p>
               </div>
             </div>
           </div>
@@ -1792,7 +2015,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">بروس شتاين</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">المؤسس لشركة أكسيوماتيك جيمنغ</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">المؤسس المشارك لشركة اكسيوماتيك جيمينج، والمدير الإداري لشركة جونو كابيتال</p>
               </div>
             </div>
           </div>
@@ -2003,6 +2226,146 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">تيم مورتون</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">المؤسس المشارك والرئيس التنفيذي، فروست جاينت ستوديوز</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/HE-Abdullah-Alswaha.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#HE-Abdullah-Alswaha" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">معالي الوزير عبد الله السواحه</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">وزير الاتصالات وتقنية المعلومات، المملكة العربية السعودية</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Andrzej-Antoszkiewicz.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Andrzej-Antoszkiewicz" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">أندريه أنتوسكيويتش</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي والشريك الإداري لشركة أوردوستراتيجيكا إل دي إيه</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Becca-Henry.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Becca-Henry" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">بيكا هنري</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">مديرة أولى لاتصالات العلامة التجارية، جي 2 للرياضات الإلكترونية</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Danny-Tang.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Danny-Tang" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">داني تان</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">المؤسس المشارك والمدير المالي ورئيس مكتب الاستراتيجية العالمية، في إس بي أو</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Je-Alipio.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Je-Alipio" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">جي أليبيو</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">مدير ورئيس تطوير الأعمال، منطقة آسيا والمحيط الهادئ والشرق الأوسط وشمال إفريقيا، شركة والت ديزني</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/John-Hanke.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#John-Hanke" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">جون هانكه</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">المؤسس والرئيس التنفيذي لشركة نيانتيك</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Michael-Metzger.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Michael-Metzger" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">مايكل ميتزجر</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الشريك الإداري، دريك ستار</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Mike-Milanov.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Mike-Milanov" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">مايك ميلانوف</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">رئيس مجلس إدارة المجلس الاستشاري للألعاب والرياضات الإلكترونية في القدية</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Ng-Ser-Miang.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Ng-Ser-Miang" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">سير ميانج نج</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">نائب رئيس اللجنة الأولمبية الدولية</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Shay-Segev.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Shay-Segev" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">شاي سيجيف</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي لمجموعة دازن</p>
               </div>
             </div>
           </div>
