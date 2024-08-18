@@ -2760,14 +2760,14 @@
                   <img src="{{ asset('assets/img/partners/Honor.svg') }}" alt="Partner">
                 </a>
               </div>
-              <div class="cs_brand col-4 col-lg-4" style="padding-left:7%;">
-                <a href="https://www.intel.com/content/www/us/en/homepage.html" target="_blank">
-                  <img src="{{ asset('assets/img/partners/Intel.svg') }}" alt="Partner">
-                </a>
-              </div>
               <div class="cs_brand col-4 col-lg-4">
                 <a href="https://barns.com.sa/en" target="_blank">
                   <img src="{{ asset('assets/img/partners/Barns.svg') }}" alt="Partner" style="max-height:50px;">
+                </a>
+              </div>
+              <div class="cs_brand col-4 col-lg-4" style="padding-left:7%;">
+                <a href="https://www.intel.com/content/www/us/en/homepage.html" target="_blank">
+                  <img src="{{ asset('assets/img/partners/Intel.svg') }}" alt="Partner">
                 </a>
               </div>
             </div>
