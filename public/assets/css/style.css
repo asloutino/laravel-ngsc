@@ -1679,6 +1679,10 @@ label {
   .cs-hidden_desktop {
     display: none !important;
   }
+
+  #speakers.moderators-hosts .col-lg-2 {
+    width:14.285%!important;
+  }
 }
 @media screen and (max-width: 991px) {
   .cs-hidden_mobile {

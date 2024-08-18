@@ -315,7 +315,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">أندرو تشين</h2>
-              <p class="text-white m-0">شريك عام والمؤسس المشارك، أندريسن هورويتز</p>
+              <p class="text-white m-0">شريك عام ، أندريسن هورويتز</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -1001,7 +1001,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">دان بونتنج</h2>
-              <p class="text-white m-0">رئيس الاستوديو والمدير السابق لسلسلة ألعاب كول أوف ديوتي: بلاك أوبس</p>
+              <p class="text-white m-0">شريك استثماري في 1 ايه ام جيمنج</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -1544,8 +1544,52 @@
       </div>
     </div>
 
+    <!-- Modal Jessica-Tams -->
+    <div class="modal fade speaker-modal" id="Jessica-Tams" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Jessica-Tams.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">جيسيكا تامس</h2>
+              <p class="text-white m-0">عضو مجلس إدارة، أتاري</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>جيسيكا تامس، 47 عامًا، شخصية بارزة في صناعة الألعاب منذ عام 1998. وهي تشغل حاليًا منصب عضو مجلس إدارة أتاري، وهي شريكة في مشروع جريفين للألعاب، وتعمل كمستشارة استراتيجية لشركة مانغا للإنتاج، وهي شركة تابعة لمؤسسة مسك. في عام 2006، أسست جيسيكا وعملت كمديرة تنفيذية لشركة كاجوال كونكت، أكبر حدث دولي للألعاب الاحترافية ب2ب يمتد على آسيا وأوروبا وأوروبا الشرقية والأمريكتين. كما أطلقت جائزة إندي وجايمسوس، وهما برنامجان رائدان لطرح الألعاب في السوق لمطوري الألعاب المستقلين.</p>
+            <p>في عام 2003، أسست جيسيكا الاستوديو المستقل الذي نشر عناوين إكس بوكس ​​لايف أركيد الافتتاحية وطورت الالعاب المحدثة لنظام ويندوز، بما في ذلك لعبة سوليتير التي يتم لعبها على نطاق واسع.</p>
+            <p>بدأت جيسيكا حياتها المهنية كمهندسة برمجيات لألعاب آر بي جي والمغامرة وحصلت على درجات علمية في الرياضيات والفيزياء وعلوم الكمبيوتر.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Nora-AlShaikh -->
+    <div class="modal fade speaker-modal" id="Nora-AlShaikh" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Nora-AlShaikh.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">نورا الشيخ</h2>
+              <p class="text-white m-0">المؤسسة والمديرة الإبداعية، نورا الشيخ</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>ولدت نورا الشيخ في الرياض، المملكة العربية السعودية، وحصلت على درجة في إدارة الأعمال من جامعة الملك سعود قبل الالتحاق بمعهد الفنون والمهارات بالرياض، والذي قدم أول برنامج للأزياء من نوعه في المملكة. أطلقت نورا علامتها التجارية في عام 2012، وتستخدم الموضة كأداة لربط الثقافات من خلال الإشارة إلى المناطق المتنوعة في المملكة العربية السعودية وتقاليد الحرف اليدوية وأشكال الفن. في عام 2019، كانت واحدة من ثلاثة مصممي أزياء سعوديين اختارتهم وزارة الثقافة للمشاركة في تشكيل رؤية المملكة 2030، من خلال تصور الدور الذي يمكن أن تلعبه الموضة في تشكيل تصورات البلاد وتراثها الغني. في نفس العام، تم تسميتها ضمن أفضل عشر نساء سعوديات وراء العلامات التجارية في الشرق الأوسط من قبل مجلة فوربس الشرق الأوسط، بالإضافة إلى دعوتها من قبل سفارة المملكة العربية السعودية في واشنطن للظهور في سلسلة الفيديو "نساء سعوديات تحت الأضواء" في عام 2022. في عددها الصادر في يوليو 2024، ضمت مجلة فوربس الشرق الأوسط نورا آل الشيخ إلى قائمة أفضل المبدعين في مجال الموضة في المنطقة.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Start Hosts & Moderators Section -->
-    <section class="cs_pb_20 cs_pb_lg_55" id="speakers">
+    <section class="cs_pb_20 cs_pb_lg_55 moderators-hosts" id="speakers">
       <div class="container">
         <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
           <div class="cs_section_heading_in">
@@ -1558,7 +1602,7 @@
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Anna-Rozwandowicz.png" alt="Member">
-                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
                 <a href="#" data-bs-toggle="modal" data-bs-target="#Anna-Rozwandowicz" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
                 </div>
               </div>
@@ -1571,8 +1615,22 @@
           <div class="col-6 col-sm-4 col-md-4 col-lg-2">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Jessica-Tams.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Jessica-Tams" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">جيسيكا تامس</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">عضو مجلس إدارة، أتاري</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Joe-Pompliano.png" alt="Member">
-                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
                 <a href="#" data-bs-toggle="modal" data-bs-target="#Joe-Pompliano" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
                 </div>
               </div>
@@ -1586,7 +1644,7 @@
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Maha-Abouelenein.png" alt="Member">
-                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
                 <a href="#" data-bs-toggle="modal" data-bs-target="#Maha-Abouelenein" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
                 </div>
               </div>
@@ -1600,7 +1658,7 @@
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/MJ-Acosta-Ruiz.png" alt="Member">
-                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
                 <a href="#" data-bs-toggle="modal" data-bs-target="#MJ-Acosta-Ruiz" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
                 </div>
               </div>
@@ -1614,7 +1672,7 @@
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/OJ-Borg.png" alt="Member">
-                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
                 <a href="#" data-bs-toggle="modal" data-bs-target="#OJ-Borg" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
                 </div>
               </div>
@@ -1628,7 +1686,7 @@
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Songyee-Yoon.png" alt="Member">
-                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
                 <a href="#" data-bs-toggle="modal" data-bs-target="#Songyee-Yoon" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
                 </div>
               </div>
@@ -1705,7 +1763,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">أندرو تشين</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">شريك عام والمؤسس المشارك، أندريسن هورويتز</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">شريك عام ، أندريسن هورويتز</p>
               </div>
             </div>
           </div>
@@ -1817,7 +1875,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">دان بونتنج</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">رئيس الاستوديو والمدير السابق لسلسلة ألعاب كول أوف ديوتي: بلاك أوبس</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">شريك استثماري في 1 ايه ام جيمنج</p>
               </div>
             </div>
           </div>
@@ -2196,6 +2254,20 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">نيكولا ميزون</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">مدير العمليات والمؤسس المشارك، كوتور ران واي، فيزتا دي جي تي إل</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Nora-AlShaikh.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Nora-AlShaikh" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">نورا الشيخ</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">المؤسسة والمديرة الإبداعية، نورا الشيخ</p>
               </div>
             </div>
           </div>

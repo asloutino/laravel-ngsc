@@ -315,7 +315,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Andrew Chen</h2>
-              <p class="text-white m-0">General Partner & Co-Founder, Andreessen Horowitz</p>
+              <p class="text-white m-0">General Partner, Andreessen Horowitz</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -996,7 +996,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Dan Bunting</h2>
-              <p class="text-white m-0">Former Studio Head & Game Director, Call of Duty: Black Ops series</p>
+              <p class="text-white m-0">Venture Partner, 1AM Gaming</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -1539,8 +1539,52 @@
       </div>
     </div>
 
+    <!-- Modal Jessica-Tams -->
+    <div class="modal fade speaker-modal" id="Jessica-Tams" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Jessica-Tams.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Jessica Tams</h2>
+              <p class="text-white m-0">Board of Directors, Atari</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Jessica Tams, 47, has been a prominent figure in the games industry since 1998. She currently serves on the Board of Directors for Atari, is a Venture Partner at Griffin Gaming Partners, and acts as a Strategic Advisor for Manga Productions, a subsidiary of the MISK Foundation. In 2006, Jessica founded and served as the Managing Director of Casual Connect, the largest international professional games B2B event spanning Asia, Europe, Eastern Europe, and the Americas. She also launched Indie Prize and Gamesauce, the leading go-to-market programs for independent game developers.</p>
+            <p>In 2003, Jessica established the independent studio that published the inaugural Xbox Live Arcade titles and developed the revamped Games for Windows, including the widely played Solitaire.</p>
+            <p>Jessica began her career as a software engineer for RPG and Adventure Games and holds degrees in Mathematics, Physics, and Computer Science.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Nora-AlShaikh -->
+    <div class="modal fade speaker-modal" id="Nora-AlShaikh" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Nora-AlShaikh.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Nora Al Shaikh</h2>
+              <p class="text-white m-0">Founder & Creative Director, Nora Al Shaikh</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Born in Riyadh, Saudi Arabia, Nora Alalshaikh received her degree in Business Administration from King Saud University before enrolling at Riyadh’s Arts & Skills Institute, which offered the first fashion program of its kind in the Kingdom. Launching her brand in 2012, Nora uses fashion as a tool to bridge cultures by referencing Saudi Arabia’s diverse regions, craft traditions and art forms. In 2019, she was one of three Saudi fashion designers selected by the Ministry of Culture to participate in shaping the Kingdom’s 2030 Vision, by envisioning the role fashion can play in shaping perceptions of the country and its rich heritage. That same year she was named amongst the top ten Saudi women behind Middle Eastern brands by Forbes Middle East, in addition to being invited by Saudi Arabia’s Embassy in Washington D.C. to be featured in the video series Saudi Women in the Spotlight in 2022. For its July 2024 edition, Forbes Middle East included Nora Alalshaikh among the region’s top fashion innovators.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Start Hosts & Moderators Section -->
-    <section class="cs_pb_20 cs_pb_lg_55" id="speakers">
+    <section class="cs_pb_20 cs_pb_lg_55 moderators-hosts" id="speakers">
       <div class="container">
         <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
           <div class="cs_section_heading_in">
@@ -1560,6 +1604,20 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Anna Rozwandowicz</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">CEO, The Story Mob</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Jessica-Tams.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Jessica-Tams" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Jessica Tams</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Board of Directors, Atari</p>
               </div>
             </div>
           </div>
@@ -1700,7 +1758,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Andrew Chen</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">General Partner & Co-Founder, Andreessen Horowitz</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">General Partner, Andreessen Horowitz</p>
               </div>
             </div>
           </div>
@@ -1812,7 +1870,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Dan Bunting</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Former Studio Head & Game Director, Call of Duty: Black Ops series</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">Venture Partner, 1AM Gaming</p>
               </div>
             </div>
           </div>
@@ -2191,6 +2249,20 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Nicola Mizon</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">COO & Co-Founder, Kutur Runway, Vizta DGTL</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Nora-AlShaikh.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Nora-AlShaikh" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Nora Al Shaikh</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Founder & Creative Director, Nora Al Shaikh</p>
               </div>
             </div>
           </div>
