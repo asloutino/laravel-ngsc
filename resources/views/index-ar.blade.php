@@ -2834,7 +2834,7 @@
                 </a>
               </div>
               <div class="cs_brand col-3 col-lg-2">
-                <a href="https://qsah.sa/" target="_blank">
+                <a href="https://www.tiktok.com/@tabah_sa" target="_blank">
                   <img src="{{ asset('assets/img/partners/Tabah.svg') }}" alt="Partner">
                 </a>
               </div>
