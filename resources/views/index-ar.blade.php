@@ -1589,6 +1589,69 @@
       </div>
     </div>
 
+    <!-- Modal Ahmad-Alabduljabbar -->
+    <div class="modal fade speaker-modal" id="Ahmad-Alabduljabbar" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Ahmad-Alabduljabbar.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">أحمد العبد الجبار</h2>
+              <p class="text-white m-0">مدير عام، شركة إنتل، المملكة العربية السعودية</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>يتمتع أحمد العبد الجبار بخبرة تزيد عن 25 عامًا في مجال تكنولوجيا المعلومات والخدمات المصرفية وإدارة التكنولوجيا. وتمتد خلفيته المتنوعة إلى المبيعات والتسويق وتطوير الأعمال وابتكار المنتجات وإدارة العملاء وتحسين العمليات وإدارة علاقات العملاء. ولديه خبرة كبيرة في تكنولوجيا المعلومات والحوسبة عالية الأداء والبيانات الضخمة والمنتجات المصرفية الإسلامية والتقليدية وقطاعات الأعمال التجارية للمؤسسات. شغل أحمد مناصب قيادية في مؤسسات مرموقة مثل مجموعة العليان وسيتي بنك وبنك إتش إس بي سي و كريديت أجريكول. أحمد العبد الجبار يشغل حاليًا منصب المدير العام لشركة إنتل في المملكة العربية السعودية، وطوال حياته المهنية، قاد تطوير الأعمال للهيئات الحكومية ومنظمات القطاع الخاص والجامعات والمؤسسات. وهو حاصل على ماجستير إدارة الأعمال مع التركيز على تسويق البيانات الضخمة من جامعة نورثامبتون في المملكة المتحدة.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Katsuhiro-Harada -->
+    <div class="modal fade speaker-modal" id="Katsuhiro-Harada" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Katsuhiro-Harada.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">كاتسوهيرو هارادا</h2>
+              <p class="text-white m-0">مخرج ومنتج ألعاب، بانداي نامكو إنترتينمنت</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>عمل على لعبة تيكين لمدة 30 عامًا، كما عمل كمخرج ومنتج ألعاب لتطوير العديد من العناوين، بما في ذلك سول كاليبر وبوكين وعناوين الواقع الافتراضي.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Michael-Murray -->
+    <div class="modal fade speaker-modal" id="Michael-Murray" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Michael-Murray.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">مايكل موراي</h2>
+              <p class="text-white m-0">منتج لعبة تيكين 8، بانداي نامكو إنترتينمنت</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>انضم إلى نامكو في عام 2001. وبصفته منتجًا للترجمة، عمل على العديد من الامتيازات الشهيرة، وأبرزها أيس كومبات وسول كاليبور وسيد التايكو. عمل على سلسلة تيكين لأكثر من 20 عامًا في أدوار مختلفة من الترجمة والتسويق وتصميم الألعاب والإنتاج لاحقًا.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Start Hosts & Moderators Section -->
     <section class="cs_pb_20 cs_pb_lg_55 moderators-hosts" id="speakers">
       <div class="container">
@@ -1765,6 +1828,20 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">رالف رايشرت</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي لمؤسسة كأس العالم للرياضات الإلكترونية</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Ahmad-Alabduljabbar.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Ahmad-Alabduljabbar" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">أحمد العبد الجبار</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">مدير عام، شركة إنتل، المملكة العربية السعودية</p>
               </div>
             </div>
           </div>
@@ -2079,6 +2156,20 @@
           <div class="col-6 col-sm-4 col-md-4 col-lg-2">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Katsuhiro-Harada.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Katsuhiro-Harada" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">كاتسوهيرو هارادا</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">مخرج ومنتج ألعاب، بانداي نامكو إنترتينمنت</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Khaled-Makhshoush.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
                   <a href="#" data-bs-toggle="modal" data-bs-target="#Khaled-Makhshoush" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
@@ -2157,6 +2248,20 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">مايكل ميتزجر</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">الشريك الإداري، دريك ستار</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Michael-Murray.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Michael-Murray" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">مايكل موراي</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">منتج لعبة تيكين 8، بانداي نامكو إنترتينمنت</p>
               </div>
             </div>
           </div>

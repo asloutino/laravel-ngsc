@@ -1584,6 +1584,69 @@
       </div>
     </div>
 
+    <!-- Modal Ahmad-Alabduljabbar -->
+    <div class="modal fade speaker-modal" id="Ahmad-Alabduljabbar" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Ahmad-Alabduljabbar.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Ahmad Alabduljabbar</h2>
+              <p class="text-white m-0">General Manager - Saudi Arabia, Intel Corporation</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Ahmad Alabduljabbar brings over 25 years of expertise in IT, banking, and technology management. His diverse background spans sales and marketing, business development, product innovation, customer management, process optimization, and customer relationship management. He has significant experience in IT, high-performance computing (HPC), Big Data, Islamic and conventional banking products, and enterprise business segments. Ahmad has held leadership roles in prestigious organizations such as the Olayan Group, Citibank, HSBC, and Credit Agricole. He currently serves as the General Manager for Saudi Arabia at Intel Corporation. Throughout his career, Ahmad has driven business development for government bodies, private sector organizations, universities, and enterprises. He holds an MBA with a focus on Big Data marketing from the University of Northampton in the United Kingdom.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Katsuhiro-Harada -->
+    <div class="modal fade speaker-modal" id="Katsuhiro-Harada" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Katsuhiro-Harada.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Katsuhiro Harada</h2>
+              <p class="text-white m-0">Game Director and Producer, Bandai Namco Entertainment</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Worked on TEKKEN for 30 years, also as a game Director/Producer developing numerous titles, including Soul Calibur, POKKÉN and VR titles.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Michael-Murray -->
+    <div class="modal fade speaker-modal" id="Michael-Murray" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Michael-Murray.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Michael Murray</h2>
+              <p class="text-white m-0">TEKKEN 8 Game Producer, Bandai Namco Entertainment</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Joined Namco in 2001. As a localization producer, worked on many popular franchises, most notably ACE COMBAT, SOUL CALIBUR, and TAIKO NO TATSUJIN. Worked on the TEKKEN series for over 20 years in various roles from localization, marketing, game design, and later producer.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Start Hosts & Moderators Section -->
     <section class="cs_pb_20 cs_pb_lg_55 moderators-hosts" id="speakers">
       <div class="container">
@@ -1760,6 +1823,20 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Ralf Reichert</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">CEO, Esports World Cup Foundation</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Ahmad-Alabduljabbar.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Ahmad-Alabduljabbar" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Ahmad Alabduljabbar</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">General Manager - Saudi Arabia, Intel Corporatio</p>
               </div>
             </div>
           </div>
@@ -2074,6 +2151,20 @@
           <div class="col-6 col-sm-4 col-md-4 col-lg-2">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Katsuhiro-Harada.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Katsuhiro-Harada" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Katsuhiro Harada</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Game Director and Producer, Bandai Namco Entertainment</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Khaled-Makhshoush.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
                   <a href="#" data-bs-toggle="modal" data-bs-target="#Khaled-Makhshoush" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
@@ -2152,6 +2243,20 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Michael Metzger</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">Managing Partner, Drake Star</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Michael-Murray.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Michael-Murray" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Michael Murray</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">TEKKEN 8 Game Producer, Bandai Namco Entertainment</p>
               </div>
             </div>
           </div>
