@@ -386,7 +386,7 @@
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p>Lisa Cosmas Hanson is President and CEO of Niko Partners, a premier market research and consulting firm providing local research with global perspective on the Asia and MENA games market and their consumers. Lisa founded Niko Partners in 2002 and has since honed her expertise on the Chinese and Southeast Asian, East Asian, South Asian and MENA games industry that has benefitted Niko’s clients: Companies that are global leaders in game development &amp; publishing, game services, hardware, investments, and global governments. Lisa appears regularly in the media such as The New York Times, Business Week, Forbes, The Wall Street Journal, Dow Jones, Reuters, BBC, Bloomberg, Financial Times, VentureBeat, PocketGamer, GamesIndustry, Channel News Asia, and more. She is based in the US but travels to Asia and the Middle East regularly to give presentations at industry events and engage with companies and gamers.</p>
+            <p>Lisa Hanson is President and CEO of Niko Partners, a premier market research and consulting firm providing local research with global perspective on the Asia and MENA games market and their consumers. Lisa founded Niko Partners in 2002 and has since honed her expertise on the Chinese and Southeast Asian, East Asian, South Asian and MENA games industry that has benefitted Niko’s clients: Companies that are global leaders in game development & publishing, game services, hardware, investments, and global governments. Lisa appears regularly in the media such as The New York Times, Business Week, Forbes, The Wall Street Journal, Dow Jones, Reuters, BBC, Bloomberg, Financial Times, VentureBeat, PocketGamer, GamesIndustry, Channel News Asia, and more. She is based in the US but travels to Asia and the Middle East regularly to give presentations at industry events and engage with companies and gamers.</p>
           </div>
         </div>
       </div>
@@ -613,7 +613,7 @@
     </div>
 
     <!-- Modal Maha-Abouelenein -->
-    <div class="modal fade speaker-modal" id="Maha-Abouelenein" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <!-- <div class="modal fade speaker-modal" id="Maha-Abouelenein" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-scrollable">
         <div class="modal-content">
           <div class="modal-header flex-sm-row flex-column">
@@ -633,7 +633,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <!-- Modal Mathilde-Pignol -->
     <div class="modal fade speaker-modal" id="Mathilde-Pignol" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
@@ -715,7 +715,7 @@
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p>He is responsible for leading and growing the Esports World Cup initiative, with special attention paid to its surrounding onsite festival experience. Prior to his appointment at the EWCF, Bin Homran was the Chief Esports Officer at the Saudi Esports Federation (SEF), where he played a prominent role in the federation’s efforts to consolidate the Kingdom’s position as the leading regional esports and gaming hub. Bin Homran supported the National Gaming and Esports Strategy and the national gamers community by overseeing Saudi esports clubs’ development, overcoming industry challenges, creating new tournaments, identifying new opportunities in an expanding marketplace, and nurturing up-and-coming talent in line with SEF’s mission and vision. He oversaw the operations of Gamers Without Borders, the biggest esports charity event worldwide, and the Saudi eLeague, which he considers to be his most memorable career milestone to date.</p>
+            <p>Faisal is responsible for leading and growing the Esports World Cup initiative, with special attention paid to its surrounding onsite festival experience. Prior to his appointment at the EWCF, Bin Homran was the Chief Esports Officer at the Saudi Esports Federation (SEF), where he played a prominent role in the federation’s efforts to consolidate the Kingdom’s position as the leading regional esports and gaming hub. Bin Homran supported the National Gaming and Esports Strategy and the national gamers community by overseeing Saudi esports clubs’ development, overcoming industry challenges, creating new tournaments, identifying new opportunities in an expanding marketplace, and nurturing up-and-coming talent in line with SEF’s mission and vision. He oversaw the operations of Gamers Without Borders, the biggest esports charity event worldwide, and the Saudi eLeague, which he considers to be his most memorable career milestone to date.</p>
             <p>A sporadic gamer with an enduring passion for the wider gaming world, Bin Homran entered the professional gamers ranks in 2009 when pursuing a Bachelor’s Degree in Information Systems Engineering from King Fahad University of Petroleum and Minerals. He put his esports career on hold to obtain a Master’s Degree in Entrepreneurship, Innovation, and Business Development from the University of Westminster, UK. Prior to joining SEF in 2021, Bin Homran gained over 10 years of experience in business development, tournament organization, e-games halls and website development, e-club management, and e-game applications.</p>
           </div>
         </div>
@@ -913,7 +913,7 @@
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p>Arnold Hur is CEO of Gen.G, a global esports organization. Based in Los Angeles, Seoul, and Shanghai, Gen.G owns and operates top esports teams globally and well as innovative gaming programs, including the Gen.G Global Academy and the NetWORK, a platform for the empowerment of women in gaming. Before joining Gen.G, Arnold was President of Memebox, one of Korea’s most successful startup companies, where he helped grow the company from Series A to Series C, raising over $160M. Prior to Memebox, he worked on product and strategy at Google, management consulting at Boston Consulting Group, and investment banking with Goldman Sachs.</p>
+            <p>Arnold Hur is CEO of Gen.G, a global esports organization. Based in Los Angeles, Seoul, and Shanghai, Gen.G owns and operates top esports teams globally as well as innovative gaming programs, including the Gen.G Global Academy and the NetWORK, a platform for the empowerment of women in gaming. Before joining Gen.G, Arnold was President of Memebox, one of Korea’s most successful startup companies, where he helped grow the company from Series A to Series C, raising over $160M. Prior to Memebox, he worked on product and strategy at Google, management consulting at Boston Consulting Group, and investment banking with Goldman Sachs.</p>
           </div>
         </div>
       </div>
@@ -1239,7 +1239,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">Sam Mathews</h2>
-              <p class="text-white m-0">Club CEO, Fnatic</p>
+              <p class="text-white m-0">CEO and Founder, Fnatic</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -1440,7 +1440,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">John Hanke</h2>
-              <p class="text-white m-0">Founder & CEO, Niantic</p>
+              <p class="text-white m-0">CEO, Niantic</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -1506,7 +1506,7 @@
               <img src="assets/img/speakers/Ng-Ser-Miang.png" alt="Member">
             </div>
             <div class="col-lg-8">
-              <h2 class="modal-title fs-5" id="staticBackdropLabel">Ser Miang Ng</h2>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Ng Ser Miang</h2>
               <p class="text-white m-0">Vice President, International Olympic Committee</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -1639,6 +1639,20 @@
           <div class="col-6 col-sm-4 col-md-4 col-lg-2">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Lisa-Cosmas.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Lisa-Cosmas" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Lisa Cosmas Hanson</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO, Niko Partners</p>
+              </div>
+            </div>
+          </div>
+          <!-- <div class="col-6 col-sm-4 col-md-4 col-lg-3">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Maha-Abouelenein.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
                 <a href="#" data-bs-toggle="modal" data-bs-target="#Maha-Abouelenein" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
@@ -1649,7 +1663,7 @@
                 <p class="text-white cs_fs_12 m-0 lh-base">CEO, Digital and Savvy</p>
               </div>
             </div>
-          </div>
+          </div> -->
           <div class="col-6 col-sm-4 col-md-4 col-lg-2">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
@@ -2039,7 +2053,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">John Hanke</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Founder & CEO, Niantic</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO, Niantic</p>
               </div>
             </div>
           </div>
@@ -2081,21 +2095,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Sir Leonard Blavatnik</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Founder, Access Industries</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
-            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
-              <div class="cs_team_member position-relative cs_rounded_50">
-                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Lisa-Cosmas.png" alt="Member">
-                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
-                <a href="#" data-bs-toggle="modal" data-bs-target="#Lisa-Cosmas" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
-                </div>
-              </div>
-              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">Lisa Cosmas Hanson</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">CEO, Niko Partners</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">Founder of Access Industries and Owner of DAZN</p>
               </div>
             </div>
           </div>
@@ -2220,7 +2220,7 @@
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">Ser Miang Ng</h2>
+                <h2 class="text-white cs_fs_20 cs_mb_10">Ng Ser Miang</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">Vice President, International Olympic Committee</p>
               </div>
             </div>
@@ -2333,7 +2333,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Sam Mathews</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">Club CEO, Fnatic</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO and Founder, Fnatic</p>
               </div>
             </div>
           </div>

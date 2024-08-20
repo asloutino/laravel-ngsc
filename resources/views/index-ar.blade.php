@@ -360,7 +360,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">السير ليونارد بلافاتنيك</h2>
-              <p class="text-white m-0">مؤسس شركة أكسيس إنداستريز</p>
+              <p class="text-white m-0">مؤسس شركة أكسيس إنداستريز ومالك دازن</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -1444,7 +1444,7 @@
             </div>
             <div class="col-lg-8">
               <h2 class="modal-title fs-5" id="staticBackdropLabel">جون هانكه</h2>
-              <p class="text-white m-0">المؤسس والرئيس التنفيذي لشركة نيانتيك</p>
+              <p class="text-white m-0">الرئيس التنفيذي لشركة نيانتيك</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -1510,7 +1510,7 @@
               <img src="assets/img/speakers/Ng-Ser-Miang.png" alt="Member">
             </div>
             <div class="col-lg-8">
-              <h2 class="modal-title fs-5" id="staticBackdropLabel">سير ميانج نج</h2>
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">نج سير ميانج</h2>
               <p class="text-white m-0">نائب رئيس اللجنة الأولمبية الدولية</p>
             </div>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -1641,7 +1641,7 @@
               </div>
             </div>
           </div>
-          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+          <!-- <div class="col-6 col-sm-4 col-md-4 col-lg-2">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Maha-Abouelenein.png" alt="Member">
@@ -1652,6 +1652,20 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">مها ابو العينين</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي | ديجيتال أند سافي</p>
+              </div>
+            </div>
+          </div> -->
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Lisa-Cosmas.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Lisa-Cosmas" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">ليزا كوزماس هانسون</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي لشركة نيكو بارتنرز</p>
               </div>
             </div>
           </div>
@@ -2044,7 +2058,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">جون هانكه</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">المؤسس والرئيس التنفيذي لشركة نيانتيك</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي لشركة نيانتيك</p>
               </div>
             </div>
           </div>
@@ -2086,21 +2100,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">السير ليونارد بلافاتنيك</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">مؤسس شركة أكسيس إنداستريز</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
-            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
-              <div class="cs_team_member position-relative cs_rounded_50">
-                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Lisa-Cosmas.png" alt="Member">
-                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
-                <a href="#" data-bs-toggle="modal" data-bs-target="#Lisa-Cosmas" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
-                </div>
-              </div>
-              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">ليزا كوزماس هانسون</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي لشركة نيكو بارتنرز</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">مؤسس شركة أكسيس إنداستريز ومالك دازن</p>
               </div>
             </div>
           </div>
@@ -2225,7 +2225,7 @@
                 </div>
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">سير ميانج نج</h2>
+                <h2 class="text-white cs_fs_20 cs_mb_10">نج سير ميانج</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">نائب رئيس اللجنة الأولمبية الدولية</p>
               </div>
             </div>
@@ -2338,7 +2338,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">سام ماثيوز</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي، فناتيك</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي والمؤسس، فناتيك</p>
               </div>
             </div>
           </div>
