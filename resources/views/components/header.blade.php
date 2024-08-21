@@ -38,7 +38,7 @@
                 <li><a href="/ar#news">أبرز الأخبار</a></li>
                 <li><a href="/ar#contact-us">اتصل بنا</a></li>
               <?php }
-              else { ?>
+              else {  ?>
                 <li><a href="/#about-the-conference">About the Conference</a></li>
                 <li><a href="/#conference-highlights">Highlights</a></li>
                 <li><a href="/#speakers">Speakers</a></li>
