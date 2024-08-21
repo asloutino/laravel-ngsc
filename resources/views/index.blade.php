@@ -39,7 +39,7 @@
                   <li><a href="/#topics">Topics</a></li>
                   <li><a href="/#news">News</a></li>
                   <li><a href="/#contact-us">Contact Us</a></li>
-                  <li id="agenda-ngsc"><a href="/agenda">Agenda</a></li>
+                  <!-- <li id="agenda-ngsc"><a href="/agenda">Agenda</a></li> -->
                   <li class="lang-switch">
                     <a class="en" href="{{url('/')}}">EN</a> | <a class="ar" href="{{url('ar')}}">AR</a>
                   </li>
@@ -2722,6 +2722,28 @@
       </div>
     </section>
     <!-- End Topics Section -->
+
+    <!-- Start Agenda Section -->
+    <section class="cs_pt_0 cs_pt_lg_35 position-relative" id="agenda">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="cs_about cs_style_1">
+              <div class="cs_section_heading cs_style_1 d-flex align-items-center cs_mb_15">
+                <div class="cs_section_heading_in">
+                  <h3 class="cs_fs_20 cs_fs_lg_18 text-accent fw-normal cs_lh_base cs_mb_10 wow fadeInLeft" data-wow-duration="0.8s" data-wow-delay="0.2s">PRELIMINARY</h3>
+                  <h2 class="cs_fs_48 cs_fs_lg_36 cs_mb_20">AGENDA</h2>
+                  <img class="cs-hidden_mobile" src="assets/img/agenda/agenda.svg">
+                  <img class="cs-hidden_desktop" src="assets/img/agenda/agenda-m-1.svg">
+                  <img class="cs-hidden_desktop cs_mt_40" src="assets/img/agenda/agenda-m-2.svg">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Agenda Section -->
 
     <!-- Start Blog Section -->
     <section class="cs_pt_35 cs_pt_lg_75 cs_pb_60 cs_pb_lg_50" id="news">
