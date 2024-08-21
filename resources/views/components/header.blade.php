@@ -45,6 +45,7 @@
                 <li><a href="/#topics">Topics</a></li>
                 <li><a href="/#news">News</a></li>
                 <li><a href="/#contact-us">Contact Us</a></li>
+                <li id="agenda-ngsc"><a href="/agenda">Agenda</a></li>
               <?php } ?>
               <li class="lang-switch">
                 <?php if( (strpos(url()->current(),'/ar') !== false) ) {

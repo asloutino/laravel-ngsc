@@ -39,7 +39,7 @@
                   <li><a href="/ar#topics">المواضيع</a></li>
                   <li><a href="/ar#news">أبرز الأخبار</a></li>
                   <li><a href="/ar#contact-us">اتصل بنا</a></li>
-                  <li id="agenda-ngsc"><a href="{{ asset('assets/docs/Agenda-NGSC.pdf') }}" target="_blank">الأجندة</a></li>
+                  <!-- <li id="agenda-ngsc"><a href="{{ asset('assets/docs/Agenda-NGSC.pdf') }}" target="_blank">الأجندة</a></li> -->
                   <li class="lang-switch">
                     <a class="en" href="{{url('/')}}">EN</a> | <a class="ar" href="{{url('ar')}}">AR</a>
                   </li>
