@@ -2152,6 +2152,13 @@ label {
   padding-top:50px!important;
 }
 
+@media screen and (max-width: 1350px) and (min-width: 1200px) {
+  .cs_nav .cs_nav_list > li > a {
+    padding: 10px 4px!important;
+    font-size: 12px!important;
+  }
+}
+
 @media screen and (max-width:1190px) {
   .cs_nav .cs_nav_list .lang-switch {
     display: flex;
