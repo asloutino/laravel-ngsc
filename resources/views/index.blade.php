@@ -39,7 +39,7 @@
                   <li><a href="/#topics">Topics</a></li>
                   <li><a href="/#news">News</a></li>
                   <li><a href="/#contact-us">Contact Us</a></li>
-                  <li id="agenda-ngsc"><a href="/agenda" target="_blank">Agenda</a></li>
+                  <li id="agenda-ngsc"><a href="/agenda">Agenda</a></li>
                   <li class="lang-switch">
                     <a class="en" href="{{url('/')}}">EN</a> | <a class="ar" href="{{url('ar')}}">AR</a>
                   </li>
