@@ -1631,6 +1631,216 @@
       </div>
     </div>
 
+    <!-- Modal Adam-Wang -->
+    <div class="modal fade speaker-modal" id="Adam-Wang" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Adam-Wang.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">آدم وانج</h2>
+              <p class="text-white m-0">الرئيس العالمي، تيك توك لايف</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>آدم وانج هو الرئيس العالمي لتيك توك لايف، حيث يقود فريقًا ديناميكيًا مخصصًا لتحسين تجربة تيك توك لايف. تحت قيادته، أصبحت تيك توك لايف الوجهة المفضلة للترفيه في الوقت الفعلي، مما يسمح للمبدعين بالتفاعل مع جماهيرهم بطرق أكثر حميمية وفورية مع تمكين فرص متنوعة لتحقيق الدخل.</p>
+            <p>قبل الانضمام إلى تيك توك، كان آدم قائدًا تقنيًا في سناب، حيث لعب دورًا محوريًا في الكاميرا الإبداعية، ملهما المبدعين بالتأثيرات الإبداعية وأدوات التحرير. حصل على درجة البكالوريوس في علوم الكمبيوتر من جامعة كورنيل.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Gary-Pinagot -->
+    <div class="modal fade speaker-modal" id="Gary-Pinagot" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Gary-Pinagot.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">جاري بيناجوت</h2>
+              <p class="text-white m-0">المدير الرقمي، بالنسياغا</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>جاري بيناجوت هو المدير الرقمي في شركة بالنسياغا، حيث قاد الجهود الرقمية والابتكارية العالمية منذ مايو 2022. بالإضافة إلى إدارة الوجود الرقمي العالمي للعلامة التجارية، دعم العديد من المشاريع مثل المنتجات المتصلة التي تم تطويرها لشركة بالنسياغا ميوزيك. لعب دورًا رئيسيًا في تطوير أول تطبيق أبل فيجن برو، والذي جلب عروض الأزياء إلى سماعة الرأس. كما قاد جاري استراتيجية الألعاب للعلامة التجارية، بما في ذلك التعاون الأخير في" نيد فور سبيد" ​​ولعبة "بفرند" التي تم إصدارها من قبل شركة بالنسياغا ميوزيك.</p>
+            <p>قبل الانضمام إلى بالنسياغا، أمضى جاري أكثر من ثماني سنوات في كريستيان ديور كوتور كمدير وسائل التواصل الاجتماعي والسمعة الإلكترونية، حيث طور الوجود العالمي للعلامة التجارية على وسائل التواصل الاجتماعي واستراتيجية المؤثرين، ونفذ مبادرات الاتصال الرقمي. خلال فترة عمله في ديور، عمل على تسريع الحضور الرقمي للعلامة التجارية من خلال جلب ديور إلى منصات غير مستغلة مثل تيك توك واستكشاف الابتكار عبر وسائل التواصل الاجتماعي من خلال تطوير مشاريع الواقع المعزز، وريادة التكنولوجيا على سناب شات وإنستغرام في وقت الإطلاق.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Penny-Diao -->
+    <div class="modal fade speaker-modal" id="Penny-Diao" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Penny-Diao.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">بيني دياو</h2>
+              <p class="text-white m-0">مديرة التسويق لمنطقة الشرق الأوسط وشمال أفريقيا، هنور</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>بعد تخرجها بدرجة البكالوريوس في اللغة العربية، انضمت الآنسة زينجلي دياو إلى تلفزيون الصين المركزي، أكبر محطة تلفزيونية في الصين في عام 2009.</p>
+            <p>من عام 2010 إلى عام 2015، عملت في الشرق الأوسط كصحفية لتغطية الأخبار العاجلة. وخلال فترة الحرب (2011-2014)، سافرت إلى ليبيا وسوريا والعراق واليمن وأماكن أخرى، وشهدت وحشية الحرب، ونقلت صورة الحياة اليومية للناس في ظل الحرب. بعد ذلك، انتقلت إلى دبي كمحررة مسؤولة في عام 2014.</p>
+            <p>انضمت الآنسة دياو إلى هواوي في عام 2015 وعملت كمديرة للعلاقات العامة، ومديرة عامة لشركة هواوي في الاردن، و مديرة عامة لشركة هواوي في جنوب إفريقيا. وخلال هذه الفترة، ساعدت في تأسيس صور العلامة التجارية وبدأت حملات تسويق المنتجات لتعزيز حضور العلامة التجارية بالكامل في السوق المحلية، مما أدى إلى زيادة حصة السوق إلى أكثر من 40 بالمائة.</p>
+            <p>في عام 2020، بدأت العمل كمديرة تسويق لشركة هنور في الشرق الأوسط وأفريقيا، وخلال هذه الفترة، نمت الوعي بالعلامة التجارية والاهتمام بها بشكل أسرع بين جميع العلامات التجارية للهواتف المحمولة.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Turki-Al-Fawzan -->
+    <div class="modal fade speaker-modal" id="Turki-Al-Fawzan" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Turki-Al-Fawzan.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">تركي الفوزان</h2>
+              <p class="text-white m-0">الرئيس التنفيذي للاتحاد السعودي للرياضات الإلكترونية</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>تركي الفوزان هو الرئيس التنفيذي للاتحاد السعودي للرياضات الإلكترونية والاتحاد العربي للرياضات الإلكترونية، وهما المنصبان اللذان شغلهما منذ تأسيسهما في أكتوبر 2017. وهو رائد في صناعة الرياضات الإلكترونية في الشرق الأوسط.</p>
+            <p>تحت إشرافه، انتقل الاتحاد من إنجاز إلى آخر. واليوم، يعمل فريق الاتحاد سريع النمو على تطوير سلسلة القيمة الكاملة لاستراتيجية الألعاب والرياضات الإلكترونية الوطنية بدءًا من القاعدة الشعبية وصولاً إلى الرياضيين النخبة والمسابقات العالمية. وكان تركي أيضًا العقل المدبر وراء تطوير الدوري الإلكتروني السعودي، وهو عبارة عن خمسة عناوين ألعاب تحت مظلة واحدة مع استوديو مخصص ينتج تجربة بث رائدة عالميًا. لقد أحدث الدوري الإلكتروني ثورة في الألعاب التنافسية الاحترافية في السعودية ودفع العديد من الشباب السعوديين إلى إضفاء الشرعية على فرقهم. يُنظر إلى المنصة الآن باعتبارها الهدف الرئيسي للفرق وذروة الرياضات الإلكترونية السعودية الوطنية.</p>
+            <p>في وقت انتقاله إلى عالم الرياضات الإلكترونية، كان تركي من المحاربين المخضرمين في عالم حوكمة الرياضة. وكان عضوًا مؤسسًا ورئيسًا تنفيذيًا للاتحاد السعودي للشطرنج، الذي قدم الشطرنج رسميًا في المملكة العربية السعودية. وتحت قيادة تركي، سرعان ما أصبحت الجمعية لجنة معترف بها من قبل اللجنة الأولمبية السعودية، ثم نمت لتصبح اتحادًا مستقلاً في عام 2017. كل هذا جعله المرشح الرئيسي لتأسيس مشروع سعودي في الرياضات الإلكترونية.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal David-Lappartient -->
+    <div class="modal fade speaker-modal" id="David-Lappartient" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/David-Lappartient.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">ديفيد لابارتيان</h2>
+              <p class="text-white m-0">عضو اللجنة الأولمبية الدولية ورئيس لجنة الرياضات الإلكترونية التابعة للجنة الأولمبية الدولية ورئيس الاتحاد الدولي للدراجات الهوائية</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>ولد ديفيد لابارتيان (فرنسا) في 31 مايو 1973، وانضم إلى لجنة إدارة الاتحاد الدولي للدراجات الهوائية  في عام 2005، قبل أن يصبح نائبًا للرئيس (2013) ثم رئيسًا (2017، وأعيد انتخابه في عام 2021) للاتحاد. وفي الاتحاد الدولي للدراجات الهوائية، ترأس مجلس الدراجات الهوائية الاحترافي ولجنة الدراجات الجبلية ولجنة الدراجات الهوائية للجميع.</p>
+            <p>يعود شغف ديفيد لابارتيان بالدراجات الهوائية إلى سنواته الأولى. تنافس في هذه الرياضة على المستوى الإقليمي في فرنسا، ثم تولى بسرعة مسؤوليات على مستوى النادي والمستوى الإقليمي والوطني والقاري، حيث عمل رئيسًا للاتحاد الفرنسي للدراجات من عام 2009 إلى عام 2017 والاتحاد الأوروبي للدراجات من عام 2013 إلى عام 2017. وكان أيضًا مفوضًا دوليًا للاتحاد الدولي للدراجات.</p>
+            <p>وهو رئيس مجلس إدارة الاتحاد الدولي للدراجات الهوائية العالمي للدراجات - مركز التعليم والتدريب التابع للاتحاد الدولي للدراجات - وعضو في اللجنة الأولمبية الدولية، ورئيس لجنة الرياضات الإلكترونية التابعة للجنة الأولمبية الدولية، ورئيس اللجنة الوطنية الأولمبية والرياضية الفرنسية وعضو مجلس إدارة الوكالة العالمية لمكافحة المنشطات.</p>
+            <p>إلى جانب أنشطته في الرياضة الدولية، يشارك ديفيد لابارتيان أيضًا في السياسة الفرنسية (رئيس بلدية سارزو السابق - من 2008 إلى 2021 - والرئيس الحالي لمجلس مقاطعة موربيهان). حصل على وسام جوقة الشرف في عام 2024.</p>
+            <p>بعد تحقيق أهداف الاتحاد الدولي للدراجات لعام 2022، وضع، بالتعاون مع أصحاب المصلحة في رياضة الدراجات، أهداف المؤسسة لعام 2030.</p>
+            <p>لا يزال ديفيد راكب دراجات متحمسًا ويواصل الركوب عندما يسمح له جدول أعماله بذلك.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Patrice-Evra -->
+    <div class="modal fade speaker-modal" id="Patrice-Evra" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Patrice-Evra.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">باتريس إيفرا</h2>
+              <p class="text-white m-0">لاعب كرة قدم محترف سابق</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>كان إيفرا قائدًا سابقًا لمانشستر يونايتد ومنتخب فرنسا، وهو الآن متحدث تحفيزي وشخصية مؤثرة على وسائل التواصل الاجتماعي.</p>
+            <p>بصفته قائدًا للمنتخب الفرنسي ومانشستر يونايتد، فاز بعشرة ألقاب كبرى مع مانشستر يونايتد، بما في ذلك خمسة ألقاب في الدوري الإنجليزي الممتاز ثلاث كؤوس دوري، ودوري أبطال أوروبا حينها، وكأس العالم للأندية.</p>
+            <p>كما لعب لأندية كبيرة أخرى بما في ذلك يوفنتوس. إيفرا هو مؤسس "انا أحب هذه اللعبة"، والمالك المشارك لشركة نجمة أمادورا ومستثمر في عدد من العلامات التجارية. بصفته رائد أعمال وناشط على وسائل التواصل الاجتماعي ومدافعًا عن التأثير الاجتماعي، يدافع باتريس عن العنف ضد الأطفال ويزيد الوعي به.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Abdulaziz-Baeshen -->
+    <div class="modal fade speaker-modal" id="Abdulaziz-Baeshen" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Abdulaziz-Baeshen.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">عبدالعزيز باعشن</h2>
+              <p class="text-white m-0">الرئيس التنفيذي والأمين العام للجنة الأولمبية والبارالمبية السعودية</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>عبد العزيز قائد متمرس يتمتع بتاريخ حافل من العمل في صناعة السلع الرياضية. لقد أدار علامة تجارية رياضية سعودية بالإضافة إلى عمله على أعلى المستويات في وزارة الرياضة. وهو ماهر في المهارات التحليلية و استراتيجية التسعير، والكتابة القانونية، وقانون الشركات والإدارة. مع خلفية تعليمية متنوعة، عبد العزيز متخصص في تطوير الأعمال وحاصل على درجة البكالوريوس في القانون من جامعة شيفيلد.</p>
+            <p>يشغل عبد العزيز حاليًا منصب الأمين العام والرئيس التنفيذي للجنة الأولمبية والبارالمبية السعودية. وهو أيضًا عضو مجلس إدارة في أكاديمية مهد، شركة السيارات السعودية، ودوري كرة القدم المحلي والاتحاد السعودي للرياضة المدرسية. في الماضي، شغل عبد العزيز مناصب مثل مساعد الوزير ورئيس الفعاليات في وزارة الرياضة. عبد العزيز باعشن هو فرد يتمتع بخبرة عالية وكان مشاركًا بنشاط في العديد من المنظمات والمبادرات الرياضية، حيث أظهر قيادة قوية وخبرة في مجال الرياضة.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Adwa-AlArifi -->
+    <div class="modal fade speaker-modal" id="Adwa-AlArifi" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Adwa-AlArifi.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">أضواء العريفي</h2>
+              <p class="text-white m-0">مساعدة وزير الرياضة للشؤون الرياضية ووكيلة وزارة التخطيط الاستراتيجي والاستثمار بوزارة الرياضة وعضو مجلس إدارة اللجنة الأولمبية والبارالمبية السعودية</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>أضواء العريفي تشغل منصب وكيلة وزارة التخطيط الاستراتيجي والاستثمار بوزارة الرياضة وعضو مجلس إدارة اللجنة الأولمبية والبارالمبية السعودية. وهي تمثل دعمًا استراتيجيًا مباشرًا لوزير الرياضة وتشرف على مجموعة متنوعة من المبادرات الحيوية والأحداث الدولية الرائدة لدفع جهود الأمة لتعزيز الرياضة والحياة الصحية.</p>
+            <p>أكاديميًا، حصلت أضواء على درجة البكالوريوس في إدارة الأعمال من جامعة اليمامة بالرياض. ومع ذلك، كانت الرياضة دائمًا المصدر الرئيسي للإلهام والقوة الدافعة في حياتها منذ سن مبكرة وقد خدمت بالفعل قطاع الرياضة السعودي لأكثر من 18 عامًا. تعتبر رائدة كرة القدم النسائية في المملكة، ومعروفة باتخاذ خطوات تاريخية أولى في اللعبة كمؤسس مشارك لأول نادي كرة قدم نسائي في المملكة العربية السعودية في عام 2006 ثم أول دوري كرة قدم نسائي مجتمعي في عام 2008.</p>
+            <p>استمر دعمها المخلص لكرة القدم لأكثر من عقد من الزمان. أصبحت أول عضو مجلس إدارة في الاتحاد السعودي لكرة القدم في عام 2018 وكانت جزءًا لا يتجزأ من إنشاء قسم كرة القدم النسائية في .2019 ومنذ ذلك الحين، أسست أربعة فرق وطنية نسائية ودوريين محترفين للسيدات ودوري مدارس يضم أكثر من 70 ألف فتاة يلعبن كل أسبوع.</p>
+            <p>منذ عام 2019، كان لعمل أضواء المهني تأثير إيجابي أكبر بكثير من رياضة واحدة أو جنس واحد. ساعدت أدوارها في دعم تقدم ملايين السعوديين في الرياضة، بدءًا من منصب المدير العام لإدارة الاستثمارات في وزارة الرياضة. من خلال العمل مع زملائها، ساعدت في تطوير استراتيجية القطاع الرياضي الوطني، الضوء الموجه لمستقبل الرياضة في جميع أنحاء المملكة. ومن المبادرات الرئيسية الأخرى خلال فترة عملها استراتيجية دعم الأندية واستراتيجية تحول الاتحادات.</p>
+            <p>في عام 2020، تمت ترقيتها إلى منصب نائب وزير التخطيط الاستراتيجي والاستثمار، ومنذ ذلك الحين ساعدت في الترحيب بالقطاع الخاص في الرياضة السعودية. وفي عام 2022، تم تعيينها في منصب إضافي كمساعد وزير شؤون الرياضة. وفي هذا المنصب، تشرف على جميع الأحداث الدولية والملاعب وشؤون الرياضة والشباب وفروع وزارة الرياضة في جميع أنحاء المملكة. وفي دور كبير، قدمت إنجازات بارزة مثل أول سباق فورمولا إي الدرعية 2018، وأول سباق جائزة السعودية الكبرى للفورمولا 1 في عام 2021، وأول بطولة رابطة لاعبي التنس المحترفين الجيل القادم 2023 وأول كأس العالم للأندية فيفا 2023.</p>
+            <p>بالإضافة إلى واجباتها المباشرة في الوزارة، تشغل أضواء أدوارًا مهمة مثل كونها عضوًا في مجلس إدارة اللجنة الأولمبية والبارالمبية السعودية، حيث تجلس في لجنة النساء. كما تشغل مناصب عدة في مجالس الإدارة، منها عضوية لجنة المرأة في المجلس الأولمبي الآسيوي، ولجنة دورة الألعاب الآسيوية الشتوية 2029 في تروجينا، ولجنة الألعاب السعودية، وعضو اللجنة التنفيذية لأكاديمية مهد.</p>
+            <p>كما تشغل أضواء عضوية اللجان التوجيهية لبعض من أكثر ملفات المملكة العربية السعودية إثارة لاستضافة الأحداث الرياضية الكبرى، بما في ذلك كأس العالم لكرة القدم 2034، بعد أن ساعدت بنجاح في توجيه ملفي استضافة كأس آسيا 2027 والألعاب الآسيوية في الرياض 2034.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Ramadan-Alharatani -->
+    <div class="modal fade speaker-modal" id="Ramadan-Alharatani" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Ramadan-Alharatani.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">رمضان الحرتاني</h2>
+              <p class="text-white m-0">المدير التنفيذي، مدل بيست</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Start Hosts & Moderators Section -->
     <section class="cs_pb_20 cs_pb_lg_55 moderators-hosts" id="speakers">
       <div class="container">
@@ -1813,6 +2023,48 @@
           <div class="col-6 col-sm-4 col-md-4 col-lg-2">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Abdulaziz-Baeshen.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Abdulaziz-Baeshen" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">عبدالعزيز باعشن</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي والأمين العام للجنة الأولمبية والبارالمبية السعودية</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Adam-Wang.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Adam-Wang" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">آدم وانج</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس العالمي، تيك توك لايف</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Adwa-AlArifi.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Adwa-AlArifi" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">أضواء العريفي</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">مساعدة وزير الرياضة للشؤون الرياضية ووكيلة وزارة التخطيط الاستراتيجي والاستثمار بوزارة الرياضة وعضو مجلس إدارة اللجنة الأولمبية والبارالمبية السعودية</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Ahmad-Alabduljabbar.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
                 <a href="#" data-bs-toggle="modal" data-bs-target="#Ahmad-Alabduljabbar" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
@@ -1967,6 +2219,20 @@
           <div class="col-6 col-sm-4 col-md-4 col-lg-2">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/David-Lappartient.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#David-Lappartient" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">ديفيد لابارتيان</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">عضو اللجنة الأولمبية الدولية ورئيس لجنة الرياضات الإلكترونية التابعة للجنة الأولمبية الدولية ورئيس الاتحاد الدولي للدراجات الهوائية</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Eric-Shanks.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
                   <a href="#" data-bs-toggle="modal" data-bs-target="#Eric-Shanks" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
@@ -2017,6 +2283,20 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">غابرييل " FalleN" توليدو</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">لاعب سي اس 2، فيوريا للرياضات الإلكترونية</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Gary-Pinagot.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Gary-Pinagot" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">جاري بيناجوت</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">المدير الرقمي، بالنسياغا</p>
               </div>
             </div>
           </div>
@@ -2345,6 +2625,34 @@
           <div class="col-6 col-sm-4 col-md-4 col-lg-2">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Patrice-Evra.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Patrice-Evra" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">باتريس إيفرا</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">لاعب كرة قدم محترف سابق</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Penny-Diao.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Penny-Diao" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">بيني دياو</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">مديرة التسويق لمنطقة الشرق الأوسط وشمال أفريقيا، هنور</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Peter-Hutton.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
                   <a href="#" data-bs-toggle="modal" data-bs-target="#Peter-Hutton" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
@@ -2353,6 +2661,20 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">بيتر هاتون</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">عضو مجلس إدارة، الدوري السعودي للمحترفين</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Ramadan-Alharatani.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Ramadan-Alharatani" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">رمضان الحرتاني</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">المدير التنفيذي، مدل بيست</p>
               </div>
             </div>
           </div>
@@ -2493,6 +2815,20 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">توشيموتو ميتومو</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">نائب الرئيس التنفيذي وكبير مسؤولي الأمن في شركة مجموعة سوني</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Turki-Al-Fawzan.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Turki-Al-Fawzan" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">تركي الفوزان</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي للاتحاد السعودي للرياضات الإلكترونية</p>
               </div>
             </div>
           </div>
