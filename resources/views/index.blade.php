@@ -1626,6 +1626,216 @@
       </div>
     </div>
 
+    <!-- Modal Adam-Wang -->
+    <div class="modal fade speaker-modal" id="Adam-Wang" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Adam-Wang.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Adam Wang</h2>
+              <p class="text-white m-0">Global Head, TikTok LIVE</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Adam Wang is the Global Head of TikTok LIVE, where he leads a dynamic team dedicated to enhancing the TikTok LIVE experience. Under his leadership, TikTok LIVE has become the go-to destination for real-time entertainment, allowing creators to engage with their audiences in more intimate and immediate ways while enabling a diverse set of creator monetization opportunities.</p>
+            <p>Before joining TikTok, Adam was a Tech Lead at Snap, where he played a pivotal role in Creative Camera, inspiring creators with creative effects and editing tools. He holds a Bachelor's degree in Computer Science from Cornell University.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Gary-Pinagot -->
+    <div class="modal fade speaker-modal" id="Gary-Pinagot" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Gary-Pinagot.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Gary Pinagot</h2>
+              <p class="text-white m-0">Digital Director, Balenciaga</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Gary Pinagot is the Digital Director at Balenciaga, where he has led the global digital and innovation efforts since May 2022. In addition to managing the brand's global digital presence, he has supported several ventures such as the connected products developed for Balenciaga Music. He played a key role in developing the first Apple Vision Pro app, bringing fashion shows into the headset. Gary also led the gaming strategy of the brand, including the recent Need for Speed collaboration and the BFRND game released for Balenciaga Music.</p>
+            <p>Prior to joining Balenciaga, Gary spent over eight years at Christian Dior Couture as the Social Media & e-Reputation Director, where he developed the brand’s social media global presence and influencer strategy, and implemented digital communication initiatives. During his time at Dior, he accelerated the brand's digital presence by bringing Dior to untapped platforms like TikTok and exploring innovation through social media with the development of augmented reality projects, pioneering the technology on Snapchat and Instagram at the time of the launch.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Penny-Diao -->
+    <div class="modal fade speaker-modal" id="Penny-Diao" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Penny-Diao.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Penny Diao</h2>
+              <p class="text-white m-0">CMO MENA, HONOR</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>After graduating as a bachelor of Arabic, Miss Zhengli Diao joined China Central Television (CCTV), the largest television station of China in 2009.</p>
+            <p>From 2010 to 2015, she worked in the Middle East as a journalist to cover the breaking news. During the war period（2011-2014), she travelled to Libya, Syria, Iraq, Yemen and other places, witnessed the brutality of war, delivered the picture of people’s daily lives under the war. After that, she moved to Dubai as Editor-in-Charge in 2014.</p>
+            <p>Miss Diao joined Huawei in 2015 and has worked as PR Manager, MD of Huawei in Jordan, and MD of Huawei in South Africa. During this period, she helped to establish the brand images and initiated product MKT campaigns to drive the whole brand presence in local market, which result in increasing the market share to more than 40 percent.</p>
+            <p>In 2020, she began to work as the CMO of HONOR Middle East and Africa, during which time, the brand awareness and consideration grew the fastest among all mobile phone brands.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Turki-Al-Fawzan -->
+    <div class="modal fade speaker-modal" id="Turki-Al-Fawzan" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Turki-Al-Fawzan.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Turki Al Fawzan</h2>
+              <p class="text-white m-0">CEO, Saudi Esports Federation</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Turki Alfawzan is the Chief Executive Officer of both the Saudi Esports Federation and the Arab Esports Federation, positions he has held since their establishment in October 2017. He is a pioneer within the Middle East’s Esports industry.</p>
+            <p>Under his guidance, the federation has moved from one accomplishment to the next. Today, the federation’s fast-growing team works to develop the entire National Gaming and Esports Strategy value chain starting at the grassroots and all the way up to elite athletes and global competitions. Turki also was the mastermind behind the development of the Saudi eLeague, a quintet of five gaming titles under one umbrella with a dedicated studio that produces a globally leading broadcast experience. The eLeague have revolutionized professional competitive gaming in Saudi and have moved many young Saudis to legitimize their teams. The platform is now looked at as the main goal for teams and as the pinnacle of national  Saudi esports.</p>
+            <p>At the time of his move into the world of esports, Turki was a decorated veteran in the world of sports governance. He was a founding member and CEO of the Saudi Chess Association, which officially introduced chess in Saudi Arabia. Under Turki’s leadership the association quickly became a committee recognized by the Saudi Arabian Olympic Committee, and then grew to become a stand-alone federation in 2017. All of which made him the chief candidate to establish Saudi’s venture into esports.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal David-Lappartient -->
+    <div class="modal fade speaker-modal" id="David-Lappartient" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/David-Lappartient.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">David Lappartient</h2>
+              <p class="text-white m-0">IOC Member & Chair of the IOC Esports Commission, President of Union Cycliste Internationale</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Born on 31 May 1973, David Lappartient (FRA) joined the Management Committee of the Union Cycliste Internationale (UCI) in 2005, before becoming Vice-President (2013) then President (2017, re-elected in 2021) of the Federation. Within the UCI, he has chaired the Professional Cycling Council, the Mountain Bike Commission and the Cycling for All Commission.</p>
+            <p>David Lappartient's passion for cycling goes back to his earliest years. He competed in the sport at regional level in France, then quickly took on responsibilities at club, regional, national and continental level, serving as President of the French Cycling Federation (FFC) from 2009 to 2017 and of the European Cycling Union (Union Européenne de Cyclisme -UEC) from 2013 to 2017.  He was also a UCI International Commissaire.</p>
+            <p>He is Chair of the Foundation Board of the UCI World Cycling Centre (WCC) - the UCI's education and training centre, a member of the International Olympic Committee (IOC), Chair of the IOC Esports Commission, President of the French National Olympic and Sports Committee (Comité National Olympique et Sportif Français -CNOSF) and a member of the Foundation Board of the World Anti-Doping Agency (WADA).</p>
+            <p>Alongside his activities in international sport, David Lappartient is also involved in French politics (former Mayor of Sarzeau - from 2008 to 2021 - and current President of the Morbihan Departmental Council). He was made a Knight of the Legion of Honour in 2024.</p>
+            <p>After achieving the objectives of the UCI's Agenda 2022, he drew up, together with cycling's stakeholders, the institution's Agenda 2030.</p>
+            <p>He remains a passionate cyclist and continues to ride when his schedule allows.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Patrice-Evra -->
+    <div class="modal fade speaker-modal" id="Patrice-Evra" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Patrice-Evra.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Patrice Evra</h2>
+              <p class="text-white m-0">Former Professional Footballer</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>A former Manchester United and France national team captain, Evra is now a motivational speaker and an influential social media personality.</p>
+            <p>As captain of the France national team and Manchester United, he won 10 major trophies with Manchester United, including five Premier League titles, three League Cups, the Champions League at his time at and the Club World Cup.</p>
+            <p>He also played for other big clubs including Juventus. Evra is the Founder of I Love This Game, Co-owner of Estrela Amadora and investor of few brands. As an entrepreneur, social media entertainer, and social impact defender, he champions and raises awareness for violence against children.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Abdulaziz-Baeshen -->
+    <div class="modal fade speaker-modal" id="Abdulaziz-Baeshen" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Abdulaziz-Baeshen.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Abdulaziz Baeshen</h2>
+              <p class="text-white m-0">CEO and Secretary General, Saudi Olympic & Paralympic Committee</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Abdulaziz is an experienced leader with a demonstrated history of working in the sporting goods industry. He ran a Saudi Sports brand as well as working at the highest levels of the Ministry of Sports. He is skilled in Analytical Skills, Pricing Strategy, Legal Writing, Corporate Law, and Management. With a diverse educational background, he is a business development professional with a Bachelor of Laws (LLB) from The University of Sheffield.</p>
+            <p>Abdulaziz is currently serving as the Secretary General and CEO at the Saudi Olympic & Paralympic Committee. Abdulaziz is also a Board Member at Mahd Academy, Saudi Motorsport Company, Neighborhood League of Football, and the Saudi School Sports Association. In the past, Abdulaziz held roles such as Assistant Minister and Head of Events at the Ministry of Sports. Abdulaziz Baeshen is a highly experienced individual who has been actively involved in various sports organizations and initiatives, showcasing strong leadership and expertise in the sports industry.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Adwa-AlArifi -->
+    <div class="modal fade speaker-modal" id="Adwa-AlArifi" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Adwa-AlArifi.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Adwa AlArifi</h2>
+              <p class="text-white m-0">Assistant Minister of Sport Affairs & Deputy Minister of Strategic Planning and Investment at the Ministry of Sport, and Board member of the Saudi Olympic and Paralympic Committee</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Adwa AlArifi serves as the Deputy Minister of Strategic Planning and Investment at the Ministry of Sport and is a board member of the Saudi Olympic and Paralympic Committee. She is a direct strategic support to the Minister of Sport and oversees a diverse range of vital initiatives and flagship international events to drive forward the nation's efforts to promote sports and healthy living.</p>
+            <p>Academically, Adwa obtained her BS in Business Administration Al Yamamah University, Riyadh. However, sport has always been the main source of inspiration and driving force in her life from an early age and she has already served the Saudi sports sector for more than 18 years. She is considered a pioneer of women’s football in the Kingdom, known for taking historic first steps in the game as a co-founder of Saudi Arabia's first women’s football club in 2006 and then first community Women's Football League in 2008.</p>
+            <p>Her dedicated support to football has continued for over a decade. She became the first female board member of the Saudi Arabian Football Federation (SAFF) in 2018 and was integral to the creation of the Women’s Football Department at SAFF 2019. It has since established four female national teams, two professional women’s leagues and a schools’ league with over 70,000 girls playing each week.</p>
+            <p>Since 2019, Adwa’s professional work has had a positive impact far greater than a single sport or gender. Her roles have helped support millions of Saudis progress in sport, starting first as the General Director of the Investments Department at the Ministry of Sport. Working with colleagues, she helped to develop the National Sports Sector Strategy, the guiding light for the future of sports across the Kingdom. Other key initiatives during her tenure included the Clubs Support Strategy and Federations Transformation Strategy.</p>
+            <p>In 2020, she was promoted to Deputy Minister of Strategic Planning & Investment and has since helped to welcome the private sector into Saudi sport. While in 2022, she was appointed to an additional role of Assistant Minister of Sport Affairs. In this role, she oversees and delivers on all international events, stadia, sport & youth affairs and MOS branches around the kingdom. In a senior role, she delivered notable firsts such as the first Formula-E Diriyah E-Prix 2018, first Saudi Arabian Formula 1 Grand Prix in 2021, first ATP Tennis Next Gen 2023 and first ever FIFA Club World Cup 2023.</p>
+            <p>Beyond her direct duties in the Ministry, Adwa holds significant roles such as being a Board Member at the Saudi Olympic and Paralympic Committee, where she sits on the Women’s Committee. Amongst several board roles, she also serves on the Olympic Council of Asia’s Women Committee, Trojena 2029 Winter Asian Games Committee, Saudi Games Committee and is an Executive Committee Member of the Mahd Academy.</p>
+            <p>Adwa also sits on the Steering Committees for some of Saudi Arabia’s most exciting bids to host major sporting events, including the FIFA World Cup 2034, having successfully helped steer bid wins for AFC Asian Cup 2027 and Asian Games Riyadh 2034.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Ramadan-Alharatani -->
+    <div class="modal fade speaker-modal" id="Ramadan-Alharatani" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Ramadan-Alharatani.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Ramadan Alharatani</h2>
+              <p class="text-white m-0">CEO, MDLBEAST</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Start Hosts & Moderators Section -->
     <section class="cs_pb_20 cs_pb_lg_55 moderators-hosts" id="speakers">
       <div class="container">
@@ -1808,6 +2018,48 @@
           <div class="col-6 col-sm-4 col-md-4 col-lg-2">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Abdulaziz-Baeshen.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Abdulaziz-Baeshen" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Abdulaziz Baeshen</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO and Secretary General, Saudi Olympic & Paralympic Committee</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Adam-Wang.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Adam-Wang" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Adam Wang</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Global Head, TikTok LIVE</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Adwa-AlArifi.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Adwa-AlArifi" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Adwa AlArifi</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Assistant Minister of Sport Affairs & Deputy Minister of Strategic Planning and Investment at the Ministry of Sport, and Board member of the Saudi Olympic and Paralympic Committee</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Ahmad-Alabduljabbar.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
                 <a href="#" data-bs-toggle="modal" data-bs-target="#Ahmad-Alabduljabbar" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
@@ -1815,7 +2067,7 @@
               </div>
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Ahmad Alabduljabbar</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">General Manager - Saudi Arabia, Intel Corporatio</p>
+                <p class="text-white cs_fs_12 m-0 lh-base">General Manager - Saudi Arabia, Intel Corporation</p>
               </div>
             </div>
           </div>
@@ -1962,6 +2214,20 @@
           <div class="col-6 col-sm-4 col-md-4 col-lg-2">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/David-Lappartient.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#David-Lappartient" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">David Lappartient</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">IOC Member & Chair of the IOC Esports Commission, President of Union Cycliste Internationale</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Eric-Shanks.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
                   <a href="#" data-bs-toggle="modal" data-bs-target="#Eric-Shanks" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
@@ -2012,6 +2278,20 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Gabriel "FalleN" Toledo</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">CS2 Player, FURIA Esports</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Gary-Pinagot.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Gary-Pinagot" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Gary Pinagot</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Digital Director, Balenciaga</p>
               </div>
             </div>
           </div>
@@ -2340,6 +2620,34 @@
           <div class="col-6 col-sm-4 col-md-4 col-lg-2">
             <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
               <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Patrice-Evra.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Patrice-Evra" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Patrice Evra</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">Former Professional Footballer</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Penny-Diao.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Penny-Diao" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Penny Diao</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">CMO MENA, HONOR</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
                 <img class="w-100 cs_rounded_50" src="assets/img/speakers/Peter-Hutton.png" alt="Member">
                 <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
                   <a href="#" data-bs-toggle="modal" data-bs-target="#Peter-Hutton" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
@@ -2348,6 +2656,20 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Peter Hutton</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">Board Director, Saudi Pro League</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Ramadan-Alharatani.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Ramadan-Alharatani" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Ramadan Alharatani</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO, MDLBEAST</p>
               </div>
             </div>
           </div>
@@ -2488,6 +2810,20 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Toshimoto Mitomo</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">Executive Deputy President and CSO, Sony Group Corporation</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Turki-Al-Fawzan.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                <a href="#" data-bs-toggle="modal" data-bs-target="#Turki-Al-Fawzan" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Turki Al Fawzan</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO, Saudi Esports Federation</p>
               </div>
             </div>
           </div>
