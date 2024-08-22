@@ -1101,27 +1101,6 @@
       </div>
     </div>
 
-    <!-- Modal Jonny-Ebbert -->
-    <div class="modal fade speaker-modal" id="Jonny-Ebbert" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-      <div class="modal-dialog modal-dialog-scrollable">
-        <div class="modal-content">
-          <div class="modal-header flex-sm-row flex-column">
-            <div class="col-lg-4">
-              <img src="assets/img/speakers/Jonny-Ebbert.png" alt="Member">
-            </div>
-            <div class="col-lg-8">
-              <h2 class="modal-title fs-5" id="staticBackdropLabel">جوني إيبرت</h2>
-              <p class="text-white m-0">المدير الإبداعي الرئيس السابق، بنجي</p>
-            </div>
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-          </div>
-          <div class="modal-body">
-            <p>شغل جوني إيبرت منصب المدير الإبداعي الرئيسي في بنجي لمدة سبع سنوات. وأثناء وجوده هناك، أدار استراتيجية محفظة بنجي وجميع الأقسام الإبداعية، وساعد في ضمان جودة المنتج في جميع الامتيازات. وقبل ذلك، عمل جوني في شركة بليزارد إنترتينمنت لمدة سبع سنوات و كمصمم رئيسي في امتيازي ديابلو وستاركرافت. كما عمل جوني في شركة ريليك إنترتينمنت وكان مدير عناوين لعبة فجر الحرب لمدة خمس سنوات.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-
     <!-- Modal Khaled-Makhshoush -->
     <div class="modal fade speaker-modal" id="Khaled-Makhshoush" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
       <div class="modal-dialog modal-dialog-scrollable">
@@ -2136,20 +2115,6 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">جون هانكه</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي لشركة نيانتيك</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
-            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
-              <div class="cs_team_member position-relative cs_rounded_50">
-                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Jonny-Ebbert.png" alt="Member">
-                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
-                  <a href="#" data-bs-toggle="modal" data-bs-target="#Jonny-Ebbert" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
-                </div>
-              </div>
-              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
-                <h2 class="text-white cs_fs_20 cs_mb_10">جوني إيبرت</h2>
-                <p class="text-white cs_fs_12 m-0 lh-base">المدير الإبداعي الرئيس السابق، بنجي</p>
               </div>
             </div>
           </div>
