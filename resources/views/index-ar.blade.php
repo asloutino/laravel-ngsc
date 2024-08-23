@@ -1835,7 +1835,34 @@
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p></p>
+            <p>رمضان الحرتاني هو الرئيس التنفيذي لشركة مدل بيست، الشركة السعودية الرائدة في مجال الترفيه الموسيقي، والتي تكرس نفسها لعرض المواهب المحلية، والإقليمية، والعالمية الراسخة، والناشئة. منذ توليه القيادة، لعب رمضان دورًا فعالاً في دفع النمو السريع للشركة، ووضع مدل بيست كقوة رئيسية في صناعة الموسيقى والترفيه العالمية. تحت قيادته، اجتذب الحدث الرئيسي لشركة مدل بيست، ساوند ستورم، ملايين الحضور عبر إصداراته، حيث يضم عروضًا من جميع المواهب المتميزة من جميع أنحاء العالم ويعمل كمنصة قوية للمواهب المحلية والإقليمية.</p>
+            <p>بعيدًا عن الأحداث الحية، يشرف الحرتاني على توسع مدل بيست في إنتاج الموسيقى وإدارة الفنانين وتطوير الأماكن. كانت رؤيته حاسمة في إنشاء نظام بيئي شامل يدعم نمو الفنانين المحليين و الإقليميين مع الترويج في نفس الوقت للمملكة العربية السعودية كمركز ترفيهي موسيقي نابض بالحياة. من خلال رعاية المواهب وخلق تجارب ترفيهية عالمية المستوى، ساهم بشكل كبير في التحول المستمر لمشهد الترفيه السعودي.</p>
+            <p>قبل تأسيس مدل بيست، جلب رمضان الحرتاني خبرته الواسعة كمستشار في العديد من المشاريع البارزة، بما في ذلك التخطيط على المستوى الوطني لقطاعي السياحة والترفيه. وقد وجه شغفه العميق بالموسيقى والثقافة عمله في صياغة الاستراتيجية الشاملة لصناعة الترفيه في المملكة العربية السعودية، بما يتماشى مع أهداف رؤية المملكة 2030.</p>
+            <p>لا يُعرف الحرتاني بفطنته التجارية فحسب، بل وأيضًا بدوره في الترويج لموجة جديدة من التحولات الثقافية الثورية في المملكة العربية السعودية. كانت جهوده محورية في إعادة تعريف قطاع الترفيه في البلاد، مما جعله حجر الزاوية في التنمية الثقافية والاقتصادية. بالنظر إلى المستقبل، يظل الحرتاني ملتزمًا بتجاوز الحدود، وتعزيز الابتكار، ومواصلة الارتقاء بحضور الشرق الأوسط على الساحة الثقافية العالمية.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Jean-Mariotte -->
+    <div class="modal fade speaker-modal" id="Jean-Mariotte" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Jean-Mariotte.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">جان ماريوت</h2>
+              <p class="text-white m-0">الرئيس التنفيذي والمؤسس المشارك لشركة إيفا</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>جان ماريوت هو الرئيس التنفيذي والمؤسس المشارك لشركة إيفا: "ساحات الرياضات الإلكترونية الافتراضية"، وهي شركة رائدة في مجال الرياضات الإلكترونية بتقنية الواقع الافتراضي.</p>
+            <p>بعد 15 عامًا من كونه رائد أعمال ناجحًا في مجال التكنولوجيا، جمع جين بين شغفه بالألعاب والرياضات الإلكترونية وقرر إطلاق إيفا في عام 2019 مع مؤسسيه المشاركين ستيفاني بيل وويليام كلاين.</p>
+            <p>تجمع إيفا بين تقنية الواقع الافتراضي الحصرية التي تسمح للاعبين بالتحرك بحرية في ساحة مساحتها 500 متر مربع مع سماعة الواقع الافتراضي، داخل لعبة إطلاق نار تنافسية أصلية ولعب جماعي بتقنية الواقع الافتراضي تم تصنيعها داخليًا تسمى" أفتر أيتش".</p>
+            <p>من خلال تحدٍ جسدي حقيقي، تعمل إيفا على تشكيل تخصص جديد، يجمع بين الرياضات الإلكترونية والرياضات. في أقل من 5 سنوات، أصبحت إيفا شبكة تضم أكثر من 40 موقعًا حول العالم، وأكثر من 500 ألف لاعب، ونظام بيئي قوي للرياضات الإلكترونية يجمع بين المنافسة المحلية والعالمية.</p>
           </div>
         </div>
       </div>
@@ -2353,6 +2380,20 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">جي أليبيو</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">مدير ورئيس تطوير الأعمال، منطقة آسيا والمحيط الهادئ والشرق الأوسط وشمال إفريقيا، شركة والت ديزني</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Jean-Mariotte.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Jean-Mariotte" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">جان ماريوت</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي والمؤسس المشارك لشركة إيفا</p>
               </div>
             </div>
           </div>

@@ -1830,7 +1830,34 @@
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
           <div class="modal-body">
-            <p></p>
+            <p>Ramadan Alharatani is the CEO of MDLBEAST, the leading Saudi music entertainment company, that is dedicated to showcasing both established and emerging local, regional, and global talent. Since taking the helm, Ramadan has been instrumental in driving the company’s rapid growth, positioning MDLBEAST as a major force in the global music and entertainment industry. Under his leadership, MDLBEAST’s flagship event, SOUNDSTORM, has attracted millions of attendees across its editions, featuring performances from all top talent from over the world and serving as a powerful platform for local and regional talent.</p>
+            <p>Beyond live events, Alharatani oversees MDLBEAST’s expansion into music production, artist management, and venue development. His vision has been crucial in establishing a comprehensive ecosystem that supports the growth of local and regional artists while simultaneously promoting Saudi Arabia as a vibrant music entertainment hub. By nurturing talent and creating world-class entertainment experiences, he has significantly contributed to the ongoing transformation of the Saudi entertainment landscape.</p>
+            <p>Prior to founding MDLBEAST, Ramadan Alharatani brought his extensive experience as a consultant on various high-profile projects, including national-level planning for the tourism and entertainment sectors. His deep passion for music and culture guided his work in shaping the overarching strategy for Saudi Arabia’s entertainment industry, aligning with the country’s Vision 2030 goals.</p>
+            <p>Alharatani is recognized not only for his business acumen but also for his role in promoting a new wave of revolutionary cultural shifts in Saudi Arabia. His efforts have been pivotal in redefining the country’s entertainment sector, making it a cornerstone of cultural and economic development. Looking ahead, Alharatani remains committed to pushing boundaries, fostering innovation, and continuing to elevate the Middle East’s presence on the global cultural stage.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Jean-Mariotte -->
+    <div class="modal fade speaker-modal" id="Jean-Mariotte" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Jean-Mariotte.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">Jean Mariotte</h2>
+              <p class="text-white m-0">CEO & Co-Founder, EVA</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>Jean Mariotte is CEO and co-founder of EVA, which stands for Esports Virtual Arenas, a pioneer in VR esports.</p>
+            <p>After 15 years of being a successful tech entrepreneur, Jean, combined his passion for gaming and esports and decided to launch EVA in 2019 with his two co-founders Stéphanie Belle and William Klein.</p>
+            <p>EVA combines an exclusive VR technology that allows players to move freely in a 500 sqm Arena with a VR headset, within an original competitive shooter and teamplay VR game made in house called After-H.</p>
+            <p>With a real physical challenge, EVA is shaping a new discipline, mixing esports and sports. In less than 5 years, EVA has become a network of more than 40 locations around the world, more than 500k players, and a strong esports ecosystem mixing local and global competition.</p>
           </div>
         </div>
       </div>
@@ -2348,6 +2375,20 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">Je Alipio</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">Director & Head of Business Development, APAC & MENA, The Walt Disney Company</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Jean-Mariotte.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_20 cs_fs_lg_18 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Jean-Mariotte" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">Read Bio</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">Jean Mariotte</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">CEO & Co-Founder, EVA</p>
               </div>
             </div>
           </div>
