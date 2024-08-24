@@ -1868,6 +1868,27 @@
       </div>
     </div>
 
+    <!-- Modal Tim-Edmonds -->
+    <div class="modal fade speaker-modal" id="Tim-Edmonds" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header flex-sm-row flex-column">
+            <div class="col-lg-4">
+              <img src="assets/img/speakers/Tim-Edmonds.png" alt="Member">
+            </div>
+            <div class="col-lg-8">
+              <h2 class="modal-title fs-5" id="staticBackdropLabel">تيم إدموندز</h2>
+              <p class="text-white m-0">رئيس الشراكات العالمية، الرياضات الإلكترونية والألعاب</p>
+            </div>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <p>تيم إدموندز هو رئيس الشراكات العالمية للرياضات الإلكترونية والألعاب في أوكلي، ويعمل على سد الفجوة بين الرياضات الإلكترونية/الألعاب والرياضات التقليدية وتوسيع حضور العلامة التجارية في العالم الرقمي. في السابق، عمل تيم في أدوار متعددة في هيليكس الرياضات الإلكترونية، حيث أدار البطولات والأحداث في مراكز لان في نيويورك وماساتشوستس عند تأسيس الشركة، ثم في شراكات في أوكسجين للرياضات الإلكترونية بعد الاستحواذ. تخرج تيم من جامعة هارفارد في عام 2018، حيث لعب في فريق لاكروس للرجال لمدة 4 سنوات.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Start Hosts & Moderators Section -->
     <section class="cs_pb_20 cs_pb_lg_55 moderators-hosts" id="speakers">
       <div class="container">
@@ -2828,6 +2849,20 @@
               <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
                 <h2 class="text-white cs_fs_20 cs_mb_10">ستيفن ارهانسيت</h2>
                 <p class="text-white cs_fs_12 m-0 lh-base">الرئيس التنفيذي لشركة تيم ليكويد</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-6 col-sm-4 col-md-4 col-lg-2">
+            <div class="cs_team cs_style_1 text-center cs_mb_25 overflow-hidden cs_rounded_50">
+              <div class="cs_team_member position-relative cs_rounded_50">
+                <img class="w-100 cs_rounded_50" src="assets/img/speakers/Tim-Edmonds.png" alt="Member">
+                <div class="cs_social_btns d-flex flex-wrap cs_column_gap_15 cs_row_gap_15 cs_transition_5 cs_fs_14 cs_fs_lg_16 position-absolute">
+                  <a href="#" data-bs-toggle="modal" data-bs-target="#Tim-Edmonds" class="d-flex align-items-center justify-content-center cs_height_45 cs_width_100 border-0 text-white cs_rounded_5">السيرة الذاتية</a>
+                </div>
+              </div>
+              <div class="cs_team_info cs_pt_127 cs_pl_15 cs_pr_15 cs_pb_25 cs_transition_4 cs_rounded_50">
+                <h2 class="text-white cs_fs_20 cs_mb_10">تيم إدموندز</h2>
+                <p class="text-white cs_fs_12 m-0 lh-base">رئيس الشراكات العالمية، الرياضات الإلكترونية والألعاب</p>
               </div>
             </div>
           </div>
