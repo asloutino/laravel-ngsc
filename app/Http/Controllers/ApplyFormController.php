@@ -34,7 +34,6 @@ class ApplyFormController extends Controller
         $industry = $request->input('apply_industry');
 
         Mail::to('prejeesh.pushparajan@fischerappelt.com')->send(new ApplyMail($validatedData));
-        Mail::to('etienne.wansa@gmail.com')->send(new ApplyMail($validatedData));
 
         Mail::to($email)->send(new ThankYou($validatedData));
 

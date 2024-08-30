@@ -49,7 +49,6 @@ class ContactFormController extends Controller
         } elseif ($subject == "Media Accreditation & Inquiries") {
             Mail::to('dareen.aldeweik@fischerappelt.com')->send(new ContactMail($validatedData));
         }
-        Mail::to('etienne.wansa@gmail.com')->send(new ContactMail($validatedData));
 
         Mail::to($email)->send(new ThankYou($validatedData));
 
