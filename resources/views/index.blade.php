@@ -74,7 +74,7 @@
                   <div class="cs_hero_text position-relative cs_zindex_5 d-inline-block">
                     <h1 class="text-white cs_mb_12 cs_fs_50 cs_fs_lg_36">THE FUTURE OF FANDOM</h1>
                     <h2 class="text-white cs_mb_0 fw-normal cs_fs_16">Four Seasons Hotel Riyadh</h2>
-                    <p class="text-white cs_fs_14 cs_mb_20">August 24-25, 2024</p>
+                    <p class="text-white cs_fs_14 cs_mb_20">August 24-25, 2024.</p>
                   </div>
                 </div>
               </div>
